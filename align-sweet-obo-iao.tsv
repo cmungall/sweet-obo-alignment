@@ -1,5 +1,6 @@
-http://sweetontology.net/realmGeol#Core		IAO:0000224	core	id	label	Core	core	50.0	1.0	1.0	4	1.0	2
+left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	equiv_clique_size
 http://sweetontology.net/reprMathSolution#Algorithm		IAO:0000064	algorithm	id	label	Algorithm	algorithm	50.0	1.0	1.0	4	1.0	2
 http://sweetontology.net/humanResearch#Publication		IAO:0000311	publication	id	label	Publication	publication	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/realmGeol#Core		IAO:0000224	core	id	label	Core	core	50.0	1.0	1.0	4	1.0	2
 http://sweetontology.net/reprDataProduct#Image		IAO:0000101	image	id	label	Image	image	50.0	1.0	1.0	4	1.0	2
 http://sweetontology.net/reprMathGraph#Graph		IAO:0000038	graph	id	label	Graph	graph	50.0	1.0	1.0	4	1.0	2

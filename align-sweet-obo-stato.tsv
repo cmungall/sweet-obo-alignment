@@ -1,26 +1,27 @@
-http://sweetontology.net/reprMathFunctionOrthogonal#Mode		STATO:0000033	mode	id	label	Mode	mode	50.0	0.2	1.0	0	0.5	3
-http://sweetontology.net/propFunction#Mode		STATO:0000033	mode	id	label	Mode	mode	50.0	0.2	1.0	2	0.5	3
-http://sweetontology.net/propCount#Count		STATO:0000047	count	id	label	Count	count	35.0	0.4	0.5	4	1.0	2
-http://sweetontology.net/propDimensionlessRatio#DimensionlessRatio		STATO:0000300	dimensionless ratio	id	label	DimensionlessRatio	dimensionless ratio	41.666666666666664	0.5	0.6666666666666666	4	1.0	2
-http://sweetontology.net/propFunction#Skewness		STATO:0000068	skewness	id	label	Skewness	skewness	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/reprMath#Variable		STATO:0000258	variable	id	label	Variable	variable	50.0	0.3333333333333333	1.0	0	0.5	3
-http://sweetontology.net/humanResearch#Variable		STATO:0000258	variable	id	label	Variable	variable	50.0	0.3333333333333333	1.0	2	0.5	3
-http://sweetontology.net/stateRoleRepresentative#Outlier		STATO:0000036	outlier	id	label	Outlier	outlier	50.0	1.0	0.5	4	1.0	2
+left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	equiv_clique_size
+http://sweetontology.net/propFunction#Decile		STATO:0000292	decile	id	label	Decile	decile	50.0	0.5	1.0	4	1.0	2
+http://sweetontology.net/propFunction#Mode		STATO:0000033	mode	id	label	Mode	mode	50.0	1.0	0.2	2	0.5	3
 http://sweetontology.net/propFunction#Quartile		STATO:0000152	quartile	id	label	Quartile	quartile	33.33333333333333	0.5	0.3333333333333333	4	1.0	2
-http://sweetontology.net/propFraction#Covariance		STATO:0000301	covariance	id	label	Covariance	covariance	50.0	0.25	1.0	4	1.0	2
-http://sweetontology.net/propFunction#Percentile		STATO:0000293	percentile	id	label	Percentile	percentile	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/reprMathFunction#NormalDistribution		STATO:0000227	normal distribution	id	label	NormalDistribution	normal distribution	36.666666666666664	0.2	0.6666666666666666	4	1.0	3
-http://sweetontology.net/reprSpaceGeometry#Family		STATO:0000257	family	id	label	Family	family	50.0	1.0	0.5	4	1.0	4
-http://sweetontology.net/reprMathOperation#Ratio		STATO:0000184	ratio	id	label	Ratio	ratio	46.875	0.75	0.75	4	1.0	2
-http://sweetontology.net/propSpaceDirection#Axis		STATO:0000007	axis	id	label	Axis	axis	37.5	0.5	0.5	4	1.0	2
+http://sweetontology.net/reprSciModel#Hypothesis		STATO:0000065	hypothesis	id	label	Hypothesis	hypothesis	31.25	0.25	0.5	4	1.0	2
+http://sweetontology.net/repr#CoordinateSystem		STATO:0000010	coordinate system	id	label	CoordinateSystem	coordinate system	50.0	1.0	1.0	4	1.0	2
 http://sweetontology.net/propFunction#StandardDeviation		STATO:0000237	standard deviation	id	label	StandardDeviation	standard deviation	50.0	0.3333333333333333	1.0	4	1.0	2
 http://sweetontology.net/humanResearch#Residual		STATO:0000234	residual	id	label	Residual	residual	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/repr#CoordinateSystem		STATO:0000010	coordinate system	id	label	CoordinateSystem	coordinate system	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/propFunction#Decile		STATO:0000292	decile	id	label	Decile	decile	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/propDimensionlessRatio#SignalToNoiseRatio		STATO:0000050	signal to noise ratio	id	label	SignalToNoiseRatio	signal to noise ratio	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/propSpaceDistance#Range		STATO:0000035	range	id	label	Range	range	50.0	0.25	1.0	4	1.0	2
-http://sweetontology.net/propFunction#Variance		STATO:0000113	variance	id	label	Variance	variance	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/reprSciModel#Hypothesis		STATO:0000065	hypothesis	id	label	Hypothesis	hypothesis	31.25	0.25	0.5	4	1.0	2
-http://sweetontology.net/humanDecision#Ranking		STATO:0000118	ranking	id	label	Ranking	ranking	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/propDimensionlessRatio#SignalToNoiseRatio		STATO:0000050	signal to noise ratio	id	label	SignalToNoiseRatio	signal to noise ratio	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/propFraction#Covariance		STATO:0000301	covariance	id	label	Covariance	covariance	50.0	0.25	1.0	4	1.0	2
+http://sweetontology.net/humanResearch#Variable		STATO:0000258	variable	id	label	Variable	variable	50.0	1.0	0.3333333333333333	2	0.5	3
+http://sweetontology.net/reprMath#Variable		STATO:0000258	variable	id	label	Variable	variable	50.0	1.0	0.3333333333333333	0	0.5	3
+http://sweetontology.net/propFunction#Variance		STATO:0000113	variance	id	label	Variance	variance	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/reprMathOperation#Ratio		STATO:0000184	ratio	id	label	Ratio	ratio	46.875	0.75	0.75	4	1.0	2
+http://sweetontology.net/propDimensionlessRatio#DimensionlessRatio		STATO:0000300	dimensionless ratio	id	label	DimensionlessRatio	dimensionless ratio	41.666666666666664	0.5	0.6666666666666666	4	1.0	2
 http://sweetontology.net/propFunction#Kurtosis		STATO:0000178	kurtosis	id	label	Kurtosis	kurtosis	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/reprMathStatistics#StatisticalInference		STATO:0000299	statistical inference	id	label	StatisticalInference	statistical inference	41.666666666666664	0.6666666666666666	0.5	4	1.0	2
+http://sweetontology.net/humanDecision#Ranking		STATO:0000118	ranking	id	label	Ranking	ranking	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/reprMathFunction#NormalDistribution		STATO:0000227	normal distribution	id	label	NormalDistribution	normal distribution	36.666666666666664	0.2	0.6666666666666666	4	1.0	3
+http://sweetontology.net/reprMathStatistics#StatisticalInference		STATO:0000299	statistical inference	id	label	StatisticalInference	statistical inference	41.666666666666664	0.5	0.6666666666666666	4	1.0	2
+http://sweetontology.net/stateRoleRepresentative#Outlier		STATO:0000036	outlier	id	label	Outlier	outlier	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/reprMathFunctionOrthogonal#Mode		STATO:0000033	mode	id	label	Mode	mode	50.0	0.2	1.0	0	0.5	3
+http://sweetontology.net/propSpaceDirection#Axis		STATO:0000007	axis	id	label	Axis	axis	37.5	0.5	0.5	4	1.0	2
+http://sweetontology.net/propCount#Count		STATO:0000047	count	id	label	Count	count	35.0	0.4	0.5	4	1.0	2
+http://sweetontology.net/propSpaceDistance#Range		STATO:0000035	range	id	label	Range	range	50.0	1.0	0.25	4	1.0	2
+http://sweetontology.net/propFunction#Percentile		STATO:0000293	percentile	id	label	Percentile	percentile	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/reprSpaceGeometry#Family		STATO:0000257	family	id	label	Family	family	50.0	1.0	0.5	4	1.0	4
+http://sweetontology.net/propFunction#Skewness		STATO:0000068	skewness	id	label	Skewness	skewness	50.0	1.0	0.3333333333333333	4	1.0	2

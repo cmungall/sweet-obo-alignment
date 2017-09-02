@@ -1,59 +1,60 @@
+left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	equiv_clique_size
+http://sweetontology.net/phenEcology#Mutualism		GO:0085030	mutualism	id	label	Mutualism	mutualism	50.0	0.5	1.0	4	1.0	2
+http://sweetontology.net/phenFluidDynamics#Cell		GO:0005623	cell	id	label	Cell	cell	50.0	1.0	0.14285714285714285	2	0.5	3
 http://sweetontology.net/phenBiol#Hearing		GO:0007605	sensory perception of sound	id	hasExactSynonym	Hearing	hearing	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/matrPlant#Trunk		GO:0043198	dendritic shaft	id	hasRelatedSynonym	Trunk	trunk	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/matrElement#As		GO:0004066	asparagine synthase (glutamine-hydrolyzing) activity	id	hasRelatedSynonym	As	AS	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/reprDataModel#Cell		GO:0005623	cell	id	label	Cell	cell	50.0	0.14285714285714285	1.0	0	0.5	3
-http://sweetontology.net/phenFluidDynamics#Cell		GO:0005623	cell	id	label	Cell	cell	50.0	0.14285714285714285	1.0	2	0.5	3
-http://sweetontology.net/reprSciComponent#Storage		GO:0051235	maintenance of location	id	hasNarrowSynonym	Storage	storage	50.0	1.0	0.5	4	1.0	3
-http://sweetontology.net/phenEcology#Parasitism		GO:0072519	parasitism	id	label	Parasitism	parasitism	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/phenEcology#Symbiosis		GO:0044403	symbiosis, encompassing mutualism through parasitism	id	hasExactSynonym	Symbiosis	symbiosis	50.0	1.0	0.25	4	1.0	2
-http://sweetontology.net/matrElement#Ca		GO:0033968	glutaryl-7-aminocephalosporanic-acid acylase activity	id	hasRelatedSynonym	Ca	CA	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/human#SocialBehavior		GO:0035176	social behavior	id	label	SocialBehavior	social behavior	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/matrEquipment#Car		GO:0005826	actomyosin contractile ring	id	hasExactSynonym	Car	CAR	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/humanTransportation#Transport		GO:0006810	transport	id	label	Transport	transport	50.0	1.0	0.2	2	0.5	3
 http://sweetontology.net/phenBiol#Respiration		GO:0045333	cellular respiration	id	hasBroadSynonym	Respiration	respiration	50.0	1.0	1.0	0	0.5	4
 http://sweetontology.net/phenBiol#Respiration		GO:0007585	respiratory gaseous exchange	id	hasBroadSynonym	Respiration	respiration	50.0	1.0	1.0	0	0.25	4
-http://sweetontology.net/phenEcology#Mutualism		GO:0085030	mutualism	id	label	Mutualism	mutualism	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/phenBiol#Uptake		GO:0098657	import into cell	id	hasExactSynonym	Uptake	uptake	50.0	1.0	0.3333333333333333	2	0.5	3
-http://sweetontology.net/phenBiol#Photosynthesis		GO:0015979	photosynthesis	id	label	Photosynthesis	photosynthesis	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/procPhysical#Translation		GO:0006412	translation	id	label	Translation	translation	50.0	1.0	1.0	4	1.0	6
-http://sweetontology.net/phenBiol#Fertilization		GO:0009566	fertilization	id	label	Fertilization	fertilization	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/phenBiol#Breathing		GO:0007585	respiratory gaseous exchange	id	hasBroadSynonym	Breathing	breathing	50.0	1.0	1.0	2	0.5	4
-http://sweetontology.net/realmClimateZone#ET		GO:0004306	ethanolamine-phosphate cytidylyltransferase activity	id	hasRelatedSynonym	ET	ET	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/phenBiol#Excretion		GO:0007588	excretion	id	label	Excretion	excretion	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/statePhysical#Fast		GO:0033867	Fas-activated serine/threonine kinase activity	id	hasRelatedSynonym	Fast	FAST	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/statePhysical#Gas		GO:0034005	germacrene-A synthase activity	id	hasRelatedSynonym	Gas	GAS	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/phenSolid#Pore		GO:0046930	pore complex	id	hasExactSynonym	Pore	pore	50.0	1.0	1.0	4	1.0	3
-http://sweetontology.net/procChemical#Photolysis		GO:0019684	photosynthesis, light reaction	id	hasRelatedSynonym	Photolysis	photolysis	50.0	1.0	0.5	4	1.0	4
-http://sweetontology.net/realmLandTectonic#LIP		GO:0016992	lipoate synthase activity	id	hasRelatedSynonym	LIP	LipA	42.5	1.0	1.0	4	1.0	3
-http://sweetontology.net/phenBiol#Vision		GO:0007601	visual perception	id	hasExactSynonym	Vision	vision	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/procChemical#Bioluminescence		GO:0008218	bioluminescence	id	label	Bioluminescence	bioluminescence	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/humanJurisdiction#Regulation		GO:0065007	biological regulation	id	hasBroadSynonym	Regulation	regulation	50.0	1.0	0.2	4	1.0	2
-http://sweetontology.net/humanTransportation#Transport		GO:0006810	transport	id	label	Transport	transport	50.0	0.2	1.0	2	0.5	3
-http://sweetontology.net/phenFluidTransport#Transport		GO:0006810	transport	id	label	Transport	transport	50.0	0.4	1.0	0	0.5	3
-http://sweetontology.net/reprDataServiceGeospatial#Map		GO:0004239	obsolete methionyl aminopeptidase activity	id	hasRelatedSynonym	Map	MAP	50.0	1.0	1.0	4	1.0	3
-http://sweetontology.net/stateSystem#Homeostasis		GO:0042592	homeostatic process	id	hasRelatedSynonym	Homeostasis	homeostasis	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/matrOrganicCompound#PAN		GO:0022623	proteasome-activating nucleotidase complex	id	hasExactSynonym	PAN	PAN	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/phenBiol#Pollination		GO:0009856	pollination	id	label	Pollination	pollination	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/human#Behavior		GO:0007610	behavior	id	label	Behavior	behavior	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/phenBiol#Transpiration		GO:0010148	transpiration	id	label	Transpiration	transpiration	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/phenStar#CME		GO:0072583	clathrin-dependent endocytosis	id	hasExactSynonym	CME	CME	50.0	0.3333333333333333	1.0	4	1.0	3
+http://sweetontology.net/matrElement#Ca		GO:0033968	glutaryl-7-aminocephalosporanic-acid acylase activity	id	hasRelatedSynonym	Ca	CA	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/procPhysical#Flocculation		GO:0000128	flocculation	id	label	Flocculation	flocculation	50.0	1.0	1.0	0	0.5	3
+http://sweetontology.net/humanEnvirControl#Flocculation		GO:0000128	flocculation	id	label	Flocculation	flocculation	50.0	1.0	1.0	2	0.5	3
 http://sweetontology.net/phenSystemComplexity#Development		GO:0032502	developmental process	id	hasNarrowSynonym	Development	development	50.0	1.0	1.0	0	0.5	3
-http://sweetontology.net/humanEnvirAssessment#NSR		GO:0043914	NADPH:sulfur oxidoreductase activity	id	hasExactSynonym	NSR	NSR	50.0	1.0	1.0	4	1.0	3
-http://sweetontology.net/reprSpaceGeometry3D#Envelope		GO:0009274	peptidoglycan-based cell wall	id	hasBroadSynonym	Envelope	envelope	50.0	1.0	0.3333333333333333	2	0.5	3
-http://sweetontology.net/reprSpaceGeometry3D#Envelope		GO:0031975	envelope	id	label	Envelope	envelope	50.0	1.0	0.3333333333333333	0	0.5	3
-http://sweetontology.net/phenFluidTransport#Uptake		GO:0098657	import into cell	id	hasExactSynonym	Uptake	uptake	50.0	1.0	0.6666666666666666	0	0.5	3
-http://sweetontology.net/reprMathFunction#Sin		GO:0031028	septation initiation signaling	id	hasExactSynonym	Sin	SIN	50.0	0.25	1.0	4	1.0	2
-http://sweetontology.net/propIndex#Virulence		GO:0016032	viral process	id	hasRelatedSynonym	Virulence	virulence	50.0	0.5	1.0	0	0.3333333333333333	4
-http://sweetontology.net/realmGeol#Core		GO:0019013	viral nucleocapsid	id	hasBroadSynonym	Core	core	50.0	1.0	1.0	4	1.0	2
 http://sweetontology.net/humanCommerce#Development		GO:0032502	developmental process	id	hasNarrowSynonym	Development	development	50.0	1.0	1.0	2	0.5	3
 http://sweetontology.net/stateRoleBiological#Host		GO:0018995	host	id	label	Host	host	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/phenSystem#Growth		GO:0040007	growth	id	label	Growth	growth	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/matrWater#Ice		GO:0004201	obsolete caspase-1 activity	id	hasBroadSynonym	Ice	ICE	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/humanTransportation#Flight		GO:0060361	flight	id	label	Flight	flight	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/matrPlant#Crown		GO:0070685	macropinocytic cup	id	hasExactSynonym	Crown	crown	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/matrElement#Cl		GO:0008813	chorismate lyase activity	id	hasRelatedSynonym	Cl	CL	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/reprDataModel#Cell		GO:0005623	cell	id	label	Cell	cell	50.0	1.0	0.14285714285714285	0	0.5	3
 http://sweetontology.net/propIndex#Virulence		GO:0009405	pathogenesis	id	hasRelatedSynonym	Virulence	virulence	50.0	1.0	1.0	2	0.3333333333333333	4
 http://sweetontology.net/propIndex#Virulence		GO:0009406	obsolete virulence	id	hasExactSynonym	Virulence	virulence	50.0	1.0	1.0	0	0.3333333333333333	4
-http://sweetontology.net/human#SocialBehavior		GO:0035176	social behavior	id	label	SocialBehavior	social behavior	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/humanEnvirControl#Flocculation		GO:0000128	flocculation	id	label	Flocculation	flocculation	50.0	1.0	1.0	2	0.5	3
+http://sweetontology.net/propIndex#Virulence		GO:0016032	viral process	id	hasRelatedSynonym	Virulence	virulence	50.0	1.0	0.5	0	0.3333333333333333	4
+http://sweetontology.net/reprDataServiceGeospatial#Map		GO:0004239	obsolete methionyl aminopeptidase activity	id	hasRelatedSynonym	Map	MAP	50.0	1.0	1.0	4	1.0	3
+http://sweetontology.net/phenBiol#Excretion		GO:0007588	excretion	id	label	Excretion	excretion	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/phenBiol#Fertilization		GO:0009566	fertilization	id	label	Fertilization	fertilization	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/reprSciComponent#Storage		GO:0051235	maintenance of location	id	hasNarrowSynonym	Storage	storage	50.0	0.5	1.0	4	1.0	3
+http://sweetontology.net/matrElement#As		GO:0004066	asparagine synthase (glutamine-hydrolyzing) activity	id	hasRelatedSynonym	As	AS	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/matrOrganicCompound#PAN		GO:0022623	proteasome-activating nucleotidase complex	id	hasExactSynonym	PAN	PAN	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/human#Behavior		GO:0007610	behavior	id	label	Behavior	behavior	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/realmClimateZone#ET		GO:0004306	ethanolamine-phosphate cytidylyltransferase activity	id	hasRelatedSynonym	ET	ET	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/stateSystem#Homeostasis		GO:0042592	homeostatic process	id	hasRelatedSynonym	Homeostasis	homeostasis	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/humanEnvirAssessment#NSR		GO:0043914	NADPH:sulfur oxidoreductase activity	id	hasExactSynonym	NSR	NSR	50.0	1.0	1.0	4	1.0	3
+http://sweetontology.net/humanTransportation#Flight		GO:0060361	flight	id	label	Flight	flight	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/phenFluidTransport#Transport		GO:0006810	transport	id	label	Transport	transport	50.0	1.0	0.4	0	0.5	3
+http://sweetontology.net/phenBiol#Vision		GO:0007601	visual perception	id	hasExactSynonym	Vision	vision	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/realmGeol#Core		GO:0019013	viral nucleocapsid	id	hasBroadSynonym	Core	core	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/procChemical#Photolysis		GO:0019684	photosynthesis, light reaction	id	hasRelatedSynonym	Photolysis	photolysis	50.0	0.5	1.0	4	1.0	4
+http://sweetontology.net/humanJurisdiction#Regulation		GO:0065007	biological regulation	id	hasBroadSynonym	Regulation	regulation	50.0	1.0	0.2	4	1.0	2
+http://sweetontology.net/reprSpaceGeometry3D#Envelope		GO:0031975	envelope	id	label	Envelope	envelope	50.0	1.0	0.3333333333333333	0	0.5	3
+http://sweetontology.net/reprSpaceGeometry3D#Envelope		GO:0009274	peptidoglycan-based cell wall	id	hasBroadSynonym	Envelope	envelope	50.0	1.0	0.3333333333333333	2	0.5	3
+http://sweetontology.net/phenBiol#Transpiration		GO:0010148	transpiration	id	label	Transpiration	transpiration	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/matrPlant#Trunk		GO:0043198	dendritic shaft	id	hasRelatedSynonym	Trunk	trunk	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/matrElement#Cl		GO:0008813	chorismate lyase activity	id	hasRelatedSynonym	Cl	CL	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/phenBiol#Pollination		GO:0009856	pollination	id	label	Pollination	pollination	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/phenEcology#Symbiosis		GO:0044403	symbiosis, encompassing mutualism through parasitism	id	hasExactSynonym	Symbiosis	symbiosis	50.0	1.0	0.25	4	1.0	2
+http://sweetontology.net/phenBiol#Photosynthesis		GO:0015979	photosynthesis	id	label	Photosynthesis	photosynthesis	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/matrWater#Ice		GO:0004201	obsolete caspase-1 activity	id	hasBroadSynonym	Ice	ICE	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/realmLandTectonic#LIP		GO:0016992	lipoate synthase activity	id	hasRelatedSynonym	LIP	LipA	42.5	1.0	1.0	4	1.0	3
+http://sweetontology.net/statePhysical#Gas		GO:0034005	germacrene-A synthase activity	id	hasRelatedSynonym	Gas	GAS	50.0	1.0	1.0	4	1.0	2
 http://sweetontology.net/procChemical#Acidification		GO:0045851	pH reduction	id	hasExactSynonym	Acidification	acidification	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/matrEquipment#Car		GO:0005826	actomyosin contractile ring	id	hasExactSynonym	Car	CAR	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/phenStar#CME		GO:0072583	clathrin-dependent endocytosis	id	hasExactSynonym	CME	CME	50.0	0.3333333333333333	1.0	4	1.0	3
+http://sweetontology.net/matrPlant#Crown		GO:0070685	macropinocytic cup	id	hasExactSynonym	Crown	crown	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/phenBiol#Breathing		GO:0007585	respiratory gaseous exchange	id	hasBroadSynonym	Breathing	breathing	50.0	1.0	1.0	2	0.5	4
+http://sweetontology.net/phenFluidTransport#Uptake		GO:0098657	import into cell	id	hasExactSynonym	Uptake	uptake	50.0	1.0	0.6666666666666666	0	0.5	3
 http://sweetontology.net/procChemical#NuclearFusion		GO:0000741	karyogamy	id	hasExactSynonym	NuclearFusion	nuclear fusion	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/procPhysical#Flocculation		GO:0000128	flocculation	id	label	Flocculation	flocculation	50.0	1.0	1.0	0	0.5	3
+http://sweetontology.net/procChemical#Bioluminescence		GO:0008218	bioluminescence	id	label	Bioluminescence	bioluminescence	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/statePhysical#Fast		GO:0033867	Fas-activated serine/threonine kinase activity	id	hasRelatedSynonym	Fast	FAST	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/phenBiol#Uptake		GO:0098657	import into cell	id	hasExactSynonym	Uptake	uptake	50.0	1.0	0.3333333333333333	2	0.5	3
+http://sweetontology.net/phenEcology#Parasitism		GO:0072519	parasitism	id	label	Parasitism	parasitism	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/reprMathFunction#Sin		GO:0031028	septation initiation signaling	id	hasExactSynonym	Sin	SIN	50.0	0.25	1.0	4	1.0	2
+http://sweetontology.net/phenSolid#Pore		GO:0046930	pore complex	id	hasExactSynonym	Pore	pore	50.0	1.0	1.0	4	1.0	3
+http://sweetontology.net/procPhysical#Translation		GO:0006412	translation	id	label	Translation	translation	50.0	1.0	1.0	4	1.0	6
+http://sweetontology.net/phenSystem#Growth		GO:0040007	growth	id	label	Growth	growth	50.0	1.0	1.0	4	1.0	2

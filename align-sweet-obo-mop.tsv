@@ -1,5 +1,6 @@
+left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	equiv_clique_size
+http://sweetontology.net/procChemical#Hydrolysis		MOP:0000619	hydrolysis	id	label	Hydrolysis	hydrolysis	50.0	1.0	0.6666666666666666	4	1.0	2
 http://sweetontology.net/reprMathSolution#Reduction		MOP:0000569	reduction	id	label	Reduction	reduction	50.0	0.3333333333333333	1.0	0	0.3333333333333333	8
-http://sweetontology.net/procChemical#Reduction		MOP:0000569	reduction	id	label	Reduction	reduction	50.0	0.6666666666666666	1.0	0	0.3333333333333333	8
 http://sweetontology.net/phenSystem#Reduction		MOP:0000569	reduction	id	label	Reduction	reduction	50.0	0.3333333333333333	1.0	2	0.3333333333333333	8
-http://sweetontology.net/procChemical#Hydrolysis		MOP:0000619	hydrolysis	id	label	Hydrolysis	hydrolysis	50.0	0.6666666666666666	1.0	4	1.0	2
-http://sweetontology.net/procChemical#Oxidation		MOP:0000568	oxidation	id	label	Oxidation	oxidation	50.0	1.0	0.6666666666666666	4	1.0	2
+http://sweetontology.net/procChemical#Reduction		MOP:0000569	reduction	id	label	Reduction	reduction	50.0	0.6666666666666666	1.0	0	0.3333333333333333	8
+http://sweetontology.net/procChemical#Oxidation		MOP:0000568	oxidation	id	label	Oxidation	oxidation	50.0	0.6666666666666666	1.0	4	1.0	2

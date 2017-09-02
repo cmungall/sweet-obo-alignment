@@ -44,8 +44,10 @@ sweet.json:
 
 align_all: $(patsubst %,align-sweet-obo-%.tsv,$(ONTS))
 
+# use ontobio-lexmap
+# filter results for ontology of interest
 align-sweet-obo-%.tsv: sweet.json
-	ontobio-lexmap.py -vvv -c conf.yaml -l True $< $*  > $@.tmp && cut -f2-999 $@.tmp | egrep -i '\t$*:' > $@
+	ontobio-lexmap.py -vvv -c conf.yaml -l True $< $*  > $@.tmp && cut -f2-999 $@.tmp | egrep -i '\t($*:|left_label)' > $@
 
 owltools:
 	curl -L http://build.berkeleybop.org/userContent/owltools/owltools -o $@ && chmod +x $@

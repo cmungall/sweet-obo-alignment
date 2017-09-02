@@ -1,14 +1,15 @@
-http://sweetontology.net/reprDataModel#Structure		FIX:0000482	structure	id	label	Structure	structure	50.0	1.0	1.0	0	0.3333333333333333	4
-http://sweetontology.net/propMass#Structure		FIX:0000482	structure	id	label	Structure	structure	50.0	1.0	1.0	0	0.3333333333333333	4
+left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	equiv_clique_size
 http://sweetontology.net/matrFacility#Structure		FIX:0000482	structure	id	label	Structure	structure	50.0	1.0	1.0	2	0.3333333333333333	4
-http://sweetontology.net/propCapacity#HeatCapacity		FIX:0000480	heat capacity	id	label	HeatCapacity	heat capacity	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/propCapacity#MolarHeatCapacity		FIX:0000478	molar heat capacity	id	label	MolarHeatCapacity	molar heat capacity	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/procChemical#Crystallization		FIX:0000214	crystallization	id	label	Crystallization	crystallization	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/reprSciMethodology#Polarimetry		FIX:0000230	polarimetry	id	label	Polarimetry	polarimetry	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/prop#ReactionProperty		FIX:0000277	reaction property	id	label	ReactionProperty	reaction property	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/prop#SystemProperty		FIX:0000282	system property	id	label	SystemProperty	system property	50.0	1.0	1.0	4	1.0	2
 http://sweetontology.net/propSpace#Shape		FIX:0000498	shape	id	label	Shape	shape	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/propMass#Mass		FIX:0000479	mass	id	label	Mass	mass	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/propSpaceDistance#Size		FIX:0000496	size	id	label	Size	size	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/propCapacity#HeatCapacity		FIX:0000480	heat capacity	id	label	HeatCapacity	heat capacity	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/reprSciMethodology#Polarimetry		FIX:0000230	polarimetry	id	label	Polarimetry	polarimetry	50.0	1.0	1.0	4	1.0	2
 http://sweetontology.net/reprSciMethodology#Spectroscopy		FIX:0000003	spectroscopy	id	label	Spectroscopy	spectroscopy	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/propCapacity#MolarHeatCapacity		FIX:0000478	molar heat capacity	id	label	MolarHeatCapacity	molar heat capacity	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/procChemical#Crystallization		FIX:0000214	crystallization	id	label	Crystallization	crystallization	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/propMass#Structure		FIX:0000482	structure	id	label	Structure	structure	50.0	1.0	1.0	0	0.3333333333333333	4
+http://sweetontology.net/propSpaceDistance#Size		FIX:0000496	size	id	label	Size	size	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/prop#SystemProperty		FIX:0000282	system property	id	label	SystemProperty	system property	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/reprDataModel#Structure		FIX:0000482	structure	id	label	Structure	structure	50.0	1.0	1.0	0	0.3333333333333333	4
 http://sweetontology.net/procWave#RayleighScattering		FIX:0000059	Rayleigh scattering	id	label	RayleighScattering	Rayleigh scattering	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/prop#ReactionProperty		FIX:0000277	reaction property	id	label	ReactionProperty	reaction property	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/propMass#Mass		FIX:0000479	mass	id	label	Mass	mass	50.0	1.0	1.0	4	1.0	2
