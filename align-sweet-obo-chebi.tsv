@@ -1,0 +1,1103 @@
+left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	equiv_clique_size
+http://sweetontology.net/matrElement#F		CHEBI:42645	fluoro group	id	hasRelatedSynonym	F	F	14.799999999999997	0.12	0.2	0	0.07682538013818158	37
+http://sweetontology.net/matrOrganicCompound#HydrogenCyanide		CHEBI:18407	hydrogen cyanide	id	hasExactSynonym	HydrogenCyanide	Hydrogen cyanide	13.942307692307693	0.038461538461538464	0.25	0	0.5238095238095238	5
+http://sweetontology.net/matrOrganicCompound#HCN		CHEBI:18407	hydrogen cyanide	id	hasRelatedSynonym	HCN	HCN	12.674825174825177	0.19230769230769232	0.07575757575757576	2	0.4761904761904762	5
+http://sweetontology.net/matrOrganicCompound#Hydrocarbon		CHEBI:24632	hydrocarbon	id	hasExactSynonym	Hydrocarbon	hydrocarbon	46.578947368421055	0.8818181818181818	0.42105263157894735	4	1.0	744
+http://sweetontology.net/matrCompound#Phosphate		CHEBI:26078	phosphoric acid	id	hasRelatedSynonym	Phosphate	Phosphate	34.40860215053763	0.06451612903225806	0.6666666666666666	0	0.2	8
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:28359	(-)-beta-pinene	id	hasRelatedSynonym	C10H16	C10H16	22.222222222222214	0.3333333333333333	0.16666666666666666	0	0.018423350431833026	57
+http://sweetontology.net/matrOrganicCompound#C5H12O		CHEBI:44884	pentan-1-ol	id	hasRelatedSynonym	C5H12O	C5H12O	22.424242424242426	0.36363636363636365	0.13333333333333333	0	0.10960986477738854	12
+http://sweetontology.net/matrCompound#ClO2		CHEBI:29884	oxo-lambda(3)-chloranyloxy group	id	hasRelatedSynonym	ClO2	ClO2	19.594594594594593	0.1891891891891892	0.25	0	0.13632901961515576	10
+http://sweetontology.net/matrCompound#ClO2		CHEBI:29415	dioxidochlorine(.)	id	hasRelatedSynonym	ClO2	ClO2	20.675675675675677	0.16216216216216217	0.3	0	0.05342025477353835	10
+http://sweetontology.net/matrCompound#ClO2		CHEBI:17441	chlorite	id	hasRelatedSynonym	ClO2	ClO2	19.245107176141662	0.1891891891891892	0.2413793103448276	2	0.13389746754116372	10
+http://sweetontology.net/matrCompound#ClO2		CHEBI:29414	chloridodioxygen(.)	id	hasRelatedSynonym	ClO2	ClO2	20.675675675675677	0.16216216216216217	0.3	0	0.14385062069737126	10
+http://sweetontology.net/matrCompound#ClO2		CHEBI:29418	dioxidochlorine(1+)	id	hasRelatedSynonym	ClO2	ClO2	22.893481717011134	0.16216216216216217	0.35294117647058826	0	0.15928096409397513	10
+http://sweetontology.net/matrCompound#ClO2		CHEBI:29883	chloryl group	id	hasRelatedSynonym	ClO2	ClO2	19.969969969969974	0.1891891891891892	0.25925925925925924	0	0.1389406866575917	10
+http://sweetontology.net/matrCompound#ClO2		CHEBI:52357	chlorine dioxide	id	hasRelatedSynonym	ClO2	ClO2	20.675675675675677	0.16216216216216217	0.3	0	0.05342025477353835	10
+http://sweetontology.net/matrElement#Lead		CHEBI:25016	lead atom	id	hasExactSynonym	Lead	lead	37.03703703703704	0.6666666666666666	0.2222222222222222	0	0.15062303163083665	14
+http://sweetontology.net/matrElement#Lead		CHEBI:27889	lead(0)	id	hasExactSynonym	Lead	lead	36.36363636363637	0.6666666666666666	0.18181818181818182	1	0.14678899082568805	14
+http://sweetontology.net/matrElement#K		CHEBI:25094	lysine	id	hasRelatedSynonym	K	K	26.16279069767442	0.046511627906976744	0.5	0	0.10925218281531925	27
+http://sweetontology.net/matrOrganicCompound#C8H10		CHEBI:37892	cycloocta-1,3,6-triene	id	hasRelatedSynonym	C8H10	C8H10	23.597678916827853	0.1702127659574468	0.36363636363636365	0	0.14048228005566113	10
+http://sweetontology.net/matrOrganicCompound#C8H10		CHEBI:28063	o-xylene	id	hasRelatedSynonym	C8H10	C8H10	19.21757035003432	0.1702127659574468	0.25806451612903225	0	0.11440651046309791	10
+http://sweetontology.net/matrOrganicCompound#C8H10		CHEBI:27338	xylene	id	hasRelatedSynonym	C8H10	C8H10	19.574468085106382	0.1702127659574468	0.26666666666666666	0	0.03745064272575039	10
+http://sweetontology.net/matrOrganicCompound#C8H10		CHEBI:51733	cyclooctatriene	id	hasRelatedSynonym	C8H10	C8H10	23.597678916827853	0.1702127659574468	0.36363636363636365	0	0.14048228005566113	10
+http://sweetontology.net/matrOrganicCompound#C8H10		CHEBI:16101	ethylbenzene	id	hasRelatedSynonym	C8H10	C8H10	19.95597945707997	0.1702127659574468	0.27586206896551724	0	0.11880242564345339	10
+http://sweetontology.net/matrOrganicCompound#C8H10		CHEBI:27417	p-xylene	id	hasRelatedSynonym	C8H10	C8H10	19.21757035003432	0.1702127659574468	0.25806451612903225	2	0.11440651046309791	10
+http://sweetontology.net/matrOrganicCompound#C8H10		CHEBI:37891	cycloocta-1,3,5-triene	id	hasRelatedSynonym	C8H10	C8H10	23.597678916827853	0.1702127659574468	0.36363636363636365	0	0.14048228005566113	10
+http://sweetontology.net/matrOrganicCompound#C8H10		CHEBI:28488	m-xylene	id	hasRelatedSynonym	C8H10	C8H10	19.21757035003432	0.1702127659574468	0.25806451612903225	0	0.11440651046309791	10
+http://sweetontology.net/matrCompound#Phosphate		CHEBI:18367	phosphate(3-)	id	hasExactSynonym	Phosphate	phosphate	34.40860215053763	0.06451612903225806	0.6666666666666666	2	0.2	8
+http://sweetontology.net/matrElement#Silicon		CHEBI:27573	silicon atom	id	hasExactSynonym	Silicon	silicon	35.55555555555555	0.6666666666666666	0.13333333333333333	2	0.44444444444444436	21
+http://sweetontology.net/matrElement#Actinoid		CHEBI:33320	actinoid atom	id	hasRelatedSynonym	Actinoid	Actinoid	38.095238095238095	0.2857142857142857	0.6666666666666666	4	1.0	2
+http://sweetontology.net/reprDataService#Z		CHEBI:16586	6-aminohexanoic acid	id	hasRelatedSynonym	Z	Z	25.609756097560975	0.5	0.024390243902439025	1	0.12394835953456124	7
+http://sweetontology.net/reprDataService#Z		CHEBI:51097	benzyloxycarbonyl group	id	hasRelatedSynonym	Z	Z	26.666666666666668	0.5	0.06666666666666667	0	0.13164099734109264	7
+http://sweetontology.net/matrElement#B		CHEBI:52451	boron-11	id	hasRelatedSynonym	B	B	40.0	0.2	0.75	0	0.06331553015117618	22
+http://sweetontology.net/realmClimateZone#B		CHEBI:52451	boron-11	id	hasRelatedSynonym	B	B	18.888888888888882	0.06666666666666667	0.3333333333333333	0	0.02749869866732339	22
+http://sweetontology.net/matrCompound#N2O5		CHEBI:29802	dinitrogen pentaoxide	id	hasRelatedSynonym	N2O5	N2O5	20.06578947368421	0.125	0.3157894736842105	2	0.36381709741550694	3
+http://sweetontology.net/matrElement#Thorium		CHEBI:33385	thorium	id	hasExactSynonym	Thorium	thorium	37.5	0.6666666666666666	0.25	2	0.47058823529411764	4
+http://sweetontology.net/matrElement#P		CHEBI:50342	L-proline residue	id	hasRelatedSynonym	P	P	5.214940098661025	0.046511627906976744	0.06060606060606061	0	0.04200311063760527	744
+http://sweetontology.net/matrElement#Selenium		CHEBI:27568	selenium atom	id	hasExactSynonym	Selenium	selenium	35.89743589743589	0.6666666666666666	0.15384615384615385	2	0.47058823529411764	11
+http://sweetontology.net/matrElement#B		CHEBI:30169	boranetriyl group	id	hasRelatedSynonym	B	B	39.375	0.15	0.75	0	0.06260748052050884	22
+http://sweetontology.net/realmClimateZone#B		CHEBI:30169	boranetriyl group	id	hasRelatedSynonym	B	B	18.33333333333333	0.05	0.3333333333333333	1	0.02643486008822329	22
+http://sweetontology.net/matrElement#I		CHEBI:33115	iodine(.)	id	hasRelatedSynonym	I	I	28.57142857142857	0.5	0.14285714285714285	0	0.11828344059186811	23
+http://sweetontology.net/matrOrganicCompound#C5H12O		CHEBI:15837	isoamylol	id	hasRelatedSynonym	C5H12O	C5H12O	21.111111111111107	0.3333333333333333	0.13333333333333333	0	0.10319126909222612	12
+http://sweetontology.net/stateRoleChemical#Hydrate		CHEBI:35505	hydrate	id	label	Hydrate	hydrate	50.0	1.0	0.10344827586206896	0	0.5	3
+http://sweetontology.net/matrOrganicCompound#PCB		CHEBI:47136	pentachlorobenzene	id	hasRelatedSynonym	PCB	PCB	38.81987577639752	0.21739130434782608	0.7142857142857143	0	0.504172461752434	4
+http://sweetontology.net/matrElementalMolecule#N2		CHEBI:29277	dinitride(2-)	id	hasRelatedSynonym	N2	N2	13.141025641025639	0.16666666666666666	0.11538461538461539	0	0.0978527749103547	744
+http://sweetontology.net/matrCompound#Hematite		CHEBI:50818	hematite	id	hasExactSynonym	Hematite	hematite	50.0	1.0	0.13043478260869565	2	0.5	3
+http://sweetontology.net/matrCompound#Phosphate		CHEBI:35780	phosphate ion	id	hasRelatedSynonym	Phosphate	phosphate	34.40860215053763	0.06451612903225806	0.6666666666666666	0	0.2	8
+http://sweetontology.net/matrParticle#Molecule		CHEBI:25367	molecule	id	hasExactSynonym	Molecule	molecule	50.0	1.0	0.006802721088435374	4	1.0	744
+http://sweetontology.net/matrElement#Neon		CHEBI:33310	neon atom	id	hasExactSynonym	Neon	neon	37.03703703703704	0.2222222222222222	0.6666666666666666	2	0.4705882352941177	9
+http://sweetontology.net/matrElement#Ne		CHEBI:33310	neon atom	id	hasRelatedSynonym	Ne	Ne	41.666666666666664	0.3333333333333333	0.75	0	0.11548446358405563	9
+http://sweetontology.net/matrCompound#ChlorineDioxide		CHEBI:29415	dioxidochlorine(.)	id	hasRelatedSynonym	ChlorineDioxide	chlorine dioxide	35.0	0.6666666666666666	0.1	0	0.31432038834951453	10
+http://sweetontology.net/matrCompound#ChlorineDioxide		CHEBI:52357	chlorine dioxide	id	label	ChlorineDioxide	chlorine dioxide	35.0	0.6666666666666666	0.1	0	0.31432038834951453	10
+http://sweetontology.net/realmClimateZone#EM		CHEBI:73507	Glu-Met	id	hasRelatedSynonym	EM	EM	40.44444444444445	0.8	0.044444444444444446	4	1.0	2
+http://sweetontology.net/matrCompound#CO		CHEBI:29335	oxidocarbonate(.1-)	id	hasRelatedSynonym	CO	CO	21.014492753623188	0.30434782608695654	0.16666666666666666	0	0.10990073590854955	744
+http://sweetontology.net/matrElement#Manganese		CHEBI:35154	manganese(0)	id	hasRelatedSynonym	Manganese	manganese	35.89743589743589	0.15384615384615385	0.6666666666666666	0	0.23529411764705882	11
+http://sweetontology.net/matrElement#Mn		CHEBI:35154	manganese(0)	id	hasRelatedSynonym	Mn	Mn	40.38461538461539	0.23076923076923078	0.75	0	0.07604409752957271	11
+http://sweetontology.net/matrOrganicCompound#MethylCyanide		CHEBI:38472	acetonitrile	id	hasRelatedSynonym	MethylCyanide	methyl cyanide	26.61290322580645	0.5	0.06451612903225806	0	0.5	3
+http://sweetontology.net/matrCompound#NO3		CHEBI:25941	peroxynitrite	id	hasRelatedSynonym	NO3	NO3	16.44844517184943	0.23076923076923078	0.1276595744680851	0	0.12282982214442893	12
+http://sweetontology.net/matrElement#Rn		CHEBI:49997	radon(0)	id	hasRelatedSynonym	Rn	Rn	31.25	0.25	0.5	0	0.12510425354462051	9
+http://sweetontology.net/matrElement#Rn		CHEBI:33492	radon-222 atom	id	hasRelatedSynonym	Rn	Rn	41.25	0.75	0.3	0	0.1651376146788991	9
+http://sweetontology.net/matrElement#Rn		CHEBI:33314	radon atom	id	hasRelatedSynonym	Rn	Rn	41.666666666666664	0.75	0.3333333333333333	0	0.08830888485502623	9
+http://sweetontology.net/matrElement#Rn		CHEBI:33491	radon-220 atom	id	hasRelatedSynonym	Rn	Rn	41.25	0.75	0.3	0	0.1651376146788991	9
+http://sweetontology.net/matrElement#Rn		CHEBI:49999	monoatomic radon	id	hasRelatedSynonym	Rn	Rn	31.25	0.25	0.5	0	0.12510425354462051	9
+http://sweetontology.net/matrElement#Rn		CHEBI:49998	radon(.1+)	id	hasRelatedSynonym	Rn	Rn	21.875	0.25	0.25	2	0.08757297748123437	9
+http://sweetontology.net/matrElement#Rn		CHEBI:33493	radon-219 atom	id	hasRelatedSynonym	Rn	Rn	41.25	0.75	0.3	0	0.1651376146788991	9
+http://sweetontology.net/matrEquipment#Radio		CHEBI:33325	radium atom	id	hasRelatedSynonym	Radio	radio	50.0	1.0	0.14285714285714285	2	0.5	7
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:89044	(-)-7,7-Dimethyl-2-methylenebicyclo[2.2.1]heptane	id	hasRelatedSynonym	C10H16	C10H16	23.484848484848484	0.36363636363636365	0.16666666666666666	0	0.019470131706369	57
+http://sweetontology.net/matrIsotope#Deuterium		CHEBI:29237	deuterium atom	id	hasExactSynonym	Deuterium	deuterium	35.29411764705882	0.6666666666666666	0.11764705882352941	0	0.19838226289839195	26
+http://sweetontology.net/matrIsotope#Deuterium		CHEBI:29294	dideuterium	id	hasRelatedSynonym	Deuterium	Deuterium	35.08771929824561	0.6666666666666666	0.10526315789473684	2	0.49853372434017595	26
+http://sweetontology.net/matrElement#P		CHEBI:37972	phosphorus-32 atom	id	hasRelatedSynonym	P	P	10.256410256410254	0.15384615384615385	0.06060606060606061	0	0.08260902840576842	744
+http://sweetontology.net/reprSpaceCoordinate#R		CHEBI:16467	L-arginine	id	hasRelatedSynonym	R	R	50.0	0.021739130434782608	1.0	0	0.25	744
+http://sweetontology.net/matrIon#Ammonium		CHEBI:28938	ammonium	id	hasExactSynonym	Ammonium	ammonium	50.0	0.02531645569620253	1.0	4	1.0	744
+http://sweetontology.net/realmClimateZone#Aw		CHEBI:73808	Ala-Trp	id	hasRelatedSynonym	Aw	AW	7.3170731707317085	0.024390243902439025	0.125	4	1.0	2
+http://sweetontology.net/humanJurisdiction#CSA		CHEBI:55379	camphorsulfonic acid	id	hasRelatedSynonym	CSA	CSA	50.0	1.0	0.027777777777777776	0	0.8816326530612245	5
+http://sweetontology.net/matrCompound#HF		CHEBI:30234	fluoridohydrogen(.1+)	id	hasRelatedSynonym	HF	HF	15.204678362573098	0.10526315789473684	0.2222222222222222	2	0.2913114582970876	37
+http://sweetontology.net/matrCompound#HF		CHEBI:33343	hafnium atom	id	hasRelatedSynonym	HF	Hf	16.16541353383458	0.05263157894736842	0.2857142857142857	0	0.30971850099168374	37
+http://sweetontology.net/matrCompound#HF		CHEBI:29228	hydrogen fluoride	id	hasRelatedSynonym	HF	HF	20.823798627002287	0.21052631578947367	0.2608695652173913	0	0.14940853376428728	37
+http://sweetontology.net/matrElement#Si		CHEBI:37977	silicon-31 atom	id	hasRelatedSynonym	Si	Si	32.5	0.3	0.5	0	0.07358957498453722	21
+http://sweetontology.net/matrCompound#HBr		CHEBI:47266	hydrogen bromide	id	hasRelatedSynonym	HBr	HBr	21.73913043478261	0.2608695652173913	0.23529411764705882	2	0.38461538461538464	744
+http://sweetontology.net/matrCompound#HydrogenBromide		CHEBI:47266	hydrogen bromide	id	hasExactSynonym	HydrogenBromide	hydrogen bromide	34.78260869565217	0.08695652173913043	0.6666666666666666	0	0.6153846153846154	744
+http://sweetontology.net/matrCompound#Cl2O2		CHEBI:52355	dichlorine dioxide	id	hasRelatedSynonym	Cl2O2	Cl2O2	20.79589216944801	0.3157894736842105	0.14634146341463414	2	0.23488940694831412	6
+http://sweetontology.net/realmClimateZone#BSh		CHEBI:64876	bacillithiol(1-)	id	hasRelatedSynonym	BSh	BSH	5.439814814814819	0.027777777777777776	0.08333333333333333	0	0.5	3
+http://sweetontology.net/matrOrganicCompound#Hexachlorocyclohexane		CHEBI:24536	hexachlorocyclohexane	id	hasExactSynonym	Hexachlorocyclohexane	hexachlorocyclohexane	38.793103448275865	0.10344827586206896	0.75	0	0.6849768365320981	3
+http://sweetontology.net/matrOrganicCompound#HCH		CHEBI:24536	hexachlorocyclohexane	id	hasRelatedSynonym	HCH	HCH	17.841079460269864	0.2413793103448276	0.15217391304347827	2	0.31502316346790205	3
+http://sweetontology.net/realmClimateZone#E		CHEBI:29972	L-glutamic acid residue	id	hasRelatedSynonym	E	E	17.46031746031746	0.3333333333333333	0.023809523809523808	2	0.10426540284360188	744
+http://sweetontology.net/realmClimateZone#E		CHEBI:18237	glutamic acid	id	hasRelatedSynonym	E	E	50.0	1.0	0.06976744186046512	0	0.2985781990521327	744
+http://sweetontology.net/realmClimateZone#E		CHEBI:16015	L-glutamic acid	id	hasRelatedSynonym	E	E	50.0	1.0	0.06818181818181818	0	0.2985781990521327	744
+http://sweetontology.net/realmClimateZone#E		CHEBI:10545	electron	id	hasRelatedSynonym	E	e	50.0	1.0	0.008571428571428572	0	0.14928909952606634	744
+http://sweetontology.net/matrOrganicCompound#Fluorocarbon		CHEBI:38824	fluorocarbon	id	hasExactSynonym	Fluorocarbon	fluorocarbon	27.27272727272727	0.09090909090909091	0.5	4	1.0	2
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:138047	beta-thujene	id	hasRelatedSynonym	C10H16	C10H16	21.527777777777775	0.3333333333333333	0.14583333333333334	0	0.01784762073083825	57
+http://sweetontology.net/matrOrganicCompound#C5H8		CHEBI:35194	isoprene	id	hasRelatedSynonym	C5H8	C5H8	22.340425531914892	0.3333333333333333	0.1702127659574468	0	0.060185345649273	8
+http://sweetontology.net/matrOrganicCompound#Isoprene		CHEBI:35194	isoprene	id	hasExactSynonym	Isoprene	isoprene	41.66666666666667	0.16666666666666666	0.8	0	0.6509695290858727	8
+http://sweetontology.net/matrElementalMolecule#O2		CHEBI:29372	dioxygen(.1+)	id	hasRelatedSynonym	O2	O2	14.59694989106754	0.23529411764705882	0.07407407407407407	0	0.10351121421004698	744
+http://sweetontology.net/matrElement#Cl		CHEBI:23116	chlorine atom	id	hasRelatedSynonym	Cl	Cl	30.75	0.26666666666666666	0.475	0	0.14399372695609344	744
+http://sweetontology.net/matrElement#Chlorine		CHEBI:23116	chlorine atom	id	hasExactSynonym	Chlorine	chlorine	34.07407407407407	0.044444444444444446	0.6666666666666666	0	0.2577418035169811	744
+http://sweetontology.net/matrElement#C		CHEBI:36973	graphene	id	hasRelatedSynonym	C	C	11.446317657497785	0.21428571428571427	0.018633540372670808	0	0.015139634595986821	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:36973	graphene	id	hasRelatedSynonym	C	C	19.04761904761904	0.07142857142857142	0.3333333333333333	0	0.02522385030299982	744
+http://sweetontology.net/reprSpaceCoordinate#Y		CHEBI:17895	L-tyrosine	id	hasRelatedSynonym	Y	Y	50.0	1.0	0.022727272727272728	0	0.09452201933404941	24
+http://sweetontology.net/reprSpaceCoordinate#Y		CHEBI:49978	yttrium(2+)	id	hasRelatedSynonym	Y	Y	50.0	1.0	0.3333333333333333	0	0.08571428571428573	24
+http://sweetontology.net/reprSpaceCoordinate#Y		CHEBI:46858	L-tyrosine residue	id	hasRelatedSynonym	Y	Y	50.0	1.0	0.022727272727272728	0	0.09452201933404941	24
+http://sweetontology.net/reprSpaceCoordinate#Y		CHEBI:33331	yttrium atom	id	hasRelatedSynonym	Y	Y	50.0	1.0	0.1111111111111111	0	0.09183673469387756	24
+http://sweetontology.net/reprSpaceCoordinate#Y		CHEBI:49962	yttrium(3+)	id	hasRelatedSynonym	Y	Y	50.0	1.0	0.09090909090909091	0	0.09243697478991597	24
+http://sweetontology.net/reprSpaceCoordinate#Y		CHEBI:18186	tyrosine	id	hasRelatedSynonym	Y	Y	50.0	1.0	0.023255813953488372	0	0.09450549450549448	24
+http://sweetontology.net/reprSpaceCoordinate#Y		CHEBI:52622	yttrium-89 atom	id	hasRelatedSynonym	Y	Y	50.0	1.0	0.1111111111111111	0	0.09183673469387756	24
+http://sweetontology.net/matrElement#Se		CHEBI:60871	selenium(2+)	id	hasRelatedSynonym	Se	Se	39.84375	0.1875	0.75	0	0.16681921233831473	11
+http://sweetontology.net/matrCompound#Salt		CHEBI:24866	salt	id	hasExactSynonym	Salt	salt	35.29411764705882	0.11764705882352941	0.6666666666666666	0	0.5070422535211268	13
+http://sweetontology.net/matr#DOC		CHEBI:16973	11-deoxycorticosterone	id	hasRelatedSynonym	DOC	DOC	50.0	0.038461538461538464	1.0	4	1.0	3
+http://sweetontology.net/matrElementalMolecule#C2		CHEBI:30081	dicarbide(2-)	id	hasRelatedSynonym	C2	C2	17.64705882352941	0.26666666666666666	0.11764705882352941	2	0.2	6
+http://sweetontology.net/matrElement#Oxygen		CHEBI:25805	oxygen atom	id	hasExactSynonym	Oxygen	oxygen	33.51449275362319	0.6666666666666666	0.010869565217391304	1	0.23316523115580612	744
+http://sweetontology.net/matrElement#Oxygen		CHEBI:15379	dioxygen	id	hasRelatedSynonym	Oxygen	Oxygen	34.66666666666667	0.6666666666666666	0.08	0	0.23700627397943563	744
+http://sweetontology.net/matrElement#He		CHEBI:73928	His-Glu	id	hasRelatedSynonym	He	HE	26.21951219512195	0.04878048780487805	0.5	2	0.0552650671793223	744
+http://sweetontology.net/phenAtmoWindMesoscale#Zephyr		CHEBI:39214	abamectin	id	hasRelatedSynonym	Zephyr	Zephyr	50.0	1.0	0.038461538461538464	4	1.0	2
+http://sweetontology.net/matrCompound#CO		CHEBI:29333	oxidocarbon(.1+)	id	hasRelatedSynonym	CO	CO	21.014492753623188	0.30434782608695654	0.16666666666666666	0	0.10990073590854955	744
+http://sweetontology.net/matrOrganicCompound#Propene		CHEBI:16052	propene	id	hasExactSynonym	Propene	Propene	32.99999999999999	0.15	0.6	0	0.5709342560553632	7
+http://sweetontology.net/matrOrganicCompound#C3H6		CHEBI:16052	propene	id	hasRelatedSynonym	C3H6	C3H6	24.8	0.4	0.16	0	0.09516373960523569	7
+http://sweetontology.net/statePhysical#Light		CHEBI:30212	photon	id	hasRelatedSynonym	Light	Light	50.0	1.0	0.5	0	0.25	5
+http://sweetontology.net/matrElement#Be		CHEBI:52628	beryllium-9	id	hasRelatedSynonym	Be	Be	40.625	0.25	0.75	0	0.12551724137931033	12
+http://sweetontology.net/matrElement#Ch		CHEBI:29432	methanylylidene group	id	hasRelatedSynonym	Ch	CH	26.785714285714285	0.07142857142857142	0.5	0	0.15795206971677558	7
+http://sweetontology.net/matrCompound#PO		CHEBI:37363	polonium-203 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.375	0.09375	0	0.03333333333333333	31
+http://sweetontology.net/matrCompound#NO2		CHEBI:29785	nitro group	id	hasRelatedSynonym	NO2	NO2	14.095744680851062	0.25	0.0425531914893617	2	0.13502841316299308	12
+http://sweetontology.net/matrOrganicCompound#C5H8		CHEBI:49287	housane	id	hasRelatedSynonym	C5H8	C5H8	17.730496453900713	0.2777777777777778	0.10638297872340426	2	0.1368538030951597	8
+http://sweetontology.net/matrElement#I		CHEBI:17596	inosine	id	hasRelatedSynonym	I	i	17.03296703296703	0.07692307692307693	0.2857142857142857	0	0.07051512804515214	23
+http://sweetontology.net/matrElement#U		CHEBI:32991	uranium(5+)	id	hasRelatedSynonym	U	U	40.625	0.75	0.25	0	0.08475187899699796	22
+http://sweetontology.net/matrElement#U		CHEBI:32993	uranium(2+)	id	hasRelatedSynonym	U	U	40.625	0.75	0.25	0	0.08475187899699796	22
+http://sweetontology.net/matrElement#U		CHEBI:33500	uranium cation	id	hasRelatedSynonym	U	U	41.25	0.75	0.3	0	0.08605575405849024	22
+http://sweetontology.net/matrElement#U		CHEBI:50558	monoatomic uranium	id	hasRelatedSynonym	U	U	41.25	0.75	0.3	0	0.08605575405849024	22
+http://sweetontology.net/matrElement#U		CHEBI:30000	L-selenocysteine residue	id	hasRelatedSynonym	U	U	26.190476190476193	0.5	0.047619047619047616	2	0.05463857400539063	22
+http://sweetontology.net/matrElement#U		CHEBI:49936	uranium(0)	id	hasRelatedSynonym	U	U	41.25	0.75	0.3	0	0.045558928619200724	22
+http://sweetontology.net/matrElement#U		CHEBI:27214	uranium atom	id	hasRelatedSynonym	U	U	41.25	0.75	0.3	0	0.045558928619200724	22
+http://sweetontology.net/matrElement#U		CHEBI:32994	uranium(3+)	id	hasRelatedSynonym	U	U	40.625	0.75	0.25	0	0.08475187899699796	22
+http://sweetontology.net/matrElement#U		CHEBI:36366	up quark	id	hasRelatedSynonym	U	u	31.25	0.25	0.5	0	0.06519375307461381	22
+http://sweetontology.net/matrElement#U		CHEBI:32992	uranium(6+)	id	hasRelatedSynonym	U	U	40.625	0.75	0.25	0	0.08475187899699796	22
+http://sweetontology.net/matrElement#U		CHEBI:16704	uridine	id	hasRelatedSynonym	U	u	26.851851851851848	0.5	0.07407407407407407	0	0.05601833597522371	22
+http://sweetontology.net/matrElement#U		CHEBI:17568	uracil	id	hasRelatedSynonym	U	U	26.923076923076923	0.5	0.07692307692307693	0	0.05616692572582113	22
+http://sweetontology.net/matrElement#U		CHEBI:32995	uranium(4+)	id	hasRelatedSynonym	U	U	40.625	0.75	0.25	0	0.08475187899699796	22
+http://sweetontology.net/stateSpectralBand#FM		CHEBI:74719	Phe-Met	id	hasRelatedSynonym	FM	FM	50.0	0.024390243902439025	1.0	0	0.3333333333333333	4
+http://sweetontology.net/matrCompound#PO		CHEBI:37352	polonium-192 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.375	0.09375	0	0.03333333333333333	31
+http://sweetontology.net/stateRoleBiological#Macronutrient		CHEBI:33937	macronutrient	id	label	Macronutrient	macronutrient	50.0	1.0	0.010273972602739725	4	1.0	2
+http://sweetontology.net/matrCompound#HCl		CHEBI:17883	hydrogen chloride	id	hasRelatedSynonym	HCl	HCl	23.92241379310345	0.3125	0.2413793103448276	2	0.40959409594095936	744
+http://sweetontology.net/matrElement#Sb		CHEBI:30304	antimony(0)	id	hasRelatedSynonym	Sb	Sb	37.03703703703704	0.2222222222222222	0.6666666666666666	0	0.10036496350364962	9
+http://sweetontology.net/matrElement#Antimony		CHEBI:30304	antimony(0)	id	hasExactSynonym	Antimony	antimony	37.03703703703704	0.2222222222222222	0.6666666666666666	1	0.25	9
+http://sweetontology.net/matrElement#Br		CHEBI:15858	bromide	id	hasRelatedSynonym	Br	Br	10.888888888888893	0.12	0.1111111111111111	0	0.07556881144077719	744
+http://sweetontology.net/realmCryo#Lead		CHEBI:25016	lead atom	id	hasExactSynonym	Lead	lead	50.0	1.0	0.1111111111111111	0	0.20149253731343283	14
+http://sweetontology.net/realmCryo#Lead		CHEBI:27889	lead(0)	id	hasExactSynonym	Lead	lead	50.0	1.0	0.09090909090909091	0	0.2037037037037037	14
+http://sweetontology.net/matrCompound#HydrogenPeroxide		CHEBI:16240	hydrogen peroxide	id	hasExactSynonym	HydrogenPeroxide	HYDROGEN PEROXIDE	34.66666666666667	0.08	0.6666666666666666	0	0.616650532429816	744
+http://sweetontology.net/matrCompound#H2O2		CHEBI:16240	hydrogen peroxide	id	hasRelatedSynonym	H2O2	H2O2	21.551020408163268	0.32	0.16326530612244897	0	0.21239089074192777	744
+http://sweetontology.net/matrOrganicCompound#Alkane		CHEBI:18310	alkane	id	hasExactSynonym	Alkane	Alkane	35.92592592592593	0.15555555555555556	0.6666666666666666	4	1.0	744
+http://sweetontology.net/matrCompound#NitricAcid		CHEBI:48107	nitric acid	id	hasExactSynonym	NitricAcid	Nitric acid	34.48275862068966	0.6666666666666666	0.06896551724137931	0	0.6493506493506493	12
+http://sweetontology.net/matrOrganicCompound#C5H12O		CHEBI:50624	(R)-2-methylbutan-1-ol	id	hasRelatedSynonym	C5H12O	C5H12O	20.53333333333334	0.32	0.13333333333333333	0	0.10036708699075471	12
+http://sweetontology.net/matrIon#Cation		CHEBI:36916	cation	id	hasExactSynonym	Cation	Cation	50.0	1.0	0.021739130434782608	4	1.0	2
+http://sweetontology.net/matrCompound#SulfurDioxide		CHEBI:18422	sulfur dioxide	id	hasExactSynonym	SulfurDioxide	SULFUR DIOXIDE	34.92063492063492	0.09523809523809523	0.6666666666666666	0	0.6483023702754643	3
+http://sweetontology.net/matrCompound#SO2		CHEBI:18422	sulfur dioxide	id	hasRelatedSynonym	SO2	SO2	18.94409937888199	0.2857142857142857	0.13043478260869565	2	0.3516976297245356	3
+http://sweetontology.net/matrElement#Al		CHEBI:49470	aluminium(3+)	id	hasRelatedSynonym	Al	Al	36.666666666666664	0.2	0.6666666666666666	0	0.09916836161741494	17
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:28261	(+)-alpha-pinene	id	hasRelatedSynonym	C10H16	C10H16	22.222222222222214	0.3333333333333333	0.16666666666666666	0	0.018423350431833026	57
+http://sweetontology.net/matrOrganicCompound#Acetonitrile		CHEBI:38472	acetonitrile	id	hasExactSynonym	Acetonitrile	ACETONITRILE	26.61290322580645	0.5	0.06451612903225806	2	0.5	3
+http://sweetontology.net/matrElementalMolecule#N2		CHEBI:17997	dinitrogen	id	hasRelatedSynonym	N2	N2	12.403846153846153	0.15	0.11538461538461539	1	0.024168129826594956	744
+http://sweetontology.net/matrElement#Nitrogen		CHEBI:17997	dinitrogen	id	hasRelatedSynonym	Nitrogen	Nitrogen	35.0	0.1	0.6666666666666666	0	0.37637249913834137	744
+http://sweetontology.net/matrElement#Copper		CHEBI:30052	copper(0)	id	hasExactSynonym	Copper	copper	35.89743589743589	0.15384615384615385	0.6666666666666666	0	0.23529411764705882	11
+http://sweetontology.net/matrElement#Cu		CHEBI:30052	copper(0)	id	hasRelatedSynonym	Cu	Cu	40.38461538461539	0.23076923076923078	0.75	0	0.07604409752957271	11
+http://sweetontology.net/matrElement#Al		CHEBI:73770	Ala-Leu	id	hasRelatedSynonym	Al	AL	34.14634146341463	0.04878048780487805	0.6666666666666666	2	0.09235191104060814	17
+http://sweetontology.net/reprSpaceCoordinate#R		CHEBI:13193	hydrogen acceptor	id	hasRelatedSynonym	R	R	50.0	1.0	0.25	0	0.17857142857142858	744
+http://sweetontology.net/reprSpaceCoordinate#R		CHEBI:8735	R	id	hasExactSynonym	R	R	50.0	1.0	0.07142857142857142	0	0.25	744
+http://sweetontology.net/reprSpaceCoordinate#R		CHEBI:29952	L-arginine residue	id	hasRelatedSynonym	R	R	50.0	1.0	0.022222222222222223	0	0.25	744
+http://sweetontology.net/matrElement#Al		CHEBI:28984	aluminium atom	id	hasRelatedSynonym	Al	Al	38.095238095238095	0.2857142857142857	0.6666666666666666	0	0.051516032009046725	17
+http://sweetontology.net/matrElement#Aluminum		CHEBI:28984	aluminium atom	id	hasRelatedSynonym	Aluminum	aluminum	38.095238095238095	0.2857142857142857	0.6666666666666666	0	0.5	17
+http://sweetontology.net/matrOrganicCompound#Hexachlorobiphenyl		CHEBI:36722	hexachlorobiphenyl	id	label	Hexachlorobiphenyl	hexachlorobiphenyl	38.839285714285715	0.75	0.10714285714285714	4	1.0	2
+http://sweetontology.net/matrElement#Na		CHEBI:29101	sodium(1+)	id	hasRelatedSynonym	Na	Na	43.888888888888886	0.26666666666666666	0.8333333333333334	0	0.2572352392012205	9
+http://sweetontology.net/matrElementalMolecule#Ox		CHEBI:30623	oxalate(2-)	id	hasRelatedSynonym	Ox	ox	22.04301075268817	0.3333333333333333	0.16129032258064516	4	1.0	6
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:35661	car-3-ene	id	hasRelatedSynonym	C10H16	C10H16	22.826086956521735	0.34782608695652173	0.16666666666666666	0	0.018923984954437187	57
+http://sweetontology.net/matrCompound#HypochlorousAcid		CHEBI:24757	hypochlorous acid	id	hasExactSynonym	HypochlorousAcid	hypochlorous acid	34.48275862068966	0.6666666666666666	0.06896551724137931	0	0.4364326375711575	11
+http://sweetontology.net/matrElement#Cl		CHEBI:29311	chlorine(.)	id	hasRelatedSynonym	Cl	Cl	13.660714285714286	0.21428571428571427	0.075	0	0.13485376084037104	744
+http://sweetontology.net/matrCompound#Silica		CHEBI:30563	silicon dioxide	id	hasRelatedSynonym	Silica	silica	35.0	0.6666666666666666	0.1	0	0.3766816143497758	4
+http://sweetontology.net/matrCompound#HNO2		CHEBI:25567	nitrous acid	id	hasRelatedSynonym	HNO2	HNO2	19.145299145299145	0.12307692307692308	0.2962962962962963	2	0.3564356435643564	12
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:88840	Isoterpinolene	id	hasRelatedSynonym	C10H16	C10H16	22.239583333333336	0.35	0.14583333333333334	0	0.018437743674357906	57
+http://sweetontology.net/matrElement#O		CHEBI:25805	oxygen atom	id	hasRelatedSynonym	O	O	37.13956823671498	0.21195652173913043	0.6736111111111112	0	0.10810765122104977	744
+http://sweetontology.net/matrElement#Be		CHEBI:39133	beryllium ion	id	hasRelatedSynonym	Be	Be	40.625	0.25	0.75	0	0.12551724137931033	12
+http://sweetontology.net/matrElement#NobleGas		CHEBI:33309	noble gas atom	id	hasExactSynonym	NobleGas	noble gas	43.1640625	0.375	0.78125	4	1.0	744
+http://sweetontology.net/matrCompound#CO2		CHEBI:16526	carbon dioxide	id	hasRelatedSynonym	CO2	CO2	18.941176470588232	0.13725490196078433	0.28	0	0.12068234475338475	5
+http://sweetontology.net/matrCompound#CO2		CHEBI:29325	oxidooxomethyl	id	hasRelatedSynonym	CO2	CO2	19.991474850809887	0.13725490196078433	0.30434782608695654	0	0.3604981231309305	5
+http://sweetontology.net/matrCompound#CO2		CHEBI:18245	carboxylato group	id	hasRelatedSynonym	CO2	CO2	16.522491349480966	0.1568627450980392	0.20588235294117646	2	0.29794335662501775	5
+http://sweetontology.net/matrOrganicCompound#VOC		CHEBI:134179	volatile organic compound	id	hasRelatedSynonym	VOC	VOC	21.53846153846154	0.05128205128205128	0.4	2	0.5	744
+http://sweetontology.net/matrOrganicCompound#VolatileOrganicCompound		CHEBI:134179	volatile organic compound	id	label	VolatileOrganicCompound	volatile organic compound	21.53846153846154	0.05128205128205128	0.4	0	0.5	744
+http://sweetontology.net/matrCompound#SulfurOxide		CHEBI:48154	sulfur oxide	id	label	SulfurOxide	sulfur oxide	34.48275862068966	0.06896551724137931	0.6666666666666666	2	0.4962779156327544	3
+http://sweetontology.net/matrOrganicCompound#C7H8		CHEBI:38694	bicyclo[3.2.0]hepta-2,6-diene	id	hasRelatedSynonym	C7H8	C7H8	24.3161094224924	0.38095238095238093	0.1702127659574468	0	0.2669578934595316	6
+http://sweetontology.net/matrCompound#CarbonicAcid		CHEBI:28976	carbonic acid	id	hasExactSynonym	CarbonicAcid	Carbonic acid	34.40860215053763	0.06451612903225806	0.6666666666666666	0	0.6650124069478909	7
+http://sweetontology.net/matrCompound#H2CO3		CHEBI:28976	carbonic acid	id	hasRelatedSynonym	H2CO3	H2CO3	17.332691381800675	0.25806451612903225	0.11940298507462686	2	0.33498759305210923	7
+http://sweetontology.net/matrParticle#Atom		CHEBI:33250	atom	id	hasExactSynonym	Atom	atom	50.0	1.0	0.0028653295128939827	0	0.5087922327762414	744
+http://sweetontology.net/matrCompound#IronOxide		CHEBI:50820	ferrous oxide	id	hasRelatedSynonym	IronOxide	iron oxide	19.04761904761904	0.07142857142857142	0.3333333333333333	0	0.5083612040133779	3
+http://sweetontology.net/realmClimateZone#Csa		CHEBI:55379	camphorsulfonic acid	id	hasRelatedSynonym	Csa	CSA	6.7129629629629655	0.05555555555555555	0.08333333333333333	2	0.11836734693877556	5
+http://sweetontology.net/stateTime#Age		CHEBI:84123	advanced glycation end-product	id	hasRelatedSynonym	Age	AGE	26.38888888888889	0.5	0.05555555555555555	2	0.2087912087912088	4
+http://sweetontology.net/matrElement#N		CHEBI:30229	azanylylidene group	id	hasRelatedSynonym	N	N	16.45021645021645	0.2857142857142857	0.06060606060606061	0	0.0668870239837169	744
+http://sweetontology.net/matrAerosol#CCN		CHEBI:15862	ethylamine	id	hasRelatedSynonym	CCN	CCN	50.0	0.03125	1.0	4	1.0	4
+http://sweetontology.net/matrMicrobiota#Mold		CHEBI:59963	methylglyoxal-lysine dimer	id	hasRelatedSynonym	Mold	MOLD	50.0	1.0	0.023255813953488372	4	1.0	2
+http://sweetontology.net/matrOrganicCompound#DimethylSulfide		CHEBI:17437	dimethyl sulfide	id	hasExactSynonym	DimethylSulfide	Dimethyl sulfide	14.473684210526317	0.25	0.05263157894736842	0	0.30389105058365756	5
+http://sweetontology.net/matrElement#Ca		CHEBI:39123	calcium cation	id	hasRelatedSynonym	Ca	Ca	42.22222222222222	0.2222222222222222	0.8	0	0.17756690210456316	10
+http://sweetontology.net/matrCompound#PO		CHEBI:37367	polonium-207 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.375	0.09375	0	0.03333333333333333	31
+http://sweetontology.net/matrElement#He		CHEBI:30219	helium-4 atom	id	hasRelatedSynonym	He	He	40.625	0.25	0.75	0	0.08562872327493833	744
+http://sweetontology.net/propIndex#PC		CHEBI:53201	polycarbonate macromolecule	id	hasRelatedSynonym	PC	PC	50.0	0.125	1.0	0	0.2	9
+http://sweetontology.net/matrIsotope#H3		CHEBI:30479	trihydrogen(1+)	id	hasRelatedSynonym	H3	H3	21.978021978021978	0.19047619047619047	0.3076923076923077	0	0.5	3
+http://sweetontology.net/matrElementalMolecule#N2		CHEBI:29278	dinitride(4-)	id	hasRelatedSynonym	N2	N2	12.753036437246967	0.11538461538461539	0.15789473684210525	0	0.09496366859079357	744
+http://sweetontology.net/matrElementalMolecule#N2		CHEBI:30108	diazyn-1-ium-1-yl group	id	hasRelatedSynonym	N2	N2	12.403846153846153	0.11538461538461539	0.15	0	0.09236347290318847	744
+http://sweetontology.net/matrElementalMolecule#N2		CHEBI:29275	dinitrogen(2+)	id	hasRelatedSynonym	N2	N2	15.247252747252748	0.11538461538461539	0.21428571428571427	0	0.11353649493082969	744
+http://sweetontology.net/matrElementalMolecule#N2		CHEBI:30106	azo group	id	hasRelatedSynonym	N2	N2	13.141025641025639	0.11538461538461539	0.16666666666666666	0	0.0978527749103547	744
+http://sweetontology.net/matrElementalMolecule#N2		CHEBI:30107	hydrazinediylidene group	id	hasRelatedSynonym	N2	N2	12.753036437246967	0.11538461538461539	0.15789473684210525	0	0.09496366859079357	744
+http://sweetontology.net/matrElementalMolecule#N2		CHEBI:33266	diatomic nitrogen	id	hasRelatedSynonym	N2	N2	15.247252747252748	0.11538461538461539	0.21428571428571427	0	0.11353649493082969	744
+http://sweetontology.net/matrElementalMolecule#N2		CHEBI:30105	diazo group	id	hasRelatedSynonym	N2	N2	13.141025641025639	0.11538461538461539	0.16666666666666666	0	0.0978527749103547	744
+http://sweetontology.net/matrElementalMolecule#N2		CHEBI:29276	dinitrogen(.1+)	id	hasRelatedSynonym	N2	N2	14.0625	0.11538461538461539	0.1875	0	0.10471440241931251	744
+http://sweetontology.net/matrElement#Cadmium		CHEBI:22977	cadmium atom	id	hasExactSynonym	Cadmium	cadmium	37.5	0.6666666666666666	0.25	2	0.47058823529411764	7
+http://sweetontology.net/matrElement#Se		CHEBI:27568	selenium atom	id	hasRelatedSynonym	Se	Se	40.38461538461539	0.23076923076923078	0.75	0	0.08951491404685723	11
+http://sweetontology.net/stateRoleBiological#Nutrient		CHEBI:33284	nutrient	id	label	Nutrient	nutrient	50.0	1.0	0.00964630225080386	4	1.0	2
+http://sweetontology.net/phenSystem#Lag		CHEBI:73526	Leu-Ala-Gly	id	hasRelatedSynonym	Lag	LAG	50.0	0.02127659574468085	1.0	4	1.0	2
+http://sweetontology.net/matrOrganicCompound#CH2O		CHEBI:79073	CHOH group	id	hasRelatedSynonym	CH2O	CH2O	16.85606060606061	0.125	0.24242424242424243	2	0.478655462184874	744
+http://sweetontology.net/matrOrganicCompound#CH2O		CHEBI:16842	formaldehyde	id	hasRelatedSynonym	CH2O	CH2O	18.359375	0.15625	0.25	0	0.16821414149183697	744
+http://sweetontology.net/matrCompound#NO2		CHEBI:16301	nitrite	id	hasRelatedSynonym	NO2	NO2	15.729483282674773	0.21428571428571427	0.1276595744680851	0	0.036058348632012155	12
+http://sweetontology.net/matrIon#Nitrite		CHEBI:16301	nitrite	id	hasExactSynonym	Nitrite	Nitrite	50.0	0.07142857142857142	1.0	0	0.7606936416184971	12
+http://sweetontology.net/matrCompound#CarbonMonoxide		CHEBI:17245	carbon monoxide	id	hasExactSynonym	CarbonMonoxide	CARBON MONOXIDE	34.5679012345679	0.07407407407407407	0.6666666666666666	0	0.6436781609195402	744
+http://sweetontology.net/matrCompound#CO		CHEBI:17245	carbon monoxide	id	hasRelatedSynonym	CO	CO	19.135802469135804	0.25925925925925924	0.16666666666666666	0	0.03565913544702326	744
+http://sweetontology.net/matrElementalMolecule#Br2		CHEBI:30075	dibromide(.1-)	id	hasRelatedSynonym	Br2	Br2	15.000000000000002	0.25	0.06666666666666667	0	0.15855704697986578	744
+http://sweetontology.net/matrElement#Metalloid		CHEBI:137980	metalloid atom	id	hasRelatedSynonym	Metalloid	metalloid	46.42857142857143	0.2857142857142857	0.9	4	1.0	2
+http://sweetontology.net/matrOrganicCompound#C4H10		CHEBI:37808	butane	id	hasRelatedSynonym	C4H10	C4H10	23.484848484848484	0.16666666666666666	0.36363636363636365	0	0.20889487870619947	4
+http://sweetontology.net/matrOrganicCompound#C4H10		CHEBI:30363	isobutane	id	hasRelatedSynonym	C4H10	C4H10	23.484848484848484	0.16666666666666666	0.36363636363636365	2	0.5	4
+http://sweetontology.net/matrCompound#NitrogenOxide		CHEBI:35196	nitrogen oxide	id	label	NitrogenOxide	nitrogen oxide	34.523809523809526	0.6666666666666666	0.07142857142857142	4	1.0	2
+http://sweetontology.net/propMass#Mass		http://purl.obolibrary.org/obo/chebi#MASS	MASS	id	label	Mass	MASS	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/matrCompound#CarbonDioxide		CHEBI:16526	carbon dioxide	id	hasExactSynonym	CarbonDioxide	CARBON DIOXIDE	34.66666666666667	0.6666666666666666	0.08	0	0.6466715435259693	5
+http://sweetontology.net/matrElement#Iodine		CHEBI:17606	diiodine	id	hasRelatedSynonym	Iodine	Iodine	25.0	0.25	0.3333333333333333	2	0.41052631578947374	23
+http://sweetontology.net/realmClimateZone#A		CHEBI:16708	adenine	id	hasRelatedSynonym	A	A	11.538461538461537	0.038461538461538464	0.2	0	0.1321029198188692	744
+http://sweetontology.net/matrElement#C		CHEBI:33418	graphite	id	hasRelatedSynonym	C	C	13.431677018633541	0.25	0.024844720496894408	0	0.019753729740378468	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:33418	graphite	id	hasRelatedSynonym	C	C	18.749999999999993	0.0625	0.3333333333333333	0	0.02315993594594505	744
+http://sweetontology.net/matrElement#Si		CHEBI:30585	silicide(1-)	id	hasRelatedSynonym	Si	Si	31.25	0.25	0.5	0	0.07075920671590118	21
+http://sweetontology.net/matrCompound#BrO		CHEBI:29872	bromooxy group	id	hasRelatedSynonym	BrO	BrO	20.919540229885058	0.2413793103448276	0.23333333333333334	0	0.1841335624073758	9
+http://sweetontology.net/matrElement#I		CHEBI:36897	monoatomic iodine	id	hasRelatedSynonym	I	I	28.57142857142857	0.5	0.14285714285714285	0	0.11828344059186811	23
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:90018	Santolina triene	id	hasRelatedSynonym	C10H16	C10H16	23.02631578947369	0.3684210526315789	0.14583333333333334	0	0.019089984822458574	57
+http://sweetontology.net/matrElementalMolecule#C3		CHEBI:52881	cyclopropane ring	id	hasRelatedSynonym	C3	C3	17.29729729729729	0.26666666666666666	0.10810810810810811	2	0.5	3
+http://sweetontology.net/matrElement#Be		CHEBI:30502	beryllium(2+)	id	hasRelatedSynonym	Be	Be	40.17857142857143	0.21428571428571427	0.75	2	0.12413793103448277	12
+http://sweetontology.net/stateChemical#Base		CHEBI:22695	base	id	hasExactSynonym	Base	Base	50.0	1.0	0.0136986301369863	0	0.16666666666666666	744
+http://sweetontology.net/stateChemical#Base		CHEBI:18282	nucleobase	id	hasRelatedSynonym	Base	Base	50.0	1.0	0.038461538461538464	0	0.16666666666666666	744
+http://sweetontology.net/matrElement#Phosphorus		CHEBI:28659	phosphorus atom	id	hasExactSynonym	Phosphorus	phosphorus	35.29411764705882	0.11764705882352941	0.6666666666666666	0	0.39902852418354695	744
+http://sweetontology.net/matrElement#P		CHEBI:28659	phosphorus atom	id	hasRelatedSynonym	P	P	8.556149732620321	0.11764705882352941	0.06060606060606061	0	0.013446728505334425	744
+http://sweetontology.net/matrElement#AlkalineEarthMetal		CHEBI:22313	alkaline earth metal atom	id	hasRelatedSynonym	AlkalineEarthMetal	alkaline earth metal	47.26315789473684	0.92	0.3157894736842105	4	1.0	2
+http://sweetontology.net/matrElement#He		CHEBI:30221	helium(.1+)	id	hasRelatedSynonym	He	He	40.625	0.25	0.75	0	0.08562872327493833	744
+http://sweetontology.net/matrElement#Si		CHEBI:30581	silanediylidene group	id	hasRelatedSynonym	Si	Si	29.166666666666664	0.16666666666666666	0.5	0	0.06604192626817443	21
+http://sweetontology.net/matrElement#Manganese		CHEBI:18291	manganese atom	id	hasExactSynonym	Manganese	manganese	35.89743589743589	0.6666666666666666	0.15384615384615385	1	0.23529411764705882	11
+http://sweetontology.net/matrIsotope#C12		CHEBI:87146	(Z)-14-methylpentadec-2-enoic acid	id	hasRelatedSynonym	C12	C12	13.086419753086421	0.14814814814814814	0.13333333333333333	0	0.2447489944883063	4
+http://sweetontology.net/matrIsotope#C12		CHEBI:63933	Aroclor 1254	id	hasRelatedSynonym	C12	C12	15.830346475507762	0.18518518518518517	0.16129032258064516	0	0.2960673320423059	4
+http://sweetontology.net/matrMineral#Glass		CHEBI:131189	glass	id	label	Glass	glass	50.0	1.0	0.1111111111111111	4	1.0	2
+http://sweetontology.net/matrCompound#Cl2O2		CHEBI:30140	(dichlorine dioxide)(1+)	id	hasRelatedSynonym	Cl2O2	Cl2O2	22.381635581061698	0.35294117647058826	0.14634146341463414	0	0.2528003639051573	6
+http://sweetontology.net/matrOrganicCompound#Pinene		CHEBI:17187	pinene	id	hasExactSynonym	Pinene	Pinene	22.826086956521735	0.34782608695652173	0.16666666666666666	0	0.5	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:17187	pinene	id	hasRelatedSynonym	C10H16	C10H16	22.826086956521735	0.34782608695652173	0.16666666666666666	0	0.009461992477218593	57
+http://sweetontology.net/matrIsotope#T		CHEBI:29302	tritide	id	hasRelatedSynonym	T	T	35.89743589743589	0.15384615384615385	0.6666666666666666	0	0.1031844148065148	22
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:17221	beta-myrcene	id	hasRelatedSynonym	C10H16	C10H16	22.239583333333336	0.35	0.14583333333333334	0	0.018437743674357906	57
+http://sweetontology.net/matrEnergy#Fuel		CHEBI:33292	fuel	id	label	Fuel	fuel	25.83333333333333	0.03333333333333333	0.5	4	1.0	2
+http://sweetontology.net/matrOrganicCompound#C12H8		CHEBI:33057	s-indacene	id	hasRelatedSynonym	C12H8	C12H8	23.376623376623375	0.16326530612244897	0.36363636363636365	2	0.2	7
+http://sweetontology.net/matrOrganicCompound#C12H8		CHEBI:33081	acenaphthylene	id	hasRelatedSynonym	C12H8	C12H8	23.376623376623375	0.16326530612244897	0.36363636363636365	0	0.07171314741035856	7
+http://sweetontology.net/matrOrganicCompound#C12H8		CHEBI:33062	as-indacene	id	hasRelatedSynonym	C12H8	C12H8	23.376623376623375	0.16326530612244897	0.36363636363636365	0	0.2	7
+http://sweetontology.net/matrOrganicCompound#C12H8		CHEBI:51118	indacene	id	hasRelatedSynonym	C12H8	C12H8	23.376623376623375	0.16326530612244897	0.36363636363636365	0	0.2	7
+http://sweetontology.net/matrOrganicCompound#C12H8		CHEBI:33079	biphenylene	id	hasRelatedSynonym	C12H8	C12H8	23.376623376623375	0.16326530612244897	0.36363636363636365	0	0.2	7
+http://sweetontology.net/matrElement#Cu		CHEBI:23378	copper cation	id	hasRelatedSynonym	Cu	Cu	40.0	0.2	0.75	2	0.1422708618331053	11
+http://sweetontology.net/matrOrganicCompound#C2H4		CHEBI:29853	ethylidene group	id	hasRelatedSynonym	C2H4	C2H4	20.411663807890218	0.1320754716981132	0.3181818181818182	0	0.3123359580052493	5
+http://sweetontology.net/matrOrganicCompound#C2H4		CHEBI:18153	ethene	id	hasRelatedSynonym	C2H4	C2H4	24.528301886792452	0.1509433962264151	0.4	0	0.16002837297026953	5
+http://sweetontology.net/matrOrganicCompound#C2H4		CHEBI:29362	ethylene group	id	hasRelatedSynonym	C2H4	C2H4	20.411663807890218	0.1320754716981132	0.3181818181818182	2	0.3123359580052493	5
+http://sweetontology.net/matrIsotope#D		CHEBI:29303	deuterium(.)	id	hasRelatedSynonym	D	D	35.89743589743589	0.6666666666666666	0.15384615384615385	0	0.07484514829178895	26
+http://sweetontology.net/matrIsotope#D		CHEBI:29958	L-aspartic acid residue	id	hasRelatedSynonym	D	D	34.07407407407407	0.6666666666666666	0.044444444444444446	0	0.07221172823867666	26
+http://sweetontology.net/matrIsotope#D		CHEBI:29237	deuterium atom	id	hasRelatedSynonym	D	D	35.29411764705882	0.6666666666666666	0.11764705882352941	0	0.04470685156925072	26
+http://sweetontology.net/matrIsotope#D		CHEBI:17053	L-aspartic acid	id	hasRelatedSynonym	D	D	34.07407407407407	0.6666666666666666	0.044444444444444446	0	0.07221172823867666	26
+http://sweetontology.net/matrIsotope#D		CHEBI:29233	deuteron	id	hasRelatedSynonym	D	D	35.18518518518518	0.6666666666666666	0.1111111111111111	0	0.07381185041898664	26
+http://sweetontology.net/matrIsotope#D		CHEBI:22660	aspartic acid	id	hasRelatedSynonym	D	D	34.07407407407407	0.6666666666666666	0.044444444444444446	0	0.07221172823867666	26
+http://sweetontology.net/matrIsotope#D		CHEBI:23774	dihydrouridine	id	hasRelatedSynonym	D	D	34.48275862068966	0.6666666666666666	0.06896551724137931	0	0.07279851309169179	26
+http://sweetontology.net/matrIsotope#D		CHEBI:29301	deuteride	id	hasRelatedSynonym	D	D	35.89743589743589	0.6666666666666666	0.15384615384615385	0	0.07484514829178895	26
+http://sweetontology.net/matrIsotope#D		CHEBI:36367	down quark	id	hasRelatedSynonym	D	d	33.33333333333333	0.3333333333333333	0.5	1	0.0533653544580485	26
+http://sweetontology.net/matrCompound#NO		CHEBI:16480	nitric oxide	id	hasRelatedSynonym	NO	NO	13.295454545454543	0.15	0.13636363636363635	0	0.021976951470604373	12
+http://sweetontology.net/matrCompound#NitrogenMonoxide		CHEBI:16480	nitric oxide	id	hasRelatedSynonym	NitrogenMonoxide	Nitrogen monoxide	35.0	0.1	0.6666666666666666	0	0.4201909959072306	12
+http://sweetontology.net/matrCompound#NitricOxide		CHEBI:16480	nitric oxide	id	hasExactSynonym	NitricOxide	Nitric oxide	35.0	0.1	0.6666666666666666	0	0.4201909959072306	12
+http://sweetontology.net/matrOrganicCompound#ChlorophyllA		CHEBI:58416	chlorophyll a(1-)	id	hasRelatedSynonym	ChlorophyllA	chlorophyll a	42.441860465116285	0.8333333333333334	0.09302325581395349	0	0.3932511635924841	9
+http://sweetontology.net/matrOrganicCompound#ChlorophyllA		CHEBI:28966	chlorophyll	id	hasExactSynonym	ChlorophyllA	Chlorophyll	30.599999999999998	0.6666666666666666	0.16	1	0.13378532428075504	9
+http://sweetontology.net/matrOrganicCompound#ChlorophyllA		CHEBI:18230	chlorophyll a	id	hasExactSynonym	ChlorophyllA	CHLOROPHYLL A	34.883720930232556	0.6666666666666666	0.09302325581395349	0	0.1661088485445358	9
+http://sweetontology.net/matrCompound#CO		CHEBI:29334	oxidocarbon(2+)	id	hasRelatedSynonym	CO	CO	22.222222222222214	0.3333333333333333	0.16666666666666666	0	0.11621687015616732	744
+http://sweetontology.net/propIndex#Kp		CHEBI:74567	Lys-Pro	id	hasRelatedSynonym	Kp	KP	50.0	0.024390243902439025	1.0	4	1.0	2
+http://sweetontology.net/matrElement#Ca		CHEBI:22984	calcium atom	id	hasRelatedSynonym	Ca	Ca	42.50000000000001	0.25	0.8	0	0.09749187567702694	10
+http://sweetontology.net/matrElement#Calcium		CHEBI:22984	calcium atom	id	hasExactSynonym	Calcium	calcium	35.416666666666664	0.125	0.6666666666666666	1	0.22574055158324818	10
+http://sweetontology.net/matrCompound#PO		CHEBI:37341	polonium-211 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.375	0.09375	0	0.03333333333333333	31
+http://sweetontology.net/matrElement#H		CHEBI:24636	proton	id	hasRelatedSynonym	H	H	10.745341614906835	0.2	0.018633540372670808	0	0.007003490730348277	744
+http://sweetontology.net/matrElement#P		CHEBI:24636	proton	id	hasRelatedSynonym	P	p	9.292929292929292	0.13333333333333333	0.06060606060606061	0	0.009931205755581317	744
+http://sweetontology.net/matrParticle#Proton		CHEBI:24636	proton	id	hasExactSynonym	Proton	proton	50.0	0.13333333333333333	1.0	0	0.7138954082089685	744
+http://sweetontology.net/stateStorm#F2		CHEBI:30236	difluorine	id	hasRelatedSynonym	F2	F2	50.0	0.3333333333333333	1.0	0	0.1299392097264438	37
+http://sweetontology.net/matrElementalMolecule#F2		CHEBI:30236	difluorine	id	hasRelatedSynonym	F2	F2	18.421052631578945	0.3333333333333333	0.05263157894736842	0	0.061770761839396025	37
+http://sweetontology.net/matrElement#Fluorine		CHEBI:30236	difluorine	id	hasRelatedSynonym	Fluorine	fluorine	27.777777777777775	0.3333333333333333	0.3333333333333333	0	0.12844919901783686	37
+http://sweetontology.net/matrElement#Al		CHEBI:33627	monoatomic aluminium	id	hasRelatedSynonym	Al	Al	37.5	0.25	0.6666666666666666	0	0.10142218801781074	17
+http://sweetontology.net/matrElement#B		CHEBI:30166	boride(1-)	id	hasRelatedSynonym	B	B	39.70588235294118	0.17647058823529413	0.75	0	0.06298201254456548	22
+http://sweetontology.net/realmClimateZone#B		CHEBI:30166	boride(1-)	id	hasRelatedSynonym	B	B	18.62745098039215	0.058823529411764705	0.3333333333333333	0	0.026997449825376597	22
+http://sweetontology.net/matrElement#C		CHEBI:27594	carbon atom	id	hasRelatedSynonym	C	C	48.25656478691347	0.19801980198019803	0.9565217391304348	0	0.06227923667875823	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:27594	carbon atom	id	hasRelatedSynonym	C	C	50.0	0.01485148514851485	1.0	0	0.04022690931155229	744
+http://sweetontology.net/matrElement#Carbon		CHEBI:27594	carbon atom	id	hasExactSynonym	Carbon	carbon	33.4983498349835	0.009900990099009901	0.6666666666666666	1	0.12333653923263221	744
+http://sweetontology.net/matrElement#Be		CHEBI:30501	beryllium atom	id	hasRelatedSynonym	Be	Be	40.625	0.25	0.75	0	0.06645030425963488	12
+http://sweetontology.net/matrElement#Beryllium		CHEBI:30501	beryllium atom	id	hasExactSynonym	Beryllium	beryllium	36.11111111111111	0.16666666666666666	0.6666666666666666	1	0.2352941176470588	12
+http://sweetontology.net/humanJurisdiction#SAR		CHEBI:15611	sarcosine	id	hasRelatedSynonym	SAR	Sar	50.0	1.0	0.023809523809523808	2	0.5	8
+http://sweetontology.net/matrElementalMolecule#Br2		CHEBI:36889	diatomic bromine	id	hasRelatedSynonym	Br2	Br2	18.888888888888882	0.3333333333333333	0.06666666666666667	0	0.19966442953020125	744
+http://sweetontology.net/matrElement#Pb		CHEBI:60686	polybutadiene polymer	id	hasRelatedSynonym	Pb	PB	50.0	0.3	1.0	0	0.18519095869056898	14
+http://sweetontology.net/matrOrganicCompound#C3H4O		CHEBI:28905	prop-2-yn-1-ol	id	hasRelatedSynonym	C3H4O	C3H4O	23.286290322580644	0.375	0.14516129032258066	0	0.28339467417189873	6
+http://sweetontology.net/matrElement#Na		CHEBI:29102	natride	id	hasRelatedSynonym	Na	Na	30.76923076923077	0.23076923076923078	0.5	0	0.1803401871712549	9
+http://sweetontology.net/matrOrganicCompound#Hydrochlorofluorocarbon		CHEBI:134040	hydrochlorofluorocarbon	id	label	Hydrochlorofluorocarbon	hydrochlorofluorocarbon	19.696969696969695	0.3333333333333333	0.09090909090909091	0	0.5	3
+http://sweetontology.net/matrOrganicCompound#C12H10		CHEBI:51325	2-vinylnaphthalene	id	hasRelatedSynonym	C12H10	C12H10	23.376623376623375	0.16326530612244897	0.36363636363636365	0	0.15960980957021342	9
+http://sweetontology.net/matrOrganicCompound#C12H10		CHEBI:33077	heptalene	id	hasRelatedSynonym	C12H10	C12H10	22.142857142857142	0.14285714285714285	0.35	0	0.1511859585095633	9
+http://sweetontology.net/matrOrganicCompound#C12H10		CHEBI:51326	vinylnaphthalene	id	hasRelatedSynonym	C12H10	C12H10	23.376623376623375	0.16326530612244897	0.36363636363636365	0	0.15960980957021342	9
+http://sweetontology.net/matrOrganicCompound#C12H10		CHEBI:17097	biphenyl	id	hasRelatedSynonym	C12H10	C12H10	17.573696145124718	0.10204081632653061	0.2777777777777778	2	0.11998885595997087	9
+http://sweetontology.net/matrOrganicCompound#C12H10		CHEBI:80802	Capillene	id	hasRelatedSynonym	C12H10	C12H10	18.307322929171672	0.10204081632653061	0.29411764705882354	0	0.12499787840991275	9
+http://sweetontology.net/matrOrganicCompound#C12H10		CHEBI:51327	1-vinylnaphthalene	id	hasRelatedSynonym	C12H10	C12H10	23.376623376623375	0.16326530612244897	0.36363636363636365	0	0.15960980957021342	9
+http://sweetontology.net/matrOrganicCompound#C12H10		CHEBI:22154	acenaphthene	id	hasRelatedSynonym	C12H10	C12H10	18.307322929171672	0.10204081632653061	0.29411764705882354	0	0.054697780365887225	9
+http://sweetontology.net/matrOrganicCompound#Chlorophyll		CHEBI:28966	chlorophyll	id	hasExactSynonym	Chlorophyll	Chlorophyll	34.25	0.625	0.16	0	0.2690025706111458	9
+http://sweetontology.net/matrOrganicCompound#Chlorophyll		CHEBI:18230	chlorophyll a	id	hasRelatedSynonym	Chlorophyll	Chlorophyll	32.99418604651162	0.625	0.09302325581395349	1	0.23850179641206345	9
+http://sweetontology.net/matrElement#Si		CHEBI:37974	silicon-29 atom	id	hasRelatedSynonym	Si	Si	32.5	0.5	0.3	0	0.07358957498453722	21
+http://sweetontology.net/matrElement#Si		CHEBI:30584	silicon(4+)	id	hasRelatedSynonym	Si	Si	31.25	0.5	0.25	0	0.07075920671590118	21
+http://sweetontology.net/matrElement#Si		CHEBI:37975	silicon-28 atom	id	hasRelatedSynonym	Si	Si	32.5	0.5	0.3	0	0.07358957498453722	21
+http://sweetontology.net/matrElement#Si		CHEBI:27573	silicon atom	id	hasRelatedSynonym	Si	Si	44.44444444444444	0.8333333333333334	0.3333333333333333	0	0.055908509010094753	21
+http://sweetontology.net/matrElement#Si		CHEBI:90326	Ser-Ile	id	hasRelatedSynonym	Si	SI	18.29268292682927	0.3333333333333333	0.04878048780487805	2	0.04142002344345434	21
+http://sweetontology.net/matrElement#Si		CHEBI:50876	silicon nanotube	id	hasRelatedSynonym	Si	Si	31.818181818181817	0.5	0.2727272727272727	0	0.07204573774709937	21
+http://sweetontology.net/matrElement#Si		CHEBI:37976	silicon-30 atom	id	hasRelatedSynonym	Si	Si	32.5	0.5	0.3	0	0.07358957498453722	21
+http://sweetontology.net/matrElement#Si		CHEBI:37978	silicon-32 atom	id	hasRelatedSynonym	Si	Si	32.5	0.5	0.3	0	0.07358957498453722	21
+http://sweetontology.net/matrElement#Si		CHEBI:30582	silicon(1+)	id	hasRelatedSynonym	Si	Si	31.25	0.5	0.25	0	0.07075920671590118	21
+http://sweetontology.net/matrElement#Si		CHEBI:30583	silanetetrayl group	id	hasRelatedSynonym	Si	Si	29.166666666666664	0.5	0.16666666666666666	0	0.06604192626817443	21
+http://sweetontology.net/matrElement#Si		CHEBI:30586	silicide(4-)	id	hasRelatedSynonym	Si	Si	32.5	0.5	0.3	0	0.07358957498453722	21
+http://sweetontology.net/matrElement#O		CHEBI:29355	oxido group	id	hasRelatedSynonym	O	O	14.78174603174603	0.2857142857142857	0.013888888888888888	0	0.08185507219499819	744
+http://sweetontology.net/matrElement#N		CHEBI:33268	monoatomic nitrogen	id	hasRelatedSynonym	N	N	10.256410256410254	0.15384615384615385	0.06060606060606061	0	0.04170284086434171	744
+http://sweetontology.net/matrOrganicCompound#C3H6		CHEBI:45887	trimethylene group	id	hasRelatedSynonym	C3H6	C3H6	20.08695652173913	0.30434782608695654	0.14	2	0.17964292438543208	7
+http://sweetontology.net/matrOrganicCompound#Aldrin		CHEBI:2564	aldrin	id	label	Aldrin	aldrin	38.81987577639752	0.21739130434782608	0.7142857142857143	4	1.0	2
+http://sweetontology.net/matrElement#I		CHEBI:17191	L-isoleucine	id	hasRelatedSynonym	I	I	15.805471124620057	0.0425531914893617	0.2857142857142857	2	0.06543339266784193	23
+http://sweetontology.net/matrCompound#CO		CHEBI:85033	cobalt(1+)	id	hasRelatedSynonym	CO	Co	13.392857142857146	0.25	0.023809523809523808	0	0.07004141728161874	744
+http://sweetontology.net/matrCompound#BrO		CHEBI:29250	hypobromite	id	hasRelatedSynonym	BrO	BrO	20.919540229885058	0.2413793103448276	0.23333333333333334	2	0.1841335624073758	9
+http://sweetontology.net/matrCompound#Perchlorate		CHEBI:49706	perchlorate	id	hasExactSynonym	Perchlorate	perchlorate	38.793103448275865	0.75	0.10344827586206896	4	1.0	5
+http://sweetontology.net/matrElement#As		CHEBI:73394	Ala-Ser	id	hasRelatedSynonym	As	AS	34.05797101449275	0.043478260869565216	0.6666666666666666	2	0.10711955995833343	19
+http://sweetontology.net/stateRoleRepresentative#Indicator		CHEBI:47867	indicator	id	label	Indicator	indicator	50.0	0.15384615384615385	1.0	4	1.0	2
+http://sweetontology.net/matrOrganicCompound#Chlorofluorocarbon		CHEBI:134024	chlorofluorocarbon	id	label	Chlorofluorocarbon	chlorofluorocarbon	27.67857142857143	0.5	0.10714285714285714	0	0.44075829383886256	4
+http://sweetontology.net/matrElement#Sulfur		CHEBI:17909	polysulfur	id	hasRelatedSynonym	Sulfur	Sulfur	35.55555555555555	0.13333333333333333	0.6666666666666666	0	0.16378977113685136	744
+http://sweetontology.net/matrElement#S		CHEBI:17909	polysulfur	id	hasRelatedSynonym	S	S	25.0	0.2	0.375	0	0.011811567808506765	744
+http://sweetontology.net/reprSpaceCoordinate#S		CHEBI:17909	polysulfur	id	hasRelatedSynonym	S	S	50.0	0.06666666666666667	1.0	0	0.02380322665961386	744
+http://sweetontology.net/matrCompound#HO2		CHEBI:25935	hydroperoxyl	id	hasRelatedSynonym	HO2	HO2	21.428571428571434	0.35714285714285715	0.1111111111111111	0	0.11757887126665686	744
+http://sweetontology.net/matrCompound#Hydroperoxyl		CHEBI:25935	hydroperoxyl	id	hasExactSynonym	Hydroperoxyl	hydroperoxyl	19.04761904761904	0.07142857142857142	0.3333333333333333	2	0.4705882352941175	744
+http://sweetontology.net/matrElement#Th		CHEBI:33385	thorium	id	hasRelatedSynonym	Th	Th	42.1875	0.375	0.75	0	0.32676611314382215	4
+http://sweetontology.net/matrElement#H		CHEBI:15971	L-histidine	id	hasRelatedSynonym	H	H	4.355048389426552	0.06976744186046512	0.018633540372670808	2	0.018501311045317433	744
+http://sweetontology.net/matrElement#B		CHEBI:27560	boron atom	id	hasRelatedSynonym	B	B	40.0	0.2	0.75	0	0.039479095270733386	22
+http://sweetontology.net/matrElement#Boron		CHEBI:27560	boron atom	id	hasExactSynonym	Boron	boron	35.55555555555555	0.13333333333333333	0.6666666666666666	0	0.12549019607843137	22
+http://sweetontology.net/realmClimateZone#B		CHEBI:27560	boron atom	id	hasRelatedSynonym	B	B	18.888888888888882	0.06666666666666667	0.3333333333333333	0	0.017146247404331055	22
+http://sweetontology.net/matrOrganicCompound#EthanoicAcid		CHEBI:15366	acetic acid	id	hasRelatedSynonym	EthanoicAcid	Ethanoic acid	38.60294117647059	0.75	0.08823529411764706	4	1.0	3
+http://sweetontology.net/matrElement#I		CHEBI:52631	iodine-127 atom	id	hasRelatedSynonym	I	I	27.551020408163268	0.21428571428571427	0.42857142857142855	0	0.11405903199930141	23
+http://sweetontology.net/matrElement#Be		CHEBI:33785	monoatomic beryllium	id	hasRelatedSynonym	Be	Be	40.625	0.75	0.25	0	0.12551724137931033	12
+http://sweetontology.net/matrElement#Be		CHEBI:33783	beryllium(0)	id	hasRelatedSynonym	Be	Be	40.625	0.75	0.25	0	0.06645030425963488	12
+http://sweetontology.net/matrElement#Be		CHEBI:39132	beryllium cation	id	hasRelatedSynonym	Be	Be	40.17857142857143	0.75	0.21428571428571427	0	0.12413793103448277	12
+http://sweetontology.net/matrElement#Be		CHEBI:30503	beryllium(1+)	id	hasRelatedSynonym	Be	Be	40.17857142857143	0.75	0.21428571428571427	0	0.12413793103448277	12
+http://sweetontology.net/matrElement#Pb		CHEBI:27889	lead(0)	id	hasRelatedSynonym	Pb	Pb	36.36363636363637	0.18181818181818182	0.6666666666666666	0	0.03990646921278254	14
+http://sweetontology.net/matrMineral#Feldspar		CHEBI:48733	feldspar	id	hasExactSynonym	Feldspar	feldspar	50.0	1.0	0.6666666666666666	4	1.0	2
+http://sweetontology.net/matrCompound#NO2		CHEBI:29424	dioxidonitrogen(1+)	id	hasRelatedSynonym	NO2	NO2	20.156774916013436	0.1276595744680851	0.3157894736842105	0	0.1930892899252334	12
+http://sweetontology.net/matrCompound#NO2		CHEBI:29423	dioxidonitrate(.2-)	id	hasRelatedSynonym	NO2	NO2	18.844984802431608	0.1276595744680851	0.2857142857142857	0	0.18052316153327375	12
+http://sweetontology.net/matrCompound#NO2		CHEBI:29786	nitrosooxy group	id	hasRelatedSynonym	NO2	NO2	15.407190022010269	0.1276595744680851	0.20689655172413793	0	0.14759123885089678	12
+http://sweetontology.net/matrCompound#NO2		CHEBI:33101	nitrogen dioxide	id	hasRelatedSynonym	NO2	NO2	20.156774916013436	0.1276595744680851	0.3157894736842105	0	0.070451497675423	12
+http://sweetontology.net/matrOrganicCompound#C5H12O		CHEBI:77518	2-pentanol	id	hasRelatedSynonym	C5H12O	C5H12O	20.25	0.3	0.15	0	0.0989821515371485	12
+http://sweetontology.net/matrCompound#CO		CHEBI:48828	cobalt(2+)	id	hasRelatedSynonym	CO	Co	13.392857142857146	0.25	0.023809523809523808	0	0.07004141728161874	744
+http://sweetontology.net/matrElement#Radon		CHEBI:33314	radon atom	id	hasExactSynonym	Radon	radon	37.03703703703704	0.6666666666666666	0.2222222222222222	2	0.4705882352941177	9
+http://sweetontology.net/matrElement#Li		CHEBI:52458	lithium-7 atom	id	hasRelatedSynonym	Li	Li	41.666666666666664	0.3333333333333333	0.75	0	0.20653611233549526	8
+http://sweetontology.net/matrElement#C		CHEBI:29434	carbide(4-)	id	hasRelatedSynonym	C	C	11.446317657497785	0.21428571428571427	0.018633540372670808	0	0.015139634595986821	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:29434	carbide(4-)	id	hasRelatedSynonym	C	C	19.04761904761904	0.07142857142857142	0.3333333333333333	0	0.02522385030299982	744
+http://sweetontology.net/matrElement#Th		CHEBI:73663	Thr-His	id	hasRelatedSynonym	Th	TH	26.16279069767442	0.046511627906976744	0.5	2	0.3827751196172249	4
+http://sweetontology.net/matrElementalMolecule#C2		CHEBI:30083	dicarbon	id	hasRelatedSynonym	C2	C2	17.64705882352941	0.26666666666666666	0.11764705882352941	0	0.2	6
+http://sweetontology.net/matrElement#Mo		CHEBI:135936	Molybdenum Mo-99	id	hasRelatedSynonym	Mo	Mo	42.85714285714286	0.42857142857142855	0.75	0	0.15097626478914133	11
+http://sweetontology.net/matrElement#Argon		CHEBI:49475	argon atom	id	hasExactSynonym	Argon	argon	36.666666666666664	0.6666666666666666	0.2	0	0.23709025594970817	9
+http://sweetontology.net/matrElement#Argon		CHEBI:49474	argon(0)	id	hasRelatedSynonym	Argon	ARGON	36.11111111111111	0.6666666666666666	0.16666666666666666	1	0.2334979793444095	9
+http://sweetontology.net/matrElement#Sulfur		CHEBI:26833	sulfur atom	id	hasExactSynonym	Sulfur	sulfur	34.25925925925925	0.6666666666666666	0.05555555555555555	1	0.1300958256963013	744
+http://sweetontology.net/matrElement#Br		CHEBI:47265	bromo group	id	hasRelatedSynonym	Br	Br	10.888888888888893	0.12	0.1111111111111111	0	0.07556881144077719	744
+http://sweetontology.net/matrElementalMolecule#Br2		CHEBI:30074	dibromine(.1+)	id	hasRelatedSynonym	Br2	Br2	15.000000000000002	0.25	0.06666666666666667	2	0.15855704697986578	744
+http://sweetontology.net/matrElement#I		CHEBI:16382	iodide	id	hasRelatedSynonym	I	I	17.391304347826086	0.08695652173913043	0.2857142857142857	0	0.07199861601244147	23
+http://sweetontology.net/matr#Air		CHEBI:28843	5-amino-1-(5-phospho-D-ribosyl)imidazole	id	hasRelatedSynonym	Air	AIR	17.592592592592588	0.027777777777777776	0.3333333333333333	4	1.0	3
+http://sweetontology.net/stateChemical#Acid		CHEBI:37527	acid	id	hasExactSynonym	Acid	Acid	50.0	0.007142857142857143	1.0	4	1.0	2
+http://sweetontology.net/matrElement#As		CHEBI:27563	arsenic atom	id	hasRelatedSynonym	As	As	36.11111111111111	0.16666666666666666	0.6666666666666666	0	0.0567885610417406	19
+http://sweetontology.net/matrElement#Arsenic		CHEBI:27563	arsenic atom	id	hasExactSynonym	Arsenic	arsenic	36.11111111111111	0.16666666666666666	0.6666666666666666	2	0.5	19
+http://sweetontology.net/matrElement#B		CHEBI:30170	boranylidyne group	id	hasRelatedSynonym	B	B	39.375	0.15	0.75	0	0.06260748052050884	22
+http://sweetontology.net/realmClimateZone#B		CHEBI:30170	boranylidyne group	id	hasRelatedSynonym	B	B	18.33333333333333	0.05	0.3333333333333333	0	0.02643486008822329	22
+http://sweetontology.net/matrElement#Hydrogen		CHEBI:49637	hydrogen atom	id	hasExactSynonym	Hydrogen	hydrogen	33.48623853211009	0.6666666666666666	0.009174311926605505	1	0.20858813792413622	744
+http://sweetontology.net/matrElement#Hydrogen		CHEBI:18276	dihydrogen	id	hasRelatedSynonym	Hydrogen	Hydrogen	34.92063492063492	0.6666666666666666	0.09523809523809523	0	0.25417731007115285	744
+http://sweetontology.net/matrElement#Ch		CHEBI:29433	methanetriyl group	id	hasRelatedSynonym	Ch	CH	26.785714285714285	0.07142857142857142	0.5	0	0.15795206971677558	7
+http://sweetontology.net/matrCompound#ChlorineMonoxide		CHEBI:30198	dichloridooxygen	id	hasRelatedSynonym	ChlorineMonoxide	Chlorine monoxide	19.04761904761904	0.07142857142857142	0.3333333333333333	2	0.3505154639175257	11
+http://sweetontology.net/propCharge#Charge		http://purl.obolibrary.org/obo/chebi#CHARGE	CHARGE	id	label	Charge	CHARGE	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/matrPlant#Crown		CHEBI:37409	crown compound	id	hasExactSynonym	Crown	crown	50.0	1.0	0.058823529411764705	2	0.3333333333333333	4
+http://sweetontology.net/matrElement#I		CHEBI:43448	iodo group	id	hasRelatedSynonym	I	I	17.391304347826086	0.2857142857142857	0.08695652173913043	0	0.07199861601244147	23
+http://sweetontology.net/matrElement#I		CHEBI:33116	iodine(1+)	id	hasRelatedSynonym	I	I	17.857142857142854	0.14285714285714285	0.25	0	0.07392715036991757	23
+http://sweetontology.net/matrElement#I		CHEBI:52636	iodine-129 atom	id	hasRelatedSynonym	I	I	27.551020408163268	0.42857142857142855	0.21428571428571427	0	0.11405903199930141	23
+http://sweetontology.net/matrElement#I		CHEBI:30009	L-isoleucine residue	id	hasRelatedSynonym	I	I	15.805471124620057	0.2857142857142857	0.0425531914893617	0	0.06543339266784193	23
+http://sweetontology.net/matrElement#I		CHEBI:24859	iodine atom	id	hasRelatedSynonym	I	I	28.021978021978022	0.42857142857142855	0.23076923076923078	0	0.0508577081187099	23
+http://sweetontology.net/matrElement#Ne		CHEBI:49994	monoatomic neon	id	hasRelatedSynonym	Ne	Ne	41.25	0.3	0.75	0	0.21595594690218403	9
+http://sweetontology.net/matrElement#C		CHEBI:36930	carbon-10 atom	id	hasRelatedSynonym	C	C	11.446317657497785	0.21428571428571427	0.018633540372670808	0	0.015139634595986821	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:36930	carbon-10 atom	id	hasRelatedSynonym	C	C	19.04761904761904	0.07142857142857142	0.3333333333333333	0	0.02522385030299982	744
+http://sweetontology.net/reprSpaceDirection#Z		CHEBI:51097	benzyloxycarbonyl group	id	hasRelatedSynonym	Z	Z	26.666666666666668	0.06666666666666667	0.5	0	0.13164099734109264	7
+http://sweetontology.net/reprSpaceCoordinate#Z		CHEBI:51097	benzyloxycarbonyl group	id	hasRelatedSynonym	Z	Z	50.0	0.06666666666666667	1.0	0	0.24193548387096772	7
+http://sweetontology.net/matrElement#Al		CHEBI:33629	aluminium(0)	id	hasRelatedSynonym	Al	Al	37.5	0.25	0.6666666666666666	0	0.10142218801781074	17
+http://sweetontology.net/reprSpaceGeometry#Cluster		CHEBI:33731	cluster	id	hasExactSynonym	Cluster	cluster	50.0	0.125	1.0	0	0.5	6
+http://sweetontology.net/reprDataServiceAnalysis#Cluster		CHEBI:33731	cluster	id	hasExactSynonym	Cluster	cluster	50.0	0.125	1.0	2	0.5	6
+http://sweetontology.net/matrElement#F		CHEBI:28044	phenylalanine	id	hasRelatedSynonym	F	F	8.333333333333332	0.038461538461538464	0.13333333333333333	0	0.04325753386158873	37
+http://sweetontology.net/matrCompound#Phosphate		CHEBI:43474	hydrogenphosphate	id	hasRelatedSynonym	Phosphate	phosphate	34.40860215053763	0.06451612903225806	0.6666666666666666	0	0.2	8
+http://sweetontology.net/matrIon#Anion		CHEBI:22563	anion	id	hasExactSynonym	Anion	Anion	50.0	1.0	0.012195121951219513	4	1.0	2
+http://sweetontology.net/matrElementalMolecule#Cl2		CHEBI:29413	dichloride(.1-)	id	hasRelatedSynonym	Cl2	Cl2	20.761245674740486	0.23529411764705882	0.23529411764705882	2	0.24480636496548908	744
+http://sweetontology.net/matrElementalMolecule#Cl2		CHEBI:29310	dichlorine	id	hasRelatedSynonym	Cl2	Cl2	21.323529411764707	0.23529411764705882	0.25	0	0.09449234880970836	744
+http://sweetontology.net/matrElementalMolecule#Cl2		CHEBI:33435	diatomic chlorine	id	hasRelatedSynonym	Cl2	Cl2	21.96078431372549	0.23529411764705882	0.26666666666666666	0	0.25895073271905067	744
+http://sweetontology.net/matrElementalMolecule#Cl2		CHEBI:29419	dichlorine(.1+)	id	hasRelatedSynonym	Cl2	Cl2	20.761245674740486	0.23529411764705882	0.23529411764705882	0	0.24480636496548908	744
+http://sweetontology.net/matrElement#Hg		CHEBI:16793	mercury(2+)	id	hasRelatedSynonym	Hg	Hg	40.38461538461539	0.23076923076923078	0.75	0	0.22972851023342095	10
+http://sweetontology.net/matrElement#H		CHEBI:49637	hydrogen atom	id	hasRelatedSynonym	H	H	45.09943586529147	0.21100917431192662	0.8757763975155279	0	0.1099533217453846	744
+http://sweetontology.net/matrElementalMolecule#C2		CHEBI:33420	diatomic carbon	id	hasRelatedSynonym	C2	C2	17.64705882352941	0.11764705882352941	0.26666666666666666	0	0.2	6
+http://sweetontology.net/matrElementalMolecule#C2		CHEBI:30082	dicarbide(1.-)	id	hasRelatedSynonym	C2	C2	17.64705882352941	0.11764705882352941	0.26666666666666666	0	0.2	6
+http://sweetontology.net/matrElementalMolecule#C2		CHEBI:30084	dicarbon(1+)	id	hasRelatedSynonym	C2	C2	17.64705882352941	0.11764705882352941	0.26666666666666666	0	0.2	6
+http://sweetontology.net/matrOrganicCompound#C5H12O		CHEBI:48945	2-methylbutan-1-ol	id	hasRelatedSynonym	C5H12O	C5H12O	20.53333333333334	0.32	0.13333333333333333	0	0.10036708699075471	12
+http://sweetontology.net/matrCompound#Fe3O4		CHEBI:50821	ferrosoferric oxide	id	hasRelatedSynonym	Fe3O4	Fe3O4	17.647058823529417	0.23529411764705882	0.15384615384615385	2	0.3959390862944163	5
+http://sweetontology.net/matrOrganicCompound#Xylene		CHEBI:27338	xylene	id	hasExactSynonym	Xylene	xylene	41.333333333333336	0.13333333333333333	0.8	0	0.6786213320912902	10
+http://sweetontology.net/matrElement#Br		CHEBI:22972	butyryl group	id	hasRelatedSynonym	Br	Br	6.690561529271205	0.06451612903225806	0.07407407407407407	2	0.04643244942597674	744
+http://sweetontology.net/matrElement#Se		CHEBI:29215	selenide(.1-)	id	hasRelatedSynonym	Se	Se	39.84375	0.1875	0.75	0	0.16681921233831473	11
+http://sweetontology.net/matrElement#Chlorine		CHEBI:29310	dichlorine	id	hasRelatedSynonym	Chlorine	chlorine	35.416666666666664	0.125	0.6666666666666666	0	0.3181248498121483	744
+http://sweetontology.net/matrCompound#HClO4		CHEBI:29221	perchloric acid	id	hasRelatedSynonym	HClO4	HClO4	24.696048632218847	0.35714285714285715	0.2127659574468085	2	0.41702309666381526	5
+http://sweetontology.net/matrCompound#PerchloricAcid		CHEBI:29221	perchloric acid	id	hasExactSynonym	PerchloricAcid	perchloric acid	34.523809523809526	0.07142857142857142	0.6666666666666666	0	0.5829769033361848	5
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:64280	(E)-beta-ocimene	id	hasRelatedSynonym	C10H16	C10H16	21.527777777777775	0.3333333333333333	0.14583333333333334	0	0.01784762073083825	57
+http://sweetontology.net/matrElement#Pb		CHEBI:53319	polybutadiene macromolecule	id	hasRelatedSynonym	Pb	PB	37.5	0.25	0.6666666666666666	0	0.13889321901792673	14
+http://sweetontology.net/matrElement#N		CHEBI:36934	nitrogen-15 atom	id	hasRelatedSynonym	N	N	10.256410256410254	0.15384615384615385	0.06060606060606061	0	0.04170284086434171	744
+http://sweetontology.net/matrElement#Ch		CHEBI:29429	methylidyne group	id	hasRelatedSynonym	Ch	CH	26.785714285714285	0.5	0.07142857142857142	0	0.15795206971677558	7
+http://sweetontology.net/matrElement#Ch		CHEBI:51382	hydridocarbon	id	hasRelatedSynonym	Ch	CH	31.25	0.25	0.5	0	0.18427741466957154	7
+http://sweetontology.net/matrElement#Ch		CHEBI:51383	hydridocarbon(3.)	id	hasRelatedSynonym	Ch	CH	31.25	0.25	0.5	0	0.18427741466957154	7
+http://sweetontology.net/matrElement#Ch		CHEBI:29430	hydridocarbon(.)	id	hasRelatedSynonym	Ch	CH	26.724137931034488	0.5	0.06896551724137931	2	0.15758896151053017	7
+http://sweetontology.net/matrOrganicCompound#CalciumCarbonate		CHEBI:3311	calcium carbonate	id	hasExactSynonym	CalciumCarbonate	Calcium carbonate	26.351351351351347	0.05405405405405406	0.5	0	0.5616	3
+http://sweetontology.net/matrOrganicCompound#CaCO3		CHEBI:3311	calcium carbonate	id	hasRelatedSynonym	CaCO3	CaCO3	20.570570570570567	0.24324324324324326	0.2222222222222222	2	0.4384	3
+http://sweetontology.net/matrCompound#NO3		CHEBI:29794	nitrooxy group	id	hasRelatedSynonym	NO3	NO3	14.824982841455048	0.1935483870967742	0.1276595744680851	2	0.11070651278496438	12
+http://sweetontology.net/stateRoleChemical#Inhibitor		CHEBI:35222	inhibitor	id	hasExactSynonym	Inhibitor	inhibitor	33.734939759036145	0.6666666666666666	0.024096385542168676	4	1.0	2
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:50031	alpha-thujene	id	hasRelatedSynonym	C10H16	C10H16	21.527777777777775	0.3333333333333333	0.14583333333333334	0	0.01784762073083825	57
+http://sweetontology.net/reprSpaceDirection#Y		CHEBI:49978	yttrium(2+)	id	hasRelatedSynonym	Y	Y	33.33333333333333	0.3333333333333333	0.5	0	0.06912783351348059	24
+http://sweetontology.net/matrElementalMolecule#H2		CHEBI:29299	diprotium	id	hasRelatedSynonym	H2	H2	15.61969439728353	0.21052631578947367	0.12903225806451613	1	0.11137766206060712	744
+http://sweetontology.net/matrIsotope#H2		CHEBI:29299	diprotium	id	hasRelatedSynonym	H2	H2	18.045112781954884	0.21052631578947367	0.19047619047619047	0	0.12845183592830256	744
+http://sweetontology.net/matrOrganicCompound#C7H8		CHEBI:37519	cyclohepta-1,3,5-triene	id	hasRelatedSynonym	C7H8	C7H8	23.597678916827853	0.1702127659574468	0.36363636363636365	0	0.25907050115277275	6
+http://sweetontology.net/matrOrganicCompound#C7H8		CHEBI:51732	cycloheptatriene	id	hasRelatedSynonym	C7H8	C7H8	23.597678916827853	0.1702127659574468	0.36363636363636365	0	0.25907050115277275	6
+http://sweetontology.net/matrOrganicCompound#C7H8		CHEBI:17578	toluene	id	hasRelatedSynonym	C7H8	C7H8	19.574468085106382	0.1702127659574468	0.26666666666666666	1	0.06906463061113033	6
+http://sweetontology.net/matrElement#As		CHEBI:35827	monoatomic arsenic	id	hasRelatedSynonym	As	As	35.89743589743589	0.6666666666666666	0.15384615384615385	0	0.11290506810665585	19
+http://sweetontology.net/matrElement#As		CHEBI:47217	arsane	id	hasRelatedSynonym	As	As	34.92063492063492	0.6666666666666666	0.09523809523809523	0	0.10983282135545434	19
+http://sweetontology.net/matrElement#As		CHEBI:35828	arsenic(3+)	id	hasRelatedSynonym	As	As	35.89743589743589	0.6666666666666666	0.15384615384615385	0	0.11290506810665585	19
+http://sweetontology.net/matrElement#As		CHEBI:63918	artesunate	id	hasRelatedSynonym	As	AS	34.34343434343434	0.6666666666666666	0.06060606060606061	0	0.10801740282065345	19
+http://sweetontology.net/matrElement#As		CHEBI:29752	arsenide(3-)	id	hasRelatedSynonym	As	As	35.89743589743589	0.6666666666666666	0.15384615384615385	0	0.11290506810665585	19
+http://sweetontology.net/matrElement#As		CHEBI:29766	arsanetriyl group	id	hasRelatedSynonym	As	As	34.92063492063492	0.6666666666666666	0.09523809523809523	0	0.10983282135545434	19
+http://sweetontology.net/matrElement#As		CHEBI:35829	arsenic(5+)	id	hasRelatedSynonym	As	As	35.89743589743589	0.6666666666666666	0.15384615384615385	0	0.11290506810665585	19
+http://sweetontology.net/matrElement#Fe		CHEBI:18248	iron atom	id	hasRelatedSynonym	Fe	Fe	43.42105263157895	0.21052631578947367	0.8333333333333334	0	0.1126131215362048	11
+http://sweetontology.net/matrElement#Iron		CHEBI:18248	iron atom	id	hasExactSynonym	Iron	iron	35.08771929824561	0.10526315789473684	0.6666666666666666	2	0.4469273743016759	11
+http://sweetontology.net/matrElement#N		CHEBI:30222	neutron	id	hasRelatedSynonym	N	n	25.757575757575758	0.030303030303030304	0.5	0	0.035608539347120875	744
+http://sweetontology.net/matrElement#N		CHEBI:25555	nitrogen atom	id	hasRelatedSynonym	N	N	41.80035650623886	0.8181818181818182	0.09803921568627451	0	0.09414789691015867	744
+http://sweetontology.net/matrElement#N		CHEBI:30228	azanetriyl group	id	hasRelatedSynonym	N	N	6.269592476489027	0.06060606060606061	0.06896551724137931	0	0.025492332189801358	744
+http://sweetontology.net/matrElement#N		CHEBI:50347	L-asparagine residue	id	hasRelatedSynonym	N	N	5.266955266955264	0.06060606060606061	0.047619047619047616	0	0.021415582240400577	744
+http://sweetontology.net/matrElement#N		CHEBI:36938	nitrogen-14 atom	id	hasRelatedSynonym	N	N	10.256410256410254	0.06060606060606061	0.15384615384615385	0	0.04170284086434171	744
+http://sweetontology.net/matrElement#N		CHEBI:30227	azanediidyl group	id	hasRelatedSynonym	N	N	16.45021645021645	0.06060606060606061	0.2857142857142857	0	0.0668870239837169	744
+http://sweetontology.net/matrElement#N		CHEBI:29352	nitrogen(1+)	id	hasRelatedSynonym	N	N	9.292929292929292	0.06060606060606061	0.13333333333333333	0	0.03778530126799446	744
+http://sweetontology.net/matrElement#N		CHEBI:17196	L-asparagine	id	hasRelatedSynonym	N	N	5.266955266955264	0.06060606060606061	0.047619047619047616	2	0.021415582240400577	744
+http://sweetontology.net/matrElement#N		CHEBI:29351	nitrogen(.)	id	hasRelatedSynonym	N	N	10.256410256410254	0.06060606060606061	0.15384615384615385	0	0.04170284086434171	744
+http://sweetontology.net/matrElement#N		CHEBI:33792	canonical ribonucleoside residue	id	hasRelatedSynonym	N	N	9.292929292929292	0.06060606060606061	0.13333333333333333	0	0.03778530126799446	744
+http://sweetontology.net/matrElement#N		CHEBI:36937	nitrogen-17 atom	id	hasRelatedSynonym	N	N	10.256410256410254	0.06060606060606061	0.15384615384615385	0	0.04170284086434171	744
+http://sweetontology.net/matrElement#N		CHEBI:30226	azanidylidene group	id	hasRelatedSynonym	N	N	6.269592476489027	0.06060606060606061	0.06896551724137931	0	0.025492332189801358	744
+http://sweetontology.net/matrElement#N		CHEBI:29240	nitride(3-)	id	hasRelatedSynonym	N	N	10.256410256410254	0.06060606060606061	0.15384615384615385	0	0.04170284086434171	744
+http://sweetontology.net/matrElement#N		CHEBI:30230	azanylidyne group	id	hasRelatedSynonym	N	N	16.45021645021645	0.06060606060606061	0.2857142857142857	0	0.0668870239837169	744
+http://sweetontology.net/matrElement#N		CHEBI:22653	asparagine	id	hasRelatedSynonym	N	N	5.3215077605321515	0.06060606060606061	0.04878048780487805	0	0.021637394151343598	744
+http://sweetontology.net/matrElement#N		CHEBI:36936	nitrogen-16 atom	id	hasRelatedSynonym	N	N	10.256410256410254	0.06060606060606061	0.15384615384615385	0	0.04170284086434171	744
+http://sweetontology.net/matrElement#N		CHEBI:36935	nitrogen-13 atom	id	hasRelatedSynonym	N	N	10.256410256410254	0.06060606060606061	0.15384615384615385	0	0.04170284086434171	744
+http://sweetontology.net/matrElement#He		CHEBI:37003	helium-6 atom	id	hasRelatedSynonym	He	He	41.25	0.3	0.75	0	0.08694608824839892	744
+http://sweetontology.net/matrElement#Ne		CHEBI:73824	Asn-Glu	id	hasRelatedSynonym	Ne	NE	26.21951219512195	0.04878048780487805	0.5	2	0.13726689899177996	9
+http://sweetontology.net/matrMineral#Calcite		CHEBI:46719	calcite	id	hasExactSynonym	Calcite	calcite	50.0	1.0	0.05	4	1.0	2
+http://sweetontology.net/matrOrganicCompound#MethaneIce		CHEBI:132140	methane clathrate	id	hasRelatedSynonym	MethaneIce	methane ice	31.463414634146336	0.6	0.07317073170731707	0	0.25	6
+http://sweetontology.net/matrSediment#Bentonite		CHEBI:133354	bentonite	id	label	Bentonite	bentonite	50.0	1.0	0.75	4	1.0	2
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:90064	2,6-Dimethyl-2,4,6-octatriene	id	hasRelatedSynonym	C10H16	C10H16	23.02631578947369	0.3684210526315789	0.14583333333333334	0	0.019089984822458574	57
+http://sweetontology.net/matrOrganicCompound#Toluene		CHEBI:17578	toluene	id	hasExactSynonym	Toluene	TOLUENE	41.333333333333336	0.13333333333333333	0.8	0	0.6786213320912902	6
+http://sweetontology.net/matrElement#Cu		CHEBI:28694	copper atom	id	hasRelatedSynonym	Cu	Cu	40.38461538461539	0.75	0.23076923076923078	0	0.07604409752957271	11
+http://sweetontology.net/matrElement#Cu		CHEBI:52630	copper-63	id	hasRelatedSynonym	Cu	Cu	40.38461538461539	0.75	0.23076923076923078	0	0.14363885088919287	11
+http://sweetontology.net/matrElement#Cu		CHEBI:29036	copper(2+)	id	hasRelatedSynonym	Cu	Cu	40.0	0.75	0.2	0	0.1422708618331053	11
+http://sweetontology.net/matrElement#Cu		CHEBI:29037	copper(3+)	id	hasRelatedSynonym	Cu	Cu	40.0	0.75	0.2	0	0.1422708618331053	11
+http://sweetontology.net/matrElement#Cu		CHEBI:49552	copper(1+)	id	hasRelatedSynonym	Cu	Cu	40.0	0.75	0.2	0	0.1422708618331053	11
+http://sweetontology.net/matrElement#Fluorine		CHEBI:24061	fluorine atom	id	hasExactSynonym	Fluorine	fluorine	34.66666666666667	0.6666666666666666	0.08	0	0.3572812797293965	37
+http://sweetontology.net/matrElement#H		CHEBI:29305	protium(.)	id	hasRelatedSynonym	H	H	12.255136168179654	0.23076923076923078	0.018633540372670808	0	0.05206281673027901	744
+http://sweetontology.net/matrCompound#HClO		CHEBI:24757	hypochlorous acid	id	hasRelatedSynonym	HClO	HClO	22.263868065967014	0.1956521739130435	0.3103448275862069	2	0.2817836812144212	11
+http://sweetontology.net/matrElement#P		CHEBI:37971	phosphorus-31 atom	id	hasRelatedSynonym	P	P	10.256410256410254	0.15384615384615385	0.06060606060606061	0	0.08260902840576842	744
+http://sweetontology.net/matrElement#O		CHEBI:33264	monoatomic oxygen	id	hasRelatedSynonym	O	O	11.532738095238098	0.21428571428571427	0.020833333333333332	0	0.06386343719911773	744
+http://sweetontology.net/matrElement#Nonmetal		CHEBI:25585	nonmetal atom	id	hasExactSynonym	Nonmetal	nonmetal	47.58819192377496	0.9396551724137931	0.20065789473684212	4	1.0	744
+http://sweetontology.net/matr#ChemicalSubstance		CHEBI:59999	chemical substance	id	label	ChemicalSubstance	chemical substance	26.455284552845526	0.52	0.018970189701897018	4	1.0	3
+http://sweetontology.net/matrOrganicCompound#Pheophytin		CHEBI:8108	pheophytin	id	hasExactSynonym	Pheophytin	pheophytin	20.175438596491226	0.3333333333333333	0.10526315789473684	4	1.0	2
+http://sweetontology.net/matrCompound#PO		CHEBI:37343	polonium-213 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.375	0.09375	0	0.03333333333333333	31
+http://sweetontology.net/matrElement#Sb		CHEBI:30513	antimony atom	id	hasRelatedSynonym	Sb	Sb	37.03703703703704	0.2222222222222222	0.6666666666666666	0	0.10036496350364962	9
+http://sweetontology.net/matrElement#Antimony		CHEBI:30513	antimony atom	id	hasExactSynonym	Antimony	antimony	37.03703703703704	0.2222222222222222	0.6666666666666666	0	0.25	9
+http://sweetontology.net/stateRoleBiological#BiologicalRole		CHEBI:24432	biological role	id	label	BiologicalRole	biological role	39.61538461538461	0.03076923076923077	0.7857142857142857	4	1.0	2
+http://sweetontology.net/matrElement#Ha		CHEBI:33357	hassium atom	id	hasRelatedSynonym	Ha	Ha	15.045592705167172	0.2857142857142857	0.02127659574468085	0	0.42708333333333337	744
+http://sweetontology.net/matrCompound#HBrO		CHEBI:29249	hypobromous acid	id	hasRelatedSynonym	HBrO	HBrO	22.433035714285715	0.1875	0.32142857142857145	4	1.0	9
+http://sweetontology.net/matrCompound#PeroxynitricAcid		CHEBI:29271	peroxynitric acid	id	hasExactSynonym	PeroxynitricAcid	peroxynitric acid	34.66666666666667	0.6666666666666666	0.08	0	0.6253164556962024	4
+http://sweetontology.net/matrElement#He		CHEBI:33316	helium(2+)	id	hasRelatedSynonym	He	He	40.38461538461539	0.23076923076923078	0.75	0	0.08512204443899196	744
+http://sweetontology.net/matrCompound#NO		CHEBI:15429	hydroxylamine	id	hasRelatedSynonym	NO	NO	10.86647727272727	0.09375	0.13636363636363635	2	0.11253073318343242	12
+http://sweetontology.net/matrElement#C		CHEBI:64656	cytidine residue	id	hasRelatedSynonym	C	C	4.805491990846683	0.07894736842105263	0.018633540372670808	1	0.0036408944277676494	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:64656	cytidine residue	id	hasRelatedSynonym	C	C	17.5438596491228	0.02631578947368421	0.3333333333333333	0	0.029196368850360182	744
+http://sweetontology.net/stateRoleBiological#Carcinogen		CHEBI:50903	carcinogenic agent	id	hasRelatedSynonym	Carcinogen	carcinogen	50.0	1.0	0.13636363636363635	4	1.0	2
+http://sweetontology.net/matrOrganicCompound#Ethane		CHEBI:42266	ethane	id	hasExactSynonym	Ethane	ETHANE	32.857142857142854	0.14285714285714285	0.6	0	0.349973266537819	4
+http://sweetontology.net/matrOrganicCompound#C2H6		CHEBI:42266	ethane	id	hasRelatedSynonym	C2H6	C2H6	23.719676549865227	0.38095238095238093	0.1509433962264151	2	0.41924726060028583	4
+http://sweetontology.net/matrIsotope#Tritium		CHEBI:29298	ditritium	id	hasRelatedSynonym	Tritium	Tritium	35.08771929824561	0.10526315789473684	0.6666666666666666	2	0.4976671850699844	22
+http://sweetontology.net/matrElement#Ne		CHEBI:49996	neon(.1+)	id	hasRelatedSynonym	Ne	Ne	40.625	0.25	0.75	0	0.2126838871006358	9
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:50030	thujene	id	hasRelatedSynonym	C10H16	C10H16	21.527777777777775	0.3333333333333333	0.14583333333333334	0	0.01784762073083825	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:50025	beta-pinene	id	hasRelatedSynonym	C10H16	C10H16	22.222222222222214	0.3333333333333333	0.16666666666666666	0	0.018423350431833026	57
+http://sweetontology.net/matrElement#Cd		CHEBI:22977	cadmium atom	id	hasRelatedSynonym	Cd	Cd	42.1875	0.375	0.75	0	0.1263005279619211	7
+http://sweetontology.net/matrElement#Al		CHEBI:30151	aluminide(1-)	id	hasRelatedSynonym	Al	Al	36.666666666666664	0.2	0.6666666666666666	0	0.09916836161741494	17
+http://sweetontology.net/matrCompound#CO		CHEBI:27638	cobalt atom	id	hasRelatedSynonym	CO	Co	11.038961038961043	0.18181818181818182	0.047619047619047616	0	0.057731107577576664	744
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:89	(-)-camphene	id	hasRelatedSynonym	C10H16	C10H16	22.826086956521735	0.34782608695652173	0.16666666666666666	0	0.018923984954437187	57
+http://sweetontology.net/matrElement#Zinc		CHEBI:27363	zinc atom	id	hasExactSynonym	Zinc	zinc	36.11111111111111	0.6666666666666666	0.16666666666666666	2	0.5	5
+http://sweetontology.net/matrElement#Zinc		CHEBI:30185	zinc(0)	id	hasRelatedSynonym	Zinc	zinc	36.11111111111111	0.6666666666666666	0.16666666666666666	0	0.5	5
+http://sweetontology.net/matrCompound#NAT		CHEBI:82508	N'-Nitrosoanatabine	id	hasRelatedSynonym	NAT	NAT	18.421052631578945	0.05263157894736842	0.3333333333333333	4	1.0	2
+http://sweetontology.net/matrElement#Na		CHEBI:33696	nucleic acid	id	hasRelatedSynonym	Na	NA	19.696969696969695	0.09090909090909091	0.3333333333333333	2	0.11544504406038665	9
+http://sweetontology.net/matrMineral#Magnetite		CHEBI:46726	magnetite	id	hasExactSynonym	Magnetite	magnetite	50.0	1.0	0.08333333333333333	0	0.3939393939393939	5
+http://sweetontology.net/matrElement#Li		CHEBI:49713	lithium(1+)	id	hasRelatedSynonym	Li	Li	25.0	0.3333333333333333	0.25	0	0.12392166740129716	8
+http://sweetontology.net/matrCompound#Ammonia		CHEBI:16134	ammonia	id	hasExactSynonym	Ammonia	AMMONIA	33.76068376068376	0.6666666666666666	0.02564102564102564	0	0.7510803802938634	744
+http://sweetontology.net/matrCompound#NitrogenDioxide		CHEBI:33101	nitrogen dioxide	id	hasExactSynonym	NitrogenDioxide	NITROGEN DIOXIDE	35.08771929824561	0.6666666666666666	0.10526315789473684	0	0.6351351351351351	12
+http://sweetontology.net/matr#GreenhouseGas		CHEBI:76413	greenhouse gas	id	label	GreenhouseGas	greenhouse gas	25.83333333333333	0.03333333333333333	0.5	4	1.0	2
+http://sweetontology.net/matrElementalMolecule#C3		CHEBI:73403	allene core	id	hasRelatedSynonym	C3	C3	17.29729729729729	0.26666666666666666	0.10810810810810811	0	0.5	3
+http://sweetontology.net/matrElement#Na		CHEBI:26708	sodium atom	id	hasRelatedSynonym	Na	Na	44.44444444444444	0.3333333333333333	0.8333333333333334	0	0.14371938287977404	9
+http://sweetontology.net/matrElement#Sodium		CHEBI:26708	sodium atom	id	hasExactSynonym	Sodium	sodium	36.11111111111111	0.16666666666666666	0.6666666666666666	2	0.4482758620689655	9
+http://sweetontology.net/matrElement#Chromium		CHEBI:28073	chromium atom	id	hasExactSynonym	Chromium	chromium	36.36363636363637	0.18181818181818182	0.6666666666666666	4	1.0	2
+http://sweetontology.net/matrOrganicCompound#MethylBromide		CHEBI:39275	bromomethane	id	hasRelatedSynonym	MethylBromide	methyl bromide	26.47058823529412	0.5	0.058823529411764705	4	1.0	2
+http://sweetontology.net/stateSpaceConfiguration#Base		CHEBI:22695	base	id	hasExactSynonym	Base	Base	50.0	0.0136986301369863	1.0	0	0.16666666666666666	744
+http://sweetontology.net/matrFacility#Base		CHEBI:22695	base	id	hasExactSynonym	Base	Base	50.0	0.0136986301369863	1.0	0	0.16666666666666666	744
+http://sweetontology.net/matrElement#O		CHEBI:29356	oxide(2-)	id	hasRelatedSynonym	O	O	11.532738095238098	0.21428571428571427	0.020833333333333332	0	0.06386343719911773	744
+http://sweetontology.net/matrWater#Hydrate		CHEBI:35505	hydrate	id	label	Hydrate	hydrate	50.0	1.0	0.034482758620689655	2	0.5	3
+http://sweetontology.net/matrElement#Ar		CHEBI:49990	monoatomic argon	id	hasRelatedSynonym	Ar	Ar	41.25	0.3	0.75	0	0.2172917263097624	9
+http://sweetontology.net/realmClimateZone#Am		CHEBI:73806	Ala-Met	id	hasRelatedSynonym	Am	AM	7.3170731707317085	0.024390243902439025	0.125	2	0.3843843843843844	3
+http://sweetontology.net/reprSpaceCoordinate#S		CHEBI:15138	sulfide(2-)	id	hasRelatedSynonym	S	S	50.0	0.04	1.0	0	0.036297640653357534	744
+http://sweetontology.net/matrElement#S		CHEBI:15138	sulfide(2-)	id	hasRelatedSynonym	S	S	22.499999999999996	0.12	0.375	0	0.01458932272071421	744
+http://sweetontology.net/humanEnvirStandards#ADI		CHEBI:60246	alpha-D-GalNAc-(1->3)-D-Gal	id	hasRelatedSynonym	ADI	Adi	50.0	1.0	0.05555555555555555	4	1.0	3
+http://sweetontology.net/matrOrganicCompound#Benzol		CHEBI:16716	benzene	id	hasRelatedSynonym	Benzol	Benzol	41.29032258064516	0.8	0.12903225806451613	0	0.4066390041493776	6
+http://sweetontology.net/matrElementalMolecule#O2		CHEBI:29369	peroxy group	id	hasRelatedSynonym	O2	O2	22.079772079772077	0.38461538461538464	0.09259259259259259	0	0.15657408119602395	744
+http://sweetontology.net/matrOrganicCompound#CarbonTetrafluoride		CHEBI:38825	tetrafluoromethane	id	hasRelatedSynonym	CarbonTetrafluoride	carbon tetrafluoride	26.515151515151516	0.5	0.06060606060606061	0	0.6130790190735695	3
+http://sweetontology.net/matrOrganicCompound#GasHydrate		CHEBI:132140	methane clathrate	id	hasRelatedSynonym	GasHydrate	gas hydrate	31.463414634146336	0.07317073170731707	0.6	2	0.25	6
+http://sweetontology.net/matrOrganicCompound#MethaneClathrate		CHEBI:132140	methane clathrate	id	label	MethaneClathrate	methane clathrate	31.463414634146336	0.07317073170731707	0.6	0	0.25	6
+http://sweetontology.net/matrOrganicCompound#MethaneHydrate		CHEBI:132140	methane clathrate	id	hasRelatedSynonym	MethaneHydrate	methane hydrate	31.463414634146336	0.07317073170731707	0.6	0	0.25	6
+http://sweetontology.net/matrCompound#BrO		CHEBI:29871	bromosyl group	id	hasRelatedSynonym	BrO	BrO	21.60493827160494	0.25925925925925924	0.23333333333333334	0	0.19016642841217588	9
+http://sweetontology.net/matrElement#H		CHEBI:29236	protium atom	id	hasRelatedSynonym	H	H	9.590792838874684	0.17647058823529413	0.018633540372670808	0	0.04074403442084098	744
+http://sweetontology.net/reprSpaceCoordinate#RA		CHEBI:80504	Radium-226	id	hasRelatedSynonym	RA	Ra	50.0	0.07142857142857142	1.0	0	0.2	7
+http://sweetontology.net/matrCompound#PO		CHEBI:37357	polonium-197 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.375	0.09375	0	0.03333333333333333	31
+http://sweetontology.net/matrCompound#Silicate		CHEBI:29241	silicate(4-)	id	hasExactSynonym	Silicate	silicate	21.21212121212121	0.2692307692307692	0.21212121212121213	4	1.0	6
+http://sweetontology.net/reprSpaceDirection#Y		CHEBI:18186	tyrosine	id	hasRelatedSynonym	Y	Y	25.581395348837212	0.023255813953488372	0.5	0	0.0448898095981994	24
+http://sweetontology.net/matrIon#Carbonate		CHEBI:41609	carbonate	id	hasExactSynonym	Carbonate	carbonate	50.0	1.0	0.06451612903225806	0	0.5923566878980892	7
+http://sweetontology.net/reprSpaceCoordinate#S		CHEBI:37980	sulfur-33 atom	id	hasRelatedSynonym	S	S	50.0	0.06666666666666667	1.0	0	0.03508771929824561	744
+http://sweetontology.net/matrElement#S		CHEBI:37980	sulfur-33 atom	id	hasRelatedSynonym	S	S	25.0	0.2	0.375	0	0.017411125880687744	744
+http://sweetontology.net/matrCompound#ChlorineMonoxide		CHEBI:29314	oxidochlorine(.)	id	hasRelatedSynonym	ChlorineMonoxide	chlorine monoxide	35.29411764705882	0.11764705882352941	0.6666666666666666	0	0.3828540423223006	11
+http://sweetontology.net/matrCompound#ClO		CHEBI:29314	oxidochlorine(.)	id	hasRelatedSynonym	ClO	ClO	24.57983193277311	0.35294117647058826	0.21428571428571427	0	0.11484798074540759	11
+http://sweetontology.net/matrCompound#PO		CHEBI:37365	polonium-205 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.375	0.09375	0	0.03333333333333333	31
+http://sweetontology.net/matrNaturalResource#FossilFuel		CHEBI:35230	fossil fuel	id	hasExactSynonym	FossilFuel	fossil fuel	14.70588235294118	0.25	0.058823529411764705	4	1.0	744
+http://sweetontology.net/matrElement#C		CHEBI:17561	L-cysteine	id	hasRelatedSynonym	C	C	5.674760022586112	0.09090909090909091	0.024844720496894408	0	0.004912460548489161	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:17561	L-cysteine	id	hasRelatedSynonym	C	C	17.42424242424242	0.022727272727272728	0.3333333333333333	0	0.02786493705897349	744
+http://sweetontology.net/matrElement#AlkaliMetal		CHEBI:22314	alkali metal atom	id	hasRelatedSynonym	AlkaliMetal	alkali metal	40.06211180124224	0.6521739130434783	0.42857142857142855	4	1.0	2
+http://sweetontology.net/matrIsotope#T		CHEBI:30013	L-threonine residue	id	hasRelatedSynonym	T	T	34.10852713178294	0.046511627906976744	0.6666666666666666	0	0.09804233433442935	22
+http://sweetontology.net/matrElement#H		CHEBI:48238	mu-hydrido group	id	hasRelatedSynonym	H	H	11.446317657497785	0.21428571428571427	0.018633540372670808	0	0.04862675781491388	744
+http://sweetontology.net/matrElement#F		CHEBI:24061	fluorine atom	id	hasRelatedSynonym	F	F	19.2	0.16	0.26666666666666666	0	0.03552428602589718	37
+http://sweetontology.net/reprSpaceCoordinate#RA		CHEBI:73810	Arg-Ala	id	hasRelatedSynonym	RA	RA	50.0	1.0	0.024390243902439025	0	0.2	7
+http://sweetontology.net/reprSpaceCoordinate#RA		CHEBI:80503	Radium-224	id	hasRelatedSynonym	RA	Ra	50.0	1.0	0.07142857142857142	0	0.2	7
+http://sweetontology.net/reprSpaceCoordinate#RA		CHEBI:33325	radium atom	id	hasRelatedSynonym	RA	Ra	50.0	1.0	0.14285714285714285	0	0.1	7
+http://sweetontology.net/reprSpaceCoordinate#RA		CHEBI:80505	Radium-228	id	hasRelatedSynonym	RA	Ra	50.0	1.0	0.07142857142857142	0	0.2	7
+http://sweetontology.net/matrCompound#CO		CHEBI:30152	carbonylidene group	id	hasRelatedSynonym	CO	CO	16.979949874686717	0.19047619047619047	0.18421052631578946	0	0.08880104834301134	744
+http://sweetontology.net/matrCompound#CO		CHEBI:23019	carbonyl group	id	hasRelatedSynonym	CO	CO	10.227272727272723	0.16666666666666666	0.045454545454545456	1	0.023625794295551016	744
+http://sweetontology.net/matrCompound#CO		CHEBI:23336	cobalt cation	id	hasRelatedSynonym	CO	Co	13.392857142857146	0.023809523809523808	0.25	0	0.07004141728161874	744
+http://sweetontology.net/matrCompound#CO		CHEBI:49415	cobalt(3+)	id	hasRelatedSynonym	CO	Co	13.392857142857146	0.023809523809523808	0.25	0	0.07004141728161874	744
+http://sweetontology.net/matrCompound#CO		CHEBI:17790	methanol	id	hasRelatedSynonym	CO	CO	16.00877192982456	0.16666666666666666	0.18421052631578946	0	0.0837220215927653	744
+http://sweetontology.net/matrElement#B		CHEBI:30167	boride(3-)	id	hasRelatedSynonym	B	B	40.0	0.2	0.75	0	0.06331553015117618	22
+http://sweetontology.net/realmClimateZone#B		CHEBI:30167	boride(3-)	id	hasRelatedSynonym	B	B	18.888888888888882	0.06666666666666667	0.3333333333333333	0	0.02749869866732339	22
+http://sweetontology.net/matrOrganicCompound#Formaldehyde		CHEBI:16842	formaldehyde	id	hasExactSynonym	Formaldehyde	FORMALDEHYDE	38.54166666666667	0.75	0.08333333333333333	0	0.6773455377574371	744
+http://sweetontology.net/matrCompound#H2O		CHEBI:29375	diprotium oxide	id	hasRelatedSynonym	H2O	H2O	18.70689655172414	0.175	0.2413793103448276	0	0.3364264380657076	7
+http://sweetontology.net/matrCompound#H2O		CHEBI:33813	((18)O)water	id	hasRelatedSynonym	H2O	H2O	19.655172413793103	0.2	0.2413793103448276	0	0.3534803128063656	7
+http://sweetontology.net/matrCompound#H2O		CHEBI:15377	water	id	hasRelatedSynonym	H2O	H2O	17.24264705882353	0.175	0.20588235294117646	1	0.10370839113929001	7
+http://sweetontology.net/realmClimateZone#A		CHEBI:16977	L-alanine	id	hasRelatedSynonym	A	A	10.851063829787233	0.2	0.02127659574468085	0	0.12423295863817063	744
+http://sweetontology.net/realmClimateZone#A		CHEBI:16449	alanine	id	hasRelatedSynonym	A	A	10.851063829787233	0.2	0.02127659574468085	2	0.12423295863817063	744
+http://sweetontology.net/realmClimateZone#A		CHEBI:62885	adenosine residue	id	hasRelatedSynonym	A	A	11.333333333333329	0.2	0.03333333333333333	0	0.12975442346653374	744
+http://sweetontology.net/realmClimateZone#A		CHEBI:13193	hydrogen acceptor	id	hasRelatedSynonym	A	A	19.999999999999996	0.2	0.25	0	0.0654223983864876	744
+http://sweetontology.net/realmClimateZone#A		CHEBI:46217	L-alanine residue	id	hasRelatedSynonym	A	A	10.952380952380953	0.2	0.023809523809523808	0	0.12539293024076795	744
+http://sweetontology.net/realmClimateZone#A		CHEBI:15339	acceptor	id	hasRelatedSynonym	A	A	11.818181818181817	0.2	0.045454545454545456	0	0.1353054148447812	744
+http://sweetontology.net/matrCompound#NH3		CHEBI:16134	ammonia	id	hasRelatedSynonym	NH3	NH3	11.188811188811194	0.05128205128205128	0.18181818181818182	2	0.24891961970613663	744
+http://sweetontology.net/matrCompound#SulfuricAcid		CHEBI:26836	sulfuric acid	id	hasExactSynonym	SulfuricAcid	Sulfuric acid	34.44444444444444	0.06666666666666667	0.6666666666666666	0	0.6529810781863621	6
+http://sweetontology.net/matrCompound#H2SO4		CHEBI:26836	sulfuric acid	id	hasRelatedSynonym	H2SO4	H2SO4	18.305084745762706	0.26666666666666666	0.13559322033898305	2	0.3470189218136379	6
+http://sweetontology.net/reprSpaceDirection#X		CHEBI:16042	halide anion	id	hasRelatedSynonym	X	X	7.8125	0.0625	0.1	0	0.12367491166077738	744
+http://sweetontology.net/matrElementalMolecule#Hx		CHEBI:16042	halide anion	id	hasRelatedSynonym	Hx	HX	5.35714285714286	0.0625	0.047619047619047616	1	0.012476348192687742	744
+http://sweetontology.net/reprSpaceCoordinate#X		CHEBI:16042	halide anion	id	hasRelatedSynonym	X	X	50.0	0.0625	1.0	0	0.7915194346289752	744
+http://sweetontology.net/matrCompound#PO		CHEBI:37364	polonium-204 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.375	0.09375	0	0.03333333333333333	31
+http://sweetontology.net/matrOrganicCompound#C3H6		CHEBI:30365	cyclopropane	id	hasRelatedSynonym	C3H6	C3H6	24.0	0.16	0.38095238095238093	0	0.2146382992657111	7
+http://sweetontology.net/matrOrganicCompound#C3H6		CHEBI:29858	isopropylidene group	id	hasRelatedSynonym	C3H6	C3H6	22.842105263157897	0.14	0.3684210526315789	0	0.20428294272218997	7
+http://sweetontology.net/matrOrganicCompound#C3H6		CHEBI:65236	propylidene group	id	hasRelatedSynonym	C3H6	C3H6	20.08695652173913	0.14	0.30434782608695654	0	0.17964292438543208	7
+http://sweetontology.net/matrElement#Fe		CHEBI:52623	iron-57 atom	id	hasRelatedSynonym	Fe	Fe	30.76923076923077	0.23076923076923078	0.5	0	0.14428564482856818	11
+http://sweetontology.net/matrElement#Potassium		CHEBI:26216	potassium atom	id	hasExactSynonym	Potassium	potassium	36.11111111111111	0.6666666666666666	0.16666666666666666	2	0.4705882352941176	27
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:367	(+)-alpha-phellandrene	id	hasRelatedSynonym	C10H16	C10H16	22.826086956521735	0.16666666666666666	0.34782608695652173	0	0.018923984954437187	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:3830	camphene	id	hasRelatedSynonym	C10H16	C10H16	22.826086956521735	0.16666666666666666	0.34782608695652173	0	0.018923984954437187	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:50033	(-)-alpha-thujene	id	hasRelatedSynonym	C10H16	C10H16	21.527777777777775	0.14583333333333334	0.3333333333333333	0	0.01784762073083825	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:90016	2,7,7-Trimethyl-bicyclo[2.2.1]hept-2-ene	id	hasRelatedSynonym	C10H16	C10H16	23.02631578947369	0.14583333333333334	0.3684210526315789	0	0.019089984822458574	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:90015	3-Methylene-1,5,5-trimethylcyclohexene	id	hasRelatedSynonym	C10H16	C10H16	24.206349206349202	0.16666666666666666	0.38095238095238093	0	0.020068292434675266	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:10334	alpha-terpinene	id	hasRelatedSynonym	C10H16	C10H16	22.239583333333336	0.14583333333333334	0.35	0	0.018437743674357906	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:28660	(-)-alpha-pinene	id	hasRelatedSynonym	C10H16	C10H16	22.222222222222214	0.16666666666666666	0.3333333333333333	0	0.018423350431833026	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:32904	twistane	id	hasRelatedSynonym	C10H16	C10H16	24.206349206349202	0.16666666666666666	0.38095238095238093	0	0.020068292434675266	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:36740	alpha-pinene	id	hasRelatedSynonym	C10H16	C10H16	22.222222222222214	0.16666666666666666	0.3333333333333333	0	0.018423350431833026	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:7	(+)-car-3-ene	id	hasRelatedSynonym	C10H16	C10H16	22.826086956521735	0.16666666666666666	0.34782608695652173	0	0.018923984954437187	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:50034	phellandrene	id	hasRelatedSynonym	C10H16	C10H16	22.826086956521735	0.16666666666666666	0.34782608695652173	0	0.018923984954437187	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:50026	(+)-beta-pinene	id	hasRelatedSynonym	C10H16	C10H16	22.222222222222214	0.16666666666666666	0.3333333333333333	0	0.018423350431833026	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:10436	beta-ocimene	id	hasRelatedSynonym	C10H16	C10H16	21.527777777777775	0.14583333333333334	0.3333333333333333	0	0.01784762073083825	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:50029	(+)-sabinene	id	hasRelatedSynonym	C10H16	C10H16	21.527777777777775	0.14583333333333334	0.3333333333333333	0	0.01784762073083825	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:87676	(-)-car-4-ene	id	hasRelatedSynonym	C10H16	C10H16	23.484848484848484	0.16666666666666666	0.36363636363636365	0	0.019470131706369	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:3381	(-)-car-3-ene	id	hasRelatedSynonym	C10H16	C10H16	22.826086956521735	0.16666666666666666	0.34782608695652173	0	0.018923984954437187	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:50073	p-menthadiene	id	hasRelatedSynonym	C10H16	C10H16	21.527777777777775	0.14583333333333334	0.3333333333333333	0	0.01784762073083825	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:301	(-)-alpha-phellandrene	id	hasRelatedSynonym	C10H16	C10H16	22.826086956521735	0.16666666666666666	0.34782608695652173	0	0.018923984954437187	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:50027	sabinene	id	hasRelatedSynonym	C10H16	C10H16	21.527777777777775	0.14583333333333334	0.3333333333333333	0	0.01784762073083825	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:64266	tricyclene	id	hasRelatedSynonym	C10H16	C10H16	22.239583333333336	0.14583333333333334	0.35	0	0.018437743674357906	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:9457	terpinolene	id	hasRelatedSynonym	C10H16	C10H16	20.28985507246377	0.14583333333333334	0.30434782608695654	0	0.016821319959499727	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:40519	adamantane	id	hasRelatedSynonym	C10H16	C10H16	24.206349206349202	0.16666666666666666	0.38095238095238093	0	0.020068292434675266	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:15382	(4R)-limonene	id	hasRelatedSynonym	C10H16	C10H16	22.222222222222214	0.16666666666666666	0.3333333333333333	0	0.018423350431833026	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:15383	(4S)-limonene	id	hasRelatedSynonym	C10H16	C10H16	22.222222222222214	0.16666666666666666	0.3333333333333333	0	0.018423350431833026	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:15384	limonene	id	hasRelatedSynonym	C10H16	C10H16	22.826086956521735	0.16666666666666666	0.34782608695652173	0	0.009461992477218593	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:90014	Isolimonene	id	hasRelatedSynonym	C10H16	C10H16	22.239583333333336	0.14583333333333334	0.35	0	0.018437743674357906	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:20	(+)-camphene	id	hasRelatedSynonym	C10H16	C10H16	22.826086956521735	0.16666666666666666	0.34782608695652173	0	0.018923984954437187	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:129	(-)-beta-phellandrene	id	hasRelatedSynonym	C10H16	C10H16	22.826086956521735	0.16666666666666666	0.34782608695652173	0	0.018923984954437187	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:89934	(+)-4-Carene	id	hasRelatedSynonym	C10H16	C10H16	24.206349206349202	0.16666666666666666	0.38095238095238093	0	0.020068292434675266	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:53	(+)-beta-phellandrene	id	hasRelatedSynonym	C10H16	C10H16	22.826086956521735	0.16666666666666666	0.34782608695652173	0	0.018923984954437187	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:10577	gamma-terpinene	id	hasRelatedSynonym	C10H16	C10H16	22.826086956521735	0.16666666666666666	0.34782608695652173	0	0.018923984954437187	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:87574	(Z)-beta-ocimene	id	hasRelatedSynonym	C10H16	C10H16	21.527777777777775	0.14583333333333334	0.3333333333333333	0	0.01784762073083825	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:59159	beta-terpinene	id	hasRelatedSynonym	C10H16	C10H16	22.239583333333336	0.14583333333333334	0.35	0	0.018437743674357906	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:36822	1,1'-bi(cyclopentylidene)	id	hasRelatedSynonym	C10H16	C10H16	14.0625	0.041666666666666664	0.25	2	0.011658526445144342	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:48741	beta-phellandrene	id	hasRelatedSynonym	C10H16	C10H16	22.826086956521735	0.16666666666666666	0.34782608695652173	0	0.018923984954437187	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:37817	cyclodecyne	id	hasRelatedSynonym	C10H16	C10H16	24.206349206349202	0.16666666666666666	0.38095238095238093	0	0.020068292434675266	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:50032	(+)-alpha-thujene	id	hasRelatedSynonym	C10H16	C10H16	21.527777777777775	0.14583333333333334	0.3333333333333333	0	0.01784762073083825	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:50035	alpha-phellandrene	id	hasRelatedSynonym	C10H16	C10H16	22.826086956521735	0.16666666666666666	0.34782608695652173	0	0.018923984954437187	57
+http://sweetontology.net/matrOrganicCompound#C10H16		CHEBI:50028	(-)-sabinene	id	hasRelatedSynonym	C10H16	C10H16	21.527777777777775	0.14583333333333334	0.3333333333333333	0	0.01784762073083825	57
+http://sweetontology.net/matrCompound#CarbonylSulfide		CHEBI:16573	carbonyl sulfide	id	hasExactSynonym	CarbonylSulfide	Carbonyl sulfide	18.51851851851852	0.3333333333333333	0.05555555555555555	0	0.3490950711781959	4
+http://sweetontology.net/matrParticle#Neutrino		CHEBI:30223	electron neutrino	id	hasExactSynonym	Neutrino	neutrino	50.0	0.6666666666666666	1.0	2	0.5	3
+http://sweetontology.net/matrOrganicCompound#C6H6		CHEBI:37821	hexa-1,5-diyne	id	hasRelatedSynonym	C6H6	C6H6	24.10106899902818	0.38095238095238093	0.16326530612244897	0	0.3927287369343083	6
+http://sweetontology.net/matrElement#Cd		CHEBI:52620	cadmium-113	id	hasRelatedSynonym	Cd	Cd	41.666666666666664	0.3333333333333333	0.75	0	0.23562238412649203	7
+http://sweetontology.net/matrElement#Se		CHEBI:15076	selenide	id	hasRelatedSynonym	Se	Se	40.17857142857143	0.21428571428571427	0.75	0	0.16822105445880478	11
+http://sweetontology.net/matrElement#Ar		CHEBI:49992	argon(.1+)	id	hasRelatedSynonym	Ar	Ar	40.625	0.25	0.75	0	0.21399942742628114	9
+http://sweetontology.net/matrElement#Ca		CHEBI:39124	calcium ion	id	hasRelatedSynonym	Ca	Ca	42.22222222222222	0.2222222222222222	0.8	0	0.17756690210456316	10
+http://sweetontology.net/matrCompound#HOCl		CHEBI:24757	hypochlorous acid	id	hasRelatedSynonym	HOCl	HOCl	22.263868065967014	0.3103448275862069	0.1956521739130435	0	0.2817836812144212	11
+http://sweetontology.net/matrRockIgneous#Aa		CHEBI:72816	L-alanyl-L-alanine	id	hasRelatedSynonym	Aa	AA	17.46031746031746	0.023809523809523808	0.3333333333333333	2	0.49647390691114246	4
+http://sweetontology.net/matrMineral#Hematite		CHEBI:50818	hematite	id	hasExactSynonym	Hematite	hematite	50.0	1.0	0.08695652173913043	0	0.5	3
+http://sweetontology.net/reprSpaceCoordinate#S		CHEBI:29830	sulfanediyl group	id	hasRelatedSynonym	S	S	50.0	0.041666666666666664	1.0	0	0.03621958121109225	744
+http://sweetontology.net/matrElement#S		CHEBI:29830	sulfanediyl group	id	hasRelatedSynonym	S	S	22.65625	0.125	0.375	0	0.014760843614574996	744
+http://sweetontology.net/matrCompound#H2O2		CHEBI:30492	dioxidaniumyl	id	hasRelatedSynonym	H2O2	H2O2	17.3469387755102	0.3333333333333333	0.02040816326530612	2	0.44596012591815315	744
+http://sweetontology.net/matrElementalMolecule#H2		CHEBI:29293	dihydrogen(.1+)	id	hasRelatedSynonym	H2	H2	16.698292220113853	0.23529411764705882	0.12903225806451613	0	0.11988004696856419	744
+http://sweetontology.net/matrIsotope#H2		CHEBI:29293	dihydrogen(.1+)	id	hasRelatedSynonym	H2	H2	19.047619047619047	0.23529411764705882	0.19047619047619047	0	0.13478832174924243	744
+http://sweetontology.net/matrCompound#HydrogenFluoride		CHEBI:29228	hydrogen fluoride	id	hasExactSynonym	HydrogenFluoride	Hydrogen fluoride	34.78260869565217	0.08695652173913043	0.6666666666666666	0	0.625514403292181	37
+http://sweetontology.net/matrOrganicCompound#C2H6S		CHEBI:17437	dimethyl sulfide	id	hasRelatedSynonym	C2H6S	C2H6S	18.680504077094145	0.08450704225352113	0.3157894736842105	0	0.3922178988326848	5
+http://sweetontology.net/matrCompound#Peroxide		CHEBI:44785	peroxide	id	hasExactSynonym	Peroxide	peroxide	9.166666666666668	0.125	0.06666666666666667	2	0.3635250917992656	744
+http://sweetontology.net/stateStorm#F2		CHEBI:36890	diatomic fluorine	id	hasRelatedSynonym	F2	F2	50.0	0.25	1.0	0	0.19387755102040816	37
+http://sweetontology.net/matrElementalMolecule#F2		CHEBI:36890	diatomic fluorine	id	hasRelatedSynonym	F2	F2	14.473684210526317	0.25	0.05263157894736842	0	0.056898335371014803	37
+http://sweetontology.net/matrCompound#Cl2O2		CHEBI:52354	chloro chlorite	id	hasRelatedSynonym	Cl2O2	Cl2O2	21.544715447154466	0.3333333333333333	0.14634146341463414	0	0.24334735884460107	6
+http://sweetontology.net/matrCompound#Magnetite		CHEBI:46726	magnetite	id	hasExactSynonym	Magnetite	magnetite	50.0	1.0	0.125	0	0.3939393939393939	5
+http://sweetontology.net/matrElement#Uranium		CHEBI:49936	uranium(0)	id	hasRelatedSynonym	Uranium	uranium	36.666666666666664	0.2	0.6666666666666666	0	0.23529411764705885	22
+http://sweetontology.net/stateSpectralBand#FM		CHEBI:33394	fermium	id	hasRelatedSynonym	FM	Fm	50.0	0.125	1.0	0	0.3333333333333333	4
+http://sweetontology.net/matrElement#O		CHEBI:29193	oxide(.1-)	id	hasRelatedSynonym	O	O	10.221354166666668	0.1875	0.020833333333333332	0	0.05660154635631482	744
+http://sweetontology.net/matrElement#O		CHEBI:46629	oxo group	id	hasRelatedSynonym	O	O	8.578929539295393	0.10975609756097561	0.06944444444444445	2	0.04750649181001245	744
+http://sweetontology.net/matrElement#Ar		CHEBI:49475	argon atom	id	hasRelatedSynonym	Ar	Ar	41.25	0.75	0.3	0	0.11503679628163894	9
+http://sweetontology.net/matrElement#Ar		CHEBI:49474	argon(0)	id	hasRelatedSynonym	Ar	Ar	40.625	0.75	0.25	0	0.1132938145197959	9
+http://sweetontology.net/matrElement#Ar		CHEBI:137238	Ala-Arg	id	hasExactSynonym	Ar	AR	26.08695652173913	0.5	0.043478260869565216	2	0.13741769252791297	9
+http://sweetontology.net/realmClimateZone#BSh		CHEBI:61338	bacillithiol	id	hasRelatedSynonym	BSh	BSH	5.439814814814819	0.027777777777777776	0.08333333333333333	2	0.5	3
+http://sweetontology.net/matrElement#C		CHEBI:30039	methanetetrayl group	id	hasRelatedSynonym	C	C	8.207630878438332	0.14285714285714285	0.024844720496894408	0	0.009107076265331603	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:30039	methanetetrayl group	id	hasRelatedSynonym	C	C	17.857142857142854	0.03571428571428571	0.3333333333333333	0	0.025936625328184332	744
+http://sweetontology.net/matrElementalMolecule#MolecularOxygen		CHEBI:15379	dioxygen	id	hasRelatedSynonym	MolecularOxygen	molecular oxygen	26.0	0.04	0.5	0	0.349601593625498	744
+http://sweetontology.net/matrElementalMolecule#O2		CHEBI:15379	dioxygen	id	hasRelatedSynonym	O2	O2	13.7037037037037	0.2	0.09259259259259259	0	0.017906110545210362	744
+http://sweetontology.net/stateRoleBiological#Biomarker		CHEBI:59163	biomarker	id	label	Biomarker	biomarker	35.89743589743589	0.6666666666666666	0.15384615384615385	4	1.0	2
+http://sweetontology.net/matrElement#Lithium		CHEBI:30145	lithium atom	id	hasExactSynonym	Lithium	lithium	37.5	0.6666666666666666	0.25	2	0.47058823529411764	8
+http://sweetontology.net/reprSpaceCoordinate#S		CHEBI:37979	sulfur-32 atom	id	hasRelatedSynonym	S	S	50.0	1.0	0.06666666666666667	0	0.03508771929824561	744
+http://sweetontology.net/reprSpaceCoordinate#S		CHEBI:29833	thioxo group	id	hasRelatedSynonym	S	S	50.0	1.0	0.041666666666666664	0	0.03621958121109225	744
+http://sweetontology.net/reprSpaceCoordinate#S		CHEBI:29999	L-serine residue	id	hasRelatedSynonym	S	S	50.0	1.0	0.021739130434782608	0	0.03717547226992625	744
+http://sweetontology.net/reprSpaceCoordinate#S		CHEBI:37983	sulfur-35 atom	id	hasRelatedSynonym	S	S	50.0	1.0	0.06666666666666667	0	0.03508771929824561	744
+http://sweetontology.net/reprSpaceCoordinate#S		CHEBI:17115	L-serine	id	hasRelatedSynonym	S	S	50.0	1.0	0.02127659574468085	0	0.037198258804907	744
+http://sweetontology.net/reprSpaceCoordinate#S		CHEBI:33411	monoatomic sulfur	id	hasRelatedSynonym	S	S	50.0	1.0	0.06666666666666667	0	0.03508771929824561	744
+http://sweetontology.net/reprSpaceCoordinate#S		CHEBI:37985	sulfur-38 atom	id	hasRelatedSynonym	S	S	50.0	1.0	0.06666666666666667	0	0.03508771929824561	744
+http://sweetontology.net/reprSpaceCoordinate#S		CHEBI:29832	sulfur(1+)	id	hasRelatedSynonym	S	S	50.0	1.0	0.058823529411764705	0	0.03543512245961438	744
+http://sweetontology.net/reprSpaceCoordinate#S		CHEBI:37984	sulfur-37 atom	id	hasRelatedSynonym	S	S	50.0	1.0	0.06666666666666667	0	0.03508771929824561	744
+http://sweetontology.net/reprSpaceCoordinate#S		CHEBI:29831	sulfido group	id	hasRelatedSynonym	S	S	50.0	1.0	0.041666666666666664	0	0.03621958121109225	744
+http://sweetontology.net/reprSpaceCoordinate#S		CHEBI:37982	sulfur-36 atom	id	hasRelatedSynonym	S	S	50.0	1.0	0.06666666666666667	0	0.03508771929824561	744
+http://sweetontology.net/reprSpaceCoordinate#S		CHEBI:26833	sulfur atom	id	hasRelatedSynonym	S	S	50.0	1.0	0.027777777777777776	0	0.020364390600325265	744
+http://sweetontology.net/reprSpaceCoordinate#S		CHEBI:29316	sulfide(.1-)	id	hasRelatedSynonym	S	S	50.0	1.0	0.058823529411764705	0	0.03543512245961438	744
+http://sweetontology.net/reprSpaceCoordinate#S		CHEBI:37981	sulfur-34 atom	id	hasRelatedSynonym	S	S	50.0	1.0	0.06666666666666667	0	0.03508771929824561	744
+http://sweetontology.net/reprSpaceCoordinate#S		CHEBI:36368	strange quark	id	hasRelatedSynonym	S	s	50.0	1.0	0.5	0	0.03368421052631579	744
+http://sweetontology.net/matrElement#Mo		CHEBI:52633	molybdenum-95	id	hasRelatedSynonym	Mo	Mo	40.38461538461539	0.23076923076923078	0.75	0	0.14226609566669088	11
+http://sweetontology.net/matrCompound#NitrousAcid		CHEBI:25567	nitrous acid	id	hasExactSynonym	NitrousAcid	nitrous acid	34.5679012345679	0.07407407407407407	0.6666666666666666	0	0.6435643564356435	12
+http://sweetontology.net/matrElement#Magnesium		CHEBI:25107	magnesium atom	id	hasExactSynonym	Magnesium	magnesium	35.71428571428571	0.6666666666666666	0.14285714285714285	2	0.4705882352941176	11
+http://sweetontology.net/matrElement#S		CHEBI:37984	sulfur-37 atom	id	hasRelatedSynonym	S	S	25.0	0.2	0.375	0	0.017411125880687744	744
+http://sweetontology.net/matrElement#Mg		CHEBI:52763	magnesium-25 atom	id	hasRelatedSynonym	Mg	Mg	40.38461538461539	0.75	0.23076923076923078	0	0.15121987461209188	11
+http://sweetontology.net/matrElement#Mg		CHEBI:18420	magnesium(2+)	id	hasRelatedSynonym	Mg	Mg	40.0	0.75	0.2	0	0.14977968533007197	11
+http://sweetontology.net/matrElement#Mg		CHEBI:25107	magnesium atom	id	hasRelatedSynonym	Mg	Mg	40.17857142857143	0.75	0.21428571428571427	0	0.07964912363271946	11
+http://sweetontology.net/matrElement#Mg		CHEBI:39128	magnesium ion	id	hasRelatedSynonym	Mg	Mg	40.38461538461539	0.75	0.23076923076923078	0	0.15121987461209188	11
+http://sweetontology.net/matrElement#Mg		CHEBI:39127	magnesium cation	id	hasRelatedSynonym	Mg	Mg	40.0	0.75	0.2	0	0.14977968533007197	11
+http://sweetontology.net/matrElement#Mg		CHEBI:73611	Met-Gly	id	hasRelatedSynonym	Mg	MG	26.111111111111107	0.5	0.044444444444444446	2	0.09777285014601918	11
+http://sweetontology.net/matrElement#Mg		CHEBI:33974	magnesium(1+)	id	hasRelatedSynonym	Mg	Mg	40.0	0.75	0.2	0	0.14977968533007197	11
+http://sweetontology.net/matrCompound#PO		CHEBI:37346	polonium-216 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.375	0.09375	0	0.03333333333333333	31
+http://sweetontology.net/stateStorm#F2		CHEBI:30237	difluorine(.1+)	id	hasRelatedSynonym	F2	F2	50.0	1.0	0.2	0	0.201271186440678	37
+http://sweetontology.net/stateStorm#F2		CHEBI:30238	difluoride(.1-)	id	hasRelatedSynonym	F2	F2	50.0	1.0	0.2	0	0.201271186440678	37
+http://sweetontology.net/realmLandProtected#MPA		CHEBI:138016	5-(N-methyl-N-propyl)amiloride	id	hasRelatedSynonym	MPA	MPA	34.210526315789465	0.05263157894736842	0.6666666666666666	4	1.0	3
+http://sweetontology.net/matrElement#Br		CHEBI:36900	bromine(1+)	id	hasRelatedSynonym	Br	Br	25.925925925925924	0.5	0.037037037037037035	0	0.1799257415256599	744
+http://sweetontology.net/matrCompound#SiliconDioxide		CHEBI:30563	silicon dioxide	id	hasExactSynonym	SiliconDioxide	silicon dioxide	35.0	0.6666666666666666	0.1	0	0.3766816143497758	4
+http://sweetontology.net/matrIsotope#T		CHEBI:29304	tritium(.)	id	hasRelatedSynonym	T	T	35.89743589743589	0.15384615384615385	0.6666666666666666	0	0.1031844148065148	22
+http://sweetontology.net/matrElement#Calcium		CHEBI:29320	calcium(0)	id	hasExactSynonym	Calcium	calcium	35.89743589743589	0.6666666666666666	0.15384615384615385	0	0.25626149131767106	10
+http://sweetontology.net/matrMineral#Quartz		CHEBI:46727	quartz	id	hasExactSynonym	Quartz	Quartz	50.0	1.0	0.08333333333333333	4	1.0	2
+http://sweetontology.net/propIndex#PC		CHEBI:49183	phosphatidylcholine(1+)	id	hasRelatedSynonym	PC	PC	50.0	1.0	0.021739130434782608	0	0.2	9
+http://sweetontology.net/propIndex#PC		CHEBI:16110	1,2-diacyl-sn-glycero-3-phosphocholine(1+)	id	hasRelatedSynonym	PC	PC	50.0	1.0	0.021739130434782608	2	0.2	9
+http://sweetontology.net/propIndex#PC		CHEBI:61433	polycarbonate polymer	id	hasRelatedSynonym	PC	PC	50.0	1.0	0.1	0	0.2	9
+http://sweetontology.net/propIndex#PC		CHEBI:55395	phosphocholine group	id	hasRelatedSynonym	PC	PC	50.0	1.0	0.023809523809523808	0	0.2	9
+http://sweetontology.net/matrElement#P		CHEBI:17802	pseudouridine	id	hasRelatedSynonym	P	p	8.249158249158251	0.1111111111111111	0.06060606060606061	0	0.06644185744251832	744
+http://sweetontology.net/matrElement#Carbon		CHEBI:33415	elemental carbon	id	hasRelatedSynonym	Carbon	carbon	35.55555555555555	0.6666666666666666	0.13333333333333333	0	0.5148956507885931	744
+http://sweetontology.net/matrOrganicCompound#Butane		CHEBI:37808	butane	id	hasExactSynonym	Butane	butane	32.72727272727273	0.13636363636363635	0.6	0	0.5822102425876011	4
+http://sweetontology.net/matrElement#C		CHEBI:33419	monoatomic carbon	id	hasRelatedSynonym	C	C	11.446317657497785	0.21428571428571427	0.018633540372670808	0	0.015139634595986821	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:33419	monoatomic carbon	id	hasRelatedSynonym	C	C	19.04761904761904	0.07142857142857142	0.3333333333333333	0	0.02522385030299982	744
+http://sweetontology.net/matrOrganicCompound#C5H12O		CHEBI:50625	(S)-2-methylbutan-1-ol	id	hasRelatedSynonym	C5H12O	C5H12O	20.53333333333334	0.32	0.13333333333333333	0	0.10036708699075471	12
+http://sweetontology.net/matrParticle#Neutron		CHEBI:30222	neutron	id	hasExactSynonym	Neutron	neutron	50.0	1.0	1.0	0	0.66	744
+http://sweetontology.net/matr#Mixture		CHEBI:60004	mixture	id	label	Mixture	mixture	35.16483516483516	0.3076923076923077	0.5714285714285714	4	1.0	3
+http://sweetontology.net/matrOrganicCompound#HCFC		CHEBI:134040	hydrochlorofluorocarbon	id	hasRelatedSynonym	HCFC	HCFC	19.696969696969695	0.09090909090909091	0.3333333333333333	2	0.5	3
+http://sweetontology.net/matrOrganicCompound#C6H6		CHEBI:51999	fulvene	id	hasRelatedSynonym	C6H6	C6H6	18.307322929171672	0.29411764705882354	0.10204081632653061	2	0.2983192077875054	6
+http://sweetontology.net/matrElement#Chalcogen		CHEBI:33303	chalcogen	id	hasExactSynonym	Chalcogen	chalcogen	45.79831932773109	0.23529411764705882	0.8901098901098901	4	1.0	744
+http://sweetontology.net/propChemical#SAR		CHEBI:15611	sarcosine	id	hasRelatedSynonym	SAR	Sar	50.0	0.023809523809523808	1.0	0	0.5	8
+http://sweetontology.net/reprSpaceDirection#Y		CHEBI:33331	yttrium atom	id	hasRelatedSynonym	Y	Y	27.77777777777778	0.1111111111111111	0.5	0	0.051434399935625465	24
+http://sweetontology.net/matrElement#Mo		CHEBI:30511	molybdenum(5+)	id	hasRelatedSynonym	Mo	Mo	40.0	0.2	0.75	2	0.14091118046986523	11
+http://sweetontology.net/matrElement#He		CHEBI:33315	monoatomic helium	id	hasRelatedSynonym	He	He	40.90909090909091	0.2727272727272727	0.75	0	0.08622752553560223	744
+http://sweetontology.net/matrParticle#Neutrino		CHEBI:36352	neutrino	id	label	Neutrino	neutrino	50.0	1.0	0.6666666666666666	0	0.5	3
+http://sweetontology.net/matrCompound#Hydroxyl		CHEBI:43176	hydroxy group	id	hasRelatedSynonym	Hydroxyl	hydroxyl	16.92307692307692	0.007692307692307693	0.3333333333333333	2	0.3247676325861126	744
+http://sweetontology.net/matrOrganicCompound#CarbonylSulfide		CHEBI:16573	carbonyl sulfide	id	hasExactSynonym	CarbonylSulfide	Carbonyl sulfide	14.583333333333337	0.25	0.05555555555555555	2	0.2749123685528293	4
+http://sweetontology.net/matrCompound#COS		CHEBI:16573	carbonyl sulfide	id	hasRelatedSynonym	COS	COS	19.945355191256827	0.09836065573770492	0.3333333333333333	0	0.3759925602689748	4
+http://sweetontology.net/realmClimateZone#Cfc		CHEBI:134024	chlorofluorocarbon	id	hasRelatedSynonym	Cfc	CFC	7.440476190476192	0.08333333333333333	0.07142857142857142	2	0.1184834123222749	4
+http://sweetontology.net/matrOrganicCompound#Propane		CHEBI:32879	propane	id	hasExactSynonym	Propane	propane	32.72727272727273	0.6	0.13636363636363635	0	0.5844155844155844	3
+http://sweetontology.net/matrElement#K		CHEBI:29104	kalide	id	hasRelatedSynonym	K	K	40.0	0.2	0.75	0	0.1670344483931992	27
+http://sweetontology.net/realmClimateZone#Am		CHEBI:33389	americium atom	id	hasRelatedSynonym	Am	Am	11.71875	0.125	0.125	0	0.6156156156156155	3
+http://sweetontology.net/matrElement#F		CHEBI:30240	fluorine(1+)	id	hasRelatedSynonym	F	F	15.000000000000002	0.25	0.06666666666666667	0	0.07786356095085974	37
+http://sweetontology.net/matrOrganicCompound#Methane		CHEBI:16183	methane	id	hasExactSynonym	Methane	Methane	31.666666666666664	0.08333333333333333	0.6	0	0.6223839854413102	744
+http://sweetontology.net/matrOrganicCompound#CH4		CHEBI:16183	methane	id	hasRelatedSynonym	CH4	CH4	19.212962962962965	0.2222222222222222	0.20833333333333334	0	0.14377123490078558	744
+http://sweetontology.net/stateRoleChemical#Catalyst		CHEBI:35223	catalyst	id	hasExactSynonym	Catalyst	catalyst	50.0	1.0	0.375	4	1.0	2
+http://sweetontology.net/stateRoleBiological#Toxin		CHEBI:27026	toxin	id	hasExactSynonym	Toxin	toxin	50.0	0.375	1.0	4	1.0	2
+http://sweetontology.net/matrCompound#HO2		CHEBI:29793	hydridodioxygen(1+)	id	hasRelatedSynonym	HO2	HO2	24.311111111111117	0.32	0.24444444444444444	0	0.25196910180610677	744
+http://sweetontology.net/realmClimateZone#ET		CHEBI:73510	Glu-Thr	id	hasRelatedSynonym	ET	ET	40.46511627906977	0.046511627906976744	0.8	4	1.0	2
+http://sweetontology.net/matrElement#He		CHEBI:37004	helium-8 atom	id	hasRelatedSynonym	He	He	41.25	0.75	0.3	0	0.08694608824839892	744
+http://sweetontology.net/matrElement#He		CHEBI:30217	helium atom	id	hasRelatedSynonym	He	He	40.90909090909091	0.75	0.2727272727272727	0	0.0456498664600247	744
+http://sweetontology.net/matrElement#He		CHEBI:30216	alpha-particle	id	hasRelatedSynonym	He	He	40.625	0.75	0.25	0	0.08562872327493833	744
+http://sweetontology.net/matrElement#He		CHEBI:33681	helium(0)	id	hasRelatedSynonym	He	He	40.625	0.75	0.25	0	0.045332853498496764	744
+http://sweetontology.net/matrElement#He		CHEBI:30218	helium-3 atom	id	hasRelatedSynonym	He	He	40.38461538461539	0.75	0.23076923076923078	0	0.08512204443899196	744
+http://sweetontology.net/matrElement#He		CHEBI:30220	helion	id	hasRelatedSynonym	He	He	40.625	0.75	0.25	0	0.06463069520895995	744
+http://sweetontology.net/matrOrganicCompound#CCl4		CHEBI:27385	tetrachloromethane	id	hasRelatedSynonym	CCl4	CCl4	19.088319088319082	0.20512820512820512	0.2222222222222222	4	1.0	2
+http://sweetontology.net/matrCompound#SiO2		CHEBI:30563	silicon dioxide	id	hasRelatedSynonym	SiO2	SiO2	22.916666666666664	0.35	0.16666666666666666	2	0.24663677130044842	4
+http://sweetontology.net/matrIsotope#T		CHEBI:45996	ribothymidine	id	hasRelatedSynonym	T	t	34.5679012345679	0.07407407407407407	0.6666666666666666	0	0.09936276981368093	22
+http://sweetontology.net/matrCompound#PO		CHEBI:37350	polonium-190 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.375	0.09375	0	0.03333333333333333	31
+http://sweetontology.net/matrElement#Na		CHEBI:52634	sodium-23 atom	id	hasRelatedSynonym	Na	Na	31.818181818181817	0.2727272727272727	0.5	0	0.18648814809754766	9
+http://sweetontology.net/matrOrganicCompound#CFC		CHEBI:134024	chlorofluorocarbon	id	hasRelatedSynonym	CFC	CFC	27.67857142857143	0.5	0.10714285714285714	0	0.44075829383886256	4
+http://sweetontology.net/matrCompound#HO2		CHEBI:29192	hydrogenperoxide(1-)	id	hasRelatedSynonym	HO2	HO2	21.53846153846154	0.3076923076923077	0.17777777777777778	0	0.22323236413703731	744
+http://sweetontology.net/matrElement#Phosphorus		CHEBI:35895	tetraphosphorus	id	hasRelatedSynonym	Phosphorus	phosphorus	35.89743589743589	0.6666666666666666	0.15384615384615385	0	0.5042372881355932	744
+http://sweetontology.net/matrCompound#Cl2O2		CHEBI:35927	chlorine peroxide	id	hasRelatedSynonym	Cl2O2	Cl2O2	23.81258023106547	0.17073170731707318	0.3684210526315789	0	0.10873798570506556	6
+http://sweetontology.net/stateRoleBiological#Insecticide		CHEBI:24852	insecticide	id	label	Insecticide	insecticide	37.5	0.25	0.6666666666666666	4	1.0	2
+http://sweetontology.net/reprMathSolution#Solution		CHEBI:75958	solution	id	label	Solution	solution	27.777777777777775	0.3333333333333333	0.3333333333333333	2	0.35714285714285715	3
+http://sweetontology.net/matrCompound#NO		CHEBI:35801	nitroso group	id	hasRelatedSynonym	NO	NO	17.532467532467532	0.2857142857142857	0.09090909090909091	0	0.18156219135478177	12
+http://sweetontology.net/matrOrganicCompound#PAN		CHEBI:53571	poly(acrylonitrile) macromolecule	id	hasRelatedSynonym	PAN	PAN	17.1875	0.125	0.25	2	0.36423841059602646	3
+http://sweetontology.net/matrOrganicCompound#Acrolein		CHEBI:15368	acrolein	id	hasExactSynonym	Acrolein	Acrolein	38.54166666666667	0.75	0.08333333333333333	0	0.6751030017657446	6
+http://sweetontology.net/matrCompound#NaCl		CHEBI:46715	halite	id	hasRelatedSynonym	NaCl	ClNa	27.625	0.2222222222222222	0.55	2	0.47817233040600743	13
+http://sweetontology.net/matrCompound#PO		CHEBI:37359	polonium-199 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.375	0.09375	0	0.03333333333333333	31
+http://sweetontology.net/matrCompound#HOx		CHEBI:46904	oxalate(1-)	id	hasRelatedSynonym	HOx	Hox	21.92676547515257	0.25806451612903225	0.24324324324324326	4	1.0	6
+http://sweetontology.net/matrIsotope#T		CHEBI:16857	L-threonine	id	hasRelatedSynonym	T	T	34.07407407407407	0.044444444444444446	0.6666666666666666	0	0.09794330167348549	22
+http://sweetontology.net/realmLandCoastal#Delta		CHEBI:36375	Delta baryon	id	hasRelatedSynonym	Delta	Delta	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/matrElement#Fe		CHEBI:24875	iron cation	id	hasRelatedSynonym	Fe	Fe	30.0	0.2	0.5	0	0.14067850370785398	11
+http://sweetontology.net/matrElement#Fe		CHEBI:74712	Phe-Glu	id	hasRelatedSynonym	Fe	FE	18.29268292682927	0.04878048780487805	0.3333333333333333	2	0.08577957543161828	11
+http://sweetontology.net/matrElement#H		CHEBI:46711	positronium hydride	id	hasRelatedSynonym	H	H	25.15527950310559	0.5	0.006211180124223602	0	0.10686578170952	744
+http://sweetontology.net/stateTime#Era		CHEBI:51451	endothelin receptor antagonist	id	hasRelatedSynonym	Era	ERA	33.33333333333333	0.5	0.3333333333333333	4	1.0	2
+http://sweetontology.net/matrMineral#Mineral		CHEBI:46662	mineral	id	hasExactSynonym	Mineral	mineral	50.0	1.0	0.42857142857142855	4	1.0	2
+http://sweetontology.net/matrElement#H		CHEBI:30220	helion	id	hasRelatedSynonym	H	h	13.198757763975156	0.25	0.018633540372670808	0	0.013749965903153995	744
+http://sweetontology.net/matrElement#P		CHEBI:30206	phosphanetriyl group	id	hasRelatedSynonym	P	P	7.503607503607501	0.09523809523809523	0.06060606060606061	0	0.06043690822759681	744
+http://sweetontology.net/matrCompound#Water		CHEBI:15377	water	id	hasExactSynonym	Water	WATER	34.31372549019608	0.058823529411764705	0.6666666666666666	0	0.6655574043261231	7
+http://sweetontology.net/matrElement#Ha		CHEBI:73924	His-Ala	id	hasRelatedSynonym	Ha	HA	5.137519460300982	0.07317073170731707	0.031914893617021274	2	0.14583333333333326	744
+http://sweetontology.net/matrIsotope#Tritium		CHEBI:29238	tritium atom	id	hasExactSynonym	Tritium	tritium	35.416666666666664	0.6666666666666666	0.125	0	0.2511664074650078	22
+http://sweetontology.net/stateRoleImpact#Light		CHEBI:30212	photon	id	hasRelatedSynonym	Light	Light	50.0	1.0	0.5	0	0.25	5
+http://sweetontology.net/matrElement#Boron		CHEBI:51707	diboron	id	hasRelatedSynonym	Boron	boron	35.55555555555555	0.13333333333333333	0.6666666666666666	0	0.3333333333333333	22
+http://sweetontology.net/matrElement#Mn		CHEBI:25158	manganese(4+)	id	hasRelatedSynonym	Mn	Mn	40.0	0.2	0.75	0	0.1422708618331053	11
+http://sweetontology.net/matrCompound#BrO		CHEBI:29873	oxidobromine(1+)	id	hasRelatedSynonym	BrO	BrO	25.083333333333336	0.23333333333333334	0.35	0	0.2207832233865362	9
+http://sweetontology.net/matrCompound#BrO		CHEBI:29876	oxidobromine(.)	id	hasRelatedSynonym	BrO	BrO	25.083333333333336	0.23333333333333334	0.35	0	0.09217163694777725	9
+http://sweetontology.net/matrElement#Pb		CHEBI:49807	lead(2+)	id	hasRelatedSynonym	Pb	Pb	36.36363636363637	0.18181818181818182	0.6666666666666666	0	0.13468433359314108	14
+http://sweetontology.net/realmClimateZone#D		CHEBI:29958	L-aspartic acid residue	id	hasRelatedSynonym	D	D	17.407407407407405	0.022222222222222223	0.3333333333333333	0	0.032886275973807846	26
+http://sweetontology.net/realmClimateZone#D		CHEBI:17053	L-aspartic acid	id	hasRelatedSynonym	D	D	17.407407407407405	0.022222222222222223	0.3333333333333333	1	0.032886275973807846	26
+http://sweetontology.net/stateRoleBiological#Pesticide		CHEBI:25944	pesticide	id	hasExactSynonym	Pesticide	pesticide	30.76923076923077	0.23076923076923078	0.5	4	1.0	2
+http://sweetontology.net/matrCompound#PO		CHEBI:37347	polonium-217 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.09375	0.375	0	0.03333333333333333	31
+http://sweetontology.net/matrCompound#PO		CHEBI:37344	polonium-214 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.09375	0.375	0	0.03333333333333333	31
+http://sweetontology.net/matrCompound#PO		CHEBI:37360	polonium-200 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.09375	0.375	0	0.03333333333333333	31
+http://sweetontology.net/matrCompound#PO		CHEBI:37356	polonium-196 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.09375	0.375	0	0.03333333333333333	31
+http://sweetontology.net/matrCompound#PO		CHEBI:37351	polonium-191 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.09375	0.375	0	0.03333333333333333	31
+http://sweetontology.net/matrCompound#PO		CHEBI:37366	polonium-206 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.09375	0.375	0	0.03333333333333333	31
+http://sweetontology.net/matrCompound#PO		CHEBI:37342	polonium-212 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.09375	0.375	0	0.03333333333333333	31
+http://sweetontology.net/matrCompound#PO		CHEBI:37368	polonium-208 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.09375	0.375	0	0.03333333333333333	31
+http://sweetontology.net/matrCompound#PO		CHEBI:37361	polonium-201 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.09375	0.375	0	0.03333333333333333	31
+http://sweetontology.net/matrCompound#PO		CHEBI:37369	polonium-209 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.09375	0.375	0	0.03333333333333333	31
+http://sweetontology.net/matrCompound#PO		CHEBI:37353	polonium-193 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.09375	0.375	0	0.03333333333333333	31
+http://sweetontology.net/matrCompound#PO		CHEBI:37348	polonium-218 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.09375	0.375	0	0.03333333333333333	31
+http://sweetontology.net/matrCompound#PO		CHEBI:37362	polonium-202 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.09375	0.375	0	0.03333333333333333	31
+http://sweetontology.net/matrCompound#PO		CHEBI:37358	polonium-198 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.09375	0.375	0	0.03333333333333333	31
+http://sweetontology.net/matrCompound#PO		CHEBI:37354	polonium-194 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.09375	0.375	0	0.03333333333333333	31
+http://sweetontology.net/matrCompound#PO		CHEBI:37345	polonium-215 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.09375	0.375	0	0.03333333333333333	31
+http://sweetontology.net/matrCompound#PO		CHEBI:37355	polonium-195 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.09375	0.375	0	0.03333333333333333	31
+http://sweetontology.net/matrCompound#PO		CHEBI:37340	polonium-210 atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.09375	0.375	0	0.03333333333333333	31
+http://sweetontology.net/matrCompound#PO		CHEBI:33313	polonium atom	id	hasRelatedSynonym	PO	Po	21.6796875	0.09375	0.375	2	0.03333333333333333	31
+http://sweetontology.net/matrOrganicCompound#DMS		CHEBI:59050	dimethyl sulfate	id	hasRelatedSynonym	DMS	DMS	26.47058823529412	0.5	0.058823529411764705	0	0.6465028355387523	5
+http://sweetontology.net/matrOrganicCompound#DMS		CHEBI:17437	dimethyl sulfide	id	hasRelatedSynonym	DMS	DMS	14.473684210526317	0.25	0.05263157894736842	1	0.10742462468647251	5
+http://sweetontology.net/propRotation#Torque		CHEBI:39294	fenbutatin oxide	id	hasRelatedSynonym	Torque	Torque	50.0	1.0	0.0625	4	1.0	2
+http://sweetontology.net/matrElement#B		CHEBI:33610	monoatomic boron	id	hasRelatedSynonym	B	B	40.0	0.2	0.75	0	0.06331553015117618	22
+http://sweetontology.net/realmClimateZone#B		CHEBI:33610	monoatomic boron	id	hasRelatedSynonym	B	B	18.888888888888882	0.06666666666666667	0.3333333333333333	0	0.02749869866732339	22
+http://sweetontology.net/matrBiomass#Fertilizer		CHEBI:33287	fertilizer	id	label	Fertilizer	fertilizer	50.0	1.0	0.1111111111111111	4	1.0	2
+http://sweetontology.net/matrElement#C		CHEBI:36927	carbon-14 atom	id	hasRelatedSynonym	C	C	11.446317657497785	0.21428571428571427	0.018633540372670808	0	0.015139634595986821	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:36927	carbon-14 atom	id	hasRelatedSynonym	C	C	19.04761904761904	0.07142857142857142	0.3333333333333333	0	0.02522385030299982	744
+http://sweetontology.net/matrCompound#Carbonate		CHEBI:41609	carbonate	id	hasExactSynonym	Carbonate	carbonate	34.40860215053763	0.06451612903225806	0.6666666666666666	2	0.4076433121019108	7
+http://sweetontology.net/matrElement#H		CHEBI:64428	H group	id	hasRelatedSynonym	H	H	14.073226544622425	0.2631578947368421	0.024844720496894408	0	0.05978650945542348	744
+http://sweetontology.net/matrElementalMolecule#Br2		CHEBI:51870	boryl group	id	hasRelatedSynonym	Br2	BR2	19.047619047619047	0.2857142857142857	0.13333333333333333	0	0.20134228187919462	744
+http://sweetontology.net/matrOrganicCompound#Alkene		CHEBI:32878	alkene	id	hasExactSynonym	Alkene	Alkene	25.919732441471567	0.21739130434782608	0.38461538461538464	4	1.0	2
+http://sweetontology.net/matrOrganicCompound#PolychlorinatedBiphenyl		CHEBI:53156	polychlorobiphenyl	id	hasRelatedSynonym	PolychlorinatedBiphenyl	polychlorinated biphenyl	38.793103448275865	0.75	0.10344827586206896	0	0.5039999999999999	4
+http://sweetontology.net/matrElement#Nitrogen		CHEBI:25555	nitrogen atom	id	hasExactSynonym	Nitrogen	nitrogen	33.66013071895425	0.6666666666666666	0.0196078431372549	1	0.21867914416457107	744
+http://sweetontology.net/humanEnvirStandards#EPA		CHEBI:28364	all-cis-5,8,11,14,17-icosapentaenoic acid	id	hasRelatedSynonym	EPA	EPA	50.0	0.03225806451612903	1.0	4	1.0	3
+http://sweetontology.net/matrCompound#NO		CHEBI:29272	oxidonitrate(2.1-) (triplet)	id	hasRelatedSynonym	NO	NO	12.987012987012985	0.13636363636363635	0.14285714285714285	0	0.13449051211465315	12
+http://sweetontology.net/matrCompound#NO		CHEBI:33396	nobelium	id	hasRelatedSynonym	NO	No	15.909090909090912	0.09090909090909091	0.25	0	0.16475087734045016	12
+http://sweetontology.net/matrCompound#NO		CHEBI:29121	oxidonitrate(1-)	id	hasRelatedSynonym	NO	NO	12.987012987012985	0.13636363636363635	0.14285714285714285	0	0.13449051211465315	12
+http://sweetontology.net/matrCompound#NO		CHEBI:29120	oxidonitrogen(1+)	id	hasRelatedSynonym	NO	NO	12.987012987012985	0.13636363636363635	0.14285714285714285	0	0.13449051211465315	12
+http://sweetontology.net/matrOrganicCompound#C2H6O		CHEBI:16236	ethanol	id	hasRelatedSynonym	C2H6O	C2H6O	25.163398692810457	0.16176470588235295	0.4074074074074074	0	0.16654666377503072	6
+http://sweetontology.net/matrOrganicCompound#C2H6O		CHEBI:28887	dimethyl ether	id	hasRelatedSynonym	C2H6O	C2H6O	23.615916955017298	0.10294117647058823	0.4117647058823529	2	0.4841379310344827	6
+http://sweetontology.net/stateSpaceConfiguration#Base		CHEBI:18282	nucleobase	id	hasRelatedSynonym	Base	Base	50.0	1.0	0.038461538461538464	0	0.16666666666666666	744
+http://sweetontology.net/matrOrganicCompound#CH2O2		CHEBI:30751	formic acid	id	hasRelatedSynonym	CH2O2	CH2O2	17.636986301369863	0.136986301369863	0.25	2	0.18620066285025608	744
+http://sweetontology.net/stateVisibility#Dim		CHEBI:50182	3,3'-diindolylmethane	id	hasRelatedSynonym	Dim	DIM	50.0	0.05	1.0	4	1.0	2
+http://sweetontology.net/stateRoleBiological#TAC		CHEBI:53498	triacetylcellulose	id	hasRelatedSynonym	TAC	TAC	50.0	0.15789473684210525	1.0	4	1.0	2
+http://sweetontology.net/matrElement#C		CHEBI:36929	carbon-11 atom	id	hasRelatedSynonym	C	C	11.446317657497785	0.21428571428571427	0.018633540372670808	0	0.015139634595986821	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:36929	carbon-11 atom	id	hasRelatedSynonym	C	C	19.04761904761904	0.07142857142857142	0.3333333333333333	0	0.02522385030299982	744
+http://sweetontology.net/matrCompound#Phosphate		CHEBI:26020	phosphate	id	label	Phosphate	phosphate	34.40860215053763	0.6666666666666666	0.06451612903225806	0	0.2	8
+http://sweetontology.net/matrOrganicCompound#Limonene		CHEBI:15384	limonene	id	hasExactSynonym	Limonene	Limonene	22.826086956521735	0.34782608695652173	0.16666666666666666	0	0.5	57
+http://sweetontology.net/matrElement#O		CHEBI:29194	monooxygen	id	hasRelatedSynonym	O	O	11.532738095238098	0.020833333333333332	0.21428571428571427	0	0.06386343719911773	744
+http://sweetontology.net/matrElement#O		CHEBI:29354	oxy group	id	hasRelatedSynonym	O	O	14.78174603174603	0.013888888888888888	0.2857142857142857	0	0.08185507219499819	744
+http://sweetontology.net/matrElement#O		CHEBI:36932	oxygen-15 atom	id	hasRelatedSynonym	O	O	11.532738095238098	0.020833333333333332	0.21428571428571427	0	0.06386343719911773	744
+http://sweetontology.net/matrElement#O		CHEBI:33818	oxygen-16 atom	id	hasRelatedSynonym	O	O	11.532738095238098	0.020833333333333332	0.21428571428571427	0	0.06386343719911773	744
+http://sweetontology.net/matrElement#O		CHEBI:33815	oxygen-18 atom	id	hasRelatedSynonym	O	O	14.35185185185185	0.027777777777777776	0.26666666666666666	0	0.0794744996255687	744
+http://sweetontology.net/matrElement#O		CHEBI:36933	oxygen-19 atom	id	hasRelatedSynonym	O	O	11.532738095238098	0.020833333333333332	0.21428571428571427	0	0.06386343719911773	744
+http://sweetontology.net/matrElement#O		CHEBI:33819	oxygen-17 atom	id	hasRelatedSynonym	O	O	11.532738095238098	0.020833333333333332	0.21428571428571427	0	0.06386343719911773	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:29435	carbide(1-)	id	hasRelatedSynonym	C	C	18.749999999999993	0.3333333333333333	0.0625	0	0.025805896369876947	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:33417	diamond	id	hasRelatedSynonym	C	C	18.749999999999993	0.3333333333333333	0.0625	0	0.02315993594594505	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:36931	carbon-12 atom	id	hasRelatedSynonym	C	C	19.04761904761904	0.3333333333333333	0.07142857142857142	0	0.02522385030299982	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:36369	charm quark	id	hasRelatedSynonym	C	c	33.33333333333333	0.3333333333333333	0.5	0	0.04027445301698004	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:36977	hexagonal graphite	id	hasRelatedSynonym	C	C	18.749999999999993	0.3333333333333333	0.0625	0	0.02315993594594505	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:29950	L-cysteine residue	id	hasRelatedSynonym	C	C	17.42424242424242	0.3333333333333333	0.022727272727272728	0	0.02786493705897349	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:36928	carbon-13 atom	id	hasRelatedSynonym	C	C	19.04761904761904	0.3333333333333333	0.07142857142857142	0	0.02522385030299982	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:15356	cysteine	id	hasRelatedSynonym	C	C	17.42424242424242	0.3333333333333333	0.022727272727272728	0	0.02786493705897349	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:29436	carbon(1+)	id	hasRelatedSynonym	C	C	19.04761904761904	0.3333333333333333	0.07142857142857142	0	0.02522385030299982	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:16040	cytosine	id	hasRelatedSynonym	C	C	17.64705882352941	0.3333333333333333	0.029411764705882353	0	0.028820094791914372	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:36978	rhombohedral graphite	id	hasRelatedSynonym	C	C	18.749999999999993	0.3333333333333333	0.0625	0	0.02315993594594505	744
+http://sweetontology.net/realmClimateZone#C		CHEBI:30040	methanediylidene group	id	hasRelatedSynonym	C	C	17.857142857142854	0.3333333333333333	0.03571428571428571	0	0.025936625328184332	744
+http://sweetontology.net/realmClimateZone#B		CHEBI:77014	boron-10 atom	id	hasRelatedSynonym	B	B	18.888888888888882	0.3333333333333333	0.06666666666666667	0	0.02749869866732339	22
+http://sweetontology.net/realmClimateZone#B		CHEBI:30165	boron(1+)	id	hasRelatedSynonym	B	B	18.62745098039215	0.3333333333333333	0.058823529411764705	0	0.026997449825376597	22
+http://sweetontology.net/realmClimateZone#B		CHEBI:30168	boron(3+)	id	hasRelatedSynonym	B	B	18.62745098039215	0.3333333333333333	0.058823529411764705	0	0.026997449825376597	22
+http://sweetontology.net/realmClimateZone#B		CHEBI:36370	bottom quark	id	hasRelatedSynonym	B	b	33.33333333333333	0.3333333333333333	0.5	0	0.07808537717342419	22
+http://sweetontology.net/matrParticle#SubatomicParticle		CHEBI:36342	subatomic particle	id	label	SubatomicParticle	subatomic particle	50.0	0.01680672268907563	1.0	4	1.0	2
+http://sweetontology.net/matrElement#Mo		CHEBI:49446	molybdenum(6+)	id	hasRelatedSynonym	Mo	Mo	40.0	0.75	0.2	0	0.14091118046986523	11
+http://sweetontology.net/matrElement#Mo		CHEBI:37239	molybdenum cation	id	hasRelatedSynonym	Mo	Mo	40.0	0.75	0.2	0	0.14091118046986523	11
+http://sweetontology.net/matrElement#Mo		CHEBI:49414	molybdenum(4+)	id	hasRelatedSynonym	Mo	Mo	40.0	0.75	0.2	0	0.14091118046986523	11
+http://sweetontology.net/matrElement#Mo		CHEBI:28685	molybdenum atom	id	hasRelatedSynonym	Mo	Mo	40.625	0.75	0.25	0	0.07576566229308011	11
+http://sweetontology.net/matrElement#Cd		CHEBI:52619	cadmium-111	id	hasRelatedSynonym	Cd	Cd	41.666666666666664	0.3333333333333333	0.75	0	0.23562238412649203	7
+http://sweetontology.net/realmGeolConstituent#Corona		CHEBI:37409	crown compound	id	hasRelatedSynonym	Corona	corona	50.0	0.058823529411764705	1.0	0	0.3333333333333333	4
+http://sweetontology.net/realmAstroStar#Corona		CHEBI:37409	crown compound	id	hasRelatedSynonym	Corona	corona	50.0	0.058823529411764705	1.0	0	0.3333333333333333	4
+http://sweetontology.net/matrElement#B		CHEBI:77014	boron-10 atom	id	hasRelatedSynonym	B	B	40.0	0.2	0.75	0	0.06331553015117618	22
+http://sweetontology.net/matrElementalMolecule#Hx		CHEBI:24593	hexyl group	id	hasRelatedSynonym	Hx	Hx	15.75091575091575	0.15384615384615385	0.19047619047619047	0	0.43254894916472064	744
+http://sweetontology.net/stateRole#Propellant		CHEBI:76414	propellant	id	label	Propellant	propellant	50.0	0.13333333333333333	1.0	4	1.0	2
+http://sweetontology.net/propMassFlux#NPP		CHEBI:7525	nerolidyl diphosphate	id	hasRelatedSynonym	NPP	NPP	50.0	1.0	0.029411764705882353	0	0.5	4
+http://sweetontology.net/propMassFlux#NPP		CHEBI:7468	nandrolone phenpropionate	id	hasRelatedSynonym	NPP	NPP	50.0	1.0	0.03333333333333333	2	0.5	4
+http://sweetontology.net/matrElement#K		CHEBI:52632	potassium-39 atom	id	hasRelatedSynonym	K	K	40.38461538461539	0.23076923076923078	0.75	0	0.16864054885851842	27
+http://sweetontology.net/matrElement#Molybdenum		CHEBI:28685	molybdenum atom	id	hasExactSynonym	Molybdenum	molybdenum	36.11111111111111	0.6666666666666666	0.16666666666666666	2	0.4705882352941176	11
+http://sweetontology.net/matrElementalMolecule#C12		CHEBI:63933	Aroclor 1254	id	hasRelatedSynonym	C12	C12	13.440860215053762	0.16129032258064516	0.1282051282051282	0	0.2513779234321466	4
+http://sweetontology.net/matrIsotope#T		CHEBI:36371	top quark	id	hasRelatedSynonym	T	t	33.33333333333333	0.5	0.3333333333333333	2	0.09581409946319232	22
+http://sweetontology.net/matrElement#Bromine		CHEBI:29224	dibromine	id	hasRelatedSynonym	Bromine	bromine	33.33333333333333	0.3333333333333333	0.5	0	0.1816239316239316	744
+http://sweetontology.net/matrElement#Bromine		CHEBI:22927	bromine atom	id	hasExactSynonym	Bromine	bromine	35.29411764705882	0.6666666666666666	0.11764705882352941	0	0.19780219780219782	744
+http://sweetontology.net/matrElement#Bromine		CHEBI:33117	bromine(.)	id	hasRelatedSynonym	Bromine	bromine	33.33333333333333	0.3333333333333333	0.5	0	0.18389423076923078	744
+http://sweetontology.net/realmClimateZone#Dfa		CHEBI:23716	difluoroacetic acid	id	hasRelatedSynonym	Dfa	DFA	6.25	0.1	0.027777777777777776	4	1.0	3
+http://sweetontology.net/matrElement#Beryllium		CHEBI:33783	beryllium(0)	id	hasRelatedSynonym	Beryllium	beryllium	36.11111111111111	0.6666666666666666	0.16666666666666666	0	0.2352941176470588	12
+http://sweetontology.net/matrElement#C		CHEBI:29435	carbide(1-)	id	hasRelatedSynonym	C	C	10.13198757763975	0.018633540372670808	0.1875	0	0.012524474699902925	744
+http://sweetontology.net/matrElement#C		CHEBI:33417	diamond	id	hasRelatedSynonym	C	C	13.431677018633541	0.024844720496894408	0.25	0	0.019753729740378468	744
+http://sweetontology.net/matrElement#C		CHEBI:36931	carbon-12 atom	id	hasRelatedSynonym	C	C	11.446317657497785	0.018633540372670808	0.21428571428571427	0	0.015139634595986821	744
+http://sweetontology.net/matrElement#C		CHEBI:36369	charm quark	id	hasRelatedSynonym	C	c	25.15527950310559	0.006211180124223602	0.5	0	0.03812275449487819	744
+http://sweetontology.net/matrElement#C		CHEBI:36977	hexagonal graphite	id	hasRelatedSynonym	C	C	13.431677018633541	0.024844720496894408	0.25	0	0.019753729740378468	744
+http://sweetontology.net/matrElement#C		CHEBI:29950	L-cysteine residue	id	hasRelatedSynonym	C	C	5.674760022586112	0.024844720496894408	0.09090909090909091	0	0.004912460548489161	744
+http://sweetontology.net/matrElement#C		CHEBI:36928	carbon-13 atom	id	hasRelatedSynonym	C	C	11.446317657497785	0.018633540372670808	0.21428571428571427	0	0.015139634595986821	744
+http://sweetontology.net/matrElement#C		CHEBI:15356	cysteine	id	hasRelatedSynonym	C	C	5.674760022586112	0.024844720496894408	0.09090909090909091	0	0.004912460548489161	744
+http://sweetontology.net/matrElement#C		CHEBI:29436	carbon(1+)	id	hasRelatedSynonym	C	C	11.446317657497785	0.018633540372670808	0.21428571428571427	0	0.015139634595986821	744
+http://sweetontology.net/matrElement#C		CHEBI:16040	cytosine	id	hasRelatedSynonym	C	C	5.26123492875411	0.018633540372670808	0.08823529411764706	0	0.004257747918460824	744
+http://sweetontology.net/matrElement#C		CHEBI:36978	rhombohedral graphite	id	hasRelatedSynonym	C	C	13.431677018633541	0.024844720496894408	0.25	0	0.019753729740378468	744
+http://sweetontology.net/matrElement#C		CHEBI:30040	methanediylidene group	id	hasRelatedSynonym	C	C	8.207630878438332	0.024844720496894408	0.14285714285714285	0	0.009107076265331603	744
+http://sweetontology.net/matrIsotope#C14		CHEBI:28875	tetradecanoic acid	id	hasRelatedSynonym	C14	C14	12.903225806451612	0.12903225806451613	0.14814814814814814	4	1.0	3
+http://sweetontology.net/matrElement#Helium		CHEBI:33681	helium(0)	id	hasRelatedSynonym	Helium	helium	36.11111111111111	0.16666666666666666	0.6666666666666666	1	0.23447427751588434	744
+http://sweetontology.net/matrElementalMolecule#O3		CHEBI:25812	ozone	id	hasRelatedSynonym	O3	O3	16.563146997929607	0.17391304347826086	0.19047619047619047	1	0.08775444775588388	6
+http://sweetontology.net/matrElementalMolecule#Ozone		CHEBI:25812	ozone	id	hasExactSynonym	Ozone	ozone	26.08695652173913	0.043478260869565216	0.5	0	0.6116504854368933	6
+http://sweetontology.net/matrElement#Iodine		CHEBI:24859	iodine atom	id	hasExactSynonym	Iodine	iodine	35.89743589743589	0.6666666666666666	0.15384615384615385	0	0.33105112351078264	23
+http://sweetontology.net/matrIon#Nitrate		CHEBI:17632	nitrate	id	hasExactSynonym	Nitrate	nitrate	50.0	1.0	0.06666666666666667	0	0.7679738562091504	12
+http://sweetontology.net/matrElement#Cl		CHEBI:47853	chloro group	id	hasRelatedSynonym	Cl	Cl	11.428571428571427	0.14285714285714285	0.1	2	0.11281883259848031	744
+http://sweetontology.net/matrElement#Sb		CHEBI:52624	antimony-121 atom	id	hasRelatedSynonym	Sb	Sb	37.03703703703704	0.2222222222222222	0.6666666666666666	0	0.20072992700729925	9
+http://sweetontology.net/matrOrganicCompound#Ethanol		CHEBI:16236	ethanol	id	hasExactSynonym	Ethanol	ETHANOL	26.851851851851848	0.5	0.07407407407407407	0	0.34451432564640105	6
+http://sweetontology.net/realmClimateZone#D		CHEBI:29301	deuteride	id	hasRelatedSynonym	D	D	19.230769230769223	0.07692307692307693	0.3333333333333333	0	0.03748150366215117	26
+http://sweetontology.net/matrElementalMolecule#O2		CHEBI:26689	singlet dioxygen	id	hasRelatedSynonym	O2	O2	13.354700854700852	0.19230769230769232	0.09259259259259259	2	0.0947020652395306	744
+http://sweetontology.net/matrElementalMolecule#O2		CHEBI:18421	superoxide	id	hasRelatedSynonym	O2	O2	14.59694989106754	0.23529411764705882	0.07407407407407407	0	0.10351121421004698	744
+http://sweetontology.net/matrElement#Sb		CHEBI:49867	antimony(3+)	id	hasRelatedSynonym	Sb	Sb	36.36363636363637	0.18181818181818182	0.6666666666666666	2	0.19708029197080293	9
+http://sweetontology.net/matrIsotope#T		CHEBI:17748	thymidine	id	hasRelatedSynonym	T	T	34.523809523809526	0.07142857142857142	0.6666666666666666	0	0.09923603158687778	22
+http://sweetontology.net/matrElement#Pb		CHEBI:52455	lead-207	id	hasRelatedSynonym	Pb	Pb	36.36363636363637	0.18181818181818182	0.6666666666666666	0	0.13468433359314108	14
+http://sweetontology.net/matrOrganicCompound#FormicAcid		CHEBI:30751	formic acid	id	hasExactSynonym	FormicAcid	FORMIC ACID	38.54166666666667	0.75	0.08333333333333333	0	0.406899668574872	744
+http://sweetontology.net/matrCompound#NaCl		CHEBI:26710	sodium chloride	id	hasRelatedSynonym	NaCl	NaCl	30.14705882352941	0.20588235294117646	0.5	0	0.2440486819774186	13
+http://sweetontology.net/matrCompound#Salt		CHEBI:26710	sodium chloride	id	hasRelatedSynonym	Salt	salt	34.31372549019608	0.058823529411764705	0.6666666666666666	0	0.26241096770738503	13
+http://sweetontology.net/matrElement#H		CHEBI:29239	hydride	id	hasRelatedSynonym	H	H	10.13198757763975	0.1875	0.018633540372670808	0	0.04304316207744555	744
+http://sweetontology.net/matrElement#Br		CHEBI:52743	bromine-79 atom	id	hasRelatedSynonym	Br	Br	15.07936507936508	0.21428571428571427	0.1111111111111111	0	0.10465068639757771	744
+http://sweetontology.net/matrCompound#ChemicalCompound		CHEBI:37577	heteroatomic molecular entity	id	hasRelatedSynonym	ChemicalCompound	chemical compound	44.419968571107866	0.7284768211920529	0.5889830508474576	4	1.0	744
+http://sweetontology.net/matrElement#Mn		CHEBI:33011	manganide	id	hasRelatedSynonym	Mn	Mn	40.38461538461539	0.75	0.23076923076923078	0	0.14363885088919287	11
+http://sweetontology.net/matrElement#Mn		CHEBI:29041	manganese(3+)	id	hasRelatedSynonym	Mn	Mn	40.0	0.75	0.2	0	0.1422708618331053	11
+http://sweetontology.net/matrElement#Mn		CHEBI:25155	manganese cation	id	hasRelatedSynonym	Mn	Mn	40.0	0.75	0.2	2	0.1422708618331053	11
+http://sweetontology.net/matrElement#Mn		CHEBI:29035	manganese(2+)	id	hasRelatedSynonym	Mn	Mn	40.0	0.75	0.2	0	0.1422708618331053	11
+http://sweetontology.net/matrElement#Mn		CHEBI:18291	manganese atom	id	hasRelatedSynonym	Mn	Mn	40.38461538461539	0.75	0.23076923076923078	0	0.07604409752957271	11
+http://sweetontology.net/matrOrganicCompound#C3H8		CHEBI:32879	propane	id	hasRelatedSynonym	C3H8	C3H8	23.272727272727273	0.16	0.36363636363636365	2	0.4155844155844156	3
+http://sweetontology.net/matrElementalMolecule#O2		CHEBI:33263	diatomic oxygen	id	hasRelatedSynonym	O2	O2	17.232510288065843	0.2777777777777778	0.09259259259259259	0	0.12220073899797211	744
+http://sweetontology.net/matrCompound#N2O		CHEBI:29796	oxidodinitrate(.1-)	id	hasRelatedSynonym	N2O	N2O	17.36111111111111	0.3333333333333333	0.020833333333333332	2	0.4884547069271758	4
+http://sweetontology.net/stateVisibility#Light		CHEBI:30212	photon	id	hasRelatedSynonym	Light	Light	50.0	1.0	0.5	0	0.25	5
+http://sweetontology.net/reprSpaceDirection#Z		CHEBI:16586	6-aminohexanoic acid	id	hasRelatedSynonym	Z	Z	25.609756097560975	0.5	0.024390243902439025	0	0.12394835953456124	7
+http://sweetontology.net/humanDecision#DSS		CHEBI:85362	3-(trimethylsilyl)propane-1-sulfonic acid	id	hasRelatedSynonym	DSS	DSS	50.0	0.02857142857142857	1.0	4	1.0	3
+http://sweetontology.net/matrParticle#Photon		CHEBI:30212	photon	id	hasExactSynonym	Photon	photon	50.0	1.0	1.0	2	0.25	5
+http://sweetontology.net/matrElement#Al		CHEBI:37970	aluminium-28 atom	id	hasRelatedSynonym	Al	Al	37.5	0.25	0.6666666666666666	0	0.10142218801781074	17
+http://sweetontology.net/matrOrganicCompound#MethanoicAcid		CHEBI:30751	formic acid	id	hasRelatedSynonym	MethanoicAcid	Methanoic acid	38.54166666666667	0.75	0.08333333333333333	0	0.406899668574872	744
+http://sweetontology.net/matrElement#Boron		CHEBI:33609	elemental boron	id	hasRelatedSynonym	Boron	boron	35.55555555555555	0.6666666666666666	0.13333333333333333	0	0.3333333333333333	22
+http://sweetontology.net/reprSpaceDirection#Y		CHEBI:17895	L-tyrosine	id	hasRelatedSynonym	Y	Y	25.568181818181817	0.5	0.022727272727272728	1	0.04485128893908009	24
+http://sweetontology.net/reprSpaceDirection#Y		CHEBI:46858	L-tyrosine residue	id	hasRelatedSynonym	Y	Y	25.568181818181817	0.5	0.022727272727272728	0	0.04485128893908009	24
+http://sweetontology.net/reprSpaceDirection#Y		CHEBI:49962	yttrium(3+)	id	hasRelatedSynonym	Y	Y	27.27272727272727	0.5	0.09090909090909091	0	0.049905120450908454	24
+http://sweetontology.net/reprSpaceDirection#Y		CHEBI:52622	yttrium-89 atom	id	hasRelatedSynonym	Y	Y	27.77777777777778	0.5	0.1111111111111111	0	0.051434399935625465	24
+http://sweetontology.net/matrElement#Uranium		CHEBI:27214	uranium atom	id	hasExactSynonym	Uranium	uranium	36.666666666666664	0.6666666666666666	0.2	1	0.23529411764705885	22
+http://sweetontology.net/matrElement#P		CHEBI:33466	monoatomic phosphorus	id	hasRelatedSynonym	P	P	10.256410256410254	0.15384615384615385	0.06060606060606061	0	0.08260902840576842	744
+http://sweetontology.net/matrCompound#ClO		CHEBI:29879	chlorooxy group	id	hasRelatedSynonym	ClO	ClO	20.703125	0.21875	0.25	0	0.23563476051707388	11
+http://sweetontology.net/matrNaturalResource#OilShale		CHEBI:80506	Shale oils	id	hasRelatedSynonym	OilShale	oil shale	15.17857142857143	0.25	0.07142857142857142	4	1.0	2
+http://sweetontology.net/matrCompound#Hydroxyl		CHEBI:29191	hydroxyl	id	hasExactSynonym	Hydroxyl	hydroxyl	35.18518518518518	0.1111111111111111	0.6666666666666666	0	0.6752323674138874	744
+http://sweetontology.net/matrOrganicCompound#Carbonyl		CHEBI:23019	carbonyl group	id	hasExactSynonym	Carbonyl	carbonyl	12.926136363636365	0.011363636363636364	0.25	0	0.5582822085889573	744
+http://sweetontology.net/matrElement#Li		CHEBI:74540	Leu-Ile	id	hasRelatedSynonym	Li	LI	26.21951219512195	0.04878048780487805	0.5	0	0.1299666267867263	8
+http://sweetontology.net/matrElement#Element		CHEBI:33250	atom	id	hasRelatedSynonym	Element	element	48.2719404484093	0.9337260677466863	0.4785100286532951	2	0.49120776722375853	744
+http://sweetontology.net/realmClimateZone#Dfb		CHEBI:53049	1-fluoro-2,4-dinitrobenzene	id	hasRelatedSynonym	Dfb	DFB	6.800000000000001	0.1	0.04	4	1.0	2
+http://sweetontology.net/matrOrganicCompound#MTBE		CHEBI:27642	methyl tert-butyl ether	id	hasRelatedSynonym	MTBE	MTBE	14.473684210526317	0.05263157894736842	0.25	2	0.42968750000000006	12
+http://sweetontology.net/matrOrganicCompound#C5H12O		CHEBI:27642	methyl tert-butyl ether	id	hasRelatedSynonym	C5H12O	C5H12O	19.210526315789473	0.3157894736842105	0.1	0	0.05355302606618181	12
+http://sweetontology.net/matrElement#K		CHEBI:26216	potassium atom	id	hasRelatedSynonym	K	K	40.625	0.25	0.75	0	0.08981172087318155	27
+http://sweetontology.net/matrElementalMolecule#O3		CHEBI:29382	ozonide	id	hasRelatedSynonym	O3	O3	19.047619047619047	0.23529411764705882	0.19047619047619047	0	0.2598628584171111	6
+http://sweetontology.net/matrElementalMolecule#H3		CHEBI:30479	trihydrogen(1+)	id	hasRelatedSynonym	H3	H3	21.978021978021978	0.19047619047619047	0.3076923076923077	2	0.5	3
+http://sweetontology.net/matrCompound#Clathrate		CHEBI:39024	clathrate compound	id	hasRelatedSynonym	Clathrate	clathrate	36.36363636363637	0.5	0.45454545454545453	4	1.0	2
+http://sweetontology.net/matrIon#Ion		CHEBI:24870	ion	id	hasExactSynonym	Ion	Ion	50.0	1.0	0.03867403314917127	4	1.0	2
+http://sweetontology.net/matrCompound#SulfurOxide		CHEBI:45822	sulfur monoxide	id	hasRelatedSynonym	SulfurOxide	SULFUR OXIDE	35.0	0.1	0.6666666666666666	0	0.5037220843672456	3
+http://sweetontology.net/matrElement#H		CHEBI:15378	hydron	id	hasRelatedSynonym	H	H	7.62281197063806	0.018633540372670808	0.13636363636363635	0	0.032383570215006076	744
+http://sweetontology.net/matrElement#H		CHEBI:29300	protide	id	hasRelatedSynonym	H	H	12.255136168179654	0.018633540372670808	0.23076923076923078	0	0.05206281673027901	744
+http://sweetontology.net/matrElement#H		CHEBI:33251	monoatomic hydrogen	id	hasRelatedSynonym	H	H	8.291925465838512	0.018633540372670808	0.15	0	0.03522612804498994	744
+http://sweetontology.net/matrElement#H		CHEBI:29235	hydrogen(.)	id	hasRelatedSynonym	H	H	10.13198757763975	0.018633540372670808	0.1875	0	0.04304316207744555	744
+http://sweetontology.net/matrElement#H		CHEBI:46712	positronium protide	id	hasRelatedSynonym	H	H	25.15527950310559	0.006211180124223602	0.5	0	0.10686578170952	744
+http://sweetontology.net/matrElement#H		CHEBI:29979	L-histidine residue	id	hasRelatedSynonym	H	H	4.4365572315882895	0.018633540372670808	0.07142857142857142	0	0.018847580548416235	744
+http://sweetontology.net/matrElement#H		CHEBI:48237	hydrido group	id	hasRelatedSynonym	H	H	11.446317657497785	0.018633540372670808	0.21428571428571427	0	0.04862675781491388	744
+http://sweetontology.net/matrCompound#NO3		CHEBI:29795	trioxidonitrate(.2-)	id	hasRelatedSynonym	NO3	NO3	17.375886524822693	0.3333333333333333	0.02127659574468085	0	0.129755550092871	12
+http://sweetontology.net/matrFacility#Base		CHEBI:18282	nucleobase	id	hasRelatedSynonym	Base	Base	50.0	0.038461538461538464	1.0	1	0.16666666666666666	744
+http://sweetontology.net/matrElement#Se		CHEBI:74813	Ser-Glu	id	hasRelatedSynonym	Se	SE	38.41463414634146	0.07317073170731707	0.75	2	0.16083573987280847	11
+http://sweetontology.net/matrCompound#HNO4		CHEBI:29271	peroxynitric acid	id	hasRelatedSynonym	HNO4	HNO4	20.771929824561408	0.32	0.14035087719298245	2	0.37468354430379747	4
+http://sweetontology.net/matrOrganicCompound#Terpene		CHEBI:35186	terpene	id	hasExactSynonym	Terpene	terpene	32.14285714285714	0.10714285714285714	0.6	4	1.0	2
+http://sweetontology.net/matrElementalMolecule#O3		CHEBI:33265	triatomic oxygen	id	hasRelatedSynonym	O3	O3	19.64285714285714	0.19047619047619047	0.25	0	0.2679835727426458	6
+http://sweetontology.net/matrElementalMolecule#O3		CHEBI:30493	trioxidanediyl group	id	hasRelatedSynonym	O3	O3	18.045112781954884	0.19047619047619047	0.21052631578947367	0	0.24618586586884209	6
+http://sweetontology.net/realmClimateZone#D		CHEBI:29237	deuterium atom	id	hasRelatedSynonym	D	D	18.62745098039215	0.058823529411764705	0.3333333333333333	0	0.02173017297283185	26
+http://sweetontology.net/matrOrganicCompound#C5H8		CHEBI:87379	3-methyl-1-butyne	id	hasRelatedSynonym	C5H8	C5H8	24.3161094224924	0.1702127659574468	0.38095238095238093	0	0.18768521567336185	8
+http://sweetontology.net/matrOrganicCompound#C5H8		CHEBI:49288	cis-housane	id	hasRelatedSynonym	C5H8	C5H8	17.730496453900713	0.10638297872340426	0.2777777777777778	0	0.1368538030951597	8
+http://sweetontology.net/matrOrganicCompound#C5H8		CHEBI:74165	(E)-1,3-pentadiene	id	hasRelatedSynonym	C5H8	C5H8	23.124300111982084	0.14893617021276595	0.3684210526315789	0	0.17848617056305566	8
+http://sweetontology.net/matrOrganicCompound#C5H8		CHEBI:49155	cyclopentene	id	hasRelatedSynonym	C5H8	C5H8	24.3161094224924	0.1702127659574468	0.38095238095238093	0	0.18768521567336185	8
+http://sweetontology.net/matr#Solution		CHEBI:75958	solution	id	label	Solution	solution	50.0	1.0	1.0	0	0.6428571428571429	3
+http://sweetontology.net/matrElement#Pb		CHEBI:25016	lead atom	id	hasRelatedSynonym	Pb	Pb	37.03703703703704	0.6666666666666666	0.2222222222222222	0	0.04094880236386268	14
+http://sweetontology.net/matrElement#Pb		CHEBI:30180	lead(4+)	id	hasRelatedSynonym	Pb	Pb	36.36363636363637	0.6666666666666666	0.18181818181818182	0	0.13468433359314108	14
+http://sweetontology.net/matrOrganicCompound#Carbohydrate		CHEBI:16646	carbohydrate	id	hasExactSynonym	Carbohydrate	carbohydrate	13.60294117647059	0.029411764705882353	0.25	4	1.0	744
+http://sweetontology.net/matrElementalMolecule#H2		CHEBI:29297	diprotium(.1+)	id	hasRelatedSynonym	H2	H2	16.698292220113853	0.12903225806451613	0.23529411764705882	0	0.11988004696856419	744
+http://sweetontology.net/matrElementalMolecule#H2		CHEBI:18276	dihydrogen	id	hasRelatedSynonym	H2	H2	16.052227342549923	0.16129032258064516	0.19047619047619047	0	0.056464049952955474	744
+http://sweetontology.net/matrElement#Mercury		CHEBI:25195	mercury atom	id	hasExactSynonym	Mercury	mercury	37.03703703703704	0.6666666666666666	0.2222222222222222	0	0.23745277927684835	10
+http://sweetontology.net/matrElement#Mercury		CHEBI:16170	mercury(0)	id	hasExactSynonym	Mercury	mercury	36.36363636363637	0.6666666666666666	0.18181818181818182	1	0.2331354560172693	10
+http://sweetontology.net/matrElement#S		CHEBI:17115	L-serine	id	hasRelatedSynonym	S	S	20.74468085106383	0.06382978723404255	0.375	1	0.012709481265969954	744
+http://sweetontology.net/matrElement#S		CHEBI:37983	sulfur-35 atom	id	hasRelatedSynonym	S	S	25.0	0.2	0.375	0	0.017411125880687744	744
+http://sweetontology.net/matrElement#K		CHEBI:18019	L-lysine	id	hasRelatedSynonym	K	K	26.136363636363637	0.045454545454545456	0.5	2	0.10914182707510175	27
+http://sweetontology.net/matrOrganicCompound#C5H12O		CHEBI:77519	3-pentanol	id	hasRelatedSynonym	C5H12O	C5H12O	19.453125	0.28125	0.15	0	0.09508702057388108	12
+http://sweetontology.net/matrOrganicCompound#C3H4O		CHEBI:48057	2-oxopropylidene group	id	hasRelatedSynonym	C3H4O	C3H4O	19.165085388994303	0.16129032258064516	0.2647058823529412	0	0.23323951793317454	6
+http://sweetontology.net/matrOrganicCompound#C3H4O		CHEBI:51195	oxetene	id	hasRelatedSynonym	C3H4O	C3H4O	21.169354838709676	0.11290322580645161	0.35	0	0.2576315219744534	6
+http://sweetontology.net/matrOrganicCompound#C3H4O		CHEBI:15368	acrolein	id	hasRelatedSynonym	C3H4O	C3H4O	18.548387096774192	0.16129032258064516	0.25	1	0.07334039189411495	6
+http://sweetontology.net/matrElement#Cd		CHEBI:48775	cadmium(2+)	id	hasRelatedSynonym	Cd	Cd	25.0	0.3333333333333333	0.25	2	0.1413734304758952	7
+http://sweetontology.net/matrOrganicCompound#Benzene		CHEBI:16716	benzene	id	hasExactSynonym	Benzene	BENZENE	41.29032258064516	0.8	0.12903225806451613	0	0.4066390041493776	6
+http://sweetontology.net/matrCompound#DinitrogenPentoxide		CHEBI:29802	dinitrogen pentaoxide	id	hasRelatedSynonym	DinitrogenPentoxide	dinitrogen pentoxide	35.08771929824561	0.6666666666666666	0.10526315789473684	0	0.636182902584493	3
+http://sweetontology.net/matrOrganicCompound#CF4		CHEBI:38825	tetrafluoromethane	id	hasRelatedSynonym	CF4	CF4	16.734006734006734	0.15555555555555556	0.21212121212121213	2	0.3869209809264305	3
+http://sweetontology.net/matrElement#Li		CHEBI:30144	lithide	id	hasRelatedSynonym	Li	Li	25.0	0.3333333333333333	0.25	2	0.12392166740129716	8
+http://sweetontology.net/reprDataServiceGeospatial#Buffer		CHEBI:35225	buffer	id	label	Buffer	buffer	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/matrElement#P		CHEBI:33467	phosphorus(1+)	id	hasRelatedSynonym	P	P	9.292929292929292	0.13333333333333333	0.06060606060606061	0	0.07484878634340837	744
+http://sweetontology.net/realmClimateZone#D		CHEBI:29303	deuterium(.)	id	hasRelatedSynonym	D	D	19.230769230769223	0.07692307692307693	0.3333333333333333	0	0.03748150366215117	26
+http://sweetontology.net/matrElementalMolecule#O2		CHEBI:27140	triplet dioxygen	id	hasRelatedSynonym	O2	O2	13.354700854700852	0.19230769230769232	0.09259259259259259	0	0.0947020652395306	744
+http://sweetontology.net/matrElement#S		CHEBI:29833	thioxo group	id	hasRelatedSynonym	S	S	22.65625	0.125	0.375	0	0.014760843614574996	744
+http://sweetontology.net/realmClimateZone#Af		CHEBI:73807	Ala-Phe	id	hasRelatedSynonym	Af	AF	7.3170731707317085	0.125	0.024390243902439025	4	1.0	2
+http://sweetontology.net/matrElement#Cl		CHEBI:33432	monoatomic chlorine	id	hasRelatedSynonym	Cl	Cl	18.684210526315788	0.2631578947368421	0.15	0	0.1844439467152787	744
+http://sweetontology.net/matrCompound#HNO3		CHEBI:48107	nitric acid	id	hasRelatedSynonym	HNO3	HNO3	18.620689655172413	0.27586206896551724	0.13333333333333333	1	0.16906307977736548	12
+http://sweetontology.net/stateRoleChemical#Reagent		CHEBI:33893	reagent	id	hasExactSynonym	Reagent	reagent	33.76068376068376	0.02564102564102564	0.6666666666666666	4	1.0	2
+http://sweetontology.net/matrOrganicCompound#Ethane		CHEBI:6015	isoflurane	id	hasRelatedSynonym	Ethane	Ethane	21.666666666666668	0.4	0.05555555555555555	2	0.3973799126637555	4
+http://sweetontology.net/matrCompound#Fe3O4		CHEBI:46726	magnetite	id	hasRelatedSynonym	Fe3O4	Fe3O4	26.923076923076923	0.3076923076923077	0.3333333333333333	0	0.12813413321027534	5
+http://sweetontology.net/matrElementalMolecule#C6		CHEBI:52847	cyclohexane ring	id	hasRelatedSynonym	C6	C6	18.222222222222218	0.26666666666666666	0.13333333333333333	2	0.5	3
+http://sweetontology.net/matrElement#K		CHEBI:29103	potassium(1+)	id	hasRelatedSynonym	K	K	40.0	0.75	0.2	0	0.1670344483931992	27
+http://sweetontology.net/matrElement#K		CHEBI:29967	L-lysine residue	id	hasRelatedSynonym	K	K	26.16279069767442	0.5	0.046511627906976744	0	0.10925218281531925	27
+http://sweetontology.net/matrBiomass#Food		CHEBI:33290	food	id	label	Food	food	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/matrElement#Ha		CHEBI:33349	dubnium atom	id	hasRelatedSynonym	Ha	Ha	15.045592705167172	0.2857142857142857	0.02127659574468085	0	0.42708333333333337	744
+http://sweetontology.net/matrOrganicCompound#Acenaphthene		CHEBI:22154	acenaphthene	id	hasExactSynonym	Acenaphthene	acenaphthene	23.52941176470588	0.11764705882352941	0.4	0	0.5624103299856528	9
+http://sweetontology.net/matrCompound#HNO3		CHEBI:25942	peroxynitrous acid	id	hasRelatedSynonym	HNO3	HNO3	20.0	0.3076923076923077	0.13333333333333333	0	0.5178571428571429	12
+http://sweetontology.net/matrElement#F		CHEBI:36939	fluorine-18 atom	id	hasRelatedSynonym	F	F	18.571428571428573	0.21428571428571427	0.2	0	0.09640250403439776	37
+http://sweetontology.net/matrElement#Sb		CHEBI:52626	antimony-123 atom	id	hasRelatedSynonym	Sb	Sb	37.03703703703704	0.6666666666666666	0.2222222222222222	0	0.20072992700729925	9
+http://sweetontology.net/matrElement#S		CHEBI:37982	sulfur-36 atom	id	hasRelatedSynonym	S	S	25.0	0.2	0.375	0	0.017411125880687744	744
+http://sweetontology.net/matrElement#Ca		CHEBI:29108	calcium(2+)	id	hasRelatedSynonym	Ca	Ca	42.22222222222222	0.8	0.2222222222222222	0	0.17756690210456316	10
+http://sweetontology.net/matrElement#Ca		CHEBI:29320	calcium(0)	id	hasRelatedSynonym	Ca	Ca	34.61538461538461	0.6	0.23076923076923078	0	0.07146463284922336	10
+http://sweetontology.net/matrElement#Ca		CHEBI:39099	calcium(1+)	id	hasRelatedSynonym	Ca	Ca	34.0	0.6	0.2	2	0.14298808432630614	10
+http://sweetontology.net/matrCompound#Sulfate		CHEBI:16189	sulfate	id	hasExactSynonym	Sulfate	Sulfate	34.40860215053763	0.6666666666666666	0.06451612903225806	4	1.0	6
+http://sweetontology.net/matrElement#Cd		CHEBI:8673	pyrimethamine	id	hasRelatedSynonym	Cd	CD	26.31578947368421	0.5	0.05263157894736842	0	0.14881413734304758	7
+http://sweetontology.net/matrElementalMolecule#F2		CHEBI:30238	difluoride(.1-)	id	hasRelatedSynonym	F2	F2	12.10526315789473	0.2	0.05263157894736842	0	0.04131844099039285	37
+http://sweetontology.net/matrElement#Br		CHEBI:33117	bromine(.)	id	hasRelatedSynonym	Br	Br	25.925925925925924	0.037037037037037035	0.5	0	0.07871751191747621	744
+http://sweetontology.net/matrElement#Br		CHEBI:36896	monoatomic bromine	id	hasRelatedSynonym	Br	Br	22.22222222222222	0.07407407407407407	0.4	0	0.15422206416485135	744
+http://sweetontology.net/matrElement#Br		CHEBI:22927	bromine atom	id	hasRelatedSynonym	Br	Br	26.47058823529412	0.3333333333333333	0.29411764705882354	0	0.07873101174802287	744
+http://sweetontology.net/matrCompound#BromineMonoxide		CHEBI:29876	oxidobromine(.)	id	hasExactSynonym	BromineMonoxide	bromine monoxide	35.0	0.6666666666666666	0.1	0	0.5825242718446602	9
+http://sweetontology.net/phenGeolFault#Transform		CHEBI:133305	sulfoxaflor	id	hasRelatedSynonym	Transform	Transform	50.0	1.0	0.024390243902439025	4	1.0	2
+http://sweetontology.net/matrElementalMolecule#Br2		CHEBI:29224	dibromine	id	hasRelatedSynonym	Br2	Br2	26.666666666666668	0.06666666666666667	0.5	0	0.12527964205816555	744
+http://sweetontology.net/matrCompound#N2O		CHEBI:17045	dinitrogen oxide	id	hasRelatedSynonym	N2O	N2O	18.181818181818183	0.2727272727272727	0.125	0	0.17538695762496828	4
+http://sweetontology.net/matrCompound#NitrousOxide		CHEBI:17045	dinitrogen oxide	id	hasRelatedSynonym	NitrousOxide	Nitrous oxide	34.84848484848485	0.09090909090909091	0.6666666666666666	0	0.6571428571428571	4
+http://sweetontology.net/matrElement#Halogen		CHEBI:24473	halogen	id	hasExactSynonym	Halogen	halogen	32.786885245901644	0.5	0.3114754098360656	4	1.0	744
+http://sweetontology.net/stateSystem#Balance		CHEBI:3612	chlordiazepoxide hydrochloride	id	hasRelatedSynonym	Balance	Balance	50.0	0.020833333333333332	1.0	4	1.0	2
+http://sweetontology.net/stateRoleChemical#Solvent		CHEBI:46787	solvent	id	label	Solvent	solvent	40.70175438596492	0.8	0.07017543859649122	4	1.0	2
+http://sweetontology.net/matrElement#F		CHEBI:17295	L-phenylalanine	id	hasRelatedSynonym	F	F	8.301886792452828	0.03773584905660377	0.13333333333333333	2	0.04309429788475254	37
+http://sweetontology.net/matrElement#Hg		CHEBI:25195	mercury atom	id	hasRelatedSynonym	Hg	Hg	41.666666666666664	0.75	0.3333333333333333	0	0.1254819593711963	10
+http://sweetontology.net/matrElement#Hg		CHEBI:73930	His-Gly	id	hasRelatedSynonym	Hg	HG	26.21951219512195	0.5	0.04878048780487805	2	0.14915010130137318	10
+http://sweetontology.net/matrElement#Hg		CHEBI:1679	3-beta-D-glucopyranuronosyloxy-5-methylisoxazole	id	hasRelatedSynonym	Hg	HG	26.61290322580645	0.5	0.06451612903225806	0	0.15138791227363682	10
+http://sweetontology.net/matrElement#Hg		CHEBI:16170	mercury(0)	id	hasRelatedSynonym	Hg	Hg	40.90909090909091	0.75	0.2727272727272727	0	0.12320046920081089	10
+http://sweetontology.net/matrElement#Copper		CHEBI:28694	copper atom	id	hasExactSynonym	Copper	copper	35.89743589743589	0.15384615384615385	0.6666666666666666	1	0.23529411764705882	11
+http://sweetontology.net/matrCompound#IronOxide		CHEBI:50816	iron oxide	id	label	IronOxide	iron oxide	18.421052631578945	0.05263157894736842	0.3333333333333333	2	0.4916387959866222	3
+http://sweetontology.net/matrIsotope#H2		CHEBI:18276	dihydrogen	id	hasRelatedSynonym	H2	H2	19.160997732426306	0.19047619047619047	0.23809523809523808	0	0.06951935636982899	744
+http://sweetontology.net/matrCompound#HO2		CHEBI:79974	ROOH	id	hasRelatedSynonym	HO2	HO2	13.333333333333336	0.06666666666666667	0.21428571428571427	2	0.13819146351340408	744
+http://sweetontology.net/matrCompound#HO2		CHEBI:29792	hydroperoxy group	id	hasRelatedSynonym	HO2	HO2	15.873015873015872	0.044444444444444446	0.2857142857142857	0	0.1645136470397667	744
+http://sweetontology.net/matrElementalMolecule#Hx		CHEBI:18140	hydrogen halide	id	hasRelatedSynonym	Hx	HX	15.306122448979586	0.14285714285714285	0.19047619047619047	0	0.42033411172983637	744
+http://sweetontology.net/matrElementalMolecule#C6		CHEBI:52879	benzene ring	id	hasRelatedSynonym	C6	C6	18.222222222222218	0.13333333333333333	0.26666666666666666	0	0.5	3
+http://sweetontology.net/matrOrganicCompound#CH4		CHEBI:29439	methaniumyl	id	hasRelatedSynonym	CH4	CH4	15.625	0.08333333333333333	0.25	2	0.3096330275229358	744
+http://sweetontology.net/matrOrganicCompound#CH4		CHEBI:29440	methanuidyl	id	hasRelatedSynonym	CH4	CH4	15.625	0.08333333333333333	0.25	0	0.3096330275229358	744
+http://sweetontology.net/matrOrganicCompound#Acenaphthylene		CHEBI:33081	acenaphthylene	id	hasExactSynonym	Acenaphthylene	acenaphthylene	41.81818181818182	0.8	0.18181818181818182	0	0.6414342629482072	7
+http://sweetontology.net/matrElement#S		CHEBI:26833	sulfur atom	id	hasRelatedSynonym	S	S	44.96527777777778	0.19444444444444445	0.875	0	0.032690207545969956	744
+http://sweetontology.net/matrElement#S		CHEBI:29316	sulfide(.1-)	id	hasRelatedSynonym	S	S	24.264705882352942	0.17647058823529413	0.375	0	0.016564399607515105	744
+http://sweetontology.net/matrElement#S		CHEBI:37981	sulfur-34 atom	id	hasRelatedSynonym	S	S	25.0	0.2	0.375	0	0.017411125880687744	744
+http://sweetontology.net/matrElement#S		CHEBI:37979	sulfur-32 atom	id	hasRelatedSynonym	S	S	25.0	0.2	0.375	0	0.017411125880687744	744
+http://sweetontology.net/matrEnergy#Ethanol		CHEBI:16236	ethanol	id	hasExactSynonym	Ethanol	ETHANOL	25.925925925925924	0.5	0.037037037037037035	0	0.3326345213137666	6
+http://sweetontology.net/matrElement#Cl		CHEBI:17996	chloride	id	hasRelatedSynonym	Cl	Cl	14.35483870967742	0.16129032258064516	0.15	0	0.1417059127194622	744
+http://sweetontology.net/matrOrganicCompound#MethylChloride		CHEBI:36014	chloromethane	id	hasRelatedSynonym	MethylChloride	methyl chloride	38.54166666666667	0.08333333333333333	0.75	4	1.0	2
+http://sweetontology.net/matrCompound#NO3		CHEBI:29330	nitrosodioxidanyl	id	hasRelatedSynonym	NO3	NO3	50.0	0.02127659574468085	1.0	0	0.37337821557336354	12
+http://sweetontology.net/matrCompound#NO3		CHEBI:17632	nitrate	id	hasRelatedSynonym	NO3	NO3	15.1063829787234	0.1276595744680851	0.2	0	0.026174378872275406	12
+http://sweetontology.net/matrCompound#NO3		CHEBI:29329	nitrooxidanyl	id	hasRelatedSynonym	NO3	NO3	20.156774916013436	0.1276595744680851	0.3157894736842105	0	0.15052201299710063	12
+http://sweetontology.net/realmClimateZone#D		CHEBI:29233	deuteron	id	hasRelatedSynonym	D	D	18.51851851851852	0.3333333333333333	0.05555555555555555	0	0.035678434307607525	26
+http://sweetontology.net/realmClimateZone#D		CHEBI:22660	aspartic acid	id	hasRelatedSynonym	D	D	17.407407407407405	0.3333333333333333	0.022222222222222223	0	0.032886275973807846	26
+http://sweetontology.net/realmClimateZone#D		CHEBI:23774	dihydrouridine	id	hasRelatedSynonym	D	D	17.816091954022983	0.3333333333333333	0.034482758620689655	0	0.033910195420494206	26
+http://sweetontology.net/realmClimateZone#D		CHEBI:36367	down quark	id	hasRelatedSynonym	D	d	33.33333333333333	0.3333333333333333	0.5	0	0.09312071354285562	26
+http://sweetontology.net/matrElement#S		CHEBI:29831	sulfido group	id	hasRelatedSynonym	S	S	22.65625	0.125	0.375	0	0.014760843614574996	744
+http://sweetontology.net/matrCompound#HydrogenChloride		CHEBI:17883	hydrogen chloride	id	hasExactSynonym	HydrogenChloride	Hydrogen chloride	34.48275862068966	0.06896551724137931	0.6666666666666666	0	0.5904059040590406	744
+http://sweetontology.net/matrRockIgneous#Aa		CHEBI:15843	arachidonic acid	id	hasRelatedSynonym	Aa	AA	17.708333333333332	0.03125	0.3333333333333333	0	0.5035260930888575	4
+http://sweetontology.net/matrElement#P		CHEBI:37973	phosphorus-33 atom	id	hasRelatedSynonym	P	P	10.256410256410254	0.15384615384615385	0.06060606060606061	0	0.08260902840576842	744
+http://sweetontology.net/propCategorical#Name		CHEBI:31916	Nogalonic acid methyl ester	id	hasRelatedSynonym	Name	NAME	50.0	0.045454545454545456	1.0	4	1.0	2
+http://sweetontology.net/matrOrganicCompound#Ethene		CHEBI:18153	ethene	id	hasExactSynonym	Ethene	ethene	32.99999999999999	0.6	0.15	0	0.5736306985897015	5
+http://sweetontology.net/matrOrganicCompound#OrganicCompound		CHEBI:72695	organic molecule	id	hasRelatedSynonym	OrganicCompound	organic compound	34.43264014466546	0.30714285714285716	0.5506329113924051	4	1.0	744
+http://sweetontology.net/matrCompound#DichlorinePeroxide		CHEBI:35927	chlorine peroxide	id	hasRelatedSynonym	DichlorinePeroxide	dichlorine peroxide	35.08771929824561	0.10526315789473684	0.6666666666666666	0	0.5957137667998547	6
+http://sweetontology.net/matrOrganicCompound#C5H12O		CHEBI:77517	3-methyl-2-butanol	id	hasRelatedSynonym	C5H12O	C5H12O	20.0	0.3076923076923077	0.13333333333333333	0	0.0977601496663195	12
+http://sweetontology.net/stateRoleChemical#ChemicalRole		CHEBI:51086	chemical role	id	label	ChemicalRole	chemical role	35.51980198019802	0.7	0.034653465346534656	4	1.0	2
+http://sweetontology.net/matrElement#TransitionMetal		CHEBI:27081	transition element atom	id	hasRelatedSynonym	TransitionMetal	transition metal	40.51020408163265	0.225	0.7551020408163265	4	1.0	744
+http://sweetontology.net/matrElement#F		CHEBI:36940	fluorine-19 atom	id	hasRelatedSynonym	F	F	18.571428571428573	0.21428571428571427	0.2	0	0.09640250403439776	37
+http://sweetontology.net/matrElementalMolecule#F2		CHEBI:30237	difluorine(.1+)	id	hasRelatedSynonym	F2	F2	12.10526315789473	0.2	0.05263157894736842	1	0.04131844099039285	37
+http://sweetontology.net/stateSpectralBand#FM		CHEBI:19231	2'-O-methylpseudouridine	id	hasRelatedSynonym	FM	fm	50.0	0.05555555555555555	1.0	2	0.3333333333333333	4
+http://sweetontology.net/reprSpaceCoordinate#Z		CHEBI:16586	6-aminohexanoic acid	id	hasRelatedSynonym	Z	Z	50.0	1.0	0.024390243902439025	0	0.2469879518072289	7
+http://sweetontology.net/matrElement#B		CHEBI:30168	boron(3+)	id	hasRelatedSynonym	B	B	39.70588235294118	0.17647058823529413	0.75	0	0.06298201254456548	22
+http://sweetontology.net/prop#Role		CHEBI:50906	role	id	label	Role	role	50.0	1.0	0.06744868035190615	4	1.0	2
+http://sweetontology.net/matrIsotope#T		CHEBI:29234	triton	id	hasRelatedSynonym	T	T	35.29411764705882	0.6666666666666666	0.11764705882352941	0	0.10145022296102717	22
+http://sweetontology.net/matrIsotope#T		CHEBI:17821	thymine	id	hasRelatedSynonym	T	T	34.78260869565217	0.6666666666666666	0.08695652173913043	0	0.09997992987463547	22
+http://sweetontology.net/matrIsotope#T		CHEBI:29238	tritium atom	id	hasRelatedSynonym	T	T	35.416666666666664	0.6666666666666666	0.125	0	0.05090124033982092	22
+http://sweetontology.net/rela#hasRole		RO:0000087	has role	id	label	hasRole	has role	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/matrElement#Li		CHEBI:30145	lithium atom	id	hasRelatedSynonym	Li	Li	42.1875	0.75	0.375	0	0.11070943080336475	8
+http://sweetontology.net/matrElement#Li		CHEBI:52621	lithium-6 atom	id	hasRelatedSynonym	Li	Li	41.666666666666664	0.75	0.3333333333333333	0	0.20653611233549526	8
+http://sweetontology.net/matrOrganicCompound#PCB		CHEBI:53156	polychlorobiphenyl	id	hasRelatedSynonym	PCB	PCB	38.177339901477836	0.1724137931034483	0.7142857142857143	1	0.24593045897079277	4
+http://sweetontology.net/matrElement#Al		CHEBI:30150	aluminium(1+)	id	hasRelatedSynonym	Al	Al	36.666666666666664	0.2	0.6666666666666666	0	0.09916836161741494	17
+http://sweetontology.net/matrElement#Se		CHEBI:52457	selenium-77 atom	id	hasRelatedSynonym	Se	Se	40.17857142857143	0.21428571428571427	0.75	0	0.16822105445880478	11
+http://sweetontology.net/matrIsotope#H2		CHEBI:29297	diprotium(.1+)	id	hasRelatedSynonym	H2	H2	19.047619047619047	0.19047619047619047	0.23529411764705882	0	0.13478832174924243	744
+http://sweetontology.net/matrCompound#ClO		CHEBI:29222	hypochlorite	id	hasRelatedSynonym	ClO	ClO	20.703125	0.21875	0.25	2	0.23563476051707388	11
+http://sweetontology.net/matrElement#Fe		CHEBI:29033	iron(2+)	id	hasRelatedSynonym	Fe	Fe	30.0	0.2	0.5	0	0.14067850370785398	11
+http://sweetontology.net/matrCompound#ClO		CHEBI:29878	chlorosyl group	id	hasRelatedSynonym	ClO	ClO	21.875	0.25	0.25	0	0.24897257715011578	11
+http://sweetontology.net/stateRoleBiological#Micronutrient		CHEBI:27027	micronutrient	id	label	Micronutrient	micronutrient	50.0	0.029411764705882353	1.0	4	1.0	2
+http://sweetontology.net/matrElement#Cl		CHEBI:30120	chlorine(1+)	id	hasRelatedSynonym	Cl	Cl	12.421874999999998	0.1875	0.075	0	0.12262437566612168	744
+http://sweetontology.net/matrElement#P		CHEBI:33469	phosphide(1-)	id	hasRelatedSynonym	P	P	9.292929292929292	0.13333333333333333	0.06060606060606061	0	0.07484878634340837	744
+http://sweetontology.net/matrElement#B		CHEBI:30165	boron(1+)	id	hasRelatedSynonym	B	B	39.70588235294118	0.17647058823529413	0.75	0	0.06298201254456548	22
+http://sweetontology.net/stateRoleChemical#Oxidizer		CHEBI:63248	oxidising agent	id	hasRelatedSynonym	Oxidizer	oxidizer	50.0	0.2727272727272727	1.0	4	1.0	2
+http://sweetontology.net/matrElement#P		CHEBI:17203	L-proline	id	hasRelatedSynonym	P	P	5.214940098661025	0.046511627906976744	0.06060606060606061	2	0.04200311063760527	744
+http://sweetontology.net/matrElement#Fe		CHEBI:82664	iron(0)	id	hasRelatedSynonym	Fe	Fe	30.76923076923077	0.23076923076923078	0.5	0	0.14428564482856818	11
+http://sweetontology.net/matrElementalMolecule#O2		CHEBI:44785	peroxide	id	hasRelatedSynonym	O2	O2	16.049382716049383	0.07407407407407407	0.26666666666666666	0	0.07243774235930871	744
+http://sweetontology.net/matrElementalMolecule#O2		CHEBI:29371	dioxygen(2+)	id	hasRelatedSynonym	O2	O2	16.049382716049383	0.07407407407407407	0.26666666666666666	0	0.11381083751452925	744
+http://sweetontology.net/matrElement#Al		CHEBI:37968	aluminium-27 atom	id	hasRelatedSynonym	Al	Al	37.5	0.6666666666666666	0.25	0	0.10142218801781074	17
+http://sweetontology.net/matrElement#Al		CHEBI:37969	aluminium-26 atom	id	hasRelatedSynonym	Al	Al	37.5	0.6666666666666666	0.25	0	0.10142218801781074	17
+http://sweetontology.net/matrElement#S		CHEBI:29832	sulfur(1+)	id	hasRelatedSynonym	S	S	24.264705882352942	0.17647058823529413	0.375	0	0.016564399607515105	744
+http://sweetontology.net/matrElement#B		CHEBI:36370	bottom quark	id	hasRelatedSynonym	B	b	31.25	0.25	0.5	1	0.03523734771938358	22
+http://sweetontology.net/matrOrganicCompound#PAN		CHEBI:61639	poly(acrylonitrile) polymer	id	hasRelatedSynonym	PAN	PAN	30.0	0.2	0.5	0	0.6357615894039735	3
+http://sweetontology.net/propCategorical#Group		CHEBI:24433	group	id	hasExactSynonym	Group	group	50.0	1.0	0.0036231884057971015	4	1.0	744
+http://sweetontology.net/matrElement#P		CHEBI:33468	phosphide(3-)	id	hasRelatedSynonym	P	P	10.256410256410254	0.15384615384615385	0.06060606060606061	0	0.08260902840576842	744
+http://sweetontology.net/matrElement#F		CHEBI:17051	fluoride	id	hasRelatedSynonym	F	F	14.799999999999997	0.12	0.2	0	0.07682538013818158	37
+http://sweetontology.net/matrParticle#Electron		CHEBI:10545	electron	id	hasExactSynonym	Electron	electron	50.0	0.005714285714285714	1.0	2	0.5	744
+http://sweetontology.net/matrElement#S		CHEBI:36368	strange quark	id	hasRelatedSynonym	S	s	28.125	0.5	0.125	0	0.021154517945035613	744
+http://sweetontology.net/matrElement#Helium		CHEBI:30217	helium atom	id	hasExactSynonym	Helium	helium	36.36363636363637	0.18181818181818182	0.6666666666666666	0	0.2361139577782333	744
+http://sweetontology.net/matrElement#Fe		CHEBI:29034	iron(3+)	id	hasRelatedSynonym	Fe	Fe	30.0	0.2	0.5	0	0.14067850370785398	11
+http://sweetontology.net/matrElement#Ne		CHEBI:49993	neon(0)	id	hasRelatedSynonym	Ne	Ne	41.25	0.3	0.75	0	0.21595594690218403	9
+http://sweetontology.net/matrElement#F		CHEBI:36895	monoatomic fluorine	id	hasRelatedSynonym	F	F	28.333333333333332	0.5	0.13333333333333333	0	0.1470756151294017	37
+http://sweetontology.net/matrElement#F		CHEBI:30239	fluorine(.)	id	hasRelatedSynonym	F	F	26.666666666666668	0.5	0.06666666666666667	0	0.13842410835708396	37
+http://sweetontology.net/matrOrganicCompound#Acrylonitrile		CHEBI:28217	acrylonitrile	id	hasExactSynonym	Acrylonitrile	Acrylonitrile	13.888888888888884	0.25	0.037037037037037035	4	1.0	2
+http://sweetontology.net/matrElement#S		CHEBI:33411	monoatomic sulfur	id	hasRelatedSynonym	S	S	25.0	0.2	0.375	0	0.017411125880687744	744
+http://sweetontology.net/matrElementalMolecule#C10		CHEBI:87148	(Z)-13-methyltetradec-2-enoic acid	id	hasRelatedSynonym	C10	C10	8.806584362139919	0.13333333333333333	0.04938271604938271	4	1.0	2
+http://sweetontology.net/matrElement#S		CHEBI:37985	sulfur-38 atom	id	hasRelatedSynonym	S	S	25.0	0.2	0.375	0	0.017411125880687744	744
+http://sweetontology.net/matrElement#P		CHEBI:30207	phosphorus(.)	id	hasRelatedSynonym	P	P	10.256410256410254	0.15384615384615385	0.06060606060606061	0	0.08260902840576842	744
+http://sweetontology.net/matrOrganicCompound#C6H6		CHEBI:16716	benzene	id	hasRelatedSynonym	C6H6	C6H6	18.95984200131665	0.25806451612903225	0.16326530612244897	0	0.05768814310173602	6
+http://sweetontology.net/matrOrganicCompound#C5H12O		CHEBI:132750	2-methylbutan-2-ol	id	hasRelatedSynonym	C5H12O	C5H12O	20.53333333333334	0.13333333333333333	0.32	0	0.10036708699075471	12
+http://sweetontology.net/matrElementalMolecule#C12		CHEBI:87146	(Z)-14-methylpentadec-2-enoic acid	id	hasRelatedSynonym	C12	C12	11.11111111111111	0.13333333333333333	0.10256410256410256	1	0.20780575003724117	4
+http://sweetontology.net/matrElement#S		CHEBI:29999	L-serine residue	id	hasRelatedSynonym	S	S	20.78804347826087	0.375	0.06521739130434782	0	0.01275485205314882	744
+http://sweetontology.net/matrElement#F		CHEBI:29997	L-phenylalanine residue	id	hasRelatedSynonym	F	F	8.301886792452828	0.03773584905660377	0.13333333333333333	0	0.04309429788475254	37
+http://sweetontology.net/matrElement#F		CHEBI:21138	Fe4S2 iron-sulfur cluster	id	hasRelatedSynonym	F	F	11.764705882352938	0.13333333333333333	0.11764705882352941	0	0.06106945956930173	37
+http://sweetontology.net/propOrdinal#Age		CHEBI:84123	advanced glycation end-product	id	hasRelatedSynonym	Age	AGE	50.0	1.0	0.05555555555555555	0	0.3956043956043956	4
+http://sweetontology.net/propTime#Age		CHEBI:84123	advanced glycation end-product	id	hasRelatedSynonym	Age	AGE	50.0	1.0	0.05555555555555555	0	0.3956043956043956	4
+

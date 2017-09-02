@@ -1,0 +1,61 @@
+left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	equiv_clique_size
+http://sweetontology.net/propCategorical#Community		PCO:0000028	community	id	label	Community	community	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/realmGeol#Core		IAO:0000224	core	id	label	Core	core	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/realmBiolBiome#Biota		NCBITaxon:131567	cellular organisms	id	hasRelatedSynonym	Biota	biota	22.222222222222214	0.3333333333333333	0.16666666666666666	4	1.0	2
+http://sweetontology.net/realmAstroBody#AstronomicalBody		ENVO:01000799	astronomical body	id	label	AstronomicalBody	astronomical body	50.0	1.0	0.16666666666666666	4	1.0	2
+http://sweetontology.net/humanCommerce#Construction		ENVO:00000070	construction	id	label	Construction	construction	50.0	1.0	0.09090909090909091	4	1.0	4
+http://sweetontology.net/relaSpace#surroundedBy		RO:0002219	surrounded by	id	label	surroundedBy	surrounded by	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/propTimeFrequency#Rate		PATO:0000161	rate	id	label	Rate	rate	37.5	0.5	0.5	4	1.0	3
+http://sweetontology.net/rela#hasRole		RO:0000087	has role	id	label	hasRole	has role	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/propCount#CarryingCapacity		PCO:0000009	carrying capacity	id	label	CarryingCapacity	carrying capacity	31.25	0.25	0.5	4	1.0	2
+http://sweetontology.net/matrMicrobiota#Algae		NCBITaxon:3041	Chlorophyta	id	hasRelatedSynonym	Algae	algae	33.33333333333333	0.5	0.3333333333333333	4	1.0	3
+http://sweetontology.net/reprSciProvenance#Process		BFO:0000015	process	id	label	Process	process	29.166666666666664	0.16666666666666666	0.5	0	0.6829268292682927	3
+http://sweetontology.net/proc#Process		BFO:0000015	process	id	label	Process	process	13.541666666666663	0.16666666666666666	0.125	2	0.31707317073170727	3
+http://sweetontology.net/stateRoleBiological#Host		RO:0002453	host of	id	label	Host	host of	42.5	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/propSpace#Shape		PATO:0000052	shape	id	label	Shape	shape	50.0	0.4	1.0	4	1.0	2
+http://sweetontology.net/propSpace#Morphology		PATO:0000051	morphology	id	label	Morphology	morphology	50.0	1.0	0.1111111111111111	4	1.0	2
+http://sweetontology.net/reprDataServiceReduction#Subset		http://www.geneontology.org/formats/oboInOwl#Subset		id	id	Subset	Subset	50.0	1.0	1.0	0	0.5405405405405406	3
+http://sweetontology.net/relaMath#subsetOf		http://www.geneontology.org/formats/oboInOwl#Subset		id	id	subsetOf	Subset	42.5	1.0	1.0	2	0.4594594594594595	3
+http://sweetontology.net/matrMicrobiota#Bacteria		NCBITaxon:2	Bacteria	id	hasRelatedSynonym	Bacteria	bacteria	33.33333333333333	0.3333333333333333	0.5	4	1.0	2
+http://sweetontology.net/stateSpaceConfiguration#Branched		PATO:0000402	branched	id	label	Branched	branched	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/stateSpectralBand#Red		PATO:0000322	red	id	label	Red	red	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/reprSciComponent#Output		RO:0002353	output of	id	label	Output	output of	42.5	1.0	1.0	4	1.0	2
+http://sweetontology.net/reprMathFunction#Function		RO:0000079	function of	id	label	Function	function of	42.5	0.25	1.0	2	0.4594594594594595	3
+http://sweetontology.net/reprMathFunction#Function		BFO:0000034	function	id	label	Function	function	50.0	0.25	1.0	0	0.5405405405405406	3
+http://sweetontology.net/reprDataModel#Cell		CL:0000000	cell	id	label	Cell	cell	50.0	1.0	1.0	0	0.5	3
+http://sweetontology.net/phenFluidDynamics#Cell		CL:0000000	cell	id	label	Cell	cell	50.0	1.0	0.5	2	0.5	3
+http://sweetontology.net/phenSystem#System		RO:0002577	system	id	label	System	system	50.0	0.14285714285714285	1.0	4	1.0	2
+http://sweetontology.net/reprSciComponent#Environment		ENVO:01000254	environmental system	id	hasExactSynonym	Environment	environment	38.095238095238095	0.2857142857142857	0.6666666666666666	4	1.0	2
+http://sweetontology.net/relaSci#hasComponent		RO:0002180	has component	id	label	hasComponent	has component	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/reprDataModel#Structure		PATO:0000141	structure	id	label	Structure	structure	50.0	1.0	0.25	0	0.3333333333333333	4
+http://sweetontology.net/realmBiolBiome#Biome		ENVO:00000428	biome	id	label	Biome	biome	44.44444444444444	0.6666666666666666	0.6666666666666666	4	1.0	2
+http://sweetontology.net/reprSpaceGeometry#Family		PCO:0000020	family	id	label	Family	family	50.0	1.0	1.0	4	1.0	4
+http://sweetontology.net/human#Behavior		GO:0007610	behavior	id	label	Behavior	behavior	50.0	0.3333333333333333	1.0	4	1.0	2
+http://www.w3.org/2006/time#before		RO:0002083	before	id	label	before	before	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/phenEcology#Mutualism		GO:0085030	mutualism	id	label	Mutualism	mutualism	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/relaSpace#adjacentTo		RO:0002220	adjacent to	id	label	adjacentTo	adjacent to	50.0	0.5	1.0	4	1.0	2
+http://sweetontology.net/matrPlant#Root		NCBITaxon:1	root	id	label	Root	root	50.0	1.0	0.16666666666666666	4	1.0	2
+http://sweetontology.net/reprMathFunction#Linear		PATO:0001199	linear	id	label	Linear	linear	21.875	0.25	0.25	4	1.0	3
+http://sweetontology.net/propOrdinal#Color		PATO:0000014	color	id	label	Color	color	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/matrBiomass#Organism		CARO:0010004	organism	id	label	Organism	organism	50.0	0.25	1.0	4	1.0	2
+http://sweetontology.net/relaChemical#hasChemicalRole		RO:0002262	has chemical role	id	label	hasChemicalRole	has chemical role	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/matrAnimal#Human		NCBITaxon:9606	Homo sapiens	id	hasExactSynonym	Human	human	31.25	0.25	0.5	4	1.0	2
+http://sweetontology.net/reprSciComponent#Input		RO:0002352	input of	id	label	Input	input of	42.5	1.0	1.0	4	1.0	2
+http://sweetontology.net/propSpaceLocation#Location		RO:0001015	location of	id	label	Location	location of	42.5	1.0	1.0	4	1.0	3
+http://sweetontology.net/relaSpace#overlaps		RO:0002131	overlaps	id	label	overlaps	overlaps	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/stateRoleGeographic#Tributary		RO:0002376	tributary of	id	label	Tributary	tributary of	28.333333333333332	0.5	0.3333333333333333	4	1.0	2
+http://sweetontology.net/prop#Role		RO:0000081	role of	id	label	Role	role of	42.5	1.0	0.3333333333333333	2	0.4594594594594595	3
+http://sweetontology.net/propOrdinal#Quality		BFO:0000019	quality	id	label	Quality	quality	50.0	1.0	0.1111111111111111	0	0.3508771929824561	4
+http://sweetontology.net/propOrdinal#Quality		PATO:0000001	quality	id	label	Quality	quality	50.0	1.0	0.07692307692307693	0	0.3508771929824561	4
+http://sweetontology.net/propOrdinal#Quality		RO:0000080	quality of	id	label	Quality	quality of	42.5	1.0	1.0	2	0.2982456140350877	4
+http://sweetontology.net/phenEcology#Parasitism		GO:0072519	parasitism	id	label	Parasitism	parasitism	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/prop#Role		BFO:0000023	role	id	label	Role	role	50.0	0.3333333333333333	1.0	0	0.5405405405405406	3
+http://sweetontology.net/propMass#Structure		PATO:0000141	structure	id	label	Structure	structure	50.0	1.0	0.25	0	0.3333333333333333	4
+http://sweetontology.net/reprSpace#Space		ENVO:01000637	outer space	id	hasBroadSynonym	Space	space	50.0	1.0	0.2	0	0.5	3
+http://sweetontology.net/phenSystemComplexity#Transformation		RO:0002494	transformation of	id	label	Transformation	transformation of	42.5	1.0	1.0	4	1.0	3
+http://sweetontology.net/realmAstroBody#OuterSpace		ENVO:01000637	outer space	id	label	OuterSpace	outer space	50.0	0.2	1.0	2	0.5	3
+http://sweetontology.net/relaHuman#produces		RO:0003000	produces	id	label	produces	produces	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/matrFacility#Structure		PATO:0000141	structure	id	label	Structure	structure	50.0	1.0	0.25	2	0.3333333333333333	4
+http://sweetontology.net/phenEnvirImpact#SpeciesExtinction		PCO:0000022	species extinction	id	label	SpeciesExtinction	species extinction	50.0	1.0	0.3333333333333333	4	1.0	3
+http://sweetontology.net/stateFluid#Laminar		PATO:0002124	laminar	id	label	Laminar	laminar	50.0	1.0	0.16666666666666666	4	1.0	2
+

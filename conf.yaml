@@ -1,0 +1,9 @@
+meaningful_ids: true
+ontology_configurations:
+  - prefix: ENVO
+    scope_confidence_map:
+      hasRelatedSynonym: 0.2
+  - prefix: CHEBI
+    scope_confidence_map:
+      hasRelatedSynonym: 0.2
+    normalized_form_confidence: 0
