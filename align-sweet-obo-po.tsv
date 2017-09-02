@@ -1,0 +1,14 @@
+http://sweetontology.net/matrPlant#Thorn		PO:0025172	thorn	id	label	Thorn	thorn	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/stateDataProcessing#L1		PO:0006303	L1	id	label	L1	L1	50.0	1.0	1.0	4	1.0	3
+http://sweetontology.net/phenStar#Filament		PO:0009067	filament	id	label	Filament	filament	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/matrPlant#Pollen		PO:0025281	pollen	id	label	Pollen	pollen	50.0	0.3333333333333333	1.0	0	0.5	3
+http://sweetontology.net/matrAerosol#Pollen		PO:0025281	pollen	id	label	Pollen	pollen	50.0	0.3333333333333333	1.0	2	0.5	3
+http://sweetontology.net/matrPlant#Leaf		PO:0025034	leaf	id	label	Leaf	leaf	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/phenAtmoFront#TransitionZone		PO:0003000	transition zone	id	label	TransitionZone	transition zone	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/matrPlant#Root		PO:0009005	root	id	label	Root	root	50.0	1.0	0.25	0	0.5	12
+http://sweetontology.net/matrPlant#Branch		PO:0025073	branch	id	label	Branch	branch	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/matrOrganicCompound#Silk		PO:0006488	silk	id	label	Silk	silk	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/stateDataProcessing#L2		PO:0006304	L2	id	label	L2	L2	50.0	1.0	1.0	4	1.0	3
+http://sweetontology.net/realmHydroBody#Canal		PO:0025132	canal	id	label	Canal	canal	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/stateDataProcessing#L3		PO:0006305	L3	id	label	L3	L3	50.0	1.0	1.0	4	1.0	3
+http://sweetontology.net/matrPlant#Fruit		PO:0009001	fruit	id	label	Fruit	fruit	50.0	1.0	1.0	4	1.0	2

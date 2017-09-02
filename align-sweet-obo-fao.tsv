@@ -1,0 +1,4 @@
+http://sweetontology.net/reprDataModel#Cell		FAO:0000018	unicellular structure	id	hasExactSynonym	Cell	cell	50.0	1.0	1.0	0	0.5	3
+http://sweetontology.net/realmAtmoBoundaryLayer#Cap		FAO:0000009	pileus	id	hasRelatedSynonym	Cap	cap	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/phenFluidDynamics#Cell		FAO:0000018	unicellular structure	id	hasExactSynonym	Cell	cell	50.0	1.0	1.0	2	0.5	3
+http://sweetontology.net/matrPlant#Mushroom		FAO:0000012	basidiocarp	id	hasRelatedSynonym	Mushroom	mushroom	50.0	0.5	1.0	4	1.0	2

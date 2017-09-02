@@ -9,13 +9,20 @@ CAT = $(SWEET_REPO)/catalog-v001.xml
 SRC = $(SWEET_REPO)/sweetAll.ttl
 
 # ontology list (OBO IDs)
-ONTS = envo pato pco ro to po chebi
+# To find out more about each ontology see obofoundry.org
+# E.g. http://obofoundry.org/ontology/envo.html
+# TODO: ecocore
+ONTS = envo pato pco ro to po chebi go obi fao fix iao mop  stato uo
 
 # ----------------------------------------
 # TOP LEVEL TARGET
 # ----------------------------------------
 all: align_all
 setup: sweet owltools
+clean:
+	rm *.tsv
+realclean: clean
+	rm sweet.json
 
 # ----------------------------------------
 # INPUT FILES
@@ -38,7 +45,7 @@ sweet.json:
 align_all: $(patsubst %,align-sweet-obo-%.tsv,$(ONTS))
 
 align-sweet-obo-%.tsv: sweet.json
-	ontobio-lexmap.py -vvv -c conf.yaml -l True $< $*  > $@.tmp && cut -f2-999 $@.tmp > $@
+	ontobio-lexmap.py -vvv -c conf.yaml -l True $< $*  > $@.tmp && cut -f2-999 $@.tmp | egrep -i '\t$*:' > $@
 
 owltools:
 	curl -L http://build.berkeleybop.org/userContent/owltools/owltools -o $@ && chmod +x $@
