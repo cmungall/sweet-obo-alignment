@@ -13,7 +13,7 @@ make setup
 make
 ```
 
-On subsequent runs, you do not need `make setup`. This clones SWEET into this repo.
+On subsequent runs, you do not need `make setup`. This clones SWEET into this repo and downloads owltools.
 
 In the same terminal session you only need to do `. env.sh` once
 
