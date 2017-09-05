@@ -1,353 +1,353 @@
 left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	equiv_clique_size
-http://sweetontology.net/matrElement#P		PATO:0001346	h plus	id	hasExactSynonym	P	P	50.0	1.0	0.5	0	0.5405405405405406	4
-http://sweetontology.net/statePhysical#Diluted		PATO:0001161	diluted	id	label	Diluted	diluted	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/reprSpaceGeometry3D#Ellipsoid		PATO:0000947	elliptic	id	hasExactSynonym	Ellipsoid	ellipsoid	50.0	1.0	0.125	2	0.5	3
-http://sweetontology.net/stateRoleImpact#Heavy		PATO:0000582	increased weight	id	hasExactSynonym	Heavy	heavy	27.77777777777778	0.1111111111111111	0.5	2	0.3571428571428572	3
-http://sweetontology.net/statePhysical#Heavy		PATO:0000582	increased weight	id	hasExactSynonym	Heavy	heavy	50.0	0.1111111111111111	1.0	0	0.6428571428571429	3
-http://sweetontology.net/stateSystem#Broken		PATO:0001444	broken	id	label	Broken	broken	50.0	1.0	0.14285714285714285	0	0.5	3
-http://sweetontology.net/propOrdinal#Color		PATO:0000014	color	id	label	Color	color	50.0	0.1111111111111111	1.0	4	1.0	2
-http://sweetontology.net/procPhysical#Tension		PATO:0002284	tension	id	label	Tension	tension	33.33333333333333	0.3333333333333333	0.5	4	1.0	2
-http://sweetontology.net/propOrdinal#Age		PATO:0000011	age	id	label	Age	age	40.74074074074074	0.4444444444444444	0.6666666666666666	0	0.33976833976833976	4
-http://sweetontology.net/realmClimateZone#A		PATO:0001341	a mating type (yeast)	id	hasBroadSynonym	A	a	50.0	1.0	0.5	4	1.0	3
-http://sweetontology.net/stateChemical#Aerobic		PATO:0001455	aerobic	id	label	Aerobic	aerobic	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/propSpaceThickness#Thickness		PATO:0000915	thickness	id	label	Thickness	thickness	50.0	1.0	0.25	4	1.0	2
-http://sweetontology.net/reprSpaceGeometry#Circular		PATO:0000411	circular	id	label	Circular	circular	50.0	1.0	0.14285714285714285	0	0.43750000000000006	5
-http://sweetontology.net/propMass#Consistency		PATO:0000037	consistency	id	label	Consistency	consistency	50.0	0.5	1.0	4	1.0	3
-http://sweetontology.net/propFraction#Albedo	Albedo	PATO:0001295	albedo	label	label	Albedo	albedo	100.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/stateVisibility#Light		PATO:0000665	high brightness	id	hasExactSynonym	Light	light	37.5	0.5	0.5	0	0.3	4
-http://sweetontology.net/stateFluid#Stratified		PATO:0002068	stratified	id	label	Stratified	stratified	50.0	1.0	0.16666666666666666	4	1.0	2
-http://sweetontology.net/reprSpaceCoordinate#Pressure		PATO:0001025	pressure	id	label	Pressure	pressure	31.25	0.5	0.25	0	0.2857142857142857	4
-http://sweetontology.net/propSpaceDirection#Incidence		PATO:0000057	occurrence	id	hasExactSynonym	Incidence	incidence	26.923076923076923	0.07692307692307693	0.5	0	0.30434782608695654	5
-http://sweetontology.net/propTimeFrequency#Incidence		PATO:0000057	occurrence	id	hasExactSynonym	Incidence	incidence	11.538461538461537	0.07692307692307693	0.16666666666666666	2	0.13043478260869565	5
-http://sweetontology.net/phen#Occurrence		PATO:0000057	occurrence	id	label	Occurrence	occurrence	50.0	0.07692307692307693	1.0	0	0.5652173913043479	5
-http://sweetontology.net/stateSpace#Deep		PATO:0001596	increased depth	id	hasExactSynonym	Deep	deep	26.785714285714285	0.07142857142857142	0.5	4	1.0	2
-http://sweetontology.net/propCharge#ElectricCharge		PATO:0002193	electric charge	id	label	ElectricCharge	electric charge	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Ridged		PATO:0002358	ridged	id	label	Ridged	ridged	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Grooved		PATO:0002255	grooved	id	label	Grooved	grooved	31.25	0.5	0.25	4	1.0	2
-http://sweetontology.net/propRotation#AngularAcceleration		PATO:0001350	angular acceleration	id	label	AngularAcceleration	angular acceleration	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/stateBiological#Dead		PATO:0001422	dead	id	label	Dead	dead	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/matrFacility#Structure		PATO:0000141	structure	id	label	Structure	structure	50.0	0.030303030303030304	1.0	2	0.3333333333333333	4
-http://sweetontology.net/reprDataModel#Structure		PATO:0000141	structure	id	label	Structure	structure	50.0	0.030303030303030304	1.0	0	0.3333333333333333	4
-http://sweetontology.net/propMass#Structure		PATO:0000141	structure	id	label	Structure	structure	50.0	0.030303030303030304	1.0	0	0.3333333333333333	4
-http://sweetontology.net/propEnergy#Power		PATO:0001024	power	id	label	Power	power	37.5	0.5	0.5	4	1.0	2
-http://sweetontology.net/propMass#Mass		PATO:0000125	mass	id	label	Mass	mass	50.0	0.5	1.0	4	1.0	2
+http://sweetontology.net/propFunction#Average		PATO:0000461	normal	id	hasRelatedSynonym	Average	average	50.0	1.0	0.02857142857142857	0	0.33018867924528306	7
+http://sweetontology.net/reprMathFunction#Linear		PATO:0001199	linear	id	label	Linear	linear	50.0	1.0	0.25	4	1.0	3
 http://sweetontology.net/stateVisibility#Murky		PATO:0001515	variable color	id	hasRelatedSynonym	Murky	murky	30.0	0.2	0.5	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Round		PATO:0000411	circular	id	hasRelatedSynonym	Round	round	32.14285714285714	0.2857142857142857	0.5	1	0.1298076923076923	5
-http://sweetontology.net/stateSpaceConfiguration#Rounded		PATO:0000411	circular	id	hasRelatedSynonym	Rounded	rounded	32.14285714285714	0.2857142857142857	0.5	0	0.1298076923076923	5
-http://sweetontology.net/stateSpaceConfiguration#Broad		PATO:0000600	increased width	id	hasRelatedSynonym	Broad	broad	27.083333333333336	0.08333333333333333	0.5	1	0.17567567567567566	4
-http://sweetontology.net/stateSpaceConfiguration#Wide		PATO:0000600	increased width	id	hasRelatedSynonym	Wide	wide	27.083333333333336	0.08333333333333333	0.5	0	0.5	4
-http://sweetontology.net/reprSpaceDirection#Vertical		PATO:0001854	vertical	id	label	Vertical	vertical	23.33333333333333	0.2	0.3333333333333333	0	0.5645161290322581	4
-http://sweetontology.net/reprSpaceCoordinate#Vertical		PATO:0001854	vertical	id	label	Vertical	vertical	17.999999999999993	0.2	0.2	2	0.4354838709677419	4
-http://sweetontology.net/propSpaceHeight#Depth		PATO:0001595	depth	id	label	Depth	depth	22.222222222222214	0.3333333333333333	0.16666666666666666	0	0.5423728813559321	3
-http://sweetontology.net/propCharge#Capacitance		PATO:0002205	capacitance	id	label	Capacitance	capacitance	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/stateRoleRepresentative#Robust		PATO:0002310	robust	id	label	Robust	robust	50.0	0.25	1.0	4	1.0	2
-http://sweetontology.net/stateVisibility#Dark		PATO:0000327	low brightness	id	hasExactSynonym	Dark	dark	31.25	0.5	0.25	4	1.0	2
-http://sweetontology.net/stateSolid#Refractory		PATO:0002631	refractory	id	label	Refractory	refractory	50.0	1.0	0.2	4	1.0	2
-http://sweetontology.net/stateTime#Mature		PATO:0001701	mature	id	label	Mature	mature	30.0	0.2	0.5	4	1.0	2
-http://sweetontology.net/propEnergyFlux#Intensity		PATO:0000049	intensity	id	label	Intensity	intensity	33.33333333333333	0.5	0.3333333333333333	4	1.0	3
-http://sweetontology.net/stateSolid#Hard		PATO:0000386	hard	id	label	Hard	hard	50.0	0.1111111111111111	1.0	4	1.0	2
-http://sweetontology.net/stateTime#Old		PATO:0000308	old	id	label	Old	old	38.57142857142858	0.42857142857142855	0.6	4	1.0	2
-http://sweetontology.net/propSpaceDirection#Angle		PATO:0002326	angle	id	label	Angle	angle	50.0	1.0	0.14285714285714285	0	0.5	5
-http://sweetontology.net/propSpaceDirection#Angle		PATO:0000133	orientation	id	hasRelatedSynonym	Angle	angle	50.0	1.0	0.2	0	0.22727272727272727	5
-http://sweetontology.net/stateSpectralBand#Red		PATO:0000322	red	id	label	Red	red	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/propChemical#Composition		PATO:0000025	composition	id	label	Composition	composition	50.0	0.1	1.0	0	0.7142857142857143	3
-http://sweetontology.net/propMass#Content		PATO:0000025	composition	id	hasExactSynonym	Content	content	19.999999999999996	0.1	0.3333333333333333	2	0.28571428571428564	3
-http://sweetontology.net/propTimeFrequency#Frequency		PATO:0000044	frequency	id	label	Frequency	frequency	36.36363636363637	0.36363636363636365	0.5714285714285714	4	1.0	2
-http://sweetontology.net/reprSpaceGeometry#Square		PATO:0000413	square	id	label	Square	square	50.0	1.0	0.25	0	0.3333333333333333	4
-http://sweetontology.net/propSpaceDirection#Lateral		PATO:0001193	lateral to	id	hasExactSynonym	Lateral	lateral	31.25	0.5	0.25	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Symmetric		PATO:0000632	symmetrical	id	hasExactSynonym	Symmetric	symmetric	50.0	0.16666666666666666	1.0	4	1.0	2
-http://sweetontology.net/stateTime#Immature		PATO:0001501	immature	id	label	Immature	immature	30.0	0.2	0.5	4	1.0	2
-http://sweetontology.net/stateChemical#Potability		PATO:0025000	potability	id	label	Potability	potability	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/stateVisibility#Bright		PATO:0001229	high saturation	id	hasExactSynonym	Bright	bright	37.5	0.5	0.5	4	1.0	2
-http://sweetontology.net/stateSystem#Active		PATO:0002354	active	id	label	Active	active	33.33333333333333	0.5	0.3333333333333333	2	0.39999999999999997	3
-http://sweetontology.net/reprSciMethodology#Active		PATO:0002354	active	id	label	Active	active	50.0	0.5	1.0	0	0.6000000000000001	3
-http://sweetontology.net/stateSpaceConfiguration#Concealed		PATO:0002508	concealed	id	label	Concealed	concealed	31.25	0.5	0.25	4	1.0	2
-http://sweetontology.net/statePhysical#Gaseous		PATO:0001547	quality of a gas	id	hasExactSynonym	Gaseous	gaseous	50.0	1.0	0.4	4	1.0	4
-http://sweetontology.net/stateChemical#Oxidized		PATO:0002223	oxidized	id	label	Oxidized	oxidized	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Dense		PATO:0001164	dense	id	label	Dense	dense	50.0	0.3333333333333333	1.0	2	0.5	7
-http://sweetontology.net/propFraction#Efficiency		PATO:0001029	efficiency	id	label	Efficiency	efficiency	50.0	1.0	0.5	0	0.5	3
-http://sweetontology.net/propSpace#Curvature		PATO:0001591	curvature	id	label	Curvature	curvature	50.0	1.0	0.125	4	1.0	2
-http://sweetontology.net/proc#Force		PATO:0001035	force	id	label	Force	force	18.75	0.25	0.16666666666666666	2	0.2727272727272727	3
-http://sweetontology.net/propQuantity#Force		PATO:0001035	force	id	label	Force	force	50.0	0.25	1.0	0	0.7272727272727273	3
-http://sweetontology.net/procPhysical#Rotation		PATO:0001599	rotated	id	hasExactSynonym	Rotation	rotation	50.0	1.0	0.2	4	1.0	2
-http://sweetontology.net/propPressure#Stiffness		PATO:0001545	inflexible	id	hasRelatedSynonym	Stiffness	stiffness	50.0	0.3333333333333333	1.0	2	0.5	3
-http://sweetontology.net/stateSolid#Stiff		PATO:0001545	inflexible	id	hasExactSynonym	Stiff	stiff	50.0	0.3333333333333333	1.0	0	0.5	3
-http://sweetontology.net/stateSolid#Pitted		PATO:0002296	foveate	id	hasRelatedSynonym	Pitted	pitted	50.0	1.0	0.25	4	1.0	2
-http://sweetontology.net/propTime#Latency		PATO:0001005	latency	id	label	Latency	latency	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/statePhysical#Slow		PATO:0000304	decreased speed	id	hasExactSynonym	Slow	slow	50.0	0.1111111111111111	1.0	4	1.0	2
-http://sweetontology.net/propTemperature#Temperature		PATO:0000146	temperature	id	label	Temperature	temperature	50.0	1.0	0.2	4	1.0	2
-http://sweetontology.net/reprSpaceDirection#Diffuse		PATO:0001566	distributed	id	hasExactSynonym	Diffuse	diffuse	30.0	0.2	0.5	2	0.23076923076923078	5
-http://sweetontology.net/phenMixing#Diffuse		PATO:0001566	distributed	id	hasExactSynonym	Diffuse	diffuse	50.0	0.2	1.0	0	0.38461538461538464	5
-http://sweetontology.net/statePhysical#Scattered		PATO:0001566	distributed	id	hasExactSynonym	Scattered	scattered	50.0	0.2	1.0	0	0.38461538461538464	5
-http://sweetontology.net/propSpeed#Acceleration	Acceleration	PATO:0001028	acceleration	label	label	Acceleration	acceleration	100.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Bent		PATO:0000617	bent	id	label	Bent	bent	50.0	1.0	0.4	4	1.0	2
-http://sweetontology.net/propCharge#Permeability		PATO:0000970	permeability	id	label	Permeability	permeability	50.0	0.1	1.0	0	0.6451612903225806	3
-http://sweetontology.net/propMassFlux#Permeability		PATO:0000970	permeability	id	label	Permeability	permeability	27.500000000000004	0.1	0.5	2	0.35483870967741943	3
-http://sweetontology.net/stateSpaceConfiguration#Curved		PATO:0000406	curved	id	label	Curved	curved	50.0	1.0	0.4	4	1.0	2
-http://sweetontology.net/stateTime#Period		PATO:0001309	duration	id	hasExactSynonym	Period	period	27.777777777777775	0.3333333333333333	0.3333333333333333	0	0.12269938650306747	15
-http://sweetontology.net/propTime#Period		PATO:0001309	duration	id	hasExactSynonym	Period	period	50.0	0.3333333333333333	1.0	0	0.22085889570552147	15
-http://sweetontology.net/reprTime#Duration		PATO:0001309	duration	id	label	Duration	duration	50.0	0.3333333333333333	1.0	0	0.22085889570552147	15
-http://sweetontology.net/propTime#Time		PATO:0001309	duration	id	hasRelatedSynonym	Time	time	50.0	0.3333333333333333	1.0	0	0.11042944785276074	15
-http://sweetontology.net/reprTime#Time		PATO:0001309	duration	id	hasRelatedSynonym	Time	time	20.833333333333332	0.3333333333333333	0.125	1	0.03188969203668833	15
-http://sweetontology.net/propTime#Duration		PATO:0001309	duration	id	label	Duration	duration	27.777777777777775	0.3333333333333333	0.3333333333333333	0	0.12269938650306747	15
-http://sweetontology.net/human#Work		PATO:0001026	work	id	label	Work	work	50.0	0.5	1.0	0	0.5714285714285714	3
-http://sweetontology.net/propEnergy#Work		PATO:0001026	work	id	label	Work	work	37.5	0.5	0.5	2	0.42857142857142855	3
-http://sweetontology.net/stateSpaceConfiguration#Sharp		PATO:0001419	sharp	id	label	Sharp	sharp	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/stateSystem#Hyperactive		PATO:0000760	increased behavioural activity	id	hasExactSynonym	Hyperactive	hyperactive	21.428571428571423	0.14285714285714285	0.3333333333333333	4	1.0	2
-http://sweetontology.net/stateSpectralBand#Orange		PATO:0000953	orange	id	label	Orange	orange	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/matrElement#H		PATO:0001345	h minus	id	hasExactSynonym	H	h -	42.5	1.0	0.5	2	0.5	4
-http://sweetontology.net/matrElement#H		PATO:0001346	h plus	id	hasExactSynonym	H	h+	42.5	1.0	0.5	0	0.22972972972972974	4
-http://sweetontology.net/statePhysical#Impermeable		PATO:0000983	impermeable	id	label	Impermeable	impermeable	50.0	0.125	1.0	4	1.0	2
-http://sweetontology.net/stateSolid#Deformed		PATO:0001617	deformed	id	label	Deformed	deformed	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/propEnergyFlux#LuminousFlux		PATO:0001296	luminous flux	id	label	LuminousFlux	luminous flux	23.33333333333333	0.3333333333333333	0.2	4	1.0	2
-http://sweetontology.net/stateRoleImpact#Minimal		PATO:0002123	minimal	id	label	Minimal	minimal	23.33333333333333	0.2	0.3333333333333333	4	1.0	2
-http://sweetontology.net/reprSpaceDirection#Down		PATO:0000365	down	id	label	Down	down	40.0	0.4	0.6666666666666666	4	1.0	2
-http://sweetontology.net/stateSystem#Inactive		PATO:0002355	inactive	id	label	Inactive	inactive	33.33333333333333	0.3333333333333333	0.5	4	1.0	2
-http://sweetontology.net/statePhysical#Hydrophobic		PATO:0001885	hydrophobic	id	label	Hydrophobic	hydrophobic	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/propChemical#Reactivity		PATO:0000077	response to	id	hasRelatedSynonym	Reactivity	reactivity	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/propDifference#Amplitude		PATO:0000080	amplitude	id	label	Amplitude	amplitude	37.5	0.5	0.5	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Short		PATO:0000574	decreased length	id	hasExactSynonym	Short	short	27.083333333333336	0.08333333333333333	0.5	0	0.5014836795252225	3
-http://sweetontology.net/reprSciFunction#Invariant		PATO:0000438	invariant	id	label	Invariant	invariant	50.0	1.0	0.3333333333333333	0	0.5	3
-http://sweetontology.net/reprSpaceDirection#Left		PATO:0000366	left	id	label	Left	left	44.44444444444444	0.6666666666666666	0.6666666666666666	4	1.0	2
-http://sweetontology.net/phenCryo#Accumulation		PATO:0002269	accumulation	id	label	Accumulation	accumulation	29.166666666666664	0.5	0.16666666666666666	2	0.5	3
-http://sweetontology.net/stateRealm#Sunken		PATO:0002416	sunken	id	label	Sunken	sunken	50.0	1.0	0.16666666666666666	4	1.0	2
-http://sweetontology.net/propChemical#pH		PATO:0001842	acidity	id	hasExactSynonym	pH	pH	50.0	0.3333333333333333	1.0	0	0.5	3
-http://sweetontology.net/propChemical#Acidity		PATO:0001842	acidity	id	label	Acidity	acidity	50.0	0.3333333333333333	1.0	2	0.5	3
-http://sweetontology.net/propPressure#SurfaceTension		PATO:0001461	surface tension	id	label	SurfaceTension	surface tension	33.33333333333333	0.5	0.3333333333333333	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Dispersed		PATO:0001630	dispersed	id	label	Dispersed	dispersed	50.0	1.0	0.25	4	1.0	2
-http://sweetontology.net/propSpaceDirection#Orientation		PATO:0000133	orientation	id	label	Orientation	orientation	30.0	0.5	0.2	0	0.2727272727272727	5
-http://sweetontology.net/propCount#Count		PATO:0000070	amount	id	hasExactSynonym	Count	count	50.0	0.16666666666666666	1.0	4	1.0	2
-http://sweetontology.net/stateChemical#Aromatic		PATO:0002191	aromatic	id	label	Aromatic	aromatic	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/procPhysical#Magnetism		PATO:0001682	magnetism	id	label	Magnetism	magnetism	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/propSpaceMultidimensional#Area		PATO:0001323	area	id	label	Area	area	50.0	1.0	0.25	4	1.0	2
-http://sweetontology.net/propConductivity#Resistance		PATO:0001046	resistance to	id	hasExactSynonym	Resistance	resistance	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/stateSolid#Fragmented		PATO:0001444	broken	id	hasExactSynonym	Fragmented	fragmented	50.0	1.0	0.14285714285714285	2	0.5	3
-http://sweetontology.net/stateChemical#Calcareous		PATO:0001447	calcified	id	hasExactSynonym	Calcareous	calcareous	50.0	1.0	0.125	0	0.5	3
+http://sweetontology.net/stateSystem#Resilient		PATO:0001716	non-fragile	id	hasRelatedSynonym	Resilient	resilient	50.0	1.0	0.16666666666666666	0	0.6923076923076924	3
+http://sweetontology.net/propSpaceDirection#Direction		PATO:0000039	direction	id	label	Direction	direction	40.816326530612244	0.35714285714285715	0.7142857142857143	4	1.0	4
 http://sweetontology.net/stateSpaceConfiguration#Scalloped		PATO:0001889	scalloped	id	label	Scalloped	scalloped	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/humanDecision#Preference		PATO:0000773	preference	id	label	Preference	preference	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/stateSolid#Granular		PATO:0001759	granular	id	label	Granular	granular	50.0	1.0	0.125	4	1.0	2
-http://sweetontology.net/humanResearch#Variable		PATO:0001227	variant	id	hasExactSynonym	Variable	variable	50.0	1.0	0.3333333333333333	2	0.5	3
-http://sweetontology.net/stateSystem#Complex		PATO:0001504	complex	id	label	Complex	complex	50.0	1.0	0.16666666666666666	4	1.0	2
-http://sweetontology.net/stateSpectralBand#Yellow		PATO:0000324	yellow	id	label	Yellow	yellow	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/propEnergyFlux#Opacity		PATO:0000957	opacity	id	label	Opacity	opacity	50.0	1.0	0.14285714285714285	4	1.0	3
-http://sweetontology.net/reprSpaceDirection#Right		PATO:0000367	right	id	label	Right	right	44.44444444444444	0.6666666666666666	0.6666666666666666	4	1.0	2
-http://sweetontology.net/relaSpace#adjacentTo		PATO:0002259	adjacent to	id	label	adjacentTo	adjacent to	50.0	0.25	1.0	4	1.0	2
-http://sweetontology.net/reprMathOperation#Square		PATO:0000413	square	id	label	Square	square	50.0	1.0	0.25	2	0.3333333333333333	4
-http://sweetontology.net/phenSystem#Variability		PATO:0001303	variability	id	label	Variability	variability	50.0	0.16666666666666666	1.0	4	1.0	2
-http://sweetontology.net/phenSystem#Loss		PATO:0001999	lacks parts or has fewer parts of type	id	hasExactSynonym	Loss	loss of	42.5	1.0	0.5	4	1.0	2
-http://sweetontology.net/reprSpaceGeometry3D#Spheroid		PATO:0001865	spheroid	id	label	Spheroid	spheroid	50.0	1.0	0.14285714285714285	4	1.0	2
-http://sweetontology.net/stateRoleImpact#Strong		PATO:0001716	non-fragile	id	hasRelatedSynonym	Strong	strong	22.222222222222214	0.16666666666666666	0.3333333333333333	2	0.3076923076923076	3
-http://sweetontology.net/stateSystem#Resilient		PATO:0001716	non-fragile	id	hasRelatedSynonym	Resilient	resilient	50.0	0.16666666666666666	1.0	0	0.6923076923076924	3
-http://sweetontology.net/reprSpaceCoordinate#Elevation		PATO:0001687	elevation	id	label	Elevation	elevation	16.666666666666664	0.16666666666666666	0.2	2	0.4705882352941176	4
-http://sweetontology.net/propSpaceHeight#Elevation		PATO:0001687	elevation	id	label	Elevation	elevation	18.75	0.16666666666666666	0.25	0	0.5294117647058824	4
-http://sweetontology.net/stateSolid#Compressed		PATO:0002254	flattened	id	hasRelatedSynonym	Compressed	compressed	50.0	0.16666666666666666	1.0	0	0.5	7
 http://sweetontology.net/propSpeed#Momentum		PATO:0001023	momentum	id	label	Momentum	momentum	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/phenSolid#Failure		PATO:0001511	non-functional	id	hasRelatedSynonym	Failure	failure	37.5	0.5	0.5	4	1.0	2
-http://sweetontology.net/stateSpace#Small		PATO:0000587	decreased size	id	hasRelatedSynonym	Small	small	29.166666666666664	0.16666666666666666	0.5	2	0.368421052631579	3
-http://sweetontology.net/stateSpace#Tiny		PATO:0000587	decreased size	id	hasRelatedSynonym	Tiny	tiny	50.0	0.16666666666666666	1.0	0	0.6315789473684211	3
-http://sweetontology.net/phenSystemComplexity#Pattern		PATO:0000060	spatial pattern	id	hasRelatedSynonym	Pattern	pattern	50.0	1.0	0.05	4	1.0	2
-http://sweetontology.net/stateChemical#Radioactive		PATO:0001741	radioactive	id	label	Radioactive	radioactive	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/stateTime#Present		PATO:0000467	present	id	label	Present	present	18.75	0.16666666666666666	0.25	4	1.0	2
-http://sweetontology.net/stateFluid#Viscous		PATO:0000998	viscous	id	label	Viscous	viscous	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Branched		PATO:0000402	branched	id	label	Branched	branched	50.0	1.0	0.4	4	1.0	2
-http://sweetontology.net/stateSolid#Elastic		PATO:0001171	elastic	id	label	Elastic	elastic	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Amorphous		PATO:0001332	amorphous	id	label	Amorphous	amorphous	50.0	0.3333333333333333	1.0	0	0.5	3
-http://sweetontology.net/stateSolid#Amorphous		PATO:0001332	amorphous	id	label	Amorphous	amorphous	50.0	0.3333333333333333	1.0	2	0.5	3
-http://sweetontology.net/propBinary#Free		PATO:0002316	autogenous	id	hasRelatedSynonym	Free	free	50.0	0.16666666666666666	1.0	4	1.0	2
-http://sweetontology.net/propSpaceHeight#Height		PATO:0000119	height	id	label	Height	height	19.999999999999996	0.2	0.25	2	0.3999999999999999	3
-http://sweetontology.net/reprSpaceCoordinate#Height		PATO:0000119	height	id	label	Height	height	30.0	0.2	0.5	0	0.6	3
-http://sweetontology.net/reprMathFunction#Normal		PATO:0000461	normal	id	label	Normal	normal	50.0	0.02857142857142857	1.0	0	0.33018867924528306	7
-http://sweetontology.net/propFunction#Average		PATO:0000461	normal	id	hasRelatedSynonym	Average	average	50.0	0.02857142857142857	1.0	0	0.33018867924528306	7
-http://sweetontology.net/reprSpaceDirection#Normal		PATO:0000461	normal	id	label	Normal	normal	25.71428571428571	0.02857142857142857	0.5	0	0.16981132075471697	7
-http://sweetontology.net/phenGeolFault#Normal		PATO:0000461	normal	id	label	Normal	normal	25.71428571428571	0.02857142857142857	0.5	2	0.16981132075471697	7
-http://sweetontology.net/stateChemical#Potable		PATO:0025002	potable	id	label	Potable	potable	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Twisted		PATO:0001989	sinuous	id	hasRelatedSynonym	Twisted	twisted	50.0	0.4	1.0	0	0.3333333333333333	4
-http://sweetontology.net/propTime#Time		PATO:0000165	time	id	label	Time	time	50.0	0.14285714285714285	1.0	0	0.28	15
-http://sweetontology.net/reprTime#Time		PATO:0000165	time	id	label	Time	time	39.285714285714285	0.5714285714285714	0.5	0	0.2875247524752475	15
-http://sweetontology.net/stateSpectralBand#Green		PATO:0000320	green	id	label	Green	green	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/reprMathFunction#Linear		PATO:0001199	linear	id	label	Linear	linear	50.0	0.25	1.0	4	1.0	3
-http://sweetontology.net/stateTime#Age		PATO:0000011	age	id	label	Age	age	29.166666666666664	0.5	0.16666666666666666	2	0.24324324324324323	4
-http://sweetontology.net/stateTime#Young		PATO:0000309	young	id	label	Young	young	38.57142857142858	0.6	0.42857142857142855	4	1.0	2
-http://sweetontology.net/stateVisibility#Clear		PATO:0000964	transparent	id	hasExactSynonym	Clear	clear	23.33333333333333	0.3333333333333333	0.2	2	0.4565217391304348	3
-http://sweetontology.net/stateVisibility#Transparent		PATO:0000964	transparent	id	label	Transparent	transparent	27.777777777777775	0.3333333333333333	0.3333333333333333	0	0.5434782608695653	3
-http://sweetontology.net/stateSpaceConfiguration#Symmetry		PATO:0000965	symmetry	id	label	Symmetry	symmetry	50.0	0.125	1.0	4	1.0	2
-http://sweetontology.net/stateDataProcessing#Clustered		PATO:0001629	aggregated	id	hasExactSynonym	Clustered	clustered	50.0	1.0	0.2	4	1.0	2
-http://sweetontology.net/relaSpace#surroundedBy		PATO:0005016	surrounded by	id	label	surroundedBy	surrounded by	50.0	0.25	1.0	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Broad		PATO:0002359	broad	id	label	Broad	broad	50.0	1.0	0.5	0	0.6486486486486486	4
-http://sweetontology.net/propTime#Episodic		PATO:0002630	episodic	id	label	Episodic	episodic	50.0	0.2	1.0	0	0.7500000000000001	4
-http://sweetontology.net/stateTimeFrequency#Episodic		PATO:0002630	episodic	id	label	Episodic	episodic	16.666666666666664	0.2	0.16666666666666666	2	0.25	4
-http://sweetontology.net/phenFluidDynamics#LowPressure	Low Pressure	PATO:0001575	decreased pressure	label	hasExactSynonym	Low Pressure	low pressure	66.0	0.6666666666666666	0.2	4	1.0	2
-http://sweetontology.net/propMass#SpecificVolume		PATO:0001679	specific volume	id	label	SpecificVolume	specific volume	50.0	1.0	0.2	4	1.0	2
-http://sweetontology.net/statePhysical#Hydrophilic		PATO:0001887	hydrophilic	id	label	Hydrophilic	hydrophilic	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/propDifference#Deviation		PATO:0002175	deviation	id	label	Deviation	deviation	30.0	0.5	0.2	4	1.0	2
-http://sweetontology.net/procChemical#Fluorescence		PATO:0000018	fluorescence	id	label	Fluorescence	fluorescence	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/propIndex#Virulence		PATO:0002146	virulence	id	label	Virulence	virulence	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/propFraction#Refractivity		PATO:0001372	refractivity	id	label	Refractivity	refractivity	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/stateSolid#Soft		PATO:0000387	soft	id	label	Soft	soft	50.0	0.1111111111111111	1.0	4	1.0	2
-http://sweetontology.net/reprMath#Variable		PATO:0001227	variant	id	hasExactSynonym	Variable	variable	50.0	0.3333333333333333	1.0	0	0.5	3
-http://sweetontology.net/prop#Efficiency		PATO:0001029	efficiency	id	label	Efficiency	efficiency	50.0	1.0	0.5	2	0.5	3
-http://sweetontology.net/stateVisibility#Colored		PATO:0000336	colored	id	label	Colored	colored	33.33333333333333	0.5	0.3333333333333333	4	1.0	2
-http://sweetontology.net/propSpeed#Velocity		PATO:0000008	speed	id	hasRelatedSynonym	Velocity	velocity	50.0	0.3333333333333333	1.0	0	0.25	4
-http://sweetontology.net/propSpeed#Speed		PATO:0000008	speed	id	label	Speed	speed	50.0	0.3333333333333333	1.0	2	0.5	4
-http://sweetontology.net/propSpaceLocation#Position		PATO:0000605	obsolete placement value	id	hasRelatedSynonym	Position	position	50.0	1.0	0.25	0	0.39325842696629215	4
-http://sweetontology.net/propSpaceLocation#Location		PATO:0000605	obsolete placement value	id	hasRelatedSynonym	Location	location	50.0	1.0	0.25	0	0.39325842696629215	4
-http://sweetontology.net/propSpaceDistance#Length		PATO:0000122	length	id	label	Length	length	13.541666666666663	0.16666666666666666	0.125	4	1.0	2
-http://sweetontology.net/stateSystem#Intermittent		PATO:0000690	discontinuous	id	hasRelatedSynonym	Intermittent	intermittent	50.0	1.0	0.2	0	0.34090909090909094	6
-http://sweetontology.net/stateSpaceConfiguration#Narrow		PATO:0000599	decreased width	id	hasRelatedSynonym	Narrow	narrow	27.27272727272727	0.5	0.09090909090909091	4	1.0	2
-http://sweetontology.net/stateSolid#Shattered		PATO:0002081	shattered	id	label	Shattered	shattered	50.0	0.125	1.0	4	1.0	2
-http://sweetontology.net/propSpace#Morphology		PATO:0000051	morphology	id	label	Morphology	morphology	50.0	0.009615384615384616	1.0	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Twisted		PATO:0002445	torsioned	id	hasExactSynonym	Twisted	twisted	50.0	0.5	1.0	0	0.3333333333333333	4
-http://sweetontology.net/stateSpaceConfiguration#Dendritic		PATO:0002045	dendritic	id	label	Dendritic	dendritic	50.0	0.2	1.0	4	1.0	2
-http://sweetontology.net/propBinary#Polarity		PATO:0002186	polarity	id	label	Polarity	polarity	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/stateTimeFrequency#Uninterrupted		PATO:0000689	continuous	id	hasExactSynonym	Uninterrupted	uninterrupted	16.666666666666664	0.16666666666666666	0.2	2	0.25	4
-http://sweetontology.net/stateFluid#Stratification		PATO:0002067	stratification	id	label	Stratification	stratification	50.0	1.0	0.16666666666666666	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Arched		PATO:0001594	arched	id	label	Arched	arched	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/phenAtmoFront#Front		PATO:0001900	front	id	label	Front	front	33.33333333333333	0.3333333333333333	0.5	4	1.0	2
-http://sweetontology.net/statePhysical#HighFrequency		PATO:0000380	increased frequency	id	hasExactSynonym	HighFrequency	high frequency	50.0	0.1111111111111111	1.0	0	0.6176470588235294	3
-http://sweetontology.net/stateTimeFrequency#Frequent		PATO:0000380	increased frequency	id	hasRelatedSynonym	Frequent	frequent	30.952380952380953	0.3333333333333333	0.42857142857142855	2	0.3823529411764706	3
-http://sweetontology.net/reprSpaceGeometry#Helical		PATO:0000404	coiled	id	hasRelatedSynonym	Helical	helical	50.0	0.25	1.0	2	0.5	3
-http://sweetontology.net/reprSpaceGeometry#Spiral		PATO:0000404	coiled	id	hasExactSynonym	Spiral	spiral	50.0	0.25	1.0	0	0.5	3
-http://sweetontology.net/propFraction#Porosity		PATO:0000973	porosity	id	label	Porosity	porosity	50.0	1.0	0.1111111111111111	4	1.0	3
-http://sweetontology.net/stateSpaceConfiguration#Twisted		PATO:0001798	kinked	id	hasRelatedSynonym	Twisted	twisted	50.0	0.4	1.0	2	0.3333333333333333	4
-http://sweetontology.net/propDimensionlessRatio#Electronegativity		PATO:0002197	electronegativity	id	label	Electronegativity	electronegativity	37.5	0.5	0.5	4	1.0	2
-http://sweetontology.net/reprSciMethodology#Passive		PATO:0000764	passive	id	label	Passive	passive	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/stateSystem#Balanced		PATO:0000757	balanced	id	label	Balanced	balanced	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/propEnergyFlux#Luminance		PATO:0001718	luminance	id	label	Luminance	luminance	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/stateSystem#Balance		PATO:0000185	balance	id	label	Balance	balance	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/stateRoleImpact#Rough		PATO:0000700	rough	id	label	Rough	rough	25.0	0.3333333333333333	0.25	2	0.25	4
-http://sweetontology.net/statePhysical#Dry		PATO:0001801	decreased water composition	id	hasRelatedSynonym	Dry	dry	50.0	0.07692307692307693	1.0	2	0.5	3
-http://sweetontology.net/propMass#Hardness		PATO:0000048	hardness	id	label	Hardness	hardness	50.0	1.0	0.2	4	1.0	2
-http://sweetontology.net/stateTimeFrequency#Interrupted		PATO:0000690	discontinuous	id	hasExactSynonym	Interrupted	interrupted	16.666666666666664	0.16666666666666666	0.2	2	0.11363636363636363	6
-http://sweetontology.net/propSpaceDirection#Direction		PATO:0000039	direction	id	label	Direction	direction	40.816326530612244	0.7142857142857143	0.35714285714285715	4	1.0	4
-http://sweetontology.net/stateRoleImpact#Weak		PATO:0001779	decreased strength	id	hasExactSynonym	Weak	weak	20.833333333333332	0.125	0.3333333333333333	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Square		PATO:0000413	square	id	label	Square	square	50.0	1.0	0.5	0	0.3333333333333333	4
-http://sweetontology.net/stateSpaceConfiguration#Elongated		PATO:0001154	elongated	id	label	Elongated	elongated	41.666666666666664	0.6666666666666666	0.5	4	1.0	2
-http://sweetontology.net/procPhysical#Orientation		PATO:0000133	orientation	id	label	Orientation	orientation	30.0	0.5	0.2	2	0.2727272727272727	5
-http://sweetontology.net/reprMathOperation#Ratio		PATO:0001470	proportionality to	id	hasExactSynonym	Ratio	ratio	28.125	0.125	0.5	0	0.33673469387755106	9
-http://sweetontology.net/relaSpace#diameter		PATO:0001334	diameter	id	label	diameter	diameter	50.0	0.2	1.0	4	1.0	2
-http://sweetontology.net/propTimeFrequency#Rate		PATO:0001470	proportionality to	id	hasRelatedSynonym	Rate	rate	27.27272727272727	0.5	0.09090909090909091	1	0.13994169096209907	9
-http://sweetontology.net/reprMathOperation#Quotient		PATO:0001470	proportionality to	id	hasExactSynonym	Quotient	quotient	28.125	0.5	0.125	0	0.33673469387755106	9
-http://sweetontology.net/statePhysical#Porous		PATO:0000982	permeable	id	hasRelatedSynonym	Porous	porous	50.0	1.0	0.125	0	0.25	5
-http://sweetontology.net/statePhysical#Porous		PATO:0000984	porous	id	label	Porous	porous	50.0	1.0	0.1111111111111111	0	0.5	5
-http://sweetontology.net/stateOrdinal#Acute		PATO:0000389	acute	id	label	Acute	acute	50.0	1.0	0.125	4	1.0	2
-http://sweetontology.net/propTimeFrequency#Rate		PATO:0000161	rate	id	label	Rate	rate	36.36363636363637	0.5714285714285714	0.36363636363636365	0	0.5714285714285714	9
-http://sweetontology.net/propRotation#AngularVelocity		PATO:0001413	angular velocity	id	label	AngularVelocity	angular velocity	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Prolate		PATO:0001866	prolate	id	label	Prolate	prolate	50.0	1.0	0.4	4	1.0	2
-http://sweetontology.net/stateSystem#Closed		PATO:0000608	closed	id	label	Closed	closed	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/stateBiological#Alive		PATO:0001421	alive	id	label	Alive	alive	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/propTimeFrequency#Fertility		PATO:0000274	fertility	id	label	Fertility	fertility	30.0	0.5	0.2	4	1.0	2
-http://sweetontology.net/propFraction#Humidity		PATO:0015009	humidity	id	label	Humidity	humidity	31.25	0.5	0.25	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Hexagonal		PATO:0002509	hexagonal	id	label	Hexagonal	hexagonal	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/propSpaceDistance#Size		PATO:0000117	size	id	label	Size	size	39.90384615384615	0.19230769230769232	0.75	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Elevated		PATO:0001688	increased elevation	id	hasRelatedSynonym	Elevated	elevated	50.0	0.09090909090909091	1.0	4	1.0	2
-http://sweetontology.net/statePhysical#Wet		PATO:0001823	wet	id	label	Wet	wet	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/phenSolid#Dislocation		PATO:0001852	dislocated	id	hasExactSynonym	Dislocation	dislocation	50.0	1.0	0.25	4	1.0	2
-http://sweetontology.net/propFraction#Reflectivity		PATO:0001297	reflectivity	id	label	Reflectivity	reflectivity	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/stateVisibility#Cloudy		PATO:0000963	opaque	id	hasRelatedSynonym	Cloudy	cloudy	33.33333333333333	0.5	0.3333333333333333	0	0.5454545454545455	3
-http://sweetontology.net/stateSpaceConfiguration#Oblate		PATO:0000409	oblate	id	label	Oblate	oblate	50.0	0.4	1.0	4	1.0	2
-http://sweetontology.net/propSpaceMultidimensional#Volume		PATO:0000918	volume	id	label	Volume	volume	50.0	1.0	0.2	4	1.0	2
-http://sweetontology.net/phenFluidDynamics#HighPressure	High Pressure	PATO:0001576	increased pressure	label	hasExactSynonym	High Pressure	high pressure	66.0	0.2	0.6666666666666666	4	1.0	3
-http://sweetontology.net/propOrdinal#Quality		PATO:0000001	quality	id	label	Quality	quality	50.0	1.0	0.0030120481927710845	4	1.0	2
-http://sweetontology.net/reprSpaceCoordinate#Depth		PATO:0001595	depth	id	label	Depth	depth	18.75	0.25	0.16666666666666666	2	0.4576271186440679	3
-http://sweetontology.net/stateSystem#Open		PATO:0000610	open	id	label	Open	open	50.0	0.3333333333333333	1.0	0	0.5	3
-http://sweetontology.net/stateSpaceConfiguration#Open		PATO:0000610	open	id	label	Open	open	50.0	0.3333333333333333	1.0	2	0.5	3
-http://sweetontology.net/propSpaceLocation#Focus		PATO:0001516	focus	id	label	Focus	focus	33.33333333333333	0.3333333333333333	0.5	4	1.0	3
-http://sweetontology.net/phenSolid#Jagged		PATO:0001368	erose	id	hasRelatedSynonym	Jagged	jagged	31.25	0.5	0.25	4	1.0	2
-http://sweetontology.net/propMass#Texture		PATO:0000150	texture	id	label	Texture	texture	50.0	1.0	0.125	4	1.0	2
-http://sweetontology.net/statePhysical#Dry		PATO:0001824	dry	id	label	Dry	dry	50.0	0.5	1.0	0	0.5	3
-http://sweetontology.net/propTimeFrequency#Tendency		PATO:0002360	tendency	id	label	Tendency	tendency	19.696969696969695	0.3333333333333333	0.09090909090909091	0	0.5	9
-http://sweetontology.net/propChemical#Alkaline		PATO:0001430	alkaline	id	label	Alkaline	alkaline	50.0	0.25	1.0	4	1.0	6
-http://sweetontology.net/stateSolid#Brittle		PATO:0002477	brittle	id	label	Brittle	brittle	50.0	0.16666666666666666	1.0	4	1.0	2
-http://sweetontology.net/reprMathFunction#Discontinuous		PATO:0000690	discontinuous	id	label	Discontinuous	discontinuous	30.0	0.2	0.5	0	0.20454545454545456	6
-http://sweetontology.net/statePhysical#Intermittent		PATO:0000690	discontinuous	id	hasRelatedSynonym	Intermittent	intermittent	50.0	0.2	1.0	0	0.34090909090909094	6
-http://sweetontology.net/propQuantity#Flux		PATO:0001030	flux	id	label	Flux	flux	31.25	0.25	0.5	4	1.0	2
-http://sweetontology.net/stateThermodynamic#Hot		PATO:0001305	increased temperature	id	hasExactSynonym	Hot	hot	28.125	0.125	0.5	4	1.0	2
-http://sweetontology.net/stateRoleRepresentative#Atypical		PATO:0000460	abnormal	id	hasRelatedSynonym	Atypical	atypical	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/propPressure#Strength		PATO:0001230	strength	id	label	Strength	strength	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/propSpaceLocation#Position		PATO:0000140	position	id	label	Position	position	13.571428571428573	0.25	0.02857142857142857	0	0.10674157303370788	4
-http://sweetontology.net/propSpeed#Velocity		PATO:0002242	velocity	id	label	Velocity	velocity	50.0	1.0	0.3333333333333333	0	0.5	4
-http://sweetontology.net/reprMathFunction#Continuous		PATO:0000689	continuous	id	label	Continuous	continuous	50.0	1.0	0.2	0	0.7500000000000001	4
-http://sweetontology.net/stateSpaceConfiguration#Dense		PATO:0001485	condensed	id	hasRelatedSynonym	Dense	dense	50.0	0.16666666666666666	1.0	0	0.13953488372093023	7
+http://sweetontology.net/phenStar#Prominence		PATO:0015007	prominence	id	label	Prominence	prominence	50.0	0.2	1.0	4	1.0	2
 http://sweetontology.net/stateSpaceConfiguration#Compact		PATO:0001485	condensed	id	hasBroadSynonym	Compact	compact	29.166666666666664	0.16666666666666666	0.5	2	0.1627906976744186	7
+http://sweetontology.net/stateSpaceConfiguration#Dense		PATO:0001485	condensed	id	hasRelatedSynonym	Dense	dense	50.0	0.16666666666666666	1.0	0	0.13953488372093023	7
 http://sweetontology.net/stateSolid#Compressed		PATO:0001485	condensed	id	hasExactSynonym	Compressed	compressed	50.0	0.16666666666666666	1.0	0	0.13953488372093023	7
 http://sweetontology.net/statePhysical#Condensed		PATO:0001485	condensed	id	label	Condensed	condensed	50.0	0.16666666666666666	1.0	0	0.27906976744186046	7
-http://sweetontology.net/stateVisibility#Opaque		PATO:0000963	opaque	id	label	Opaque	opaque	27.777777777777775	0.3333333333333333	0.3333333333333333	2	0.4545454545454546	3
-http://sweetontology.net/stateSpace#Mobile		PATO:0000299	mobile	id	label	Mobile	mobile	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/propTimeFrequency#Tendency		PATO:0001727	disposition	id	hasRelatedSynonym	Tendency	tendency	19.696969696969695	0.09090909090909091	0.3333333333333333	2	0.5	9
-http://sweetontology.net/stateSpaceConfiguration#Round		PATO:0002397	subcircular	id	hasRelatedSynonym	Round	round	37.5	0.5	0.5	0	0.2692307692307693	5
-http://sweetontology.net/phenSystem#Accumulation		PATO:0002269	accumulation	id	label	Accumulation	accumulation	29.166666666666664	0.16666666666666666	0.5	0	0.5	3
-http://sweetontology.net/stateSystem#Stability		PATO:0015026	stability	id	label	Stability	stability	50.0	1.0	0.16666666666666666	4	1.0	3
-http://sweetontology.net/propSpaceLocation#Location		PATO:0000140	position	id	hasExactSynonym	Location	location	13.571428571428573	0.25	0.02857142857142857	1	0.10674157303370788	4
-http://sweetontology.net/stateSpace#Shallow		PATO:0001472	decreased depth	id	hasExactSynonym	Shallow	shallow	26.923076923076923	0.07692307692307693	0.5	4	1.0	2
-http://sweetontology.net/propChemical#Solubility		PATO:0001536	solubility	id	label	Solubility	solubility	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Elliptical		PATO:0000947	elliptic	id	hasExactSynonym	Elliptical	elliptical	50.0	1.0	0.25	0	0.5	3
-http://sweetontology.net/statePhysical#Liquid		PATO:0001735	liquid configuration	id	hasExactSynonym	Liquid	liquid	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/propConductivity#ElectricalConductivity		PATO:0001757	electrical conductivity	id	label	ElectricalConductivity	electrical conductivity	50.0	0.6666666666666666	1.0	4	1.0	2
-http://sweetontology.net/stateVisibility#Translucent		PATO:0001354	translucent	id	label	Translucent	translucent	27.777777777777775	0.3333333333333333	0.3333333333333333	4	1.0	2
-http://sweetontology.net/relaSpace#separatedFrom		PATO:0001505	separated from	id	label	separatedFrom	separated from	50.0	1.0	0.16666666666666666	4	1.0	2
-http://sweetontology.net/phenSolid#Strain		PATO:0001034	strain	id	label	Strain	strain	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/propPressure#Stiffness		PATO:0001545	inflexible	id	hasRelatedSynonym	Stiffness	stiffness	50.0	1.0	0.3333333333333333	2	0.5	3
 http://sweetontology.net/stateSpaceConfiguration#Sparse		PATO:0001609	sparse	id	label	Sparse	sparse	50.0	1.0	0.2	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Flat		PATO:0000407	flat	id	label	Flat	flat	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/stateThermodynamic#Cold		PATO:0001306	decreased temperature	id	hasExactSynonym	Cold	cold	28.125	0.125	0.5	4	1.0	2
-http://sweetontology.net/propTime#Age		PATO:0000011	age	id	label	Age	age	50.0	0.16666666666666666	1.0	0	0.416988416988417	4
-http://sweetontology.net/stateFluid#Laminar		PATO:0002124	laminar	id	label	Laminar	laminar	50.0	1.0	0.16666666666666666	4	1.0	2
-http://sweetontology.net/stateSystem#Incomplete		PATO:0000297	arrested	id	hasRelatedSynonym	Incomplete	incomplete	50.0	1.0	0.1	4	1.0	2
-http://sweetontology.net/procChemical#Phosphorescence		PATO:0001298	phosphorescence	id	label	Phosphorescence	phosphorescence	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/stateRoleImpact#Light		PATO:0000665	high brightness	id	hasExactSynonym	Light	light	37.5	0.5	0.5	2	0.3	4
-http://sweetontology.net/prop#Sensitivity		PATO:0000085	sensitivity toward	id	hasExactSynonym	Sensitivity	sensitivity	50.0	0.25	1.0	4	1.0	2
-http://sweetontology.net/statePhysical#Gas		PATO:0001737	gaseus configuration	id	hasExactSynonym	Gas	gas	50.0	0.6666666666666666	1.0	4	1.0	4
-http://sweetontology.net/statePhysical#Frozen		PATO:0001985	frozen	id	label	Frozen	frozen	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/stateRole#Accessory		PATO:0000470	increased amount	id	hasRelatedSynonym	Accessory	accessory	50.0	1.0	0.1111111111111111	4	1.0	2
-http://sweetontology.net/statePhysical#Permeable		PATO:0000982	permeable	id	label	Permeable	permeable	50.0	1.0	0.125	1	0.25	5
-http://sweetontology.net/statePhysical#Permeable		PATO:0002112	perforate	id	hasRelatedSynonym	Permeable	permeable	50.0	1.0	0.16666666666666666	0	0.5	5
-http://sweetontology.net/statePhysical#Solid		PATO:0001736	solid configuration	id	hasExactSynonym	Solid	solid	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/phenStar#Prominence		PATO:0015007	prominence	id	label	Prominence	prominence	50.0	1.0	0.2	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Rounded		PATO:0002397	subcircular	id	hasRelatedSynonym	Rounded	rounded	37.5	0.5	0.5	0	0.2692307692307693	5
-http://sweetontology.net/propSpaceDistance#Wavelength		PATO:0001242	wavelength	id	label	Wavelength	wavelength	33.33333333333333	0.3333333333333333	0.5	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Straight		PATO:0002180	straight	id	label	Straight	straight	50.0	0.25	1.0	4	1.0	2
-http://sweetontology.net/stateSolid#Rough		PATO:0000700	rough	id	label	Rough	rough	50.0	1.0	0.25	0	0.5	4
-http://sweetontology.net/stateTimeFrequency#Infrequent		PATO:0000381	decreased frequency	id	hasRelatedSynonym	Infrequent	infrequent	30.952380952380953	0.3333333333333333	0.42857142857142855	2	0.3823529411764706	3
-http://sweetontology.net/statePhysical#LowFrequency		PATO:0000381	decreased frequency	id	hasExactSynonym	LowFrequency	low frequency	50.0	0.1111111111111111	1.0	0	0.6176470588235294	3
-http://sweetontology.net/propSpace#Shape		PATO:0000052	shape	id	label	Shape	shape	44.4202266782912	0.5675675675675675	0.7419354838709677	4	1.0	2
-http://sweetontology.net/reprSpaceDirection#Up		PATO:0000370	up	id	label	Up	up	41.666666666666664	0.5	0.6666666666666666	4	1.0	2
-http://sweetontology.net/relaSpace#radius		PATO:0002390	radius	id	label	radius	radius	50.0	1.0	0.2	4	1.0	2
-http://sweetontology.net/stateChemical#Fixed		PATO:0000300	immobile	id	hasRelatedSynonym	Fixed	fixed	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/stateSolid#Indurated		PATO:0002407	indurated	id	label	Indurated	indurated	50.0	1.0	0.16666666666666666	4	1.0	2
-http://sweetontology.net/propSpaceDistance#Distance		PATO:0000040	distance	id	label	Distance	distance	29.166666666666664	0.16666666666666666	0.5	4	1.0	2
-http://sweetontology.net/statePhysical#Light		PATO:0000665	high brightness	id	hasExactSynonym	Light	light	50.0	1.0	0.5	0	0.4	4
-http://sweetontology.net/phenFluidTransport#Buoyancy		PATO:0001420	buoyancy	id	label	Buoyancy	buoyancy	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Sigmoid		PATO:0001878	sigmoid	id	label	Sigmoid	sigmoid	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/reprSpaceDirection#Horizontal		PATO:0001855	horizontal	id	label	Horizontal	horizontal	25.0	0.3333333333333333	0.25	2	0.3333333333333333	3
-http://sweetontology.net/stateRole#Secondary		PATO:0002632	secondary	id	label	Secondary	secondary	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/procPhysical#Pressure		PATO:0001025	pressure	id	label	Pressure	pressure	31.25	0.5	0.25	2	0.2857142857142857	4
-http://sweetontology.net/stateSpaceConfiguration#Asymmetric		PATO:0000616	asymmetrical	id	hasExactSynonym	Asymmetric	asymmetric	50.0	0.16666666666666666	1.0	2	0.5	3
-http://sweetontology.net/stateSpaceConfiguration#Asymmetry		PATO:0000616	asymmetrical	id	hasExactSynonym	Asymmetry	asymmetry	50.0	0.16666666666666666	1.0	0	0.5	3
-http://sweetontology.net/statePhysical#Humid		PATO:0015010	increased humidity	id	hasRelatedSynonym	Humid	humid	50.0	1.0	0.1111111111111111	4	1.0	2
-http://sweetontology.net/stateSpaceConfiguration#Spherical		PATO:0001499	spherical	id	label	Spherical	spherical	50.0	1.0	0.2	4	1.0	2
-http://sweetontology.net/stateChemical#Radioactivity		PATO:0001740	activity (of a radionuclide)	id	hasExactSynonym	Radioactivity	radioactivity	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/stateSpectralBand#Violet		PATO:0001424	violet	id	label	Violet	violet	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/stateSystem#Quiet		PATO:0001527	quiet	id	label	Quiet	quiet	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/propEnergy#Energy		PATO:0001021	energy	id	label	Energy	energy	33.33333333333333	0.5	0.3333333333333333	4	1.0	2
-http://sweetontology.net/phenGeolFault#Horizontal		PATO:0001855	horizontal	id	label	Horizontal	horizontal	50.0	0.25	1.0	0	0.6666666666666666	3
-http://sweetontology.net/propFunction#Threshold		PATO:0000152	threshold	id	label	Threshold	threshold	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/propMass#Elasticity		PATO:0001031	elasticity	id	label	Elasticity	elasticity	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/propConductivity#Conductivity		PATO:0001585	conductivity	id	label	Conductivity	conductivity	50.0	0.6666666666666666	1.0	4	1.0	2
-http://sweetontology.net/procChemical#Calcification		PATO:0001447	calcified	id	hasNarrowSynonym	Calcification	calcification	50.0	1.0	0.125	2	0.5	3
-http://sweetontology.net/stateSpace#Coarse		PATO:0000700	rough	id	hasExactSynonym	Coarse	coarse	25.0	0.3333333333333333	0.25	0	0.25	4
-http://sweetontology.net/propCharge#ElectricPotential		PATO:0001464	electric potential	id	label	ElectricPotential	electric potential	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/stateSolid#Refractory		PATO:0002631	refractory	id	label	Refractory	refractory	50.0	1.0	0.2	4	1.0	2
+http://sweetontology.net/stateSpectralBand#Violet		PATO:0001424	violet	id	label	Violet	violet	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/stateSpaceConfiguration#Symmetric		PATO:0000632	symmetrical	id	hasExactSynonym	Symmetric	symmetric	50.0	0.16666666666666666	1.0	4	1.0	2
+http://sweetontology.net/propSpaceHeight#Height		PATO:0000119	height	id	label	Height	height	19.999999999999996	0.25	0.2	2	0.3999999999999999	3
 http://sweetontology.net/stateTime#Recent		PATO:0001484	recent	id	label	Recent	recent	31.25	0.5	0.25	4	1.0	2
-http://sweetontology.net/propMass#Density		PATO:0001019	mass density	id	hasRelatedSynonym	Density	density	27.777777777777775	0.3333333333333333	0.3333333333333333	4	1.0	3
-http://sweetontology.net/stateSpaceConfiguration#Long		PATO:0000573	increased length	id	hasExactSynonym	Long	long	19.230769230769223	0.3333333333333333	0.07692307692307693	4	1.0	2
-http://sweetontology.net/propPressure#Pressure		PATO:0001025	pressure	id	label	Pressure	pressure	46.875	0.75	0.75	0	0.42857142857142855	4
-http://sweetontology.net/repr#Qualitative		PATO:0000068	qualitative	id	label	Qualitative	qualitative	50.0	0.022727272727272728	1.0	4	1.0	2
-http://sweetontology.net/propMass#Solidity		PATO:0001546	quality of a solid	id	hasExactSynonym	Solidity	solidity	50.0	0.125	1.0	4	1.0	3
-http://sweetontology.net/matrElement#F		PATO:0001348	F minus mating type	id	hasExactSynonym	F	F-	42.5	0.5	1.0	4	1.0	2
+http://sweetontology.net/propTime#Latency		PATO:0001005	latency	id	label	Latency	latency	50.0	0.5	1.0	4	1.0	2
+http://sweetontology.net/phenSystem#Accumulation		PATO:0002269	accumulation	id	label	Accumulation	accumulation	29.166666666666664	0.5	0.16666666666666666	0	0.5	3
+http://sweetontology.net/stateSpaceConfiguration#Square		PATO:0000413	square	id	label	Square	square	50.0	0.5	1.0	0	0.3333333333333333	4
+http://sweetontology.net/reprSpaceGeometry#Square		PATO:0000413	square	id	label	Square	square	50.0	0.25	1.0	0	0.3333333333333333	4
+http://sweetontology.net/reprMathOperation#Square		PATO:0000413	square	id	label	Square	square	50.0	0.25	1.0	2	0.3333333333333333	4
+http://sweetontology.net/stateTime#Period		PATO:0001309	duration	id	hasExactSynonym	Period	period	27.777777777777775	0.3333333333333333	0.3333333333333333	0	0.12269938650306747	15
+http://sweetontology.net/stateSpaceConfiguration#Curved		PATO:0000406	curved	id	label	Curved	curved	50.0	0.4	1.0	4	1.0	2
+http://sweetontology.net/propSpaceDistance#Distance		PATO:0000040	distance	id	label	Distance	distance	29.166666666666664	0.5	0.16666666666666666	4	1.0	2
+http://sweetontology.net/propPressure#Strength		PATO:0001230	strength	id	label	Strength	strength	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/stateSpaceConfiguration#Bent		PATO:0000617	bent	id	label	Bent	bent	50.0	1.0	0.4	4	1.0	2
+http://sweetontology.net/propSpaceDirection#Lateral		PATO:0001193	lateral to	id	hasExactSynonym	Lateral	lateral	31.25	0.25	0.5	4	1.0	2
+http://sweetontology.net/reprSciFunction#Invariant		PATO:0000438	invariant	id	label	Invariant	invariant	50.0	1.0	0.3333333333333333	0	0.5	3
+http://sweetontology.net/stateTimeFrequency#Frequent		PATO:0000380	increased frequency	id	hasRelatedSynonym	Frequent	frequent	30.952380952380953	0.42857142857142855	0.3333333333333333	2	0.3823529411764706	3
+http://sweetontology.net/propTime#Period		PATO:0001309	duration	id	hasExactSynonym	Period	period	50.0	1.0	0.3333333333333333	0	0.22085889570552147	15
+http://sweetontology.net/stateVisibility#Bright		PATO:0001229	high saturation	id	hasExactSynonym	Bright	bright	37.5	0.5	0.5	4	1.0	2
+http://sweetontology.net/propQuantity#Flux		PATO:0001030	flux	id	label	Flux	flux	31.25	0.25	0.5	4	1.0	2
+http://sweetontology.net/propSpaceDistance#Wavelength		PATO:0001242	wavelength	id	label	Wavelength	wavelength	33.33333333333333	0.5	0.3333333333333333	4	1.0	2
+http://sweetontology.net/propTimeFrequency#Tendency		PATO:0002360	tendency	id	label	Tendency	tendency	19.696969696969695	0.3333333333333333	0.09090909090909091	0	0.5	9
+http://sweetontology.net/proc#Force		PATO:0001035	force	id	label	Force	force	18.75	0.25	0.16666666666666666	2	0.2727272727272727	3
+http://sweetontology.net/propQuantity#Force		PATO:0001035	force	id	label	Force	force	50.0	0.25	1.0	0	0.7272727272727273	3
+http://sweetontology.net/stateSystem#Quiet		PATO:0001527	quiet	id	label	Quiet	quiet	50.0	0.5	1.0	4	1.0	2
+http://sweetontology.net/propChemical#Alkaline		PATO:0001430	alkaline	id	label	Alkaline	alkaline	50.0	0.25	1.0	4	1.0	6
+http://sweetontology.net/propOrdinal#Age		PATO:0000011	age	id	label	Age	age	40.74074074074074	0.4444444444444444	0.6666666666666666	0	0.33976833976833976	4
+http://sweetontology.net/stateThermodynamic#Cold		PATO:0001306	decreased temperature	id	hasExactSynonym	Cold	cold	28.125	0.5	0.125	4	1.0	2
+http://sweetontology.net/phenSystemComplexity#Pattern		PATO:0000060	spatial pattern	id	hasRelatedSynonym	Pattern	pattern	50.0	1.0	0.05	4	1.0	2
+http://sweetontology.net/phen#Occurrence		PATO:0000057	occurrence	id	label	Occurrence	occurrence	50.0	1.0	0.07692307692307693	0	0.5652173913043479	5
+http://sweetontology.net/propOrdinal#Quality		PATO:0000001	quality	id	label	Quality	quality	50.0	1.0	0.0030120481927710845	4	1.0	2
 http://sweetontology.net/propPressure#Viscosity		PATO:0000992	viscosity	id	label	Viscosity	viscosity	50.0	0.3333333333333333	1.0	4	1.0	3
-http://sweetontology.net/statePhysical#Dissolved		PATO:0001986	dissolved	id	label	Dissolved	dissolved	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/stateSpectralBand#Blue		PATO:0000318	blue	id	label	Blue	blue	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/stateRoleImpact#Great		PATO:0000586	increased size	id	hasRelatedSynonym	Great	great	50.0	1.0	0.07692307692307693	0	0.3679245283018868	4
-http://sweetontology.net/stateSpace#Large		PATO:0000586	increased size	id	hasRelatedSynonym	Large	large	35.89743589743589	0.6666666666666666	0.15384615384615385	2	0.2641509433962264	4
-http://sweetontology.net/stateSpace#Big		PATO:0000586	increased size	id	hasRelatedSynonym	Big	big	50.0	1.0	0.15384615384615385	0	0.3679245283018868	4
+http://sweetontology.net/stateVisibility#Opaque		PATO:0000963	opaque	id	label	Opaque	opaque	27.777777777777775	0.3333333333333333	0.3333333333333333	2	0.4545454545454546	3
+http://sweetontology.net/stateVisibility#Cloudy		PATO:0000963	opaque	id	hasRelatedSynonym	Cloudy	cloudy	33.33333333333333	0.3333333333333333	0.5	0	0.5454545454545455	3
+http://sweetontology.net/propPressure#SurfaceTension		PATO:0001461	surface tension	id	label	SurfaceTension	surface tension	33.33333333333333	0.3333333333333333	0.5	4	1.0	2
+http://sweetontology.net/propEnergy#Energy		PATO:0001021	energy	id	label	Energy	energy	33.33333333333333	0.5	0.3333333333333333	4	1.0	2
+http://sweetontology.net/statePhysical#Intermittent		PATO:0000690	discontinuous	id	hasRelatedSynonym	Intermittent	intermittent	50.0	1.0	0.2	0	0.34090909090909094	6
+http://sweetontology.net/stateRoleRepresentative#Robust		PATO:0002310	robust	id	label	Robust	robust	50.0	0.25	1.0	4	1.0	2
+http://sweetontology.net/stateSolid#Soft		PATO:0000387	soft	id	label	Soft	soft	50.0	0.1111111111111111	1.0	4	1.0	2
+http://sweetontology.net/statePhysical#Impermeable		PATO:0000983	impermeable	id	label	Impermeable	impermeable	50.0	1.0	0.125	4	1.0	2
+http://sweetontology.net/stateTimeFrequency#Infrequent		PATO:0000381	decreased frequency	id	hasRelatedSynonym	Infrequent	infrequent	30.952380952380953	0.42857142857142855	0.3333333333333333	2	0.3823529411764706	3
+http://sweetontology.net/propMass#Mass		PATO:0000125	mass	id	label	Mass	mass	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/phenSolid#Strain		PATO:0001034	strain	id	label	Strain	strain	50.0	0.5	1.0	4	1.0	2
+http://sweetontology.net/stateSolid#Deformed		PATO:0001617	deformed	id	label	Deformed	deformed	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/propBinary#Free		PATO:0002316	autogenous	id	hasRelatedSynonym	Free	free	50.0	1.0	0.16666666666666666	4	1.0	2
+http://sweetontology.net/procChemical#Phosphorescence		PATO:0001298	phosphorescence	id	label	Phosphorescence	phosphorescence	50.0	0.5	1.0	4	1.0	2
+http://sweetontology.net/stateSolid#Rough		PATO:0000700	rough	id	label	Rough	rough	50.0	0.25	1.0	0	0.5	4
+http://sweetontology.net/stateRoleImpact#Rough		PATO:0000700	rough	id	label	Rough	rough	25.0	0.25	0.3333333333333333	2	0.25	4
+http://sweetontology.net/stateSpace#Coarse		PATO:0000700	rough	id	hasExactSynonym	Coarse	coarse	25.0	0.25	0.3333333333333333	0	0.25	4
+http://sweetontology.net/stateSpectralBand#Orange		PATO:0000953	orange	id	label	Orange	orange	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/propSpaceDistance#Size		PATO:0000117	size	id	label	Size	size	39.90384615384615	0.75	0.19230769230769232	4	1.0	2
+http://sweetontology.net/relaSpace#diameter		PATO:0001334	diameter	id	label	diameter	diameter	50.0	0.2	1.0	4	1.0	2
+http://sweetontology.net/stateSolid#Indurated		PATO:0002407	indurated	id	label	Indurated	indurated	50.0	0.16666666666666666	1.0	4	1.0	2
+http://sweetontology.net/phenSolid#Failure		PATO:0001511	non-functional	id	hasRelatedSynonym	Failure	failure	37.5	0.5	0.5	4	1.0	2
+http://sweetontology.net/relaSpace#separatedFrom		PATO:0001505	separated from	id	label	separatedFrom	separated from	50.0	1.0	0.16666666666666666	4	1.0	2
+http://sweetontology.net/stateTime#Immature		PATO:0001501	immature	id	label	Immature	immature	30.0	0.5	0.2	4	1.0	2
+http://sweetontology.net/propEnergy#Work		PATO:0001026	work	id	label	Work	work	37.5	0.5	0.5	2	0.42857142857142855	3
+http://sweetontology.net/stateRole#Accessory		PATO:0000470	increased amount	id	hasRelatedSynonym	Accessory	accessory	50.0	0.1111111111111111	1.0	4	1.0	2
+http://sweetontology.net/stateChemical#Fixed		PATO:0000300	immobile	id	hasRelatedSynonym	Fixed	fixed	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/reprSciMethodology#Active		PATO:0002354	active	id	label	Active	active	50.0	1.0	0.5	0	0.6000000000000001	3
+http://sweetontology.net/propSpaceHeight#Depth		PATO:0001595	depth	id	label	Depth	depth	22.222222222222214	0.16666666666666666	0.3333333333333333	0	0.5423728813559321	3
+http://sweetontology.net/reprSpaceCoordinate#Depth		PATO:0001595	depth	id	label	Depth	depth	18.75	0.16666666666666666	0.25	2	0.4576271186440679	3
+http://sweetontology.net/propTime#Age		PATO:0000011	age	id	label	Age	age	50.0	1.0	0.16666666666666666	0	0.416988416988417	4
+http://sweetontology.net/matrElement#F		PATO:0001348	F minus mating type	id	hasExactSynonym	F	F-	42.5	0.5	1.0	4	1.0	2
+http://sweetontology.net/propEnergyFlux#Intensity		PATO:0000049	intensity	id	label	Intensity	intensity	33.33333333333333	0.3333333333333333	0.5	4	1.0	3
+http://sweetontology.net/propConductivity#Conductivity		PATO:0001585	conductivity	id	label	Conductivity	conductivity	50.0	1.0	0.6666666666666666	4	1.0	2
+http://sweetontology.net/stateRole#Secondary		PATO:0002632	secondary	id	label	Secondary	secondary	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/propSpaceDirection#Orientation		PATO:0000133	orientation	id	label	Orientation	orientation	30.0	0.5	0.2	0	0.2727272727272727	5
+http://sweetontology.net/stateSpaceConfiguration#Elevated		PATO:0001688	increased elevation	id	hasRelatedSynonym	Elevated	elevated	50.0	0.09090909090909091	1.0	4	1.0	2
+http://sweetontology.net/stateDataProcessing#Clustered		PATO:0001629	aggregated	id	hasExactSynonym	Clustered	clustered	50.0	0.2	1.0	4	1.0	2
+http://sweetontology.net/reprMathFunction#Discontinuous		PATO:0000690	discontinuous	id	label	Discontinuous	discontinuous	30.0	0.5	0.2	0	0.20454545454545456	6
+http://sweetontology.net/stateSpaceConfiguration#Dendritic		PATO:0002045	dendritic	id	label	Dendritic	dendritic	50.0	0.2	1.0	4	1.0	2
+http://sweetontology.net/stateChemical#Radioactive		PATO:0001741	radioactive	id	label	Radioactive	radioactive	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/statePhysical#Scattered		PATO:0001566	distributed	id	hasExactSynonym	Scattered	scattered	50.0	1.0	0.2	0	0.38461538461538464	5
+http://sweetontology.net/reprMathFunction#Continuous		PATO:0000689	continuous	id	label	Continuous	continuous	50.0	0.2	1.0	0	0.7500000000000001	4
+http://sweetontology.net/stateTimeFrequency#Uninterrupted		PATO:0000689	continuous	id	hasExactSynonym	Uninterrupted	uninterrupted	16.666666666666664	0.2	0.16666666666666666	2	0.25	4
+http://sweetontology.net/propChemical#Reactivity		PATO:0000077	response to	id	hasRelatedSynonym	Reactivity	reactivity	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/propTemperature#Temperature		PATO:0000146	temperature	id	label	Temperature	temperature	50.0	1.0	0.2	4	1.0	2
+http://sweetontology.net/propTimeFrequency#Rate		PATO:0000161	rate	id	label	Rate	rate	36.36363636363637	0.36363636363636365	0.5714285714285714	0	0.5714285714285714	9
+http://sweetontology.net/propTimeFrequency#Rate		PATO:0001470	proportionality to	id	hasRelatedSynonym	Rate	rate	27.27272727272727	0.09090909090909091	0.5	1	0.13994169096209907	9
+http://sweetontology.net/propFraction#Efficiency		PATO:0001029	efficiency	id	label	Efficiency	efficiency	50.0	1.0	0.5	0	0.5	3
+http://sweetontology.net/reprSpaceDirection#Down		PATO:0000365	down	id	label	Down	down	40.0	0.6666666666666666	0.4	4	1.0	2
+http://sweetontology.net/stateSpace#Small		PATO:0000587	decreased size	id	hasRelatedSynonym	Small	small	29.166666666666664	0.5	0.16666666666666666	2	0.368421052631579	3
+http://sweetontology.net/stateSpaceConfiguration#Open		PATO:0000610	open	id	label	Open	open	50.0	1.0	0.3333333333333333	2	0.5	3
+http://sweetontology.net/phenSolid#Jagged		PATO:0001368	erose	id	hasRelatedSynonym	Jagged	jagged	31.25	0.25	0.5	4	1.0	2
+http://sweetontology.net/prop#Efficiency		PATO:0001029	efficiency	id	label	Efficiency	efficiency	50.0	1.0	0.5	2	0.5	3
+http://sweetontology.net/stateThermodynamic#Hot		PATO:0001305	increased temperature	id	hasExactSynonym	Hot	hot	28.125	0.5	0.125	4	1.0	2
+http://sweetontology.net/propTime#Duration		PATO:0001309	duration	id	label	Duration	duration	27.777777777777775	0.3333333333333333	0.3333333333333333	0	0.12269938650306747	15
+http://sweetontology.net/propTime#Time		PATO:0001309	duration	id	hasRelatedSynonym	Time	time	50.0	0.3333333333333333	1.0	0	0.11042944785276074	15
+http://sweetontology.net/reprTime#Duration		PATO:0001309	duration	id	label	Duration	duration	50.0	0.3333333333333333	1.0	0	0.22085889570552147	15
+http://sweetontology.net/reprTime#Time		PATO:0001309	duration	id	hasRelatedSynonym	Time	time	20.833333333333332	0.3333333333333333	0.125	1	0.03188969203668833	15
+http://sweetontology.net/propConductivity#ElectricalConductivity		PATO:0001757	electrical conductivity	id	label	ElectricalConductivity	electrical conductivity	50.0	1.0	0.6666666666666666	4	1.0	2
+http://sweetontology.net/propChemical#Acidity		PATO:0001842	acidity	id	label	Acidity	acidity	50.0	1.0	0.3333333333333333	2	0.5	3
+http://sweetontology.net/stateSpaceConfiguration#Dispersed		PATO:0001630	dispersed	id	label	Dispersed	dispersed	50.0	1.0	0.25	4	1.0	2
+http://sweetontology.net/stateSystem#Inactive		PATO:0002355	inactive	id	label	Inactive	inactive	33.33333333333333	0.3333333333333333	0.5	4	1.0	2
+http://sweetontology.net/stateSpaceConfiguration#Narrow		PATO:0000599	decreased width	id	hasRelatedSynonym	Narrow	narrow	27.27272727272727	0.09090909090909091	0.5	4	1.0	2
+http://sweetontology.net/procPhysical#Rotation		PATO:0001599	rotated	id	hasExactSynonym	Rotation	rotation	50.0	1.0	0.2	4	1.0	2
+http://sweetontology.net/reprSpaceCoordinate#Pressure		PATO:0001025	pressure	id	label	Pressure	pressure	31.25	0.25	0.5	0	0.2857142857142857	4
+http://sweetontology.net/procPhysical#Pressure		PATO:0001025	pressure	id	label	Pressure	pressure	31.25	0.25	0.5	2	0.2857142857142857	4
+http://sweetontology.net/propPressure#Pressure		PATO:0001025	pressure	id	label	Pressure	pressure	46.875	0.75	0.75	0	0.42857142857142855	4
+http://sweetontology.net/propSpaceThickness#Thickness		PATO:0000915	thickness	id	label	Thickness	thickness	50.0	0.25	1.0	4	1.0	2
+http://sweetontology.net/propChemical#pH		PATO:0001842	acidity	id	hasExactSynonym	pH	pH	50.0	0.3333333333333333	1.0	0	0.5	3
+http://sweetontology.net/statePhysical#Solid		PATO:0001736	solid configuration	id	hasExactSynonym	Solid	solid	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/procPhysical#Tension		PATO:0002284	tension	id	label	Tension	tension	33.33333333333333	0.3333333333333333	0.5	4	1.0	2
+http://sweetontology.net/propMass#Consistency		PATO:0000037	consistency	id	label	Consistency	consistency	50.0	0.5	1.0	4	1.0	3
+http://sweetontology.net/stateSolid#Stiff		PATO:0001545	inflexible	id	hasExactSynonym	Stiff	stiff	50.0	0.3333333333333333	1.0	0	0.5	3
+http://sweetontology.net/stateSolid#Brittle		PATO:0002477	brittle	id	label	Brittle	brittle	50.0	1.0	0.16666666666666666	4	1.0	2
+http://sweetontology.net/propSpeed#Velocity		PATO:0002242	velocity	id	label	Velocity	velocity	50.0	0.3333333333333333	1.0	0	0.5	4
+http://sweetontology.net/stateVisibility#Clear		PATO:0000964	transparent	id	hasExactSynonym	Clear	clear	23.33333333333333	0.2	0.3333333333333333	2	0.4565217391304348	3
+http://sweetontology.net/stateSpaceConfiguration#Oblate		PATO:0000409	oblate	id	label	Oblate	oblate	50.0	1.0	0.4	4	1.0	2
+http://sweetontology.net/phenFluidTransport#Buoyancy		PATO:0001420	buoyancy	id	label	Buoyancy	buoyancy	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/human#Work		PATO:0001026	work	id	label	Work	work	50.0	0.5	1.0	0	0.5714285714285714	3
+http://sweetontology.net/statePhysical#Hydrophilic		PATO:0001887	hydrophilic	id	label	Hydrophilic	hydrophilic	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/stateSpaceConfiguration#Elongated		PATO:0001154	elongated	id	label	Elongated	elongated	41.666666666666664	0.5	0.6666666666666666	4	1.0	2
+http://sweetontology.net/statePhysical#Dry		PATO:0001801	decreased water composition	id	hasRelatedSynonym	Dry	dry	50.0	0.07692307692307693	1.0	2	0.5	3
+http://sweetontology.net/stateSpaceConfiguration#Asymmetric		PATO:0000616	asymmetrical	id	hasExactSynonym	Asymmetric	asymmetric	50.0	1.0	0.16666666666666666	2	0.5	3
+http://sweetontology.net/propTime#Episodic		PATO:0002630	episodic	id	label	Episodic	episodic	50.0	0.2	1.0	0	0.7500000000000001	4
+http://sweetontology.net/stateTimeFrequency#Episodic		PATO:0002630	episodic	id	label	Episodic	episodic	16.666666666666664	0.2	0.16666666666666666	2	0.25	4
+http://sweetontology.net/propRotation#AngularVelocity		PATO:0001413	angular velocity	id	label	AngularVelocity	angular velocity	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/reprSpaceCoordinate#Elevation		PATO:0001687	elevation	id	label	Elevation	elevation	16.666666666666664	0.2	0.16666666666666666	2	0.4705882352941176	4
+http://sweetontology.net/propSpaceDirection#Angle		PATO:0002326	angle	id	label	Angle	angle	50.0	0.14285714285714285	1.0	0	0.5	5
+http://sweetontology.net/reprSpaceDirection#Left		PATO:0000366	left	id	label	Left	left	44.44444444444444	0.6666666666666666	0.6666666666666666	4	1.0	2
+http://sweetontology.net/statePhysical#Porous		PATO:0000982	permeable	id	hasRelatedSynonym	Porous	porous	50.0	0.125	1.0	0	0.25	5
+http://sweetontology.net/statePhysical#Permeable		PATO:0000982	permeable	id	label	Permeable	permeable	50.0	0.125	1.0	1	0.25	5
+http://sweetontology.net/stateRoleImpact#Strong		PATO:0001716	non-fragile	id	hasRelatedSynonym	Strong	strong	22.222222222222214	0.16666666666666666	0.3333333333333333	2	0.3076923076923076	3
+http://sweetontology.net/stateSpaceConfiguration#Sharp		PATO:0001419	sharp	id	label	Sharp	sharp	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/stateSpace#Tiny		PATO:0000587	decreased size	id	hasRelatedSynonym	Tiny	tiny	50.0	1.0	0.16666666666666666	0	0.6315789473684211	3
+http://sweetontology.net/propFraction#Albedo	Albedo	PATO:0001295	albedo	label	label	Albedo	albedo	100.0	0.5	1.0	4	1.0	2
+http://sweetontology.net/propCharge#Capacitance		PATO:0002205	capacitance	id	label	Capacitance	capacitance	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/statePhysical#Slow		PATO:0000304	decreased speed	id	hasExactSynonym	Slow	slow	50.0	1.0	0.1111111111111111	4	1.0	2
+http://sweetontology.net/stateSystem#Balanced		PATO:0000757	balanced	id	label	Balanced	balanced	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/procPhysical#Magnetism		PATO:0001682	magnetism	id	label	Magnetism	magnetism	50.0	0.5	1.0	4	1.0	2
+http://sweetontology.net/stateSolid#Shattered		PATO:0002081	shattered	id	label	Shattered	shattered	50.0	0.125	1.0	4	1.0	2
+http://sweetontology.net/stateSystem#Stability		PATO:0015026	stability	id	label	Stability	stability	50.0	0.16666666666666666	1.0	4	1.0	3
+http://sweetontology.net/stateSpaceConfiguration#Branched		PATO:0000402	branched	id	label	Branched	branched	50.0	1.0	0.4	4	1.0	2
+http://sweetontology.net/propSpaceLocation#Position		PATO:0000140	position	id	label	Position	position	13.571428571428573	0.02857142857142857	0.25	0	0.10674157303370788	4
+http://sweetontology.net/propSpaceLocation#Location		PATO:0000140	position	id	hasExactSynonym	Location	location	13.571428571428573	0.02857142857142857	0.25	1	0.10674157303370788	4
+http://sweetontology.net/matrFacility#Structure		PATO:0000141	structure	id	label	Structure	structure	50.0	1.0	0.030303030303030304	2	0.3333333333333333	4
+http://sweetontology.net/humanResearch#Variable		PATO:0001227	variant	id	hasExactSynonym	Variable	variable	50.0	1.0	0.3333333333333333	2	0.5	3
+http://sweetontology.net/propEnergyFlux#LuminousFlux		PATO:0001296	luminous flux	id	label	LuminousFlux	luminous flux	23.33333333333333	0.2	0.3333333333333333	4	1.0	2
+http://sweetontology.net/stateTime#Young		PATO:0000309	young	id	label	Young	young	38.57142857142858	0.42857142857142855	0.6	4	1.0	2
+http://sweetontology.net/propChemical#Composition		PATO:0000025	composition	id	label	Composition	composition	50.0	0.1	1.0	0	0.7142857142857143	3
+http://sweetontology.net/propMass#Content		PATO:0000025	composition	id	hasExactSynonym	Content	content	19.999999999999996	0.1	0.3333333333333333	2	0.28571428571428564	3
+http://sweetontology.net/stateSpaceConfiguration#Hexagonal		PATO:0002509	hexagonal	id	label	Hexagonal	hexagonal	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/reprSpaceCoordinate#Vertical		PATO:0001854	vertical	id	label	Vertical	vertical	17.999999999999993	0.2	0.2	2	0.4354838709677419	4
+http://sweetontology.net/stateRoleImpact#Heavy		PATO:0000582	increased weight	id	hasExactSynonym	Heavy	heavy	27.77777777777778	0.5	0.1111111111111111	2	0.3571428571428572	3
+http://sweetontology.net/propSpace#Morphology		PATO:0000051	morphology	id	label	Morphology	morphology	50.0	0.009615384615384616	1.0	4	1.0	2
+http://sweetontology.net/stateSpectralBand#Blue		PATO:0000318	blue	id	label	Blue	blue	50.0	0.3333333333333333	1.0	4	1.0	2
 http://sweetontology.net/reprDataProduct#Offset		PATO:0002436	offset	id	label	Offset	offset	50.0	0.25	1.0	4	1.0	2
-http://sweetontology.net/reprMath#Constant		PATO:0000438	invariant	id	hasRelatedSynonym	Constant	constant	50.0	0.3333333333333333	1.0	2	0.5	3
-http://sweetontology.net/stateSpaceConfiguration#Short		PATO:0000569	decreased height	id	hasRelatedSynonym	Short	short	26.923076923076923	0.07692307692307693	0.5	2	0.4985163204747774	3
+http://sweetontology.net/stateSpace#Big		PATO:0000586	increased size	id	hasRelatedSynonym	Big	big	50.0	1.0	0.15384615384615385	0	0.3679245283018868	4
+http://sweetontology.net/matrElement#H		PATO:0001345	h minus	id	hasExactSynonym	H	h -	42.5	1.0	0.5	2	0.5	4
+http://sweetontology.net/matrElement#H		PATO:0001346	h plus	id	hasExactSynonym	H	h+	42.5	1.0	0.5	0	0.22972972972972974	4
+http://sweetontology.net/propMass#Solidity		PATO:0001546	quality of a solid	id	hasExactSynonym	Solidity	solidity	50.0	1.0	0.125	4	1.0	3
+http://sweetontology.net/propEnergy#Power		PATO:0001024	power	id	label	Power	power	37.5	0.5	0.5	4	1.0	2
+http://sweetontology.net/statePhysical#HighFrequency		PATO:0000380	increased frequency	id	hasExactSynonym	HighFrequency	high frequency	50.0	1.0	0.1111111111111111	0	0.6176470588235294	3
+http://sweetontology.net/phenSystem#Loss		PATO:0001999	lacks parts or has fewer parts of type	id	hasExactSynonym	Loss	loss of	42.5	1.0	0.5	4	1.0	2
+http://sweetontology.net/statePhysical#Dry		PATO:0001824	dry	id	label	Dry	dry	50.0	0.5	1.0	0	0.5	3
+http://sweetontology.net/stateVisibility#Dark		PATO:0000327	low brightness	id	hasExactSynonym	Dark	dark	31.25	0.5	0.25	4	1.0	2
+http://sweetontology.net/phenMixing#Diffuse		PATO:0001566	distributed	id	hasExactSynonym	Diffuse	diffuse	50.0	1.0	0.2	0	0.38461538461538464	5
+http://sweetontology.net/stateSpaceConfiguration#Straight		PATO:0002180	straight	id	label	Straight	straight	50.0	0.25	1.0	4	1.0	2
+http://sweetontology.net/stateFluid#Stratification		PATO:0002067	stratification	id	label	Stratification	stratification	50.0	0.16666666666666666	1.0	4	1.0	2
+http://sweetontology.net/statePhysical#Hydrophobic		PATO:0001885	hydrophobic	id	label	Hydrophobic	hydrophobic	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/reprSpaceDirection#Normal		PATO:0000461	normal	id	label	Normal	normal	25.71428571428571	0.5	0.02857142857142857	0	0.16981132075471697	7
+http://sweetontology.net/stateSpace#Large		PATO:0000586	increased size	id	hasRelatedSynonym	Large	large	35.89743589743589	0.6666666666666666	0.15384615384615385	2	0.2641509433962264	4
+http://sweetontology.net/stateSpaceConfiguration#Round		PATO:0000411	circular	id	hasRelatedSynonym	Round	round	32.14285714285714	0.5	0.2857142857142857	1	0.1298076923076923	5
+http://sweetontology.net/stateSpaceConfiguration#Round		PATO:0002397	subcircular	id	hasRelatedSynonym	Round	round	37.5	0.5	0.5	0	0.2692307692307693	5
+http://sweetontology.net/stateSolid#Hard		PATO:0000386	hard	id	label	Hard	hard	50.0	1.0	0.1111111111111111	4	1.0	2
+http://sweetontology.net/propSpaceLocation#Position		PATO:0000605	obsolete placement value	id	hasRelatedSynonym	Position	position	50.0	0.25	1.0	0	0.39325842696629215	4
+http://sweetontology.net/propTimeFrequency#Incidence		PATO:0000057	occurrence	id	hasExactSynonym	Incidence	incidence	11.538461538461537	0.16666666666666666	0.07692307692307693	2	0.13043478260869565	5
+http://sweetontology.net/stateSystem#Complex		PATO:0001504	complex	id	label	Complex	complex	50.0	1.0	0.16666666666666666	4	1.0	2
+http://sweetontology.net/stateSpaceConfiguration#Long		PATO:0000573	increased length	id	hasExactSynonym	Long	long	19.230769230769223	0.07692307692307693	0.3333333333333333	4	1.0	2
+http://sweetontology.net/stateFluid#Viscous		PATO:0000998	viscous	id	label	Viscous	viscous	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/propBinary#Polarity		PATO:0002186	polarity	id	label	Polarity	polarity	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/reprDataModel#Structure		PATO:0000141	structure	id	label	Structure	structure	50.0	0.030303030303030304	1.0	0	0.3333333333333333	4
+http://sweetontology.net/propMass#Structure		PATO:0000141	structure	id	label	Structure	structure	50.0	0.030303030303030304	1.0	0	0.3333333333333333	4
+http://sweetontology.net/stateSpaceConfiguration#Dense		PATO:0001164	dense	id	label	Dense	dense	50.0	0.3333333333333333	1.0	2	0.5	7
+http://sweetontology.net/propSpaceMultidimensional#Volume		PATO:0000918	volume	id	label	Volume	volume	50.0	0.2	1.0	4	1.0	2
+http://sweetontology.net/stateSystem#Hyperactive		PATO:0000760	increased behavioural activity	id	hasExactSynonym	Hyperactive	hyperactive	21.428571428571423	0.14285714285714285	0.3333333333333333	4	1.0	2
+http://sweetontology.net/statePhysical#Dissolved		PATO:0001986	dissolved	id	label	Dissolved	dissolved	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/stateSpace#Mobile		PATO:0000299	mobile	id	label	Mobile	mobile	50.0	0.5	1.0	4	1.0	2
+http://sweetontology.net/propTime#Time		PATO:0000165	time	id	label	Time	time	50.0	1.0	0.14285714285714285	0	0.28	15
+http://sweetontology.net/stateSpaceConfiguration#Rounded		PATO:0000411	circular	id	hasRelatedSynonym	Rounded	rounded	32.14285714285714	0.5	0.2857142857142857	0	0.1298076923076923	5
+http://sweetontology.net/stateSpaceConfiguration#Rounded		PATO:0002397	subcircular	id	hasRelatedSynonym	Rounded	rounded	37.5	0.5	0.5	0	0.2692307692307693	5
+http://sweetontology.net/propSpace#Curvature		PATO:0001591	curvature	id	label	Curvature	curvature	50.0	1.0	0.125	4	1.0	2
+http://sweetontology.net/stateTime#Present		PATO:0000467	present	id	label	Present	present	18.75	0.25	0.16666666666666666	4	1.0	2
+http://sweetontology.net/reprSpaceDirection#Vertical		PATO:0001854	vertical	id	label	Vertical	vertical	23.33333333333333	0.2	0.3333333333333333	0	0.5645161290322581	4
+http://sweetontology.net/stateSolid#Granular		PATO:0001759	granular	id	label	Granular	granular	50.0	0.125	1.0	4	1.0	2
+http://sweetontology.net/statePhysical#Humid		PATO:0015010	increased humidity	id	hasRelatedSynonym	Humid	humid	50.0	1.0	0.1111111111111111	4	1.0	2
+http://sweetontology.net/reprMath#Constant		PATO:0000438	invariant	id	hasRelatedSynonym	Constant	constant	50.0	1.0	0.3333333333333333	2	0.5	3
+http://sweetontology.net/reprSciMethodology#Passive		PATO:0000764	passive	id	label	Passive	passive	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/propMass#Elasticity		PATO:0001031	elasticity	id	label	Elasticity	elasticity	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/stateSpaceConfiguration#Ridged		PATO:0002358	ridged	id	label	Ridged	ridged	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/stateRealm#Sunken		PATO:0002416	sunken	id	label	Sunken	sunken	50.0	1.0	0.16666666666666666	4	1.0	2
+http://sweetontology.net/propSpaceMultidimensional#Area		PATO:0001323	area	id	label	Area	area	50.0	1.0	0.25	4	1.0	2
+http://sweetontology.net/propDimensionlessRatio#Electronegativity		PATO:0002197	electronegativity	id	label	Electronegativity	electronegativity	37.5	0.5	0.5	4	1.0	2
+http://sweetontology.net/stateSpaceConfiguration#Amorphous		PATO:0001332	amorphous	id	label	Amorphous	amorphous	50.0	1.0	0.3333333333333333	0	0.5	3
+http://sweetontology.net/repr#Qualitative		PATO:0000068	qualitative	id	label	Qualitative	qualitative	50.0	1.0	0.022727272727272728	4	1.0	2
+http://sweetontology.net/reprSpaceGeometry3D#Ellipsoid		PATO:0000947	elliptic	id	hasExactSynonym	Ellipsoid	ellipsoid	50.0	1.0	0.125	2	0.5	3
+http://sweetontology.net/statePhysical#Gas		PATO:0001737	gaseus configuration	id	hasExactSynonym	Gas	gas	50.0	0.6666666666666666	1.0	4	1.0	4
+http://sweetontology.net/propSpaceLocation#Focus		PATO:0001516	focus	id	label	Focus	focus	33.33333333333333	0.3333333333333333	0.5	4	1.0	3
+http://sweetontology.net/statePhysical#Gaseous		PATO:0001547	quality of a gas	id	hasExactSynonym	Gaseous	gaseous	50.0	1.0	0.4	4	1.0	4
+http://sweetontology.net/stateSpace#Shallow		PATO:0001472	decreased depth	id	hasExactSynonym	Shallow	shallow	26.923076923076923	0.07692307692307693	0.5	4	1.0	2
+http://sweetontology.net/phenFluidDynamics#HighPressure	High Pressure	PATO:0001576	increased pressure	label	hasExactSynonym	High Pressure	high pressure	66.0	0.6666666666666666	0.2	4	1.0	3
+http://sweetontology.net/stateChemical#Potability		PATO:0025000	potability	id	label	Potability	potability	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/propTimeFrequency#Frequency		PATO:0000044	frequency	id	label	Frequency	frequency	36.36363636363637	0.36363636363636365	0.5714285714285714	4	1.0	2
+http://sweetontology.net/stateTime#Age		PATO:0000011	age	id	label	Age	age	29.166666666666664	0.5	0.16666666666666666	2	0.24324324324324323	4
+http://sweetontology.net/stateChemical#Potable		PATO:0025002	potable	id	label	Potable	potable	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/reprSpaceGeometry#Helical		PATO:0000404	coiled	id	hasRelatedSynonym	Helical	helical	50.0	1.0	0.25	2	0.5	3
+http://sweetontology.net/stateSpaceConfiguration#Prolate		PATO:0001866	prolate	id	label	Prolate	prolate	50.0	0.4	1.0	4	1.0	2
+http://sweetontology.net/reprSpaceGeometry#Circular		PATO:0000411	circular	id	label	Circular	circular	50.0	0.14285714285714285	1.0	0	0.43750000000000006	5
+http://sweetontology.net/propTimeFrequency#Fertility		PATO:0000274	fertility	id	label	Fertility	fertility	30.0	0.5	0.2	4	1.0	2
+http://sweetontology.net/phenSystem#Variability		PATO:0001303	variability	id	label	Variability	variability	50.0	1.0	0.16666666666666666	4	1.0	2
+http://sweetontology.net/stateSpectralBand#Yellow		PATO:0000324	yellow	id	label	Yellow	yellow	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/stateSolid#Pitted		PATO:0002296	foveate	id	hasRelatedSynonym	Pitted	pitted	50.0	0.25	1.0	4	1.0	2
+http://sweetontology.net/propSpaceHeight#Elevation		PATO:0001687	elevation	id	label	Elevation	elevation	18.75	0.25	0.16666666666666666	0	0.5294117647058824	4
+http://sweetontology.net/relaSpace#surroundedBy		PATO:0005016	surrounded by	id	label	surroundedBy	surrounded by	50.0	1.0	0.25	4	1.0	2
+http://sweetontology.net/stateTimeFrequency#Interrupted		PATO:0000690	discontinuous	id	hasExactSynonym	Interrupted	interrupted	16.666666666666664	0.2	0.16666666666666666	2	0.11363636363636363	6
+http://sweetontology.net/stateSystem#Intermittent		PATO:0000690	discontinuous	id	hasRelatedSynonym	Intermittent	intermittent	50.0	0.2	1.0	0	0.34090909090909094	6
+http://sweetontology.net/stateChemical#Radioactivity		PATO:0001740	activity (of a radionuclide)	id	hasExactSynonym	Radioactivity	radioactivity	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/stateVisibility#Translucent		PATO:0001354	translucent	id	label	Translucent	translucent	27.777777777777775	0.3333333333333333	0.3333333333333333	4	1.0	2
+http://sweetontology.net/stateChemical#Calcareous		PATO:0001447	calcified	id	hasExactSynonym	Calcareous	calcareous	50.0	0.125	1.0	0	0.5	3
+http://sweetontology.net/procChemical#Calcification		PATO:0001447	calcified	id	hasNarrowSynonym	Calcification	calcification	50.0	0.125	1.0	2	0.5	3
+http://sweetontology.net/propSpaceDirection#Angle		PATO:0000133	orientation	id	hasRelatedSynonym	Angle	angle	50.0	0.2	1.0	0	0.22727272727272727	5
+http://sweetontology.net/procPhysical#Orientation		PATO:0000133	orientation	id	label	Orientation	orientation	30.0	0.2	0.5	2	0.2727272727272727	5
+http://sweetontology.net/stateRoleImpact#Weak		PATO:0001779	decreased strength	id	hasExactSynonym	Weak	weak	20.833333333333332	0.3333333333333333	0.125	4	1.0	2
+http://sweetontology.net/statePhysical#Porous		PATO:0000984	porous	id	label	Porous	porous	50.0	0.1111111111111111	1.0	0	0.5	5
+http://sweetontology.net/stateSpaceConfiguration#Broad		PATO:0002359	broad	id	label	Broad	broad	50.0	1.0	0.5	0	0.6486486486486486	4
+http://sweetontology.net/stateSpaceConfiguration#Broad		PATO:0000600	increased width	id	hasRelatedSynonym	Broad	broad	27.083333333333336	0.5	0.08333333333333333	1	0.17567567567567566	4
+http://sweetontology.net/stateSystem#Incomplete		PATO:0000297	arrested	id	hasRelatedSynonym	Incomplete	incomplete	50.0	0.1	1.0	4	1.0	2
+http://sweetontology.net/propFraction#Porosity		PATO:0000973	porosity	id	label	Porosity	porosity	50.0	0.1111111111111111	1.0	4	1.0	3
+http://sweetontology.net/statePhysical#Light		PATO:0000665	high brightness	id	hasExactSynonym	Light	light	50.0	1.0	0.5	0	0.4	4
+http://sweetontology.net/propSpaceDistance#Length		PATO:0000122	length	id	label	Length	length	13.541666666666663	0.125	0.16666666666666666	4	1.0	2
+http://sweetontology.net/relaSpace#radius		PATO:0002390	radius	id	label	radius	radius	50.0	1.0	0.2	4	1.0	2
+http://sweetontology.net/stateSpace#Deep		PATO:0001596	increased depth	id	hasExactSynonym	Deep	deep	26.785714285714285	0.5	0.07142857142857142	4	1.0	2
+http://sweetontology.net/statePhysical#LowFrequency		PATO:0000381	decreased frequency	id	hasExactSynonym	LowFrequency	low frequency	50.0	1.0	0.1111111111111111	0	0.6176470588235294	3
+http://sweetontology.net/stateSpaceConfiguration#Elliptical		PATO:0000947	elliptic	id	hasExactSynonym	Elliptical	elliptical	50.0	1.0	0.25	0	0.5	3
+http://sweetontology.net/stateChemical#Oxidized		PATO:0002223	oxidized	id	label	Oxidized	oxidized	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/relaSpace#adjacentTo		PATO:0002259	adjacent to	id	label	adjacentTo	adjacent to	50.0	0.25	1.0	4	1.0	2
+http://sweetontology.net/stateSystem#Closed		PATO:0000608	closed	id	label	Closed	closed	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/stateRoleImpact#Great		PATO:0000586	increased size	id	hasRelatedSynonym	Great	great	50.0	0.07692307692307693	1.0	0	0.3679245283018868	4
+http://sweetontology.net/stateSpaceConfiguration#Spherical		PATO:0001499	spherical	id	label	Spherical	spherical	50.0	0.2	1.0	4	1.0	2
+http://sweetontology.net/propMass#Texture		PATO:0000150	texture	id	label	Texture	texture	50.0	0.125	1.0	4	1.0	2
+http://sweetontology.net/reprMathFunction#Normal		PATO:0000461	normal	id	label	Normal	normal	50.0	0.02857142857142857	1.0	0	0.33018867924528306	7
+http://sweetontology.net/phenGeolFault#Normal		PATO:0000461	normal	id	label	Normal	normal	25.71428571428571	0.02857142857142857	0.5	2	0.16981132075471697	7
+http://sweetontology.net/reprSpaceDirection#Up		PATO:0000370	up	id	label	Up	up	41.666666666666664	0.6666666666666666	0.5	4	1.0	2
+http://sweetontology.net/stateBiological#Dead		PATO:0001422	dead	id	label	Dead	dead	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/propCharge#Permeability		PATO:0000970	permeability	id	label	Permeability	permeability	50.0	1.0	0.1	0	0.6451612903225806	3
+http://sweetontology.net/propMass#Density		PATO:0001019	mass density	id	hasRelatedSynonym	Density	density	27.777777777777775	0.3333333333333333	0.3333333333333333	4	1.0	3
+http://sweetontology.net/procChemical#Fluorescence		PATO:0000018	fluorescence	id	label	Fluorescence	fluorescence	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/stateOrdinal#Acute		PATO:0000389	acute	id	label	Acute	acute	50.0	0.125	1.0	4	1.0	2
+http://sweetontology.net/reprSpaceCoordinate#Height		PATO:0000119	height	id	label	Height	height	30.0	0.2	0.5	0	0.6	3
+http://sweetontology.net/propMass#Hardness		PATO:0000048	hardness	id	label	Hardness	hardness	50.0	0.2	1.0	4	1.0	2
+http://sweetontology.net/stateVisibility#Transparent		PATO:0000964	transparent	id	label	Transparent	transparent	27.777777777777775	0.3333333333333333	0.3333333333333333	0	0.5434782608695653	3
+http://sweetontology.net/statePhysical#Wet		PATO:0001823	wet	id	label	Wet	wet	50.0	0.5	1.0	4	1.0	2
+http://sweetontology.net/statePhysical#Liquid		PATO:0001735	liquid configuration	id	hasExactSynonym	Liquid	liquid	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/stateVisibility#Light		PATO:0000665	high brightness	id	hasExactSynonym	Light	light	37.5	0.5	0.5	0	0.3	4
+http://sweetontology.net/stateFluid#Laminar		PATO:0002124	laminar	id	label	Laminar	laminar	50.0	0.16666666666666666	1.0	4	1.0	2
+http://sweetontology.net/propCharge#ElectricCharge		PATO:0002193	electric charge	id	label	ElectricCharge	electric charge	50.0	0.5	1.0	4	1.0	2
+http://sweetontology.net/stateSpaceConfiguration#Flat		PATO:0000407	flat	id	label	Flat	flat	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/stateSpaceConfiguration#Asymmetry		PATO:0000616	asymmetrical	id	hasExactSynonym	Asymmetry	asymmetry	50.0	1.0	0.16666666666666666	0	0.5	3
+http://sweetontology.net/stateFluid#Stratified		PATO:0002068	stratified	id	label	Stratified	stratified	50.0	0.16666666666666666	1.0	4	1.0	2
+http://sweetontology.net/reprMath#Variable		PATO:0001227	variant	id	hasExactSynonym	Variable	variable	50.0	0.3333333333333333	1.0	0	0.5	3
+http://sweetontology.net/stateSolid#Fragmented		PATO:0001444	broken	id	hasExactSynonym	Fragmented	fragmented	50.0	1.0	0.14285714285714285	2	0.5	3
+http://sweetontology.net/stateSpectralBand#Green		PATO:0000320	green	id	label	Green	green	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/propDifference#Amplitude		PATO:0000080	amplitude	id	label	Amplitude	amplitude	37.5	0.5	0.5	4	1.0	2
+http://sweetontology.net/propSpaceDirection#Incidence		PATO:0000057	occurrence	id	hasExactSynonym	Incidence	incidence	26.923076923076923	0.5	0.07692307692307693	0	0.30434782608695654	5
+http://sweetontology.net/propSpeed#Velocity		PATO:0000008	speed	id	hasRelatedSynonym	Velocity	velocity	50.0	0.3333333333333333	1.0	0	0.25	4
+http://sweetontology.net/propSpeed#Speed		PATO:0000008	speed	id	label	Speed	speed	50.0	0.3333333333333333	1.0	2	0.5	4
+http://sweetontology.net/stateSpaceConfiguration#Arched		PATO:0001594	arched	id	label	Arched	arched	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/propRotation#AngularAcceleration		PATO:0001350	angular acceleration	id	label	AngularAcceleration	angular acceleration	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/stateSpaceConfiguration#Symmetry		PATO:0000965	symmetry	id	label	Symmetry	symmetry	50.0	1.0	0.125	4	1.0	2
+http://sweetontology.net/stateTime#Mature		PATO:0001701	mature	id	label	Mature	mature	30.0	0.5	0.2	4	1.0	2
+http://sweetontology.net/propIndex#Virulence		PATO:0002146	virulence	id	label	Virulence	virulence	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/propSpace#Shape		PATO:0000052	shape	id	label	Shape	shape	44.4202266782912	0.5675675675675675	0.7419354838709677	4	1.0	2
+http://sweetontology.net/phenSolid#Dislocation		PATO:0001852	dislocated	id	hasExactSynonym	Dislocation	dislocation	50.0	0.25	1.0	4	1.0	2
+http://sweetontology.net/phenFluidDynamics#LowPressure	Low Pressure	PATO:0001575	decreased pressure	label	hasExactSynonym	Low Pressure	low pressure	66.0	0.2	0.6666666666666666	4	1.0	2
+http://sweetontology.net/propMassFlux#Permeability		PATO:0000970	permeability	id	label	Permeability	permeability	27.500000000000004	0.5	0.1	2	0.35483870967741943	3
+http://sweetontology.net/realmClimateZone#A		PATO:0001341	a mating type (yeast)	id	hasBroadSynonym	A	a	50.0	0.5	1.0	4	1.0	3
+http://sweetontology.net/reprMathOperation#Ratio		PATO:0001470	proportionality to	id	hasExactSynonym	Ratio	ratio	28.125	0.125	0.5	0	0.33673469387755106	9
+http://sweetontology.net/propSpeed#Acceleration	Acceleration	PATO:0001028	acceleration	label	label	Acceleration	acceleration	100.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/propFraction#Reflectivity		PATO:0001297	reflectivity	id	label	Reflectivity	reflectivity	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/stateSolid#Elastic		PATO:0001171	elastic	id	label	Elastic	elastic	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/propMass#SpecificVolume		PATO:0001679	specific volume	id	label	SpecificVolume	specific volume	50.0	0.2	1.0	4	1.0	2
+http://sweetontology.net/reprSpaceDirection#Diffuse		PATO:0001566	distributed	id	hasExactSynonym	Diffuse	diffuse	30.0	0.5	0.2	2	0.23076923076923078	5
+http://sweetontology.net/prop#Sensitivity		PATO:0000085	sensitivity toward	id	hasExactSynonym	Sensitivity	sensitivity	50.0	1.0	0.25	4	1.0	2
+http://sweetontology.net/stateSolid#Amorphous		PATO:0001332	amorphous	id	label	Amorphous	amorphous	50.0	0.3333333333333333	1.0	2	0.5	3
+http://sweetontology.net/propFraction#Humidity		PATO:0015009	humidity	id	label	Humidity	humidity	31.25	0.5	0.25	4	1.0	2
+http://sweetontology.net/stateChemical#Aromatic		PATO:0002191	aromatic	id	label	Aromatic	aromatic	50.0	0.5	1.0	4	1.0	2
+http://sweetontology.net/statePhysical#Frozen		PATO:0001985	frozen	id	label	Frozen	frozen	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/phenGeolFault#Horizontal		PATO:0001855	horizontal	id	label	Horizontal	horizontal	50.0	0.25	1.0	0	0.6666666666666666	3
+http://sweetontology.net/reprSpaceDirection#Horizontal		PATO:0001855	horizontal	id	label	Horizontal	horizontal	25.0	0.25	0.3333333333333333	2	0.3333333333333333	3
+http://sweetontology.net/phenCryo#Accumulation		PATO:0002269	accumulation	id	label	Accumulation	accumulation	29.166666666666664	0.16666666666666666	0.5	2	0.5	3
+http://sweetontology.net/stateSystem#Active		PATO:0002354	active	id	label	Active	active	33.33333333333333	0.3333333333333333	0.5	2	0.39999999999999997	3
+http://sweetontology.net/propEnergyFlux#Luminance		PATO:0001718	luminance	id	label	Luminance	luminance	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/propDifference#Deviation		PATO:0002175	deviation	id	label	Deviation	deviation	30.0	0.5	0.2	4	1.0	2
+http://sweetontology.net/stateSpectralBand#Red		PATO:0000322	red	id	label	Red	red	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/statePhysical#Diluted		PATO:0001161	diluted	id	label	Diluted	diluted	50.0	0.5	1.0	4	1.0	2
+http://sweetontology.net/phenAtmoFront#Front		PATO:0001900	front	id	label	Front	front	33.33333333333333	0.5	0.3333333333333333	4	1.0	2
+http://sweetontology.net/humanDecision#Preference		PATO:0000773	preference	id	label	Preference	preference	50.0	0.5	1.0	4	1.0	2
+http://sweetontology.net/propTimeFrequency#Tendency		PATO:0001727	disposition	id	hasRelatedSynonym	Tendency	tendency	19.696969696969695	0.3333333333333333	0.09090909090909091	2	0.5	9
+http://sweetontology.net/stateSpaceConfiguration#Concealed		PATO:0002508	concealed	id	label	Concealed	concealed	31.25	0.5	0.25	4	1.0	2
+http://sweetontology.net/propSpaceLocation#Location		PATO:0000605	obsolete placement value	id	hasRelatedSynonym	Location	location	50.0	1.0	0.25	0	0.39325842696629215	4
+http://sweetontology.net/matrElement#P		PATO:0001346	h plus	id	hasExactSynonym	P	P	50.0	1.0	0.5	0	0.5405405405405406	4
+http://sweetontology.net/propOrdinal#Color		PATO:0000014	color	id	label	Color	color	50.0	1.0	0.1111111111111111	4	1.0	2
+http://sweetontology.net/stateSpaceConfiguration#Grooved		PATO:0002255	grooved	id	label	Grooved	grooved	31.25	0.25	0.5	4	1.0	2
+http://sweetontology.net/stateRoleRepresentative#Atypical		PATO:0000460	abnormal	id	hasRelatedSynonym	Atypical	atypical	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/stateSpaceConfiguration#Twisted		PATO:0002445	torsioned	id	hasExactSynonym	Twisted	twisted	50.0	1.0	0.5	0	0.3333333333333333	4
+http://sweetontology.net/stateSpaceConfiguration#Twisted		PATO:0001989	sinuous	id	hasRelatedSynonym	Twisted	twisted	50.0	1.0	0.4	0	0.3333333333333333	4
+http://sweetontology.net/stateSpaceConfiguration#Twisted		PATO:0001798	kinked	id	hasRelatedSynonym	Twisted	twisted	50.0	1.0	0.4	2	0.3333333333333333	4
+http://sweetontology.net/reprSpaceDirection#Right		PATO:0000367	right	id	label	Right	right	44.44444444444444	0.6666666666666666	0.6666666666666666	4	1.0	2
+http://sweetontology.net/propEnergyFlux#Opacity		PATO:0000957	opacity	id	label	Opacity	opacity	50.0	0.14285714285714285	1.0	4	1.0	3
+http://sweetontology.net/statePhysical#Heavy		PATO:0000582	increased weight	id	hasExactSynonym	Heavy	heavy	50.0	0.1111111111111111	1.0	0	0.6428571428571429	3
+http://sweetontology.net/stateTime#Old		PATO:0000308	old	id	label	Old	old	38.57142857142858	0.6	0.42857142857142855	4	1.0	2
+http://sweetontology.net/stateSpaceConfiguration#Short		PATO:0000574	decreased length	id	hasExactSynonym	Short	short	27.083333333333336	0.08333333333333333	0.5	0	0.5014836795252225	3
+http://sweetontology.net/reprTime#Time		PATO:0000165	time	id	label	Time	time	39.285714285714285	0.5	0.5714285714285714	0	0.2875247524752475	15
+http://sweetontology.net/propCount#Count		PATO:0000070	amount	id	hasExactSynonym	Count	count	50.0	1.0	0.16666666666666666	4	1.0	2
+http://sweetontology.net/propCharge#ElectricPotential		PATO:0001464	electric potential	id	label	ElectricPotential	electric potential	50.0	0.5	1.0	4	1.0	2
+http://sweetontology.net/stateSpaceConfiguration#Wide		PATO:0000600	increased width	id	hasRelatedSynonym	Wide	wide	27.083333333333336	0.08333333333333333	0.5	0	0.5	4
+http://sweetontology.net/statePhysical#Permeable		PATO:0002112	perforate	id	hasRelatedSynonym	Permeable	permeable	50.0	1.0	0.16666666666666666	0	0.5	5
+http://sweetontology.net/stateRoleImpact#Light		PATO:0000665	high brightness	id	hasExactSynonym	Light	light	37.5	0.5	0.5	2	0.3	4
+http://sweetontology.net/propFraction#Refractivity		PATO:0001372	refractivity	id	label	Refractivity	refractivity	50.0	0.5	1.0	4	1.0	2
+http://sweetontology.net/stateBiological#Alive		PATO:0001421	alive	id	label	Alive	alive	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/propFunction#Threshold		PATO:0000152	threshold	id	label	Threshold	threshold	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/stateSpaceConfiguration#Sigmoid		PATO:0001878	sigmoid	id	label	Sigmoid	sigmoid	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/stateVisibility#Colored		PATO:0000336	colored	id	label	Colored	colored	33.33333333333333	0.3333333333333333	0.5	4	1.0	2
+http://sweetontology.net/stateRoleImpact#Minimal		PATO:0002123	minimal	id	label	Minimal	minimal	23.33333333333333	0.2	0.3333333333333333	4	1.0	2
+http://sweetontology.net/stateSpaceConfiguration#Short		PATO:0000569	decreased height	id	hasRelatedSynonym	Short	short	26.923076923076923	0.5	0.07692307692307693	2	0.4985163204747774	3
+http://sweetontology.net/reprMathOperation#Quotient		PATO:0001470	proportionality to	id	hasExactSynonym	Quotient	quotient	28.125	0.125	0.5	0	0.33673469387755106	9
+http://sweetontology.net/stateSystem#Balance		PATO:0000185	balance	id	label	Balance	balance	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/reprSpaceGeometry#Spiral		PATO:0000404	coiled	id	hasExactSynonym	Spiral	spiral	50.0	0.25	1.0	0	0.5	3
+http://sweetontology.net/stateSystem#Open		PATO:0000610	open	id	label	Open	open	50.0	0.3333333333333333	1.0	0	0.5	3
+http://sweetontology.net/propConductivity#Resistance		PATO:0001046	resistance to	id	hasExactSynonym	Resistance	resistance	50.0	0.5	1.0	4	1.0	2
+http://sweetontology.net/propChemical#Solubility		PATO:0001536	solubility	id	label	Solubility	solubility	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/reprSpaceGeometry3D#Spheroid		PATO:0001865	spheroid	id	label	Spheroid	spheroid	50.0	1.0	0.14285714285714285	4	1.0	2
+http://sweetontology.net/stateSolid#Compressed		PATO:0002254	flattened	id	hasRelatedSynonym	Compressed	compressed	50.0	0.16666666666666666	1.0	0	0.5	7
+http://sweetontology.net/stateChemical#Aerobic		PATO:0001455	aerobic	id	label	Aerobic	aerobic	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/stateSystem#Broken		PATO:0001444	broken	id	label	Broken	broken	50.0	0.14285714285714285	1.0	0	0.5	3

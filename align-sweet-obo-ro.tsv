@@ -1,19 +1,20 @@
 left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	equiv_clique_size
-http://sweetontology.net/stateRoleGeographic#Tributary		RO:0002376	tributary of	id	label	Tributary	tributary of	28.333333333333332	0.3333333333333333	0.5	4	1.0	2
-http://sweetontology.net/relaSpace#adjacentTo		RO:0002220	adjacent to	id	label	adjacentTo	adjacent to	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/reprMathFunction#Function		RO:0000079	function of	id	label	Function	function of	42.5	1.0	0.3333333333333333	2	0.4594594594594595	3
-http://sweetontology.net/propSpaceLocation#Location		RO:0001015	location of	id	label	Location	location of	42.5	1.0	1.0	4	1.0	3
-http://sweetontology.net/relaSpace#surroundedBy		RO:0002219	surrounded by	id	label	surroundedBy	surrounded by	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/relaChemical#hasChemicalRole		RO:0002262	has chemical role	id	label	hasChemicalRole	has chemical role	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/stateRoleBiological#Host		RO:0002453	host of	id	label	Host	host of	42.5	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/relaSci#hasComponent		RO:0002180	has component	id	label	hasComponent	has component	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/phenSystem#System		RO:0002577	system	id	label	System	system	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/relaHuman#produces		RO:0003000	produces	id	label	produces	produces	50.0	1.0	1.0	4	1.0	2
 http://sweetontology.net/phenSystemComplexity#Transformation		RO:0002494	transformation of	id	label	Transformation	transformation of	42.5	1.0	1.0	4	1.0	3
+http://sweetontology.net/relaSpace#adjacentTo		RO:0002220	adjacent to	id	label	adjacentTo	adjacent to	50.0	1.0	0.5	4	1.0	2
+http://sweetontology.net/prop#Role		RO:0000081	role of	id	label	Role	role of	42.5	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/propSpaceLocation#Location		RO:0001015	location of	id	label	Location	location of	42.5	1.0	1.0	4	1.0	3
+http://sweetontology.net/relaChemical#hasChemicalRole		RO:0002262	has chemical role	id	label	hasChemicalRole	has chemical role	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/reprSciComponent#Input		RO:0002352	input of	id	label	Input	input of	42.5	1.0	1.0	4	1.0	2
+http://sweetontology.net/relaSpace#surroundedBy		RO:0002219	surrounded by	id	label	surroundedBy	surrounded by	50.0	0.5	1.0	4	1.0	2
+http://sweetontology.net/phenSystem#System		RO:0002577	system	id	label	System	system	50.0	1.0	1.0	4	1.0	2
+http://www.w3.org/2006/time#before		RO:0002083	before	id	label	before	before	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/relaSci#hasComponent		RO:0002180	has component	id	label	hasComponent	has component	50.0	1.0	1.0	4	1.0	2
 http://sweetontology.net/reprSciComponent#Output		RO:0002353	output of	id	label	Output	output of	42.5	1.0	1.0	4	1.0	2
 http://sweetontology.net/rela#hasRole		RO:0000087	has role	id	label	hasRole	has role	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/propOrdinal#Quality		RO:0000080	quality of	id	label	Quality	quality of	42.5	1.0	1.0	2	0.2982456140350877	4
-http://www.w3.org/2006/time#before		RO:0002083	before	id	label	before	before	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/prop#Role		RO:0000081	role of	id	label	Role	role of	42.5	0.3333333333333333	1.0	2	0.4594594594594595	3
-http://sweetontology.net/relaSpace#overlaps		RO:0002131	overlaps	id	label	overlaps	overlaps	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/reprSciComponent#Input		RO:0002352	input of	id	label	Input	input of	42.5	1.0	1.0	4	1.0	2
+http://sweetontology.net/stateRoleGeographic#Tributary		RO:0002376	tributary of	id	label	Tributary	tributary of	42.5	1.0	0.5	4	1.0	2
+http://sweetontology.net/reprMathFunction#Function		RO:0000079	function of	id	label	Function	function of	42.5	1.0	1.0	4	1.0	2
+http://sweetontology.net/relaHuman#produces		RO:0003000	produces	id	label	produces	produces	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/propOrdinal#Quality		RO:0000080	quality of	id	label	Quality	quality of	42.5	1.0	1.0	4	1.0	2
+http://sweetontology.net/stateRoleBiological#Host		RO:0002453	host of	id	label	Host	host of	42.5	1.0	0.5	4	1.0	2
+http://sweetontology.net/relaSpace#overlaps		RO:0002131	overlaps	id	label	overlaps	overlaps	50.0	1.0	1.0	4	1.0	2
+

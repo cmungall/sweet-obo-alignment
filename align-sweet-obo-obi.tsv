@@ -1,35 +1,35 @@
 left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	equiv_clique_size
 http://sweetontology.net/realm#Atmosphere		OBI:0001498	atmosphere	id	label	Atmosphere	atmosphere	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/procWave#Reflection		OBI:0400089	Reflection	id	label	Reflection	Reflection	50.0	0.4	1.0	4	1.0	2
-http://sweetontology.net/propMass#Dose		OBI:0000984	dose	id	label	Dose	dose	50.0	0.5	1.0	4	1.0	3
-http://sweetontology.net/reprSciModel#Prediction		OBI:0302910	prediction	id	label	Prediction	prediction	27.777777777777775	0.3333333333333333	0.3333333333333333	4	1.0	3
-http://sweetontology.net/propFunction#StandardError		OBI:0000235	standard error	id	label	StandardError	standard error	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/reprMathStatistics#ANOVA		OBI:0200201	ANOVA	id	label	ANOVA	ANOVA	50.0	1.0	0.6666666666666666	4	1.0	3
-http://sweetontology.net/procStateChange#Freezing		OBI:0001953	freezing	id	label	Freezing	freezing	50.0	0.6666666666666666	1.0	4	1.0	2
-http://sweetontology.net/phenEcology#Selection		OBI:0001928	selection	id	label	Selection	selection	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/stateSystem#Balance		OBI:0001135	balance	id	label	Balance	balance	50.0	1.0	0.2	4	1.0	2
-http://sweetontology.net/human#Service		OBI:0001173	service	id	label	Service	service	38.57142857142858	0.42857142857142855	0.6	4	1.0	2
-http://sweetontology.net/humanResearch#Investigation		OBI:0000066	investigation	id	label	Investigation	investigation	25.0	0.3333333333333333	0.25	4	1.0	3
-http://sweetontology.net/matrInstrument#Microscope		OBI:0400169	microscope	id	label	Microscope	microscope	50.0	1.0	0.4	4	1.0	2
-http://sweetontology.net/phen#Precipitation		OBI:0600034	precipitation	id	label	Precipitation	precipitation	50.0	1.0	0.3333333333333333	2	0.5	3
-http://sweetontology.net/reprMathStatistics#ChiSquareTest		OBI:0200200	chi square test	id	label	ChiSquareTest	chi square test	50.0	0.6666666666666666	1.0	4	1.0	2
-http://sweetontology.net/reprSpaceGeometry#Cluster		OBI:0000251	cluster	id	label	Cluster	cluster	50.0	1.0	1.0	0	0.5	6
-http://sweetontology.net/reprDataServiceAnalysis#Cluster		OBI:0000251	cluster	id	label	Cluster	cluster	50.0	1.0	0.25	2	0.5	6
-http://sweetontology.net/stateRoleChemical#Reagent		OBI:0001879	reagent	id	label	Reagent	reagent	27.777777777777775	0.3333333333333333	0.3333333333333333	4	1.0	2
-http://sweetontology.net/propSpaceThickness#Precipitation		OBI:0600034	precipitation	id	label	Precipitation	precipitation	50.0	0.3333333333333333	1.0	0	0.5	3
-http://sweetontology.net/reprDataServiceAnalysis#DataAnalysisService		OBI:0001529	data analysis service	id	label	DataAnalysisService	data analysis service	45.0	0.75	0.6	4	1.0	2
-http://sweetontology.net/matrInstrument#Device		OBI:0000968	device	id	label	Device	device	50.0	1.0	0.2222222222222222	4	1.0	3
-http://sweetontology.net/reprDataService#DataService		OBI:0001530	data service	id	label	DataService	data service	38.57142857142858	0.6	0.42857142857142855	4	1.0	2
-http://sweetontology.net/stateRoleBiological#Enzyme		OBI:0000427	enzyme	id	label	Enzyme	enzyme	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/propCount#Population		OBI:0000181	population	id	label	Population	population	50.0	1.0	0.25	4	1.0	2
-http://sweetontology.net/phenBiol#Cancer		OBI:1110053	cancer	id	label	Cancer	cancer	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/procPhysical#Washing		OBI:0302888	washing	id	label	Washing	washing	50.0	0.6666666666666666	1.0	4	1.0	2
-http://sweetontology.net/reprSciComponent#Storage		OBI:0302893	storage	id	label	Storage	storage	50.0	0.3333333333333333	1.0	4	1.0	3
-http://sweetontology.net/matrBiomass#Organism		OBI:0100026	organism	id	label	Organism	organism	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/phenGeolFault#Extraction		OBI:0302884	extraction	id	label	Extraction	extraction	50.0	1.0	0.6666666666666666	0	0.5	4
-http://sweetontology.net/reprDataServiceValidation#Calibration		OBI:0000818	calibration	id	label	Calibration	calibration	22.222222222222214	0.16666666666666666	0.3333333333333333	4	1.0	3
-http://sweetontology.net/propFraction#pValue		OBI:0000175	p-value	id	label	pValue	p-value	42.5	1.0	1.0	4	1.0	2
-http://sweetontology.net/humanResearch#Validation		OBI:0302911	validation	id	label	Validation	validation	33.33333333333333	0.5	0.3333333333333333	0	0.5454545454545455	3
-http://sweetontology.net/humanCommerce#Extraction		OBI:0302884	extraction	id	label	Extraction	extraction	50.0	1.0	0.3333333333333333	2	0.5	4
 http://sweetontology.net/reprMath#Container		OBI:0000967	container	id	label	Container	container	50.0	1.0	0.2	4	1.0	2
+http://sweetontology.net/reprDataService#DataService		OBI:0001530	data service	id	label	DataService	data service	38.57142857142858	0.6	0.42857142857142855	4	1.0	2
+http://sweetontology.net/procStateChange#Freezing		OBI:0001953	freezing	id	label	Freezing	freezing	50.0	0.6666666666666666	1.0	4	1.0	2
+http://sweetontology.net/propFunction#StandardError		OBI:0000235	standard error	id	label	StandardError	standard error	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/propCount#Population		OBI:0000181	population	id	label	Population	population	50.0	0.25	1.0	4	1.0	2
+http://sweetontology.net/humanCommerce#Extraction		OBI:0302884	extraction	id	label	Extraction	extraction	50.0	1.0	0.3333333333333333	2	0.5	4
+http://sweetontology.net/matrInstrument#Device		OBI:0000968	device	id	label	Device	device	50.0	0.2222222222222222	1.0	4	1.0	3
+http://sweetontology.net/reprDataServiceValidation#Calibration		OBI:0000818	calibration	id	label	Calibration	calibration	22.222222222222214	0.3333333333333333	0.16666666666666666	4	1.0	3
+http://sweetontology.net/procPhysical#Washing		OBI:0302888	washing	id	label	Washing	washing	50.0	0.6666666666666666	1.0	4	1.0	2
+http://sweetontology.net/stateRoleChemical#Reagent		OBI:0001879	reagent	id	label	Reagent	reagent	27.777777777777775	0.3333333333333333	0.3333333333333333	4	1.0	2
+http://sweetontology.net/propMass#Dose		OBI:0000984	dose	id	label	Dose	dose	50.0	1.0	0.5	4	1.0	3
+http://sweetontology.net/stateSystem#Balance		OBI:0001135	balance	id	label	Balance	balance	50.0	1.0	0.2	4	1.0	2
+http://sweetontology.net/reprDataServiceAnalysis#Cluster		OBI:0000251	cluster	id	label	Cluster	cluster	50.0	0.25	1.0	2	0.5	6
+http://sweetontology.net/matrInstrument#Microscope		OBI:0400169	microscope	id	label	Microscope	microscope	50.0	0.4	1.0	4	1.0	2
+http://sweetontology.net/procWave#Reflection		OBI:0400089	Reflection	id	label	Reflection	Reflection	50.0	1.0	0.4	4	1.0	2
+http://sweetontology.net/propFraction#pValue		OBI:0000175	p-value	id	label	pValue	p-value	42.5	1.0	1.0	4	1.0	2
+http://sweetontology.net/reprMathStatistics#ChiSquareTest		OBI:0200200	chi square test	id	label	ChiSquareTest	chi square test	50.0	1.0	0.6666666666666666	4	1.0	2
+http://sweetontology.net/reprSciModel#Prediction		OBI:0302910	prediction	id	label	Prediction	prediction	27.777777777777775	0.3333333333333333	0.3333333333333333	4	1.0	3
+http://sweetontology.net/matrBiomass#Organism		OBI:0100026	organism	id	label	Organism	organism	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/human#Service		OBI:0001173	service	id	label	Service	service	38.57142857142858	0.42857142857142855	0.6	4	1.0	2
+http://sweetontology.net/reprSpaceGeometry#Cluster		OBI:0000251	cluster	id	label	Cluster	cluster	50.0	1.0	1.0	0	0.5	6
+http://sweetontology.net/reprSciComponent#Storage		OBI:0302893	storage	id	label	Storage	storage	50.0	1.0	0.3333333333333333	4	1.0	3
+http://sweetontology.net/reprMathStatistics#ANOVA		OBI:0200201	ANOVA	id	label	ANOVA	ANOVA	50.0	1.0	0.6666666666666666	4	1.0	3
 http://sweetontology.net/reprDataServiceValidation#Validation		OBI:0302911	validation	id	label	Validation	validation	27.777777777777775	0.3333333333333333	0.3333333333333333	2	0.4545454545454546	3
+http://sweetontology.net/humanResearch#Validation		OBI:0302911	validation	id	label	Validation	validation	33.33333333333333	0.3333333333333333	0.5	0	0.5454545454545455	3
+http://sweetontology.net/reprDataServiceAnalysis#DataAnalysisService		OBI:0001529	data analysis service	id	label	DataAnalysisService	data analysis service	45.0	0.6	0.75	4	1.0	2
+http://sweetontology.net/propSpaceThickness#Precipitation		OBI:0600034	precipitation	id	label	Precipitation	precipitation	50.0	1.0	0.3333333333333333	0	0.5	3
+http://sweetontology.net/humanResearch#Investigation		OBI:0000066	investigation	id	label	Investigation	investigation	25.0	0.3333333333333333	0.25	4	1.0	3
+http://sweetontology.net/phenGeolFault#Extraction		OBI:0302884	extraction	id	label	Extraction	extraction	50.0	0.6666666666666666	1.0	0	0.5	4
+http://sweetontology.net/phenBiol#Cancer		OBI:1110053	cancer	id	label	Cancer	cancer	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/phen#Precipitation		OBI:0600034	precipitation	id	label	Precipitation	precipitation	50.0	1.0	0.3333333333333333	2	0.5	3
+http://sweetontology.net/stateRoleBiological#Enzyme		OBI:0000427	enzyme	id	label	Enzyme	enzyme	50.0	0.3333333333333333	1.0	4	1.0	2
+http://sweetontology.net/phenEcology#Selection		OBI:0001928	selection	id	label	Selection	selection	50.0	1.0	0.3333333333333333	4	1.0	2

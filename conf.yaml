@@ -1,3 +1,7 @@
+synsets:
+  - word: biome
+    synonym: ecosystem
+    confidence: 0.9
 meaningful_ids: true
 ontology_configurations:
   - prefix: ENVO

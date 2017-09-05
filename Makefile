@@ -12,7 +12,8 @@ SRC = $(SWEET_REPO)/sweetAll.ttl
 # To find out more about each ontology see obofoundry.org
 # E.g. http://obofoundry.org/ontology/envo.html
 # TODO: ecocore
-ONTS = envo pato pco ro to po chebi go obi fao fix iao mop  stato uo
+ONTS = envo pato pco ro to po chebi go obi fao fix iao mop stato uo
+ONTS_R = $(patsubst %,obo:%,$(ONTS))
 
 # ----------------------------------------
 # TOP LEVEL TARGET
@@ -47,7 +48,13 @@ align_all: $(patsubst %,align-sweet-obo-%.tsv,$(ONTS))
 # use ontobio-lexmap
 # filter results for ontology of interest
 align-sweet-obo-%.tsv: sweet.json
-	ontobio-lexmap.py -vvv -c conf.yaml -l True $< $*  > $@.tmp && cut -f2-999 $@.tmp | egrep -i '\t($*:|left_label)' > $@
+	ontobio-lexmap.py -vvv -c conf.yaml -l True -u unmapped-$*.tsv $< $*  > $@.tmp && cut -f2-999 $@.tmp > $@
+
+align-sweet-obo-ALL.tsv: sweet.json
+	ontobio-lexmap.py -vvv -c conf.yaml -l True -u unmapped-ALL.tsv $< $(ONTS) > $@.tmp && cut -f2-999 $@.tmp > $@ && grep sweetontology.net unmapped-ALL.tsv | sort -u > sweet-unmatched.tsv
+
+align-sweet-obo-%.obo: sweet.json
+	ontobio-lexmap.py -vvv -c conf.yaml -t obo $< $*  > $@.tmp && mv $@.tmp $@
 
 owltools:
 	curl -L http://build.berkeleybop.org/userContent/owltools/owltools -o $@ && chmod +x $@
