@@ -1,68 +1,71 @@
 left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	equiv_clique_size
-http://sweetontology.net/reprSpaceCoordinate#Y		UO:0000286	yotta	id	hasExactSynonym	Y	Y	50.0	1.0	1.0	1	0.25	4
-http://sweetontology.net/reprSpaceCoordinate#Y		UO:0000306	yocto	id	hasExactSynonym	Y	y	50.0	1.0	1.0	0	0.25	4
-http://sweetontology.net/reprSpaceDirection#Normal		UO:0000075	normal	id	label	Normal	normal	50.0	1.0	1.0	0	0.25	9
-http://sweetontology.net/matrElement#Cd		UO:0000014	candela	id	hasExactSynonym	Cd	cd	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/matrElement#N		UO:0000300	nano	id	hasExactSynonym	N	n	50.0	1.0	1.0	0	0.25	9
-http://sweetontology.net/matrElement#U		UO:0000038	microampere	id	hasExactSynonym	U	uA	42.5	1.0	1.0	2	0.2982456140350877	4
-http://sweetontology.net/realmClimateZone#E		UO:0000289	exa	id	hasExactSynonym	E	E	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/realmClimateZone#A		UO:0000304	atto	id	hasExactSynonym	A	a	50.0	1.0	1.0	0	0.5	4
-http://sweetontology.net/matrElement#F		UO:0000195	degree Fahrenheit	id	hasExactSynonym	F	F	50.0	1.0	1.0	2	0.5	3
-http://sweetontology.net/reprMathOperation#Fraction		UO:0000191	fraction	id	label	Fraction	fraction	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/matrElement#Mg		UO:0000022	milligram	id	hasExactSynonym	Mg	mg	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/matrElement#H		UO:0000287	hecto	id	hasExactSynonym	H	h	50.0	1.0	1.0	0	0.5	4
-http://sweetontology.net/matrElement#U		UO:0000181	enzyme unit	id	hasExactSynonym	U	U	50.0	1.0	1.0	0	0.3508771929824561	4
-http://sweetontology.net/reprTimeDay#Day		UO:0000033	day	id	label	Day	day	50.0	1.0	1.0	0	0.5	3
-http://sweetontology.net/matrElement#S		UO:0000264	siemens	id	hasRelatedSynonym	S	S	50.0	1.0	1.0	0	0.25	4
-http://sweetontology.net/matrElement#S		UO:0000010	second	id	hasExactSynonym	S	s	50.0	1.0	1.0	1	0.25	4
-http://sweetontology.net/matrElement#F		UO:0000303	femto	id	hasExactSynonym	F	f	50.0	1.0	1.0	0	0.5	3
-http://sweetontology.net/matrElement#K		UO:0000012	kelvin	id	hasExactSynonym	K	K	50.0	1.0	1.0	2	0.5	3
-http://sweetontology.net/realmClimateZone#A		UO:0000011	ampere	id	hasExactSynonym	A	A	50.0	1.0	1.0	2	0.5	4
-http://sweetontology.net/matrElement#K		UO:0000294	kilo	id	hasExactSynonym	K	k	50.0	1.0	1.0	0	0.5	3
-http://sweetontology.net/reprSpaceCoordinate#R		UO:0000136	roentgen	id	hasExactSynonym	R	R	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/propFraction#MoleFraction		UO:0000076	mole fraction	id	label	MoleFraction	mole fraction	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/reprSpaceDirection#Y		UO:0000306	yocto	id	hasExactSynonym	Y	y	50.0	1.0	1.0	0	0.25	4
-http://sweetontology.net/realmClimateZone#D		UO:0000296	deci	id	hasExactSynonym	D	d	50.0	1.0	1.0	0	0.5	3
-http://sweetontology.net/propCharge#ElectricCharge		UO:0000219	electric charge	id	label	ElectricCharge	electric charge	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/reprSciUnits#day		UO:0000033	day	id	label	day	day	50.0	1.0	1.0	2	0.5	3
-http://sweetontology.net/reprMathOperation#Ratio		UO:0000190	ratio	id	label	Ratio	ratio	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/propCount#Count		UO:0000189	count unit	id	hasExactSynonym	Count	count	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/reprSpaceCoordinate#S		UO:0000264	siemens	id	hasRelatedSynonym	S	S	50.0	1.0	1.0	0	0.25	4
-http://sweetontology.net/reprSpaceCoordinate#S		UO:0000010	second	id	hasExactSynonym	S	s	50.0	1.0	1.0	0	0.25	4
-http://sweetontology.net/matrElement#H		UO:0000032	hour	id	hasExactSynonym	H	h	50.0	1.0	1.0	1	0.25	4
-http://sweetontology.net/stateSpace#Micro		UO:0000299	micro	id	label	Micro	micro	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/reprMathFunctionOrthogonal#Degree		UO:0000185	degree	id	label	Degree	degree	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/matrElement#B		UO:0000227	magnetic flux density unit	id	hasExactSynonym	B	B	50.0	0.5	1.0	1	0.25	5
+http://sweetontology.net/matrElement#B		UO:0000233	byte	id	hasExactSynonym	B	B	50.0	1.0	1.0	0	0.25	5
+http://sweetontology.net/matrElement#C		UO:0000027	degree Celsius	id	hasExactSynonym	C	C	50.0	1.0	1.0	1	0.16666666666666666	6
 http://sweetontology.net/matrElement#C		UO:0000220	coulomb	id	hasExactSynonym	C	C	50.0	0.5	1.0	0	0.16666666666666666	6
-http://sweetontology.net/realmClimateZone#C		UO:0000220	coulomb	id	hasExactSynonym	C	C	50.0	0.5	1.0	0	0.16666666666666666	6
-http://sweetontology.net/matrElement#N		UO:0000302	pico	id	hasExactSynonym	N	n	50.0	1.0	1.0	0	0.25	9
-http://sweetontology.net/phenGeolFault#Normal		UO:0000075	normal	id	label	Normal	normal	50.0	1.0	1.0	0	0.25	9
-http://sweetontology.net/matrIsotope#T		UO:0000228	tesla	id	hasExactSynonym	T	T	50.0	0.3333333333333333	1.0	2	0.5	3
+http://sweetontology.net/matrElement#C		UO:0000298	centi	id	hasExactSynonym	C	c	50.0	1.0	1.0	0	0.16666666666666666	6
+http://sweetontology.net/matrElement#Cd		UO:0000014	candela	id	hasExactSynonym	Cd	cd	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/matrElement#F		UO:0000195	degree Fahrenheit	id	hasExactSynonym	F	F	50.0	1.0	1.0	2	0.5	3
+http://sweetontology.net/matrElement#F		UO:0000303	femto	id	hasExactSynonym	F	f	50.0	1.0	1.0	0	0.5	3
+http://sweetontology.net/matrElement#H		UO:0000032	hour	id	hasExactSynonym	H	h	50.0	1.0	1.0	1	0.25	4
+http://sweetontology.net/matrElement#H		UO:0000287	hecto	id	hasExactSynonym	H	h	50.0	1.0	1.0	0	0.5	4
+http://sweetontology.net/matrElement#K		UO:0000012	kelvin	id	hasExactSynonym	K	K	50.0	1.0	1.0	2	0.5	3
+http://sweetontology.net/matrElement#K		UO:0000294	kilo	id	hasExactSynonym	K	k	50.0	1.0	1.0	0	0.5	3
+http://sweetontology.net/matrElement#Mg		UO:0000022	milligram	id	hasExactSynonym	Mg	mg	50.0	1.0	1.0	4	1.0	2
 http://sweetontology.net/matrElement#N		UO:0000075	normal	id	hasExactSynonym	N	N	50.0	1.0	1.0	1	0.0625	9
 http://sweetontology.net/matrElement#N		UO:0000108	newton	id	hasExactSynonym	N	N	50.0	1.0	1.0	0	0.25	9
-http://sweetontology.net/matrIsotope#D		UO:0000296	deci	id	hasExactSynonym	D	d	50.0	1.0	1.0	2	0.5	3
-http://sweetontology.net/reprSpaceDirection#Z		UO:0000288	zetta	id	hasExactSynonym	Z	Z	50.0	1.0	1.0	0	0.16666666666666666	5
-http://sweetontology.net/reprSpaceDirection#Z		UO:0000305	zepto	id	hasExactSynonym	Z	z	50.0	1.0	1.0	0	0.16666666666666666	5
-http://sweetontology.net/relaTime#halfLife		UO:0000152	half life	id	label	halfLife	half life	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/matrElement#C		UO:0000298	centi	id	hasExactSynonym	C	c	50.0	1.0	1.0	0	0.16666666666666666	6
-http://sweetontology.net/matrElement#C		UO:0000027	degree Celsius	id	hasExactSynonym	C	C	50.0	1.0	1.0	1	0.16666666666666666	6
-http://sweetontology.net/realmClimateZone#B		UO:0000233	byte	id	hasExactSynonym	B	B	50.0	1.0	1.0	0	0.25	5
-http://sweetontology.net/matrElement#B		UO:0000233	byte	id	hasExactSynonym	B	B	50.0	1.0	1.0	0	0.25	5
-http://sweetontology.net/propChemical#pH		UO:0000196	pH	id	label	pH	pH	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/matrIsotope#T		UO:0000291	tera	id	hasExactSynonym	T	T	50.0	1.0	1.0	0	0.5	3
+http://sweetontology.net/matrElement#N		UO:0000300	nano	id	hasExactSynonym	N	n	50.0	1.0	1.0	0	0.25	9
+http://sweetontology.net/matrElement#N		UO:0000302	pico	id	hasExactSynonym	N	n	50.0	1.0	1.0	0	0.25	9
 http://sweetontology.net/matrElement#P		UO:0000258	poise	id	hasExactSynonym	P	P	50.0	1.0	1.0	2	0.5	3
 http://sweetontology.net/matrElement#P		UO:0000290	peta	id	hasExactSynonym	P	P	50.0	1.0	1.0	0	0.5	3
-http://sweetontology.net/reprSciUnits#month		UO:0000035	month	id	label	month	month	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/matrElement#B		UO:0000227	magnetic flux density unit	id	hasExactSynonym	B	B	50.0	1.0	0.5	1	0.25	5
-http://sweetontology.net/reprSciUnits#year		UO:0000036	year	id	label	year	year	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/reprSciUnits#week		UO:0000034	week	id	label	week	week	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/reprSciUnits#hour		UO:0000032	hour	id	label	hour	hour	50.0	1.0	1.0	0	0.5	4
-http://sweetontology.net/reprSpaceDirection#Y		UO:0000286	yotta	id	hasExactSynonym	Y	Y	50.0	1.0	1.0	0	0.25	4
-http://sweetontology.net/reprSpaceCoordinate#Z		UO:0000288	zetta	id	hasExactSynonym	Z	Z	50.0	1.0	1.0	0	0.16666666666666666	5
+http://sweetontology.net/matrElement#S		UO:0000010	second	id	hasExactSynonym	S	s	50.0	1.0	1.0	1	0.25	4
+http://sweetontology.net/matrElement#S		UO:0000264	siemens	id	hasRelatedSynonym	S	S	50.0	1.0	1.0	0	0.25	4
+http://sweetontology.net/matrElement#U		UO:0000038	microampere	id	hasExactSynonym	U	uA	42.5	1.0	1.0	2	0.2982456140350877	4
+http://sweetontology.net/matrElement#U		UO:0000181	enzyme unit	id	hasExactSynonym	U	U	50.0	1.0	1.0	0	0.3508771929824561	4
+http://sweetontology.net/matrElement#U		UO:0000221	dalton	id	hasExactSynonym	U	u	50.0	1.0	1.0	0	0.3508771929824561	4
+http://sweetontology.net/matrIsotope#D		UO:0000296	deci	id	hasExactSynonym	D	d	50.0	1.0	1.0	2	0.5	3
+http://sweetontology.net/matrIsotope#T		UO:0000228	tesla	id	hasExactSynonym	T	T	50.0	1.0	0.3333333333333333	2	0.5	3
+http://sweetontology.net/matrIsotope#T		UO:0000291	tera	id	hasExactSynonym	T	T	50.0	1.0	1.0	0	0.5	3
+http://sweetontology.net/phenGeolFault#Normal		UO:0000075	normal	id	label	Normal	normal	50.0	1.0	1.0	0	0.25	9
+http://sweetontology.net/propCharge#ElectricCharge		UO:0000219	electric charge	id	label	ElectricCharge	electric charge	50.0	1.0	0.3333333333333333	4	1.0	2
+http://sweetontology.net/propChemical#pH		UO:0000196	pH	id	label	pH	pH	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/propCount#Count		UO:0000189	count unit	id	hasExactSynonym	Count	count	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/propFraction#MoleFraction		UO:0000076	mole fraction	id	label	MoleFraction	mole fraction	50.0	1.0	0.3333333333333333	0	0.4855154555753359	4
+http://sweetontology.net/realmClimateZone#A		UO:0000011	ampere	id	hasExactSynonym	A	A	50.0	1.0	1.0	2	0.5	4
+http://sweetontology.net/realmClimateZone#A		UO:0000304	atto	id	hasExactSynonym	A	a	50.0	1.0	1.0	0	0.5	4
+http://sweetontology.net/realmClimateZone#B		UO:0000227	magnetic flux density unit	id	hasExactSynonym	B	B	50.0	0.5	1.0	0	0.25	5
+http://sweetontology.net/realmClimateZone#B		UO:0000233	byte	id	hasExactSynonym	B	B	50.0	1.0	1.0	0	0.25	5
+http://sweetontology.net/realmClimateZone#C		UO:0000027	degree Celsius	id	hasExactSynonym	C	C	50.0	1.0	1.0	0	0.16666666666666666	6
+http://sweetontology.net/realmClimateZone#C		UO:0000220	coulomb	id	hasExactSynonym	C	C	50.0	0.5	1.0	0	0.16666666666666666	6
+http://sweetontology.net/realmClimateZone#C		UO:0000298	centi	id	hasExactSynonym	C	c	50.0	1.0	1.0	0	0.16666666666666666	6
+http://sweetontology.net/realmClimateZone#D		UO:0000296	deci	id	hasExactSynonym	D	d	50.0	1.0	1.0	0	0.5	3
+http://sweetontology.net/realmClimateZone#E		UO:0000289	exa	id	hasExactSynonym	E	E	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/relaTime#halfLife		UO:0000152	half life	id	label	halfLife	half life	50.0	1.0	1.0	4	1.0	2
 http://sweetontology.net/reprDataService#Z		UO:0000288	zetta	id	hasExactSynonym	Z	Z	50.0	1.0	1.0	1	0.16666666666666666	5
 http://sweetontology.net/reprDataService#Z		UO:0000305	zepto	id	hasExactSynonym	Z	z	50.0	1.0	1.0	0	0.16666666666666666	5
-http://sweetontology.net/reprSpaceCoordinate#Z		UO:0000305	zepto	id	hasExactSynonym	Z	z	50.0	1.0	1.0	0	0.16666666666666666	5
 http://sweetontology.net/reprMathFunction#Normal		UO:0000075	normal	id	label	Normal	normal	50.0	1.0	1.0	0	0.25	9
-http://sweetontology.net/realmClimateZone#B		UO:0000227	magnetic flux density unit	id	hasExactSynonym	B	B	50.0	0.5	1.0	0	0.25	5
-http://sweetontology.net/matrElement#U		UO:0000221	dalton	id	hasExactSynonym	U	u	50.0	1.0	1.0	0	0.3508771929824561	4
-http://sweetontology.net/realmClimateZone#C		UO:0000027	degree Celsius	id	hasExactSynonym	C	C	50.0	1.0	1.0	0	0.16666666666666666	6
-http://sweetontology.net/realmClimateZone#C		UO:0000298	centi	id	hasExactSynonym	C	c	50.0	1.0	1.0	0	0.16666666666666666	6
+http://sweetontology.net/reprMathFunctionOrthogonal#Degree		UO:0000185	degree	id	label	Degree	degree	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/reprMathOperation#Fraction		UO:0000191	fraction	id	label	Fraction	fraction	50.0	1.0	0.2	4	1.0	2
+http://sweetontology.net/reprMathOperation#Ratio		UO:0000190	ratio	id	label	Ratio	ratio	50.0	0.2	1.0	4	1.0	2
+http://sweetontology.net/reprSciUnits#day		UO:0000033	day	id	label	day	day	50.0	1.0	1.0	2	0.5	3
+http://sweetontology.net/reprSciUnits#hour		UO:0000032	hour	id	label	hour	hour	50.0	1.0	1.0	0	0.5	4
+http://sweetontology.net/reprSciUnits#month		UO:0000035	month	id	label	month	month	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/reprSciUnits#week		UO:0000034	week	id	label	week	week	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/reprSciUnits#year		UO:0000036	year	id	label	year	year	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/reprSpaceCoordinate#R		UO:0000136	roentgen	id	hasExactSynonym	R	R	50.0	1.0	1.0	4	1.0	2
+http://sweetontology.net/reprSpaceCoordinate#S		UO:0000010	second	id	hasExactSynonym	S	s	50.0	1.0	1.0	0	0.25	4
+http://sweetontology.net/reprSpaceCoordinate#S		UO:0000264	siemens	id	hasRelatedSynonym	S	S	50.0	1.0	1.0	0	0.25	4
+http://sweetontology.net/reprSpaceCoordinate#X		UO:0000076	mole fraction	id	hasExactSynonym	X	(x)	36.12499999999999	1.0	0.3333333333333333	0	0.3507849166531801	4
+http://sweetontology.net/reprSpaceCoordinate#Y		UO:0000286	yotta	id	hasExactSynonym	Y	Y	50.0	1.0	1.0	1	0.25	4
+http://sweetontology.net/reprSpaceCoordinate#Y		UO:0000306	yocto	id	hasExactSynonym	Y	y	50.0	1.0	1.0	0	0.25	4
+http://sweetontology.net/reprSpaceCoordinate#Z		UO:0000288	zetta	id	hasExactSynonym	Z	Z	50.0	1.0	1.0	0	0.16666666666666666	5
+http://sweetontology.net/reprSpaceCoordinate#Z		UO:0000305	zepto	id	hasExactSynonym	Z	z	50.0	1.0	1.0	0	0.16666666666666666	5
+http://sweetontology.net/reprSpaceDirection#Normal		UO:0000075	normal	id	label	Normal	normal	50.0	1.0	1.0	0	0.25	9
+http://sweetontology.net/reprSpaceDirection#X		UO:0000076	mole fraction	id	hasExactSynonym	X	(x)	16.858333333333327	0.2	0.3333333333333333	2	0.16369962777148403	4
+http://sweetontology.net/reprSpaceDirection#Y		UO:0000286	yotta	id	hasExactSynonym	Y	Y	50.0	0.5	1.0	0	0.25	4
+http://sweetontology.net/reprSpaceDirection#Y		UO:0000306	yocto	id	hasExactSynonym	Y	y	50.0	1.0	0.5	0	0.25	4
+http://sweetontology.net/reprSpaceDirection#Z		UO:0000288	zetta	id	hasExactSynonym	Z	Z	50.0	1.0	0.5	0	0.16666666666666666	5
+http://sweetontology.net/reprSpaceDirection#Z		UO:0000305	zepto	id	hasExactSynonym	Z	z	50.0	1.0	0.5	0	0.16666666666666666	5
+http://sweetontology.net/reprTimeDay#Day		UO:0000033	day	id	label	Day	day	50.0	1.0	1.0	0	0.5	3
+http://sweetontology.net/stateSpace#Micro		UO:0000299	micro	id	label	Micro	micro	50.0	1.0	1.0	4	1.0	2
+

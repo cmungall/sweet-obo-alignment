@@ -48,10 +48,10 @@ align_all: $(patsubst %,align-sweet-obo-%.tsv,$(ONTS))
 # use ontobio-lexmap
 # filter results for ontology of interest
 align-sweet-obo-%.tsv: sweet.json
-	ontobio-lexmap.py -vvv -c conf.yaml -l True -u unmapped-$*.tsv $< $*  > $@.tmp && cut -f2-999 $@.tmp > $@
+	ontobio-lexmap.py -vvv -c conf.yaml -l True -u unmapped-$*.tsv $< $*  > $@.tmp && mv $@.tmp $@
 
 align-sweet-obo-ALL.tsv: sweet.json
-	ontobio-lexmap.py -vvv -c conf.yaml -l True -u unmapped-ALL.tsv $< $(ONTS) > $@.tmp && cut -f2-999 $@.tmp > $@ && grep sweetontology.net unmapped-ALL.tsv | sort -u > sweet-unmatched.tsv
+	ontobio-lexmap.py -vvv -c conf.yaml -l True -u unmapped-ALL.tsv $< $(ONTS) > $@.tmp && mv $@.tmp $@ && grep sweetontology.net unmapped-ALL.tsv | sort -u > sweet-unmatched.tsv
 
 align-sweet-obo-%.obo: sweet.json
 	ontobio-lexmap.py -vvv -c conf.yaml -t obo $< $*  > $@.tmp && mv $@.tmp $@
