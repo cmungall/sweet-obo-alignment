@@ -1,15 +1,25 @@
-left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	equiv_clique_size
-http://sweetontology.net/prop#SystemProperty		FIX:0000282	system property	id	label	SystemProperty	system property	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/propMass#Structure		FIX:0000482	structure	id	label	Structure	structure	50.0	1.0	1.0	0	0.3333333333333333	4
-http://sweetontology.net/matrFacility#Structure		FIX:0000482	structure	id	label	Structure	structure	50.0	1.0	1.0	2	0.3333333333333333	4
-http://sweetontology.net/reprDataModel#Structure		FIX:0000482	structure	id	label	Structure	structure	50.0	1.0	1.0	0	0.3333333333333333	4
-http://sweetontology.net/prop#ReactionProperty		FIX:0000277	reaction property	id	label	ReactionProperty	reaction property	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/propCapacity#MolarHeatCapacity		FIX:0000478	molar heat capacity	id	label	MolarHeatCapacity	molar heat capacity	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/procWave#RayleighScattering		FIX:0000059	Rayleigh scattering	id	label	RayleighScattering	Rayleigh scattering	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/propSpace#Shape		FIX:0000498	shape	id	label	Shape	shape	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/propMass#Mass		FIX:0000479	mass	id	label	Mass	mass	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/propCapacity#HeatCapacity		FIX:0000480	heat capacity	id	label	HeatCapacity	heat capacity	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/reprSciMethodology#Spectroscopy		FIX:0000003	spectroscopy	id	label	Spectroscopy	spectroscopy	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/reprSciMethodology#Polarimetry		FIX:0000230	polarimetry	id	label	Polarimetry	polarimetry	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/procChemical#Crystallization		FIX:0000214	crystallization	id	label	Crystallization	crystallization	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/propSpaceDistance#Size		FIX:0000496	size	id	label	Size	size	50.0	1.0	1.0	4	1.0	2
+left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	pr_subClassOf	pr_superClassOf	pr_equivalentTo	pr_other	left_novel	right_novel	left_consistent	right_consistent	equiv_clique_size
+http://sweetontology.net/matrElement#Cd		FIX:0000043	circular dichroism spectroscopy	label	hasRelatedSynonym	Cd	CD	12.0	1.0	1.0	4	1.0	0.07976909716325621	0.07976909716325621	0.767890593200731	0.07257121247275662	True	True	False	False	2
+http://sweetontology.net/matrFacility#Structure		FIX:0000482	structure	label	label	Structure	structure	100.0	1.0	1.0	2	0.3333333333333333	0.052985786299683105	0.052985786299683105	0.8717328054187701	0.02229562198186385	True	True	False	False	4
+http://sweetontology.net/phenSystem#Drift		FIX:0000657	diffuse reflectance infrared spectroscopy by Fourier transform	label	hasRelatedSynonym	Drift	DRIFT	12.0	1.0	1.0	2	0.5	0.09658512948219744	0.09658512948219744	0.7189598740993408	0.0878698669362643	True	True	False	False	3
+http://sweetontology.net/procChemical#Bond		FIX:0000495	chemical bond	label	hasRelatedSynonym	Bond	bond	50.0	1.0	1.0	4	1.0	0.07976909716325621	0.07976909716325621	0.767890593200731	0.07257121247275662	True	True	False	False	2
+http://sweetontology.net/procChemical#Crystallization		FIX:0000214	crystallization	label	label	Crystallization	crystallization	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/procWave#RayleighScattering		FIX:0000059	Rayleigh scattering	label	label	RayleighScattering	Rayleigh scattering	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/prop#ReactionProperty		FIX:0000277	reaction property	label	label	ReactionProperty	reaction property	100.0	1.0	1.0	4	1.0	0.028891279741098105	0.028891279741098105	0.9302679660495473	0.01194947446825637	True	True	False	False	2
+http://sweetontology.net/prop#SystemProperty		FIX:0000282	system property	label	label	SystemProperty	system property	100.0	1.0	1.0	4	1.0	0.028891279741098105	0.028891279741098105	0.9302679660495473	0.01194947446825637	True	True	False	False	2
+http://sweetontology.net/propCapacity#HeatCapacity		FIX:0000480	heat capacity	label	label	HeatCapacity	heat capacity	100.0	0.5	1.0	4	1.0	0.0287950326583528	0.0287950326583528	0.9271689140620263	0.01524102062126812	True	True	False	False	2
+http://sweetontology.net/propCapacity#MolarHeatCapacity		FIX:0000478	molar heat capacity	label	label	MolarHeatCapacity	molar heat capacity	100.0	0.5	1.0	4	1.0	0.0287950326583528	0.0287950326583528	0.9271689140620263	0.01524102062126812	True	True	False	False	2
+http://sweetontology.net/propMass#Mass		FIX:0000479	mass	label	label	Mass	mass	100.0	0.5	1.0	4	1.0	0.05152030226182133	0.05152030226182133	0.8693111587142172	0.027648236762140028	True	True	False	False	2
+http://sweetontology.net/propMass#MolecularWeight		FIX:0000270	molecular mass	label	hasRelatedSynonym	MolecularWeight	molecular weight	50.0	0.5	1.0	4	1.0	0.07826168224165085	0.07826168224165085	0.753379588569675	0.0900970469470234	True	True	False	False	2
+http://sweetontology.net/propMass#Structure		FIX:0000482	structure	label	label	Structure	structure	100.0	1.0	1.0	0	0.3333333333333333	0.053633068485268366	0.053633068485268366	0.8701658744388682	0.022567988590595105	True	True	False	False	4
+http://sweetontology.net/propSpace#Shape		FIX:0000498	shape	label	label	Shape	shape	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/propSpaceDistance#Size		FIX:0000496	size	label	label	Size	size	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/propSpeed#Drift		FIX:0000657	diffuse reflectance infrared spectroscopy by Fourier transform	label	hasRelatedSynonym	Drift	DRIFT	12.0	0.5	1.0	0	0.5	0.10253477285833823	0.10253477285833823	0.6768895435935253	0.11804091068979829	True	True	False	False	3
+http://sweetontology.net/realm#Ring		FIX:0000515	cyclic structure	label	hasRelatedSynonym	Ring	ring	50.0	1.0	1.0	2	0.5	0.09658512948219744	0.09658512948219744	0.7189598740993408	0.0878698669362643	True	True	False	False	3
+http://sweetontology.net/reprDataModel#Structure		FIX:0000482	structure	label	label	Structure	structure	100.0	1.0	1.0	0	0.3333333333333333	0.053633068485268366	0.053633068485268366	0.8701658744388682	0.022567988590595105	True	True	False	False	4
+http://sweetontology.net/reprMath#Sequence		FIX:0000300	primary structure	label	hasRelatedSynonym	Sequence	sequence	50.0	0.5	1.0	2	0.5	0.0943839405223513	0.0943839405223513	0.7025746754054618	0.10865744354983561	True	True	False	False	5
+http://sweetontology.net/reprSciMethodology#Polarimetry		FIX:0000230	polarimetry	label	label	Polarimetry	polarimetry	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/reprSciMethodology#Spectroscopy		FIX:0000003	spectroscopy	label	label	Spectroscopy	spectroscopy	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/reprSciProvenance#Sequence		FIX:0000300	primary structure	label	hasRelatedSynonym	Sequence	sequence	50.0	1.0	1.0	0	0.5	0.10513780194692608	0.10513780194692608	0.6940735985498787	0.09565079755626908	True	True	False	False	5
+http://sweetontology.net/reprSpaceGeometry3D#Ring		FIX:0000515	cyclic structure	label	hasRelatedSynonym	Ring	ring	50.0	1.0	1.0	0	0.5	0.10513780194692608	0.10513780194692608	0.6940735985498787	0.09565079755626908	True	True	False	False	3
+

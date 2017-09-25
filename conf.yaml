@@ -11,3 +11,13 @@ ontology_configurations:
     scope_confidence_map:
       hasRelatedSynonym: 0.2
     normalized_form_confidence: 0
+match_weights:
+  - prefix1: http://sweetontology.net/humanDecision
+    prefix2: CHEBI
+    weights: [0.0, 0.0, 0.0, 100.0]
+  - prefix1: http://sweetontology.net/matrCompound
+    prefix2: CHEBI
+    weights: [0.0, 0.0, 1.0, 0.0]
+  - prefix1: http://sweetontology.net/matrPlant
+    prefix2: PO
+    weights: [0.0, 0.0, 1.0, 0.0]

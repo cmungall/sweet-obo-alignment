@@ -1,6 +1,7 @@
-left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	equiv_clique_size
-http://sweetontology.net/reprMathSolution#Reduction		MOP:0000569	reduction	id	label	Reduction	reduction	50.0	0.3333333333333333	1.0	0	0.3333333333333333	8
-http://sweetontology.net/procChemical#Reduction		MOP:0000569	reduction	id	label	Reduction	reduction	50.0	0.6666666666666666	1.0	0	0.3333333333333333	8
-http://sweetontology.net/phenSystem#Reduction		MOP:0000569	reduction	id	label	Reduction	reduction	50.0	0.3333333333333333	1.0	2	0.3333333333333333	8
-http://sweetontology.net/procChemical#Hydrolysis		MOP:0000619	hydrolysis	id	label	Hydrolysis	hydrolysis	50.0	1.0	0.6666666666666666	4	1.0	2
-http://sweetontology.net/procChemical#Oxidation		MOP:0000568	oxidation	id	label	Oxidation	oxidation	50.0	1.0	0.6666666666666666	4	1.0	2
+left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	pr_subClassOf	pr_superClassOf	pr_equivalentTo	pr_other	left_novel	right_novel	left_consistent	right_consistent	equiv_clique_size
+http://sweetontology.net/phenSystem#Reduction		MOP:0000569	reduction	label	label	Reduction	reduction	100.0	1.0	1.0	2	0.3333333333333333	0.052985786299683105	0.052985786299683105	0.8717328054187701	0.02229562198186385	True	True	False	False	8
+http://sweetontology.net/procChemical#Hydrolysis		MOP:0000619	hydrolysis	label	label	Hydrolysis	hydrolysis	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/procChemical#Oxidation		MOP:0000568	oxidation	label	label	Oxidation	oxidation	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/procChemical#Reduction		MOP:0000569	reduction	label	label	Reduction	reduction	100.0	1.0	1.0	0	0.3333333333333333	0.053633068485268366	0.053633068485268366	0.8701658744388682	0.022567988590595105	True	True	False	False	8
+http://sweetontology.net/reprMathSolution#Reduction		MOP:0000569	reduction	label	label	Reduction	reduction	100.0	1.0	1.0	0	0.3333333333333333	0.053633068485268366	0.053633068485268366	0.8701658744388682	0.022567988590595105	True	True	False	False	8
+

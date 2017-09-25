@@ -1,27 +1,28 @@
-left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	equiv_clique_size
-http://sweetontology.net/propFunction#Skewness		STATO:0000068	skewness	id	label	Skewness	skewness	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/propFunction#StandardDeviation		STATO:0000237	standard deviation	id	label	StandardDeviation	standard deviation	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/propSpaceDirection#Axis		STATO:0000007	axis	id	label	Axis	axis	37.5	0.5	0.5	4	1.0	2
-http://sweetontology.net/reprMathStatistics#StatisticalInference		STATO:0000299	statistical inference	id	label	StatisticalInference	statistical inference	41.666666666666664	0.6666666666666666	0.5	4	1.0	2
-http://sweetontology.net/reprMathFunction#NormalDistribution		STATO:0000227	normal distribution	id	label	NormalDistribution	normal distribution	36.666666666666664	0.6666666666666666	0.2	4	1.0	3
-http://sweetontology.net/propDimensionlessRatio#SignalToNoiseRatio		STATO:0000050	signal to noise ratio	id	label	SignalToNoiseRatio	signal to noise ratio	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/propFunction#Percentile		STATO:0000293	percentile	id	label	Percentile	percentile	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/humanResearch#Variable		STATO:0000258	variable	id	label	Variable	variable	50.0	0.3333333333333333	1.0	2	0.5	3
-http://sweetontology.net/reprMath#Variable		STATO:0000258	variable	id	label	Variable	variable	50.0	0.3333333333333333	1.0	0	0.5	3
-http://sweetontology.net/reprSpaceGeometry#Family		STATO:0000257	family	id	label	Family	family	50.0	0.5	1.0	4	1.0	4
-http://sweetontology.net/propCount#Count		STATO:0000047	count	id	label	Count	count	35.0	0.5	0.4	4	1.0	2
-http://sweetontology.net/propDimensionlessRatio#DimensionlessRatio		STATO:0000300	dimensionless ratio	id	label	DimensionlessRatio	dimensionless ratio	41.666666666666664	0.5	0.6666666666666666	4	1.0	2
-http://sweetontology.net/propFraction#Covariance		STATO:0000301	covariance	id	label	Covariance	covariance	50.0	1.0	0.25	4	1.0	2
-http://sweetontology.net/humanResearch#Residual		STATO:0000234	residual	id	label	Residual	residual	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/repr#CoordinateSystem		STATO:0000010	coordinate system	id	label	CoordinateSystem	coordinate system	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/reprSciModel#Hypothesis		STATO:0000065	hypothesis	id	label	Hypothesis	hypothesis	31.25	0.5	0.25	4	1.0	2
-http://sweetontology.net/propFunction#Variance		STATO:0000113	variance	id	label	Variance	variance	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/stateRoleRepresentative#Outlier		STATO:0000036	outlier	id	label	Outlier	outlier	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/propFunction#Kurtosis		STATO:0000178	kurtosis	id	label	Kurtosis	kurtosis	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/reprMathFunctionOrthogonal#Mode		STATO:0000033	mode	id	label	Mode	mode	50.0	1.0	0.2	0	0.5	3
-http://sweetontology.net/propSpaceDistance#Range		STATO:0000035	range	id	label	Range	range	50.0	1.0	0.25	4	1.0	2
-http://sweetontology.net/humanDecision#Ranking		STATO:0000118	ranking	id	label	Ranking	ranking	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/reprMathOperation#Ratio		STATO:0000184	ratio	id	label	Ratio	ratio	46.875	0.75	0.75	4	1.0	2
-http://sweetontology.net/propFunction#Mode		STATO:0000033	mode	id	label	Mode	mode	50.0	1.0	0.2	2	0.5	3
-http://sweetontology.net/propFunction#Decile		STATO:0000292	decile	id	label	Decile	decile	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/propFunction#Quartile		STATO:0000152	quartile	id	label	Quartile	quartile	33.33333333333333	0.5	0.3333333333333333	4	1.0	2
+left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	pr_subClassOf	pr_superClassOf	pr_equivalentTo	pr_other	left_novel	right_novel	left_consistent	right_consistent	equiv_clique_size
+http://sweetontology.net/humanDecision#Ranking		STATO:0000118	ranking	label	label	Ranking	ranking	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/humanResearch#Residual		STATO:0000234	residual	label	label	Residual	residual	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/humanResearch#Variable		STATO:0000258	variable	label	label	Variable	variable	100.0	1.0	1.0	2	0.5	0.052985786299683105	0.052985786299683105	0.8717328054187701	0.02229562198186385	True	True	False	False	3
+http://sweetontology.net/propCount#Count		STATO:0000047	count	label	label	Count	count	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/propDimensionlessRatio#DimensionlessRatio		STATO:0000300	dimensionless ratio	label	label	DimensionlessRatio	dimensionless ratio	100.0	0.6666666666666666	1.0	4	1.0	0.051631223853275905	0.051631223853275905	0.8711827583159387	0.025554793977509357	True	True	False	False	2
+http://sweetontology.net/propDimensionlessRatio#SignalToNoiseRatio		STATO:0000050	signal to noise ratio	label	label	SignalToNoiseRatio	signal to noise ratio	100.0	0.6666666666666666	1.0	4	1.0	0.028829673899882335	0.028829673899882335	0.9282843245799367	0.014056327620298674	True	True	False	False	2
+http://sweetontology.net/propFraction#Covariance		STATO:0000301	covariance	label	label	Covariance	covariance	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/propFunction#Decile		STATO:0000292	decile	label	label	Decile	decile	100.0	1.0	0.5	4	1.0	0.05152030226182133	0.05152030226182133	0.8693111587142172	0.027648236762140028	True	True	False	False	2
+http://sweetontology.net/propFunction#Kurtosis		STATO:0000178	kurtosis	label	label	Kurtosis	kurtosis	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/propFunction#Mode		STATO:0000033	mode	label	label	Mode	mode	100.0	1.0	1.0	2	0.5	0.052985786299683105	0.052985786299683105	0.8717328054187701	0.02229562198186385	True	True	False	False	3
+http://sweetontology.net/propFunction#Percentile		STATO:0000293	percentile	label	label	Percentile	percentile	100.0	1.0	0.3333333333333333	4	1.0	0.05140088918779068	0.05140088918779068	0.8672962808273662	0.029901940797052246	True	True	False	False	2
+http://sweetontology.net/propFunction#Quartile		STATO:0000152	quartile	label	label	Quartile	quartile	100.0	1.0	0.5	4	1.0	0.05152030226182133	0.05152030226182133	0.8693111587142172	0.027648236762140028	True	True	False	False	2
+http://sweetontology.net/propFunction#Skewness		STATO:0000068	skewness	label	label	Skewness	skewness	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/propFunction#StandardDeviation		STATO:0000237	standard deviation	label	label	StandardDeviation	standard deviation	100.0	1.0	1.0	4	1.0	0.028891279741098105	0.028891279741098105	0.9302679660495473	0.01194947446825637	True	True	False	False	2
+http://sweetontology.net/propFunction#Variance		STATO:0000113	variance	label	label	Variance	variance	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/propSpaceDirection#Axis		STATO:0000007	axis	label	label	Axis	axis	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/propSpaceDistance#Range		STATO:0000035	range	label	label	Range	range	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/repr#CoordinateSystem		STATO:0000010	coordinate system	label	label	CoordinateSystem	coordinate system	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/reprMath#Variable		STATO:0000258	variable	label	label	Variable	variable	100.0	1.0	1.0	0	0.5	0.053633068485268366	0.053633068485268366	0.8701658744388682	0.022567988590595105	True	True	False	False	3
+http://sweetontology.net/reprMathFunction#NormalDistribution		STATO:0000227	normal distribution	label	label	NormalDistribution	normal distribution	100.0	1.0	1.0	4	1.0	0.028891279741098105	0.028891279741098105	0.9302679660495473	0.01194947446825637	True	True	False	False	3
+http://sweetontology.net/reprMathFunctionOrthogonal#Mode		STATO:0000033	mode	label	label	Mode	mode	100.0	1.0	1.0	0	0.5	0.053633068485268366	0.053633068485268366	0.8701658744388682	0.022567988590595105	True	True	False	False	3
+http://sweetontology.net/reprMathOperation#Ratio		STATO:0000184	ratio	label	label	Ratio	ratio	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/reprMathStatistics#StatisticalInference		STATO:0000299	statistical inference	label	label	StatisticalInference	statistical inference	100.0	1.0	1.0	4	1.0	0.028891279741098105	0.028891279741098105	0.9302679660495473	0.01194947446825637	True	True	False	False	2
+http://sweetontology.net/reprSciModel#Hypothesis		STATO:0000065	hypothesis	label	label	Hypothesis	hypothesis	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/reprSpaceGeometry#Family		STATO:0000257	family	label	label	Family	family	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	4
+http://sweetontology.net/stateRoleRepresentative#Outlier		STATO:0000036	outlier	label	label	Outlier	outlier	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+

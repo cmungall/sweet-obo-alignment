@@ -1,10 +1,11 @@
-left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	equiv_clique_size
-http://sweetontology.net/reprSpace#Space		TO:0000559	plant volume	id	hasRelatedSynonym	Space	space	50.0	0.25	1.0	4	1.0	2
-http://sweetontology.net/relaTime#endOf		TO:0000587	endosperm quality	id	hasRelatedSynonym	endOf	End	42.5	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/propDimensionlessRatio#LeafAreaIndex		TO:0012001	leaf area index	id	label	LeafAreaIndex	leaf area index	29.166666666666664	0.16666666666666666	0.5	4	1.0	2
-http://sweetontology.net/humanEnvirStandards#REC		TO:0000136	relative water content	id	hasRelatedSynonym	REC	rec	50.0	1.0	1.0	4	1.0	3
-http://sweetontology.net/propSpaceDistance#GrainSize		TO:0000397	grain size	id	label	GrainSize	grain size	50.0	0.2	1.0	4	1.0	2
-http://sweetontology.net/matrElement#Sb		TO:0000454	stem borer resistance	id	hasRelatedSynonym	Sb	SB	50.0	1.0	0.5	4	1.0	2
-http://sweetontology.net/matrElement#Pb		TO:0000477	panicle blast disease resistance	id	hasRelatedSynonym	Pb	PB	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/matrElement#U		TO:0000121	ufra damage	id	hasRelatedSynonym	U	U	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/realmClimateZone#BS		TO:0000356	brown spot disease resistance	id	hasRelatedSynonym	BS	BS	50.0	0.2	1.0	4	1.0	2
+left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	pr_subClassOf	pr_superClassOf	pr_equivalentTo	pr_other	left_novel	right_novel	left_consistent	right_consistent	equiv_clique_size
+http://sweetontology.net/humanEnvirStandards#REC		TO:0000136	relative water content	label	hasRelatedSynonym	REC	rec	50.0	1.0	1.0	4	1.0	0.2122405140127806	0.2122405140127806	0.37388164914196187	0.20163732283247693	True	True	False	False	3
+http://sweetontology.net/matrElement#Pb		TO:0000477	panicle blast disease resistance	label	hasRelatedSynonym	Pb	PB	50.0	1.0	1.0	4	1.0	0.2122405140127806	0.2122405140127806	0.37388164914196187	0.20163732283247693	True	True	False	False	2
+http://sweetontology.net/matrElement#Sb		TO:0000454	stem borer resistance	label	hasRelatedSynonym	Sb	SB	50.0	1.0	1.0	4	1.0	0.2122405140127806	0.2122405140127806	0.37388164914196187	0.20163732283247693	True	True	False	False	2
+http://sweetontology.net/matrElement#U		TO:0000121	ufra damage	label	hasRelatedSynonym	U	U	50.0	1.0	1.0	4	1.0	0.2122405140127806	0.2122405140127806	0.37388164914196187	0.20163732283247693	True	True	False	False	2
+http://sweetontology.net/propDimensionlessRatio#LeafAreaIndex		TO:0012001	leaf area index	label	label	LeafAreaIndex	leaf area index	100.0	1.0	1.0	4	1.0	0.2122405140127806	0.2122405140127806	0.37388164914196187	0.20163732283247693	True	True	False	False	2
+http://sweetontology.net/propSpaceDistance#GrainSize		TO:0000397	grain size	label	label	GrainSize	grain size	100.0	1.0	1.0	4	1.0	0.2122405140127806	0.2122405140127806	0.37388164914196187	0.20163732283247693	True	True	False	False	2
+http://sweetontology.net/realmClimateZone#BS		TO:0000356	brown spot disease resistance	label	hasRelatedSynonym	BS	BS	50.0	1.0	1.0	4	1.0	0.2122405140127806	0.2122405140127806	0.37388164914196187	0.20163732283247693	True	True	False	False	2
+http://sweetontology.net/relaTime#endOf		TO:0000587	endosperm quality	label	hasRelatedSynonym	endOf	End	42.5	1.0	1.0	4	1.0	0.2122405140127806	0.2122405140127806	0.37388164914196187	0.20163732283247693	True	True	False	False	2
+http://sweetontology.net/reprSpace#Space		TO:0000559	plant volume	label	hasRelatedSynonym	Space	space	50.0	1.0	1.0	4	1.0	0.2122405140127806	0.2122405140127806	0.37388164914196187	0.20163732283247693	True	True	False	False	2
+

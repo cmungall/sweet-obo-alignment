@@ -1,71 +1,69 @@
-left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	equiv_clique_size
-http://sweetontology.net/matrElement#B		UO:0000227	magnetic flux density unit	id	hasExactSynonym	B	B	50.0	0.5	1.0	1	0.25	5
-http://sweetontology.net/matrElement#B		UO:0000233	byte	id	hasExactSynonym	B	B	50.0	1.0	1.0	0	0.25	5
-http://sweetontology.net/matrElement#C		UO:0000027	degree Celsius	id	hasExactSynonym	C	C	50.0	1.0	1.0	1	0.16666666666666666	6
-http://sweetontology.net/matrElement#C		UO:0000220	coulomb	id	hasExactSynonym	C	C	50.0	0.5	1.0	0	0.16666666666666666	6
-http://sweetontology.net/matrElement#C		UO:0000298	centi	id	hasExactSynonym	C	c	50.0	1.0	1.0	0	0.16666666666666666	6
-http://sweetontology.net/matrElement#Cd		UO:0000014	candela	id	hasExactSynonym	Cd	cd	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/matrElement#F		UO:0000195	degree Fahrenheit	id	hasExactSynonym	F	F	50.0	1.0	1.0	2	0.5	3
-http://sweetontology.net/matrElement#F		UO:0000303	femto	id	hasExactSynonym	F	f	50.0	1.0	1.0	0	0.5	3
-http://sweetontology.net/matrElement#H		UO:0000032	hour	id	hasExactSynonym	H	h	50.0	1.0	1.0	1	0.25	4
-http://sweetontology.net/matrElement#H		UO:0000287	hecto	id	hasExactSynonym	H	h	50.0	1.0	1.0	0	0.5	4
-http://sweetontology.net/matrElement#K		UO:0000012	kelvin	id	hasExactSynonym	K	K	50.0	1.0	1.0	2	0.5	3
-http://sweetontology.net/matrElement#K		UO:0000294	kilo	id	hasExactSynonym	K	k	50.0	1.0	1.0	0	0.5	3
-http://sweetontology.net/matrElement#Mg		UO:0000022	milligram	id	hasExactSynonym	Mg	mg	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/matrElement#N		UO:0000075	normal	id	hasExactSynonym	N	N	50.0	1.0	1.0	1	0.0625	9
-http://sweetontology.net/matrElement#N		UO:0000108	newton	id	hasExactSynonym	N	N	50.0	1.0	1.0	0	0.25	9
-http://sweetontology.net/matrElement#N		UO:0000300	nano	id	hasExactSynonym	N	n	50.0	1.0	1.0	0	0.25	9
-http://sweetontology.net/matrElement#N		UO:0000302	pico	id	hasExactSynonym	N	n	50.0	1.0	1.0	0	0.25	9
-http://sweetontology.net/matrElement#P		UO:0000258	poise	id	hasExactSynonym	P	P	50.0	1.0	1.0	2	0.5	3
-http://sweetontology.net/matrElement#P		UO:0000290	peta	id	hasExactSynonym	P	P	50.0	1.0	1.0	0	0.5	3
-http://sweetontology.net/matrElement#S		UO:0000010	second	id	hasExactSynonym	S	s	50.0	1.0	1.0	1	0.25	4
-http://sweetontology.net/matrElement#S		UO:0000264	siemens	id	hasRelatedSynonym	S	S	50.0	1.0	1.0	0	0.25	4
-http://sweetontology.net/matrElement#U		UO:0000038	microampere	id	hasExactSynonym	U	uA	42.5	1.0	1.0	2	0.2982456140350877	4
-http://sweetontology.net/matrElement#U		UO:0000181	enzyme unit	id	hasExactSynonym	U	U	50.0	1.0	1.0	0	0.3508771929824561	4
-http://sweetontology.net/matrElement#U		UO:0000221	dalton	id	hasExactSynonym	U	u	50.0	1.0	1.0	0	0.3508771929824561	4
-http://sweetontology.net/matrIsotope#D		UO:0000296	deci	id	hasExactSynonym	D	d	50.0	1.0	1.0	2	0.5	3
-http://sweetontology.net/matrIsotope#T		UO:0000228	tesla	id	hasExactSynonym	T	T	50.0	1.0	0.3333333333333333	2	0.5	3
-http://sweetontology.net/matrIsotope#T		UO:0000291	tera	id	hasExactSynonym	T	T	50.0	1.0	1.0	0	0.5	3
-http://sweetontology.net/phenGeolFault#Normal		UO:0000075	normal	id	label	Normal	normal	50.0	1.0	1.0	0	0.25	9
-http://sweetontology.net/propCharge#ElectricCharge		UO:0000219	electric charge	id	label	ElectricCharge	electric charge	50.0	1.0	0.3333333333333333	4	1.0	2
-http://sweetontology.net/propChemical#pH		UO:0000196	pH	id	label	pH	pH	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/propCount#Count		UO:0000189	count unit	id	hasExactSynonym	Count	count	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/propFraction#MoleFraction		UO:0000076	mole fraction	id	label	MoleFraction	mole fraction	50.0	1.0	0.3333333333333333	0	0.4855154555753359	4
-http://sweetontology.net/realmClimateZone#A		UO:0000011	ampere	id	hasExactSynonym	A	A	50.0	1.0	1.0	2	0.5	4
-http://sweetontology.net/realmClimateZone#A		UO:0000304	atto	id	hasExactSynonym	A	a	50.0	1.0	1.0	0	0.5	4
-http://sweetontology.net/realmClimateZone#B		UO:0000227	magnetic flux density unit	id	hasExactSynonym	B	B	50.0	0.5	1.0	0	0.25	5
-http://sweetontology.net/realmClimateZone#B		UO:0000233	byte	id	hasExactSynonym	B	B	50.0	1.0	1.0	0	0.25	5
-http://sweetontology.net/realmClimateZone#C		UO:0000027	degree Celsius	id	hasExactSynonym	C	C	50.0	1.0	1.0	0	0.16666666666666666	6
-http://sweetontology.net/realmClimateZone#C		UO:0000220	coulomb	id	hasExactSynonym	C	C	50.0	0.5	1.0	0	0.16666666666666666	6
-http://sweetontology.net/realmClimateZone#C		UO:0000298	centi	id	hasExactSynonym	C	c	50.0	1.0	1.0	0	0.16666666666666666	6
-http://sweetontology.net/realmClimateZone#D		UO:0000296	deci	id	hasExactSynonym	D	d	50.0	1.0	1.0	0	0.5	3
-http://sweetontology.net/realmClimateZone#E		UO:0000289	exa	id	hasExactSynonym	E	E	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/relaTime#halfLife		UO:0000152	half life	id	label	halfLife	half life	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/reprDataService#Z		UO:0000288	zetta	id	hasExactSynonym	Z	Z	50.0	1.0	1.0	1	0.16666666666666666	5
-http://sweetontology.net/reprDataService#Z		UO:0000305	zepto	id	hasExactSynonym	Z	z	50.0	1.0	1.0	0	0.16666666666666666	5
-http://sweetontology.net/reprMathFunction#Normal		UO:0000075	normal	id	label	Normal	normal	50.0	1.0	1.0	0	0.25	9
-http://sweetontology.net/reprMathFunctionOrthogonal#Degree		UO:0000185	degree	id	label	Degree	degree	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/reprMathOperation#Fraction		UO:0000191	fraction	id	label	Fraction	fraction	50.0	1.0	0.2	4	1.0	2
-http://sweetontology.net/reprMathOperation#Ratio		UO:0000190	ratio	id	label	Ratio	ratio	50.0	0.2	1.0	4	1.0	2
-http://sweetontology.net/reprSciUnits#day		UO:0000033	day	id	label	day	day	50.0	1.0	1.0	2	0.5	3
-http://sweetontology.net/reprSciUnits#hour		UO:0000032	hour	id	label	hour	hour	50.0	1.0	1.0	0	0.5	4
-http://sweetontology.net/reprSciUnits#month		UO:0000035	month	id	label	month	month	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/reprSciUnits#week		UO:0000034	week	id	label	week	week	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/reprSciUnits#year		UO:0000036	year	id	label	year	year	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/reprSpaceCoordinate#R		UO:0000136	roentgen	id	hasExactSynonym	R	R	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/reprSpaceCoordinate#S		UO:0000010	second	id	hasExactSynonym	S	s	50.0	1.0	1.0	0	0.25	4
-http://sweetontology.net/reprSpaceCoordinate#S		UO:0000264	siemens	id	hasRelatedSynonym	S	S	50.0	1.0	1.0	0	0.25	4
-http://sweetontology.net/reprSpaceCoordinate#X		UO:0000076	mole fraction	id	hasExactSynonym	X	(x)	36.12499999999999	1.0	0.3333333333333333	0	0.3507849166531801	4
-http://sweetontology.net/reprSpaceCoordinate#Y		UO:0000286	yotta	id	hasExactSynonym	Y	Y	50.0	1.0	1.0	1	0.25	4
-http://sweetontology.net/reprSpaceCoordinate#Y		UO:0000306	yocto	id	hasExactSynonym	Y	y	50.0	1.0	1.0	0	0.25	4
-http://sweetontology.net/reprSpaceCoordinate#Z		UO:0000288	zetta	id	hasExactSynonym	Z	Z	50.0	1.0	1.0	0	0.16666666666666666	5
-http://sweetontology.net/reprSpaceCoordinate#Z		UO:0000305	zepto	id	hasExactSynonym	Z	z	50.0	1.0	1.0	0	0.16666666666666666	5
-http://sweetontology.net/reprSpaceDirection#Normal		UO:0000075	normal	id	label	Normal	normal	50.0	1.0	1.0	0	0.25	9
-http://sweetontology.net/reprSpaceDirection#X		UO:0000076	mole fraction	id	hasExactSynonym	X	(x)	16.858333333333327	0.2	0.3333333333333333	2	0.16369962777148403	4
-http://sweetontology.net/reprSpaceDirection#Y		UO:0000286	yotta	id	hasExactSynonym	Y	Y	50.0	0.5	1.0	0	0.25	4
-http://sweetontology.net/reprSpaceDirection#Y		UO:0000306	yocto	id	hasExactSynonym	Y	y	50.0	1.0	0.5	0	0.25	4
-http://sweetontology.net/reprSpaceDirection#Z		UO:0000288	zetta	id	hasExactSynonym	Z	Z	50.0	1.0	0.5	0	0.16666666666666666	5
-http://sweetontology.net/reprSpaceDirection#Z		UO:0000305	zepto	id	hasExactSynonym	Z	z	50.0	1.0	0.5	0	0.16666666666666666	5
-http://sweetontology.net/reprTimeDay#Day		UO:0000033	day	id	label	Day	day	50.0	1.0	1.0	0	0.5	3
-http://sweetontology.net/stateSpace#Micro		UO:0000299	micro	id	label	Micro	micro	50.0	1.0	1.0	4	1.0	2
+left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	pr_subClassOf	pr_superClassOf	pr_equivalentTo	pr_other	left_novel	right_novel	left_consistent	right_consistent	equiv_clique_size
+http://sweetontology.net/matrElement#B		UO:0000227	magnetic flux density unit	label	hasExactSynonym	B	B	22.0	1.0	1.0	1	0.25	0.10101263941348068	0.08421484876062228	0.7820845799056371	0.03268793192026002	True	True	False	False	5
+http://sweetontology.net/matrElement#B		UO:0000233	byte	label	hasExactSynonym	B	B	22.0	1.0	1.0	0	0.25	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	5
+http://sweetontology.net/matrElement#C		UO:0000027	degree Celsius	label	hasExactSynonym	C	C	22.0	1.0	1.0	1	0.16666666666666666	0.10101263941348068	0.08421484876062228	0.7820845799056371	0.03268793192026002	True	True	False	False	6
+http://sweetontology.net/matrElement#C		UO:0000220	coulomb	label	hasExactSynonym	C	C	22.0	1.0	1.0	0	0.16666666666666666	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	6
+http://sweetontology.net/matrElement#C		UO:0000298	centi	label	hasExactSynonym	C	c	22.0	1.0	1.0	0	0.16666666666666666	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	6
+http://sweetontology.net/matrElement#Cd		UO:0000014	candela	label	hasExactSynonym	Cd	cd	22.0	1.0	1.0	4	1.0	0.05258873130270072	0.05258873130270072	0.8652003768073055	0.029622160587292994	True	True	False	False	2
+http://sweetontology.net/matrElement#F		UO:0000195	degree Fahrenheit	label	hasExactSynonym	F	F	22.0	1.0	1.0	2	0.5	0.10101263941348068	0.08421484876062228	0.7820845799056371	0.03268793192026002	True	True	False	False	3
+http://sweetontology.net/matrElement#F		UO:0000303	femto	label	hasExactSynonym	F	f	22.0	1.0	1.0	0	0.5	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	3
+http://sweetontology.net/matrElement#H		UO:0000032	hour	label	hasExactSynonym	H	h	22.0	1.0	1.0	1	0.09016393442622951	0.10101263941348068	0.08421484876062228	0.7820845799056371	0.03268793192026002	True	True	False	False	4
+http://sweetontology.net/matrElement#H		UO:0000287	hecto	label	hasExactSynonym	H	h	22.0	1.0	1.0	0	0.5	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	4
+http://sweetontology.net/matrElement#K		UO:0000012	kelvin	label	hasExactSynonym	K	K	22.0	1.0	1.0	2	0.5	0.10101263941348068	0.08421484876062228	0.7820845799056371	0.03268793192026002	True	True	False	False	3
+http://sweetontology.net/matrElement#K		UO:0000294	kilo	label	hasExactSynonym	K	k	22.0	1.0	1.0	0	0.5	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	3
+http://sweetontology.net/matrElement#Mg		UO:0000022	milligram	label	hasExactSynonym	Mg	mg	22.0	1.0	1.0	4	1.0	0.05258873130270072	0.05258873130270072	0.8652003768073055	0.029622160587292994	True	True	False	False	2
+http://sweetontology.net/matrElement#N		UO:0000075	normal	label	hasExactSynonym	N	N	22.0	1.0	1.0	1	0.017080745341614908	0.10101263941348068	0.08421484876062228	0.7820845799056371	0.03268793192026002	True	True	False	False	9
+http://sweetontology.net/matrElement#N		UO:0000108	newton	label	hasExactSynonym	N	N	22.0	1.0	1.0	0	0.25	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	9
+http://sweetontology.net/matrElement#N		UO:0000300	nano	label	hasExactSynonym	N	n	22.0	1.0	1.0	0	0.25	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	9
+http://sweetontology.net/matrElement#N		UO:0000302	pico	label	hasExactSynonym	N	n	22.0	1.0	1.0	0	0.25	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	9
+http://sweetontology.net/matrElement#P		UO:0000258	poise	label	hasExactSynonym	P	P	22.0	1.0	1.0	2	0.5	0.10101263941348068	0.08421484876062228	0.7820845799056371	0.03268793192026002	True	True	False	False	3
+http://sweetontology.net/matrElement#P		UO:0000290	peta	label	hasExactSynonym	P	P	22.0	1.0	1.0	0	0.5	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	3
+http://sweetontology.net/matrElement#S		UO:0000264	siemens	label	hasRelatedSynonym	S	S	12.0	1.0	1.0	1	0.17647058823529413	0.22196701386285003	0.1850552426987884	0.4769649647105126	0.11601277872784899	True	True	False	False	4
+http://sweetontology.net/matrElement#S		UO:0000010	second	label	hasExactSynonym	S	s	22.0	1.0	1.0	0	0.3235294117647059	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	4
+http://sweetontology.net/matrElement#U		UO:0000038	microampere	label	hasExactSynonym	U	uA	18.0	1.0	1.0	2	0.2903225806451613	0.2359881731184597	0.2545020756566437	0.32226805374438466	0.18724169748051195	True	True	False	False	4
+http://sweetontology.net/matrElement#U		UO:0000181	enzyme unit	label	hasExactSynonym	U	U	22.0	1.0	1.0	0	0.3548387096774194	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	4
+http://sweetontology.net/matrElement#U		UO:0000221	dalton	label	hasExactSynonym	U	u	22.0	1.0	1.0	0	0.3548387096774194	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	4
+http://sweetontology.net/matrIsotope#D		UO:0000296	deci	label	hasExactSynonym	D	d	22.0	1.0	1.0	2	0.5	0.05445002646272548	0.05445002646272548	0.8604293568567093	0.030670590217839588	True	True	False	False	3
+http://sweetontology.net/matrIsotope#T		UO:0000228	tesla	label	hasExactSynonym	T	T	22.0	1.0	1.0	2	0.5	0.10101263941348068	0.08421484876062228	0.7820845799056371	0.03268793192026002	True	True	False	False	3
+http://sweetontology.net/matrIsotope#T		UO:0000291	tera	label	hasExactSynonym	T	T	22.0	1.0	1.0	0	0.5	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	3
+http://sweetontology.net/phenGeolFault#Normal		UO:0000075	normal	label	label	Normal	normal	100.0	1.0	1.0	0	0.3105590062111801	0.053633068485268366	0.053633068485268366	0.8701658744388682	0.022567988590595105	True	True	False	False	9
+http://sweetontology.net/propCharge#ElectricCharge		UO:0000219	electric charge	label	label	ElectricCharge	electric charge	100.0	1.0	1.0	4	1.0	0.028891279741098105	0.028891279741098105	0.9302679660495473	0.01194947446825637	True	True	False	False	2
+http://sweetontology.net/propChemical#pH		UO:0000196	pH	label	label	pH	pH	100.0	1.0	1.0	4	1.0	0.028891279741098105	0.028891279741098105	0.9302679660495473	0.01194947446825637	True	True	False	False	2
+http://sweetontology.net/propCount#Count		UO:0000189	count unit	label	hasExactSynonym	Count	count	90.0	1.0	1.0	4	1.0	0.05258873130270072	0.05258873130270072	0.8652003768073055	0.029622160587292994	True	True	False	False	2
+http://sweetontology.net/propFraction#MoleFraction		UO:0000076	mole fraction	label	label	MoleFraction	mole fraction	100.0	1.0	1.0	4	1.0	0.028891279741098105	0.028891279741098105	0.9302679660495473	0.01194947446825637	True	True	False	False	2
+http://sweetontology.net/realmClimateZone#A		UO:0000011	ampere	label	hasExactSynonym	A	A	22.0	1.0	1.0	2	0.5	0.10101263941348068	0.08421484876062228	0.7820845799056371	0.03268793192026002	True	True	False	False	4
+http://sweetontology.net/realmClimateZone#A		UO:0000304	atto	label	hasExactSynonym	A	a	22.0	1.0	1.0	0	0.5	0.08830986067013932	0.07324600116272928	0.810455095669606	0.02798904249752537	True	True	False	False	4
+http://sweetontology.net/realmClimateZone#B		UO:0000227	magnetic flux density unit	label	hasExactSynonym	B	B	22.0	1.0	1.0	0	0.25	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	5
+http://sweetontology.net/realmClimateZone#B		UO:0000233	byte	label	hasExactSynonym	B	B	22.0	1.0	1.0	0	0.25	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	5
+http://sweetontology.net/realmClimateZone#C		UO:0000027	degree Celsius	label	hasExactSynonym	C	C	22.0	1.0	1.0	0	0.16666666666666666	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	6
+http://sweetontology.net/realmClimateZone#C		UO:0000220	coulomb	label	hasExactSynonym	C	C	22.0	1.0	1.0	0	0.16666666666666666	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	6
+http://sweetontology.net/realmClimateZone#C		UO:0000298	centi	label	hasExactSynonym	C	c	22.0	1.0	1.0	0	0.16666666666666666	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	6
+http://sweetontology.net/realmClimateZone#D		UO:0000296	deci	label	hasExactSynonym	D	d	22.0	1.0	1.0	0	0.5	0.05548836844776573	0.05548836844776573	0.8577677960078096	0.0312554670966589	True	True	False	False	3
+http://sweetontology.net/realmClimateZone#E		UO:0000289	exa	label	hasExactSynonym	E	E	22.0	1.0	1.0	4	1.0	0.05258873130270072	0.05258873130270072	0.8652003768073055	0.029622160587292994	True	True	False	False	2
+http://sweetontology.net/relaTime#halfLife		UO:0000152	half life	label	label	halfLife	half life	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/reprDataService#Z		UO:0000288	zetta	label	hasExactSynonym	Z	Z	22.0	1.0	1.0	1	0.16666666666666666	0.10101263941348068	0.08421484876062228	0.7820845799056371	0.03268793192026002	True	True	False	False	5
+http://sweetontology.net/reprDataService#Z		UO:0000305	zepto	label	hasExactSynonym	Z	z	22.0	1.0	1.0	0	0.16666666666666666	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	5
+http://sweetontology.net/reprMathFunction#Normal		UO:0000075	normal	label	label	Normal	normal	100.0	1.0	1.0	0	0.3105590062111801	0.053633068485268366	0.053633068485268366	0.8701658744388682	0.022567988590595105	True	True	False	False	9
+http://sweetontology.net/reprMathFunctionOrthogonal#Degree		UO:0000185	degree	label	label	Degree	degree	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/reprMathOperation#Fraction		UO:0000191	fraction	label	label	Fraction	fraction	100.0	0.5	1.0	4	1.0	0.05152030226182133	0.05152030226182133	0.8693111587142172	0.027648236762140028	True	True	False	False	2
+http://sweetontology.net/reprMathOperation#Ratio		UO:0000190	ratio	label	label	Ratio	ratio	100.0	0.5	1.0	4	1.0	0.05152030226182133	0.05152030226182133	0.8693111587142172	0.027648236762140028	True	True	False	False	2
+http://sweetontology.net/reprSciUnits#day		UO:0000033	day	label	label	day	day	100.0	1.0	1.0	0	0.8	0.053633068485268366	0.053633068485268366	0.8701658744388682	0.022567988590595105	True	True	False	False	3
+http://sweetontology.net/reprSciUnits#hour		UO:0000032	hour	label	label	hour	hour	100.0	1.0	1.0	0	0.819672131147541	0.053633068485268366	0.053633068485268366	0.8701658744388682	0.022567988590595105	True	True	False	False	4
+http://sweetontology.net/reprSciUnits#month		UO:0000035	month	label	label	month	month	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/reprSciUnits#week		UO:0000034	week	label	label	week	week	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/reprSciUnits#year		UO:0000036	year	label	label	year	year	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/reprSpaceCoordinate#R		UO:0000136	roentgen	label	hasExactSynonym	R	R	22.0	1.0	1.0	4	1.0	0.05258873130270072	0.05258873130270072	0.8652003768073055	0.029622160587292994	True	True	False	False	2
+http://sweetontology.net/reprSpaceCoordinate#S		UO:0000264	siemens	label	hasRelatedSynonym	S	S	12.0	1.0	1.0	0	0.17647058823529413	0.23887490389897365	0.1991514529406065	0.4371238247689765	0.12484981839144338	True	True	False	False	4
+http://sweetontology.net/reprSpaceCoordinate#S		UO:0000010	second	label	hasExactSynonym	S	s	22.0	1.0	1.0	0	0.3235294117647059	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	4
+http://sweetontology.net/reprSpaceCoordinate#Y		UO:0000286	yotta	label	hasExactSynonym	Y	Y	22.0	1.0	1.0	1	0.25	0.10101263941348068	0.08421484876062228	0.7820845799056371	0.03268793192026002	True	True	False	False	4
+http://sweetontology.net/reprSpaceCoordinate#Y		UO:0000306	yocto	label	hasExactSynonym	Y	y	22.0	1.0	1.0	0	0.25	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	4
+http://sweetontology.net/reprSpaceCoordinate#Z		UO:0000288	zetta	label	hasExactSynonym	Z	Z	22.0	1.0	1.0	0	0.16666666666666666	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	5
+http://sweetontology.net/reprSpaceCoordinate#Z		UO:0000305	zepto	label	hasExactSynonym	Z	z	22.0	1.0	1.0	0	0.16666666666666666	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	5
+http://sweetontology.net/reprSpaceDirection#Normal		UO:0000075	normal	label	label	Normal	normal	100.0	1.0	1.0	0	0.3105590062111801	0.053633068485268366	0.053633068485268366	0.8701658744388682	0.022567988590595105	True	True	False	False	9
+http://sweetontology.net/reprSpaceDirection#Y		UO:0000286	yotta	label	hasExactSynonym	Y	Y	22.0	1.0	1.0	0	0.25	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	4
+http://sweetontology.net/reprSpaceDirection#Y		UO:0000306	yocto	label	hasExactSynonym	Y	y	22.0	1.0	1.0	0	0.25	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	4
+http://sweetontology.net/reprSpaceDirection#Z		UO:0000288	zetta	label	hasExactSynonym	Z	Z	22.0	1.0	1.0	0	0.16666666666666666	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	5
+http://sweetontology.net/reprSpaceDirection#Z		UO:0000305	zepto	label	hasExactSynonym	Z	z	22.0	1.0	1.0	0	0.16666666666666666	0.10503906072140287	0.0875717005710697	0.7733983472134968	0.03399089149403074	True	True	False	False	5
+http://sweetontology.net/reprTimeDay#Day		UO:0000033	day	label	label	Day	day	25.0	1.0	1.0	2	0.2	0.052985786299683105	0.052985786299683105	0.8717328054187701	0.02229562198186385	True	True	False	False	3
+http://sweetontology.net/stateSpace#Micro		UO:0000299	micro	label	label	Micro	micro	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
 

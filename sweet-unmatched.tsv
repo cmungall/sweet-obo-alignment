@@ -439,7 +439,6 @@ http://sweetontology.net/matrCompound#HydrobromousAcid
 http://sweetontology.net/matrCompound#HydrochlorousAcid		
 http://sweetontology.net/matrCompound#HydrogenOxides		
 http://sweetontology.net/matrCompound#HypochlorousMonoxide		
-http://sweetontology.net/matrCompound#InorganicAcid		
 http://sweetontology.net/matrCompound#InorganicCompound		
 http://sweetontology.net/matrCompound#NOx		
 http://sweetontology.net/matrCompound#NOy		
@@ -1557,7 +1556,6 @@ http://sweetontology.net/phenGeolVolcano#Volcanism		[]
 http://sweetontology.net/phenGeolVolcano#Vulcanism		[]
 http://sweetontology.net/phenHelio#Airglow		
 http://sweetontology.net/phenHelio#AtmosphericLightEmission		
-http://sweetontology.net/phenHelio#Aurora		
 http://sweetontology.net/phenHelio#AuroralSubstorm		[]
 http://sweetontology.net/phenHelio#BowShock		
 http://sweetontology.net/phenHelio#BowShockCrossing		
@@ -1761,14 +1759,13 @@ http://sweetontology.net/phenSystem#Collection
 http://sweetontology.net/phenSystem#Comeback		
 http://sweetontology.net/phenSystem#Conversion		
 http://sweetontology.net/phenSystem#Decline		[]
-http://sweetontology.net/phenSystem#Decrease		['http://sweetontology.net/phenSystem#Fall', 'http://sweetontology.net/phenSystem#Reduction', 'http://sweetontology.net/phenSystem#Drop']
+http://sweetontology.net/phenSystem#Decrease		['http://sweetontology.net/phenSystem#Reduction', 'http://sweetontology.net/phenSystem#Drop', 'http://sweetontology.net/phenSystem#Fall']
 http://sweetontology.net/phenSystem#Demand		
 http://sweetontology.net/phenSystem#Deposit		
 http://sweetontology.net/phenSystem#Destruction		
 http://sweetontology.net/phenSystem#Displacement		
 http://sweetontology.net/phenSystem#Disruption		
 http://sweetontology.net/phenSystem#Disturbance		
-http://sweetontology.net/phenSystem#Drift		
 http://sweetontology.net/phenSystem#Exchange		
 http://sweetontology.net/phenSystem#Extension		
 http://sweetontology.net/phenSystem#Halting		
@@ -1871,7 +1868,6 @@ http://sweetontology.net/proc#Interaction
 http://sweetontology.net/proc#Process		
 http://sweetontology.net/procChemical#Absorption		
 http://sweetontology.net/procChemical#Adsorption		
-http://sweetontology.net/procChemical#Bond		
 http://sweetontology.net/procChemical#Burning		
 http://sweetontology.net/procChemical#Calcination		
 http://sweetontology.net/procChemical#ChargeExchange		
@@ -2363,7 +2359,6 @@ http://sweetontology.net/propMass#MassConcentration		['http://sweetontology.net/
 http://sweetontology.net/propMass#MassContent		
 http://sweetontology.net/propMass#MaterialProperty		
 http://sweetontology.net/propMass#MeanMolecularWeight		
-http://sweetontology.net/propMass#MolecularWeight		
 http://sweetontology.net/propMass#Moles		
 http://sweetontology.net/propMass#OpticalMass		
 http://sweetontology.net/propMass#Plasticity		
@@ -2611,7 +2606,6 @@ http://sweetontology.net/propSpaceThickness#WaterHeight
 http://sweetontology.net/propSpeed#Airspeed		
 http://sweetontology.net/propSpeed#AlfvenVelocity		
 http://sweetontology.net/propSpeed#DopplerVelocity		
-http://sweetontology.net/propSpeed#Drift		
 http://sweetontology.net/propSpeed#EscapeVelocity		
 http://sweetontology.net/propSpeed#GroundSpeed		
 http://sweetontology.net/propSpeed#GroupVelocity		
@@ -2720,7 +2714,6 @@ http://sweetontology.net/realm#PlanetaryRealm
 http://sweetontology.net/realm#PlanetaryStructure		
 http://sweetontology.net/realm#PlanetarySurfaceLevel		[]
 http://sweetontology.net/realm#Realm		
-http://sweetontology.net/realm#Ring		
 http://sweetontology.net/realm#Subaerial		['http://sweetontology.net/realm#PlanetarySurface']
 http://sweetontology.net/realmAstroBody#Comet		
 http://sweetontology.net/realmAstroBody#Extraterrestrial		
@@ -3591,8 +3584,7 @@ http://sweetontology.net/reprMath#OrderedPair
 http://sweetontology.net/reprMath#OrderedTriple		
 http://sweetontology.net/reprMath#Relation		
 http://sweetontology.net/reprMath#Scalar		
-http://sweetontology.net/reprMath#Seq		[]
-http://sweetontology.net/reprMath#Sequence		[]
+http://sweetontology.net/reprMath#Seq		['http://sweetontology.net/reprMath#Sequence']
 http://sweetontology.net/reprMath#Set		
 http://sweetontology.net/reprMath#Tensor		
 http://sweetontology.net/reprMath#UnorderedPair		
@@ -3867,7 +3859,6 @@ http://sweetontology.net/reprSciProvenance#Provenance
 http://sweetontology.net/reprSciProvenance#ProvenanceElement		
 http://sweetontology.net/reprSciProvenance#Reconstruction		
 http://sweetontology.net/reprSciProvenance#Record		
-http://sweetontology.net/reprSciProvenance#Sequence		
 http://sweetontology.net/reprSciProvenance#Successor		
 http://sweetontology.net/reprSciProvenance#VariableMapping		[]
 http://sweetontology.net/reprSciProvenance#Workflow		
@@ -3893,7 +3884,6 @@ http://sweetontology.net/reprSpaceCoordinate#Sigma
 http://sweetontology.net/reprSpaceCoordinate#SigmaNaught		
 http://sweetontology.net/reprSpaceCoordinate#SouthMagneticPole		
 http://sweetontology.net/reprSpaceCoordinate#SouthPole		
-http://sweetontology.net/reprSpaceCoordinate#Theta		
 http://sweetontology.net/reprSpaceCoordinate#VerticalCoordinate		['http://sweetontology.net/reprSpaceCoordinate#Vertical']
 http://sweetontology.net/reprSpaceCoordinate#Yaw		
 http://sweetontology.net/reprSpaceCoordinate#ZoneCode		
@@ -3985,7 +3975,6 @@ http://sweetontology.net/reprSpaceGeometry3D#GeometricalObject_3D
 http://sweetontology.net/reprSpaceGeometry3D#Hemisphere		
 http://sweetontology.net/reprSpaceGeometry3D#Polyhedron		
 http://sweetontology.net/reprSpaceGeometry3D#ReferenceEllipsoid		
-http://sweetontology.net/reprSpaceGeometry3D#Ring		
 http://sweetontology.net/reprSpaceGeometry3D#Shell		
 http://sweetontology.net/reprSpaceGeometry3D#Sphere		
 http://sweetontology.net/reprSpaceGeometry3D#Strata		

@@ -1,15 +1,16 @@
-left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	equiv_clique_size
-http://sweetontology.net/phenStar#Filament		PO:0009067	filament	id	label	Filament	filament	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/matrOrganicCompound#Silk		PO:0006488	silk	id	label	Silk	silk	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/matrAerosol#Pollen		PO:0025281	pollen	id	label	Pollen	pollen	50.0	1.0	0.3333333333333333	2	0.5	3
-http://sweetontology.net/matrPlant#Branch		PO:0025073	branch	id	label	Branch	branch	50.0	0.5	1.0	4	1.0	2
-http://sweetontology.net/matrPlant#Fruit		PO:0009001	fruit	id	label	Fruit	fruit	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/phenAtmoFront#TransitionZone		PO:0003000	transition zone	id	label	TransitionZone	transition zone	50.0	0.3333333333333333	1.0	4	1.0	2
-http://sweetontology.net/stateDataProcessing#L2		PO:0006304	L2	id	label	L2	L2	50.0	1.0	1.0	4	1.0	3
-http://sweetontology.net/stateDataProcessing#L3		PO:0006305	L3	id	label	L3	L3	50.0	1.0	1.0	4	1.0	3
-http://sweetontology.net/realmHydroBody#Canal		PO:0025132	canal	id	label	Canal	canal	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/matrPlant#Pollen		PO:0025281	pollen	id	label	Pollen	pollen	50.0	0.3333333333333333	1.0	0	0.5	3
-http://sweetontology.net/matrPlant#Root		PO:0009005	root	id	label	Root	root	50.0	0.25	1.0	0	0.5	12
-http://sweetontology.net/stateDataProcessing#L1		PO:0006303	L1	id	label	L1	L1	50.0	1.0	1.0	4	1.0	3
-http://sweetontology.net/matrPlant#Leaf		PO:0025034	leaf	id	label	Leaf	leaf	50.0	1.0	1.0	4	1.0	2
-http://sweetontology.net/matrPlant#Thorn		PO:0025172	thorn	id	label	Thorn	thorn	50.0	0.5	1.0	4	1.0	2
+left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	pr_subClassOf	pr_superClassOf	pr_equivalentTo	pr_other	left_novel	right_novel	left_consistent	right_consistent	equiv_clique_size
+http://sweetontology.net/matrAerosol#Pollen		PO:0025281	pollen	label	label	Pollen	pollen	100.0	1.0	1.0	2	0.5	0.052985786299683105	0.052985786299683105	0.8717328054187701	0.02229562198186385	True	True	False	False	3
+http://sweetontology.net/matrOrganicCompound#Silk		PO:0006488	silk	label	label	Silk	silk	100.0	1.0	1.0	4	1.0	0.051108957706568134	0.051108957706568134	4.216916286745673e-21	0.8977820845868637	True	True	False	False	2
+http://sweetontology.net/matrPlant#Branch		PO:0025073	branch	label	label	Branch	branch	100.0	0.5	1.0	4	1.0	0.0503999726422091	0.0503999726422091	0.8721530399419554	0.02704701477362636	True	True	False	False	2
+http://sweetontology.net/matrPlant#Fruit		PO:0009001	fruit	label	label	Fruit	fruit	100.0	1.0	1.0	4	1.0	0.050696010183260594	0.050696010183260594	0.8772758610037424	0.02133211862973634	True	True	False	False	2
+http://sweetontology.net/matrPlant#Leaf		PO:0025034	leaf	label	label	Leaf	leaf	100.0	1.0	1.0	4	1.0	0.050696010183260594	0.050696010183260594	0.8772758610037424	0.02133211862973634	True	True	False	False	2
+http://sweetontology.net/matrPlant#Pollen		PO:0025281	pollen	label	label	Pollen	pollen	100.0	1.0	1.0	0	0.5	0.05136571670817647	0.05136571670817647	0.8756546455204457	0.02161392106320143	True	True	False	False	3
+http://sweetontology.net/matrPlant#Root		PO:0009005	root	label	label	Root	root	100.0	1.0	1.0	4	1.0	0.050696010183260594	0.050696010183260594	0.8772758610037424	0.02133211862973634	True	True	False	False	2
+http://sweetontology.net/matrPlant#Thorn		PO:0025172	thorn	label	label	Thorn	thorn	100.0	1.0	0.5	4	1.0	0.0503999726422091	0.0503999726422091	0.8721530399419554	0.02704701477362636	True	True	False	False	2
+http://sweetontology.net/phenAtmoFront#TransitionZone		PO:0003000	transition zone	label	label	TransitionZone	transition zone	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/phenStar#Filament		PO:0009067	filament	label	label	Filament	filament	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/realmHydroBody#Canal		PO:0025132	canal	label	label	Canal	canal	100.0	1.0	1.0	4	1.0	0.051108957706568134	0.051108957706568134	4.216916286745673e-21	0.8977820845868637	True	True	False	False	2
+http://sweetontology.net/stateDataProcessing#L1		PO:0006303	L1	label	label	L1	L1	25.0	1.0	1.0	4	1.0	0.051108957706568134	0.051108957706568134	4.216916286745673e-21	0.8977820845868637	True	True	False	False	3
+http://sweetontology.net/stateDataProcessing#L2		PO:0006304	L2	label	label	L2	L2	25.0	1.0	1.0	4	1.0	0.051108957706568134	0.051108957706568134	4.216916286745673e-21	0.8977820845868637	True	True	False	False	3
+http://sweetontology.net/stateDataProcessing#L3		PO:0006305	L3	label	label	L3	L3	25.0	1.0	1.0	4	1.0	0.051108957706568134	0.051108957706568134	4.216916286745673e-21	0.8977820845868637	True	True	False	False	3
+
