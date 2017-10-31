@@ -600,7 +600,7 @@ http://sweetontology.net/matrElement#Pb,,CHEBI:49807,lead(2+),
 http://sweetontology.net/matrElement#Pb,,CHEBI:52455,lead-207,
 http://sweetontology.net/matrElement#Pb,,CHEBI:53319,polybutadiene macromolecule,
 http://sweetontology.net/matrElement#Pb,,CHEBI:60686,polybutadiene polymer,
-http://sweetontology.net/matrElement#Pb,,TO:0000477,panicle blast disease resistance,
+http://sweetontology.net/matrElement#Pb,,TO:0000477,panicle blast disease resistance,-50
 http://sweetontology.net/matrElement#Phosphorus,,CHEBI:28659,phosphorus atom,
 http://sweetontology.net/matrElement#Phosphorus,,CHEBI:35895,tetraphosphorus,
 http://sweetontology.net/matrElement#Potassium,,CHEBI:26216,potassium atom,
@@ -638,7 +638,7 @@ http://sweetontology.net/matrElement#Sb,,CHEBI:30513,antimony atom,
 http://sweetontology.net/matrElement#Sb,,CHEBI:49867,antimony(3+),
 http://sweetontology.net/matrElement#Sb,,CHEBI:52624,antimony-121 atom,
 http://sweetontology.net/matrElement#Sb,,CHEBI:52626,antimony-123 atom,
-http://sweetontology.net/matrElement#Sb,,TO:0000454,stem borer resistance,
+http://sweetontology.net/matrElement#Sb,,TO:0000454,stem borer resistance,-50
 http://sweetontology.net/matrElement#Se,,CHEBI:15076,selenide,
 http://sweetontology.net/matrElement#Se,,CHEBI:27568,selenium atom,
 http://sweetontology.net/matrElement#Se,,CHEBI:29215,selenide(.1-),
@@ -681,7 +681,7 @@ http://sweetontology.net/matrElement#U,,CHEBI:33500,uranium cation,
 http://sweetontology.net/matrElement#U,,CHEBI:36366,up quark,
 http://sweetontology.net/matrElement#U,,CHEBI:49936,uranium(0),
 http://sweetontology.net/matrElement#U,,CHEBI:50558,monoatomic uranium,
-http://sweetontology.net/matrElement#U,,TO:0000121,ufra damage,
+http://sweetontology.net/matrElement#U,,TO:0000121,ufra damage,-50
 http://sweetontology.net/matrElement#U,,UO:0000038,microampere,
 http://sweetontology.net/matrElement#U,,UO:0000181,enzyme unit,
 http://sweetontology.net/matrElement#U,,UO:0000221,dalton,
@@ -1950,7 +1950,7 @@ http://sweetontology.net/realmLandOrographic#Ridge,,ENVO:00000104,undersea featu
 http://sweetontology.net/realmLandOrographic#Ridge,,ENVO:00000170,dune,
 http://sweetontology.net/realmLandOrographic#Ridge,,ENVO:00000276,drumlin,
 http://sweetontology.net/realmLandOrographic#Ridge,,ENVO:00000282,esker,
-http://sweetontology.net/realmLandOrographic#Ridge,,ENVO:00000283,ridge,
+http://sweetontology.net/realmLandOrographic#Ridge,,ENVO:00000283,ridge,10
 http://sweetontology.net/realmLandOrographic#Ridge,,ENVO:00000429,arete,
 http://sweetontology.net/realmLandOrographic#Ridge,,ENVO:00000498,volcanic dike,
 http://sweetontology.net/realmLandOrographic#Ridge,,ENVO:00000528,ice cap ridge,
@@ -2067,7 +2067,7 @@ http://sweetontology.net/reprDataModel#Point,,ENVO:00000305,peninsula,-50
 http://sweetontology.net/reprDataModel#Structure,,FIX:0000482,structure,-50
 http://sweetontology.net/reprDataModel#Structure,,PATO:0000141,structure,-50
 http://sweetontology.net/reprDataProduct#Image,,IAO:0000101,image,
-http://sweetontology.net/reprDataProduct#Layer,,ENVO:01000281,layer,
+http://sweetontology.net/reprDataProduct#Layer,,ENVO:01000281,layer,-50
 http://sweetontology.net/reprDataProduct#Offset,,PATO:0002436,offset,
 http://sweetontology.net/reprDataService#DataService,,OBI:0001530,data service,
 http://sweetontology.net/reprDataService#Z,,CHEBI:16586,6-aminohexanoic acid,-50
@@ -2280,7 +2280,7 @@ http://sweetontology.net/stateChemical#Base,,CHEBI:22695,base,
 http://sweetontology.net/stateChemical#Calcareous,,PATO:0001447,calcified,
 http://sweetontology.net/stateChemical#Fixed,,PATO:0000300,immobile,
 http://sweetontology.net/stateChemical#Oxidized,,PATO:0002223,oxidized,
-http://sweetontology.net/stateChemical#Polar,,ENVO:01000238,polar,
+http://sweetontology.net/stateChemical#Polar,,ENVO:01000238,polar,-50
 http://sweetontology.net/stateChemical#Potability,,PATO:0025000,potability,
 http://sweetontology.net/stateChemical#Potable,,PATO:0025002,potable,
 http://sweetontology.net/stateChemical#Radioactive,,PATO:0001741,radioactive,
@@ -2329,13 +2329,13 @@ http://sweetontology.net/statePhysical#Porous,,PATO:0000984,porous,
 http://sweetontology.net/statePhysical#Scattered,,PATO:0001566,distributed,
 http://sweetontology.net/statePhysical#Slow,,PATO:0000304,decreased speed,
 http://sweetontology.net/statePhysical#Solid,,PATO:0001736,solid configuration,
-http://sweetontology.net/statePhysical#Vapor,,ENVO:01000264,obsolete vapour,
+http://sweetontology.net/statePhysical#Vapor,,ENVO:01000264,obsolete vapour,-10
 http://sweetontology.net/statePhysical#Wet,,PATO:0001823,wet,
-http://sweetontology.net/stateRealm#Sunken,,PATO:0002416,sunken,
+http://sweetontology.net/stateRealm#Sunken,,PATO:0002416,sunken,-10
 http://sweetontology.net/stateRole#Accessory,,PATO:0000470,increased amount,-50
 http://sweetontology.net/stateRole#Key,,ENVO:00000098,island,-50
 http://sweetontology.net/stateRole#Propellant,,CHEBI:76414,propellant,
-http://sweetontology.net/stateRole#Secondary,,PATO:0002632,secondary,
+http://sweetontology.net/stateRole#Secondary,,PATO:0002632,secondary,-10
 http://sweetontology.net/stateRoleBiological#BiologicalRole,,CHEBI:24432,biological role,
 http://sweetontology.net/stateRoleBiological#Biomarker,,CHEBI:59163,biomarker,
 http://sweetontology.net/stateRoleBiological#Carcinogen,,CHEBI:50903,carcinogenic agent,
@@ -2347,11 +2347,11 @@ http://sweetontology.net/stateRoleBiological#Host,,RO:0002453,host of,
 http://sweetontology.net/stateRoleBiological#Insecticide,,CHEBI:24852,insecticide,
 http://sweetontology.net/stateRoleBiological#Macronutrient,,CHEBI:33937,macronutrient,
 http://sweetontology.net/stateRoleBiological#Micronutrient,,CHEBI:27027,micronutrient,
-http://sweetontology.net/stateRoleBiological#Nursery,,ENVO:00000077,agricultural feature,
-http://sweetontology.net/stateRoleBiological#Nursery,,ENVO:00000078,farm,
+http://sweetontology.net/stateRoleBiological#Nursery,,ENVO:00000077,agricultural feature,-50
+http://sweetontology.net/stateRoleBiological#Nursery,,ENVO:00000078,farm,-50
 http://sweetontology.net/stateRoleBiological#Nutrient,,CHEBI:33284,nutrient,
 http://sweetontology.net/stateRoleBiological#Pesticide,,CHEBI:25944,pesticide,
-http://sweetontology.net/stateRoleBiological#TAC,,CHEBI:53498,triacetylcellulose,
+http://sweetontology.net/stateRoleBiological#TAC,,CHEBI:53498,triacetylcellulose,-10
 http://sweetontology.net/stateRoleBiological#Toxin,,CHEBI:27026,toxin,
 http://sweetontology.net/stateRoleChemical#Burn,,ENVO:00000444,clearing,-50
 http://sweetontology.net/stateRoleChemical#Catalyst,,CHEBI:35223,catalyst,
@@ -2367,14 +2367,14 @@ http://sweetontology.net/stateRoleGeographic#Boundary,,ENVO:00000136,demilitiari
 http://sweetontology.net/stateRoleGeographic#Highway,,ENVO:00000064,road,
 http://sweetontology.net/stateRoleGeographic#Tributary,,ENVO:00000495,tributary,
 http://sweetontology.net/stateRoleGeographic#Tributary,,RO:0002376,tributary of,
-http://sweetontology.net/stateRoleImpact#Great,,PATO:0000586,increased size,
-http://sweetontology.net/stateRoleImpact#Heavy,,PATO:0000582,increased weight,
-http://sweetontology.net/stateRoleImpact#Light,,CHEBI:30212,photon,
-http://sweetontology.net/stateRoleImpact#Light,,PATO:0000665,high brightness,
-http://sweetontology.net/stateRoleImpact#Minimal,,PATO:0002123,minimal,
-http://sweetontology.net/stateRoleImpact#Rough,,PATO:0000700,rough,
-http://sweetontology.net/stateRoleImpact#Strong,,PATO:0001716,non-fragile,
-http://sweetontology.net/stateRoleImpact#Weak,,PATO:0001779,decreased strength,
+http://sweetontology.net/stateRoleImpact#Great,,PATO:0000586,increased size,-50
+http://sweetontology.net/stateRoleImpact#Heavy,,PATO:0000582,increased weight,-50
+http://sweetontology.net/stateRoleImpact#Light,,CHEBI:30212,photon,-50
+http://sweetontology.net/stateRoleImpact#Light,,PATO:0000665,high brightness,-50
+http://sweetontology.net/stateRoleImpact#Minimal,,PATO:0002123,minimal,-50
+http://sweetontology.net/stateRoleImpact#Rough,,PATO:0000700,rough,-50
+http://sweetontology.net/stateRoleImpact#Strong,,PATO:0001716,non-fragile,-50
+http://sweetontology.net/stateRoleImpact#Weak,,PATO:0001779,decreased strength,-50
 http://sweetontology.net/stateRoleRepresentative#Atypical,,PATO:0000460,abnormal,
 http://sweetontology.net/stateRoleRepresentative#Indicator,,CHEBI:47867,indicator,-50
 http://sweetontology.net/stateRoleRepresentative#Outlier,,STATO:0000036,outlier,
@@ -2403,10 +2403,10 @@ http://sweetontology.net/stateSpace#Deep,,ENVO:00000275,ocean trench,-50
 http://sweetontology.net/stateSpace#Deep,,ENVO:01000654,undersea trough,-50
 http://sweetontology.net/stateSpace#Deep,,PATO:0001596,increased depth,-50
 http://sweetontology.net/stateSpace#Large,,PATO:0000586,increased size,
-http://sweetontology.net/stateSpace#Micro,,UO:0000299,micro,
+http://sweetontology.net/stateSpace#Micro,,UO:0000299,micro,-50
 http://sweetontology.net/stateSpace#Mobile,,PATO:0000299,mobile,
-http://sweetontology.net/stateSpace#Point,,ENVO:00000167,bar,
-http://sweetontology.net/stateSpace#Point,,ENVO:00000305,peninsula,
+http://sweetontology.net/stateSpace#Point,,ENVO:00000167,bar,-50
+http://sweetontology.net/stateSpace#Point,,ENVO:00000305,peninsula,-50
 http://sweetontology.net/stateSpace#Shallow,,PATO:0001472,decreased depth,
 http://sweetontology.net/stateSpace#Small,,PATO:0000587,decreased size,
 http://sweetontology.net/stateSpace#Tiny,,PATO:0000587,decreased size,
@@ -2519,7 +2519,7 @@ http://sweetontology.net/stateVisibility#Cloudy,,PATO:0000963,opaque,
 http://sweetontology.net/stateVisibility#Colored,,PATO:0000336,colored,
 http://sweetontology.net/stateVisibility#Dark,,PATO:0000327,low brightness,
 http://sweetontology.net/stateVisibility#Dim,,CHEBI:50182,"3,3'-diindolylmethane",-50
-http://sweetontology.net/stateVisibility#Light,,CHEBI:30212,photon,
+http://sweetontology.net/stateVisibility#Light,,CHEBI:30212,photon,-20
 http://sweetontology.net/stateVisibility#Light,,PATO:0000665,high brightness,
 http://sweetontology.net/stateVisibility#Murky,,PATO:0001515,variable color,
 http://sweetontology.net/stateVisibility#Opaque,,PATO:0000963,opaque,
