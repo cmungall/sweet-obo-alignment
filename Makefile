@@ -5,8 +5,8 @@
 # CONSTANTS
 # ----------------------------------------
 SWEET_REPO = sweet
-CAT = $(SWEET_REPO)/catalog-v001.xml
-SRC = $(SWEET_REPO)/sweetAll.ttl
+CAT = $(SWEET_REPO)/src/catalog-v001.xml
+SRC = $(SWEET_REPO)/src/sweetAll.ttl
 
 # ontology list (OBO IDs)
 # To find out more about each ontology see obofoundry.org

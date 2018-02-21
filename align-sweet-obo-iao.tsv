@@ -1,7 +1,7 @@
 left	left_label	right	right_label	left_match_type	right_match_type	left_match_val	right_match_val	score	left_simscore	right_simscore	reciprocal_score	conditional_pr_equiv	pr_subClassOf	pr_superClassOf	pr_equivalentTo	pr_other	left_novel	right_novel	left_consistent	right_consistent	equiv_clique_size
-http://sweetontology.net/humanResearch#Publication		IAO:0000311	publication	label	label	Publication	publication	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
-http://sweetontology.net/realmGeol#Core		IAO:0000224	core	label	label	Core	core	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
-http://sweetontology.net/reprDataProduct#Image		IAO:0000101	image	label	label	Image	image	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
-http://sweetontology.net/reprMathGraph#Graph		IAO:0000038	graph	label	label	Graph	graph	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
-http://sweetontology.net/reprMathSolution#Algorithm		IAO:0000064	algorithm	label	label	Algorithm	algorithm	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/humanResearch/Publication		IAO:0000311	publication	label	label	Publication	publication	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/realmGeol/Core		IAO:0000224	core	label	label	Core	core	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/reprDataProduct/Image		IAO:0000101	image	label	label	Image	image	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/reprMathGraph/Graph		IAO:0000038	graph	label	label	Graph	graph	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
+http://sweetontology.net/reprMathSolution/Algorithm		IAO:0000064	algorithm	label	label	Algorithm	algorithm	100.0	1.0	1.0	4	1.0	0.051829687579256614	0.051829687579256614	0.8745314718137412	0.021809153027745495	True	True	False	False	2
 
