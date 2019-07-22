@@ -1,3 +1,4 @@
+SWEET URI	SWEET label	ODM URI	ODM label	match label	n/a	match info
 sweet:matrAnimal/Zooplankton	zooplankton	odm:zooplankton	Zooplankton	zooplankton		info(label-label,rdf(sweet:matrAnimal/Zooplankton-zooplankton,rdfs:label,(zooplankton-zooplankton)@en)-rdf(odm:zooplankton-Zooplankton,skos:prefLabel,Zooplankton-Zooplankton^^xsd:string),downcase)	
 sweet:matrBiomass/Biomass	biomass	odm:biomass	Biomass	biomass		info(label-label,rdf(sweet:matrBiomass/Biomass-biomass,rdfs:label,(biomass-biomass)@en)-rdf(odm:biomass-Biomass,skos:prefLabel,Biomass-Biomass^^xsd:string),downcase)	
 sweet:matrCompound/CarbonDioxide	carbon dioxide	odm:carbonDioxide	Carbon dioxide	carbon dioxid		info(label-label,rdf(sweet:matrCompound/CarbonDioxide-carbon dioxide,rdfs:label,(carbon dioxide-carbon dioxide)@en)-rdf(odm:carbonDioxide-Carbon dioxide,skos:prefLabel,Carbon dioxide-Carbon dioxide^^xsd:string),stem)	
