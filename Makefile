@@ -45,6 +45,10 @@ sweet.json:
 	owltools --catalog-xml $(CAT) $(SRC) --merge-imports-closure -o -f json $@
 .PRECIOUS: sweet.json
 
+sweet.obo:
+	owltools --catalog-xml $(CAT) $(SRC) --merge-imports-closure -o -f obo --no-check $@
+.PRECIOUS: sweet.obo
+
 # ----------------------------------------
 # Alignment
 # ----------------------------------------
@@ -66,6 +70,9 @@ align-sweet-obo-%.obo: sweet.json
 
 owltools:
 	curl -L http://build.berkeleybop.org/userContent/owltools/owltools -o $@ && chmod +x $@
+
+align-sweet-odm.tsv:
+	rdfmatch -f tsv -l -G $@.rdf  -A ~/repos/onto-mirror/void.ttl -i obo_prefixes -i sweet -i odm new_match > $@
 
 # ----------------------------------------
 # kBOOM
