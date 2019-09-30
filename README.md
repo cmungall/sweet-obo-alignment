@@ -11,6 +11,7 @@ Currently this is automated but the goal is to learn from a seed of initial cura
 ```
 make setup
 . env.sh
+mv catalog-v001.xml sweet/src/
 make
 ```
 
